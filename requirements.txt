@@ -1,2 +1,4 @@
+python-magic
+pycatbox
 requests
 cloudscraper
