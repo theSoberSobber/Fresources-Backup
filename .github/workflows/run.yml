@@ -23,7 +23,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run script
-      run: python your_script_name.py  # Replace with your actual script name
+      run: python shitshow.py  # Replace with your actual script name
 
     - name: Commit changes
       run: |
