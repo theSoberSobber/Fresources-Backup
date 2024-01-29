@@ -6,7 +6,7 @@ class DataProcessor:
         self.api_handler = api_handler
         self.upload_handler = upload_handler
         self.data = {}
-        os.makedirs(api_handler.data_dir, exist_ok=True)
+        os.makedirs(self.api_handler.data_dir, exist_ok=True)
 
     def sanitize(self, name: str) -> str:
         """
@@ -102,5 +102,5 @@ class DataProcessor:
         """
         for college_name, college_id in college_ids.items():
             self.data[college_name] = self.process_college_data(self.sanitize(college_name), college_id)
-        os.rmdir(data_dir)
+        os.rmdir(self.api_handler.data_dir)
         return self.data
