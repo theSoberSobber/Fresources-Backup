@@ -73,7 +73,10 @@ class FresourcesUtil:
         """
         try:
             # Fetch resource content using make_api_request
-            resource_content = self.scraper.get(resource_url).content
+            if "youtube" in resource_url.lower():
+                resource_content = resource_url.encode("utf-8")
+            else:
+                resource_content = self.scraper.get(resource_url).content
 
             # Save content to the specified path
             with open(download_path, 'wb') as file:

@@ -12,6 +12,8 @@ class CatboxUploader:
         :return: Catbox upload response.
         """
         file_type = file_path.split('.')[-1]
+        if(file_type=="playlist"):
+            file_type+=".txt"
         upload = self.uploader.upload(file_type=file_type, file_raw=open(file_path, 'rb').read())
         return upload
 
