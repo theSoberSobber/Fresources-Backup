@@ -1,7 +1,7 @@
 import time, os, json
 
 # from hashUtil import get_file_hash
-from data import collegeIds, file_path, hash_file_path
+from data import collegeIds, file_path
 from fresourcesUtil import FresourcesUtil
 from uploader import CatboxUploader
 from processor import DataProcessor
