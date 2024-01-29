@@ -27,7 +27,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run script with argument
-      run: python main.py ${{ github.event.inputs.argument }}
+      run: python processOne.py ${{ github.event.inputs.argument }}
 
     - name: Commit changes
       run: |
