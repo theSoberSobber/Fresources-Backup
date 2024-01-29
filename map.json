@@ -1,0 +1,43 @@
+{
+    "IGDTUW": {
+        "CSE-AI": {
+            "Communication Skills": {
+                "Meenakshi Raman- Sangeeta Sharma.pdf": {
+                    "type": "Book",
+                    "url": "https://files.catbox.moe/3djnrg.pdf"
+                }
+            }
+        }
+    },
+    "IIITD": {
+        "CSD": {
+            "Introduction to Human Computer Interaction": {
+                "Endsem 2020.pdf": {
+                    "type": "Paper",
+                    "url": "https://files.catbox.moe/9i2kl5.pdf"
+                }
+            }
+        }
+    },
+    "NSUT": {
+        "CSAI": {
+            "English": {
+                "Confused Words.pdf": {
+                    "type": "Assignment",
+                    "url": "https://files.catbox.moe/nqx5uz.pdf"
+                }
+            }
+        }
+    },
+    "DTU": {
+        "ME": {
+            "Engineering Materials & Metallurgy": {
+                "Callister EMM.pdf": {
+                    "type": "Book",
+                    "url": "https://files.catbox.moe/jjjntv.pdf"
+                }
+            }
+        }
+    },
+    "IP": {}
+}
