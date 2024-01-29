@@ -8,6 +8,15 @@ class DataProcessor:
         self.data = {}
         os.makedirs(api_handler.data_dir, exist_ok=True)
 
+    def sanitize(self, name: str) -> str:
+        """
+        Sanitizes the name of a resource to be OS Compatible
+
+        :param name: The string to be sanitizes
+        """
+        translation_table = str.maketrans({':': '-', ' ': '-', '/': '-', '"': '-'})
+        return name.translate(translation_table)
+
     def process_resource(self, resource: dict) -> dict:
         """
         Download a resource given its ID.
@@ -15,7 +24,7 @@ class DataProcessor:
         :param resource_id: The ID of the resource.
         """
         processed_resource = {}
-        resource_name = resource.get('name')
+        resource_name = self.sanitize(resource.get('name'))
         processed_resource['type'] = resource_type = resource.get('type')
         resource_url = resource.get('url')
         log(3, "Processing Resource", resource_type, resource_name)
@@ -27,7 +36,10 @@ class DataProcessor:
             # Upload to Catbox
             upload_response = self.upload_handler.upload_single_file(download_path)
             log(4, "Uploaded Resource to Catbox", resource_type, resource_name, f"Catbox URL: {upload_response.get('file')}")
-            processed_resource['url'] = upload_response.get('file')
+
+            # Save to hash-resource set
+            resource_details = {"type": resource_type, "url": upload_response.get("file")}
+
             # Optional: Clean up downloaded file
             os.remove(download_path)
         return processed_resource
@@ -59,7 +71,7 @@ class DataProcessor:
         courses = branch_data.get('result', {}).get('data', {}).get('json', []).get('courses', [])
         for course in courses:
             course_id = course.get('id')
-            course_name = course.get('name')
+            course_name = self.sanitize(course.get('name'))
             processed_branch[course_name] = self.process_course_data(course_name, course_id)
 
         return processed_branch
@@ -77,7 +89,7 @@ class DataProcessor:
         branches = branch_data.get('result', {}).get('data', {}).get('json', [])
         for branch in branches:
             branch_id = branch.get('id')
-            branch_name = branch.get('name')
+            branch_name = self.sanitize(branch.get('name'))
             processed_college[branch_name] = self.process_branch_data(branch_name, branch_id)
 
         return processed_college
@@ -89,6 +101,6 @@ class DataProcessor:
         :param college_ids: A dictionary of college names and IDs.
         """
         for college_name, college_id in college_ids.items():
-            self.data[college_name] = self.process_college_data(college_name, college_id)
+            self.data[college_name] = self.process_college_data(self.sanitize(college_name), college_id)
         os.rmdir(data_dir)
         return self.data
