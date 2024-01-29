@@ -10,7 +10,6 @@ from processor import DataProcessor
 api_handler = FresourcesUtil()  # Replace with your actual instantiation code
 upload_handler = CatboxUploader()
 data_processor = DataProcessor(api_handler, upload_handler)
-
 data = data_processor.process_all_colleges(collegeIds)
 
 with open(file_path, "w") as json_file:

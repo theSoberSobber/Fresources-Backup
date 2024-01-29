@@ -6,6 +6,7 @@ class DataProcessor:
         self.api_handler = api_handler
         self.upload_handler = upload_handler
         self.data = {}
+        os.makedirs(api_handler.data_dir, exist_ok=True)
 
     def process_resource(self, resource: dict) -> dict:
         """
@@ -89,4 +90,5 @@ class DataProcessor:
         """
         for college_name, college_id in college_ids.items():
             self.data[college_name] = self.process_college_data(college_name, college_id)
+        os.rmdir(data_dir)
         return self.data
