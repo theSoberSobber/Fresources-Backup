@@ -1,4 +1,5 @@
 python-magic
 pycatbox
+docx2pdf
 requests
 cloudscraper
