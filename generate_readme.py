@@ -36,6 +36,10 @@ def main():
     # Generate the README content based on the aggregated data
     readme_content = generate_readme(aggregated_data)
 
+    # Write the aggregated data to a json file
+    with open("aggregated_data.json", "w") as json_file:
+        json.dump(aggregated_data, json_file, indent=2)
+
     # Write the README content to the README.md file
     with open("README.md", "w") as readme_file:
         readme_file.write("\n".join(readme_content))
