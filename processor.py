@@ -31,7 +31,7 @@ class DataProcessor:
         
         if resource_url:
             download_path = os.path.join(self.api_handler.data_dir, resource_name)
-            if(!self.api_handler.download_resource(resource_url, download_path)):
+            if(self.api_handler.download_resource(resource_url, download_path) == False):
                 processed_resource['name'] = 'URL Error'
                 processed_resource['type'] = 'URL Error'
                 processed_resource['url'] = resource_url
