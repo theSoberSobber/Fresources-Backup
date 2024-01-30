@@ -36,5 +36,6 @@ jobs:
         git add .
         git commit -m "Updated Data"
         git pull
+        git add .
         git commit -m "Merge Last Data Commit"
         git push
