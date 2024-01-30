@@ -109,5 +109,4 @@ class DataProcessor:
         """
         for college_name, college_id in college_ids.items():
             self.data[college_name] = self.process_college_data(self.sanitize(college_name), college_id)
-        os.rmdir(self.api_handler.data_dir)
         return self.data
