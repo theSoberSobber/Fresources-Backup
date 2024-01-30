@@ -1,5 +1,6 @@
 import json
 import cloudscraper
+from docx2pdf import convert
 from logger import log
 
 class FresourcesUtil:
@@ -81,6 +82,9 @@ class FresourcesUtil:
             # Save content to the specified path
             with open(download_path, 'wb') as file:
                 file.write(resource_content)
+
+            if(download_path.split('.')[-1].lower()=='docx'):
+                convert(download_path)
             return True
         except Exception as e:
             log(0, "Error downloading resource", resource_url)

@@ -29,14 +29,20 @@ class DataProcessor:
         processed_resource['type'] = resource_type = resource.get('type')
         resource_url = resource.get('url')
         log(3, "Processing Resource", resource_type, resource_name)
-        
+
         if resource_url:
             download_path = os.path.join(self.api_handler.data_dir, resource_name)
+
             if(self.api_handler.download_resource(resource_url, download_path) == False):
                 processed_resource['name'] = 'URL Error'
                 processed_resource['type'] = 'URL Error'
                 processed_resource['url'] = resource_url
                 return processed_resource
+
+            if(download_path.split(".")[-1].lower()=='docx'):
+                docx_file_name = os.path.splitext(download_path)[0]
+                os.remove(download_path)
+                download_path = docx_file_name + '.pdf'
 
             hash_of_file = self.hash_util.get_file_hash(download_path)
             if self.hash_util.contains(hash_of_file):
