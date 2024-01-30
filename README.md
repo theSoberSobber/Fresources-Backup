@@ -1,4 +1,4584 @@
 # Mirror of Fresources
+- IIITD
+	- CSD
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/wxlvvz.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/ho9u2l.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Operating-Systems
+			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
+			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
+			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
+			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
+			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
+			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
+			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
+			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
+			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
+			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
+			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
+			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
+			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
+			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
+			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
+			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
+			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
+			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
+			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
+			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
+			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
+			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
+			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
+			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
+			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
+			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
+			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
+			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
+			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
+			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
+			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
+			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
+			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
+			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
+			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
+			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
+			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
+			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
+			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
+			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
+			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
+			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
+			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
+			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
+			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
+			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
+			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
+			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
+			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
+			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
+			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
+			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
+			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
+			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
+			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
+			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
+			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
+			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/dz882d.txt), Playlist
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Multivariate-calculus-3
+			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
+			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
+			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
+			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
+			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
+			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
+			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
+			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
+			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
+			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
+			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
+			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
+			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
+			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
+			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
+			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
+			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
+			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
+			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
+			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
+			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
+			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
+			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
+			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
+			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
+			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
+			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
+			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
+			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
+			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
+			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
+			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
+			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
+			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
+			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
+			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
+			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
+			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
+			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
+			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
+			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
+		- Discrete-Structures
+			- [End Sem 2022 Soln.pdf](https://files.catbox.moe/wawb0j.pdf), Paper
+			- [End sem 2022.pdf](https://files.catbox.moe/bm2o59.pdf), Paper
+			- [Lecture 0 (Intro).pptx](https://files.catbox.moe/ava3gs.pdf), Lecture_Slides
+			- [Lecture 2.pptx](https://files.catbox.moe/d2czlz.pdf), Lecture_Slides
+			- [Lecture 1.pptx](https://files.catbox.moe/shzzci.pdf), Lecture_Slides
+			- [Lecture 16.pptx](https://files.catbox.moe/phih3x.pdf), Lecture_Slides
+			- [Lecture 15.pptx](https://files.catbox.moe/u2zqhn.pdf), Lecture_Slides
+			- [Lecture 14.pptx](https://files.catbox.moe/l84apr.pdf), Lecture_Slides
+			- [Lecture 13.pptx](https://files.catbox.moe/tfgcff.pdf), Lecture_Slides
+			- [Lecture 12.pptx](https://files.catbox.moe/orgdtx.pdf), Lecture_Slides
+			- [Lecture 11.pptx](https://files.catbox.moe/uixkxe.pdf), Lecture_Slides
+			- [Lecture 10.pptx](https://files.catbox.moe/qnm8lk.pdf), Lecture_Slides
+			- [Lecture 9.pptx](https://files.catbox.moe/51npmi.pdf), Lecture_Slides
+			- [Lecture 8.pptx](https://files.catbox.moe/hhj8e3.pdf), Lecture_Slides
+			- [Lecture 7.pptx](https://files.catbox.moe/va66gh.pdf), Lecture_Slides
+			- [Lecture 6.pptx](https://files.catbox.moe/dr191f.pdf), Lecture_Slides
+			- [Lecture 5.pptx](https://files.catbox.moe/btgzs8.pdf), Lecture_Slides
+			- [Lecture 3.pptx](https://files.catbox.moe/n4wa8s.pdf), Lecture_Slides
+			- [Lecture 4.pptx](https://files.catbox.moe/mhkhfe.pdf), Lecture_Slides
+			- [Lecture 24 (Extra).pptx](https://files.catbox.moe/pc3yzu.pdf), Lecture_Slides
+			- [Lecture 24.pdf](https://files.catbox.moe/kaujh6.pdf), Lecture_Slides
+			- [Lecture 23.pptx](https://files.catbox.moe/qi2n0q.pdf), Lecture_Slides
+			- [Lecture 22.pptx](https://files.catbox.moe/uf52se.pdf), Lecture_Slides
+			- [Lecture 21.pptx](https://files.catbox.moe/7b0evr.pdf), Lecture_Slides
+			- [Lecture 20.pptx](https://files.catbox.moe/be9bdg.pdf), Lecture_Slides
+			- [Lecture 19.pptx](https://files.catbox.moe/mljfnq.pdf), Lecture_Slides
+			- [Lecture 18.pptx](https://files.catbox.moe/tuw1f1.pdf), Lecture_Slides
+			- [Lecture 17.pptx](https://files.catbox.moe/uzz19v.pdf), Lecture_Slides
+			- [Mid sem 2022 Soln.pdf](https://files.catbox.moe/g2cqhq.pdf), Paper
+			- [Mid sem 2022.jpg](https://files.catbox.moe/xespm2.pdf), Paper
+			- [TUT 12 Soln 2.pdf](https://files.catbox.moe/nu2uwo.pdf), Tutorial_Assignment
+			- [TUT 12 Soln 1.pdf](https://files.catbox.moe/qeyf0n.pdf), Tutorial_Assignment
+			- [TUT 11 Soln.pdf](https://files.catbox.moe/geafgz.pdf), Tutorial_Assignment
+			- [TUT 10 Soln.pdf](https://files.catbox.moe/723a20.pdf), Tutorial_Assignment
+			- [TUT 9 Soln.pdf](https://files.catbox.moe/cth9lq.pdf), Tutorial_Assignment
+			- [TUT 8 Soln (Extra).pdf](https://files.catbox.moe/xmmpg3.pdf), Tutorial_Assignment
+			- [TUT 8 Soln.pdf](https://files.catbox.moe/07u01m.pdf), Tutorial_Assignment
+			- [TUT 7 Soln.pdf](https://files.catbox.moe/yozttw.pdf), Tutorial_Assignment
+			- [TUT 6 Soln.pdf](https://files.catbox.moe/0sgmsk.pdf), Tutorial_Assignment
+			- [TUT 5 Soln.pdf](https://files.catbox.moe/z9k81x.pdf), Tutorial_Assignment
+			- [TUT 4 Soln Q9.pdf](https://files.catbox.moe/4hdotr.pdf), Tutorial_Assignment
+			- [TUT 4 Soln.pdf](https://files.catbox.moe/cldoae.pdf), Tutorial_Assignment
+			- [TUT 3 Soln Q2&9.pdf](https://files.catbox.moe/yj9pp0.pdf), Tutorial_Assignment
+			- [TUT 3 Soln part 1.pdf](https://files.catbox.moe/9gbcfd.pdf), Tutorial_Assignment
+			- [TUT 2 Soln part 2.pdf](https://files.catbox.moe/6gywp3.pdf), Tutorial_Assignment
+			- [TUT 2 Soln part 1.pdf](https://files.catbox.moe/p8qwne.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q13_19.pdf](https://files.catbox.moe/rn2jy4.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q4&6.pdf](https://files.catbox.moe/4nmj8w.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q1_12.pdf](https://files.catbox.moe/7w4z0w.pdf), Tutorial_Assignment
+			- [TUT 12.pdf](https://files.catbox.moe/9kamh5.pdf), Tutorial_Assignment
+			- [TUT 11.pdf](https://files.catbox.moe/cbux3s.pdf), Tutorial_Assignment
+			- [TUT 10.pdf](https://files.catbox.moe/24kw8x.pdf), Tutorial_Assignment
+			- [TUT 9.pdf](https://files.catbox.moe/c25q27.pdf), Tutorial_Assignment
+			- [TUT 8.pdf](https://files.catbox.moe/beayqn.pdf), Tutorial_Assignment
+			- [TUT 7.pdf](https://files.catbox.moe/h7evbx.pdf), Tutorial_Assignment
+			- [TUT 6.pdf](https://files.catbox.moe/061ach.pdf), Tutorial_Assignment
+			- [TUT 5.pdf](https://files.catbox.moe/ik0956.pdf), Tutorial_Assignment
+			- [TUT 4.pdf](https://files.catbox.moe/a1jc12.pdf), Tutorial_Assignment
+			- [TUT 3.pdf](https://files.catbox.moe/n31g6y.pdf), Tutorial_Assignment
+			- [TUT 2.pdf](https://files.catbox.moe/7uibfr.pdf), Tutorial_Assignment
+			- [TUT 1.pdf](https://files.catbox.moe/qi558e.pdf), Tutorial_Assignment
+			- [Assignment 9 Solution.pdf](https://files.catbox.moe/8iasnk.pdf), Assignment
+			- [Assignment 8 & 9 2022 Rubric.pdf](https://files.catbox.moe/k4xowk.pdf), Assignment
+			- [Assignment 8 2022 Solution.pdf](https://files.catbox.moe/98ja6b.pdf), Assignment
+			- [Assignment 7 2022 Solution.pdf](https://files.catbox.moe/5esw40.pdf), Assignment
+			- [Assignment 6 2022 Solution.pdf](https://files.catbox.moe/u8kzt5.pdf), Assignment
+			- [Assignment 5 2022 Rubric.pdf](https://files.catbox.moe/qqdadd.pdf), Assignment
+			- [Assignment 4 2022 Solution.pdf](https://files.catbox.moe/u88hm4.pdf), Assignment
+			- [Assignment 4 2022 Rubric.pdf](https://files.catbox.moe/iyen3u.pdf), Assignment
+			- [Assignment 3 2022 Solution.pdf](https://files.catbox.moe/k90eys.pdf), Assignment
+			- [Assignment 3 2022 Rubric.pdf](https://files.catbox.moe/qk9z56.pdf), Assignment
+			- [Assignment 2 2022 Solution.pdf](https://files.catbox.moe/xorcq3.pdf), Assignment
+			- [Assignment 2 2022 Rubric.pdf](https://files.catbox.moe/wg6wao.pdf), Assignment
+			- [Assignment 1 2022 Solution.pdf](https://files.catbox.moe/371zpm.pdf), Assignment
+			- [Notes 21.pdf](https://files.catbox.moe/t01zcu.pdf), Note
+			- [Notes 20.pdf](https://files.catbox.moe/qh713z.pdf), Note
+			- [Notes 19.pdf](https://files.catbox.moe/86qfvl.pdf), Note
+			- [Notes 18.pdf](https://files.catbox.moe/30zx9z.pdf), Note
+			- [Notes 17.pdf](https://files.catbox.moe/m5tmnd.pdf), Note
+			- [Notes 16.pdf](https://files.catbox.moe/hwg6as.pdf), Note
+			- [Notes 15.pdf](https://files.catbox.moe/rbf6y6.pdf), Note
+			- [Notes 14.pdf](https://files.catbox.moe/619o0c.pdf), Note
+			- [Notes 13.pdf](https://files.catbox.moe/unxk63.pdf), Note
+			- [Notes 12.pdf](https://files.catbox.moe/oq4eyj.pdf), Note
+			- [Notes 11.pdf](https://files.catbox.moe/532wbu.pdf), Note
+			- [Notes 10.pdf](https://files.catbox.moe/ajhl9c.pdf), Note
+			- [Notes 9.pdf](https://files.catbox.moe/truhxe.pdf), Note
+			- [Notes 8.pdf](https://files.catbox.moe/6pu2kd.pdf), Note
+			- [Notes 7 (EXTRA).pdf](https://files.catbox.moe/ivzjhf.pdf), Note
+			- [Notes 7.pdf](https://files.catbox.moe/3dzlm2.pdf), Note
+			- [Notes 6.pdf](https://files.catbox.moe/avsa7a.pdf), Note
+			- [Notes 5.pdf](https://files.catbox.moe/rqg61r.pdf), Note
+			- [Notes 4.pdf](https://files.catbox.moe/2irh7w.pdf), Note
+			- [Notes 3.pdf](https://files.catbox.moe/6s4g30.pdf), Note
+			- [Notes 2.pdf](https://files.catbox.moe/zco3lg.pdf), Note
+			- [Notes 1.pdf](https://files.catbox.moe/lkgk13.pdf), Note
+			- [Discrete Structures Syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Kimberly Brehm- Discrete Structures.playlist](https://files.catbox.moe/ykqj9h.txt), Playlist
+			- [DS(2023)_midsem.pdf](https://files.catbox.moe/p7fw6w.pdf), Paper
+		- Research-Methods-in-Social-Science-and-Design
+			- [FINAL REVISED -RESEARCH METHODS 2022 (1).pdf](https://files.catbox.moe/yqduvu.pdf), Lecture_Slides
+			- [Information Archictures and Card Sorting (1).pdf](https://files.catbox.moe/6ry384.pdf), Lecture_Slides
+			- [Social Media Analytics.pptx[3719] (1).pdf](https://files.catbox.moe/morwxo.pdf), Lecture_Slides
+			- [RMSSD Guest Lecture Research Methods in Product Management (1).pdf](https://files.catbox.moe/s2da1u.pdf), Lecture_Slides
+			- [Neuroscience Methods in Experience Design [Autosaved] (1).pdf](https://files.catbox.moe/zcb8ih.pdf), Lecture_Slides
+			- [RM-Week-1-Introd+Fundamentals-Students Copy.pdf](https://files.catbox.moe/ogglme.pdf), Lecture_Slides
+			- [3-Sampling Methods-Teaching Copy.pdf](https://files.catbox.moe/2xzmoy.pdf), Lecture_Slides
+			- [Week-2 from Concepts to Measurements-Teaching Slides-2022.pdf](https://files.catbox.moe/2d9b99.pdf), Lecture_Slides
+			- [Focus Group Discussions.pdf](https://files.catbox.moe/fr1vb2.pdf), Lecture_Slides
+			- [Fundamentals of Survey Research.pptx](https://files.catbox.moe/nl68jr.pdf), Lecture_Slides
+			- [Discussion Section-Presentation.pptx](https://files.catbox.moe/hv8fda.pdf), Lecture_Slides
+			- [Qualitative data coding.pdf](https://files.catbox.moe/k8879r.pdf), Lecture_Slides
+			- [Survey Research-Home work.docx](Bad file type! docx isn't allowed!), Assignment
+			- [Article-2 for Homework.pdf](https://files.catbox.moe/39fqxo.pdf), Assignment
+			- [HOMEWORK Template.pdf](https://files.catbox.moe/p9kp6e.pdf), Assignment
+			- [Article-1 for Homework.pdf](https://files.catbox.moe/1sjy7r.pdf), Assignment
+			- [Zotero_Self-Paced_Workbook.pdf](https://files.catbox.moe/c54d8s.pdf), Assignment
+			- [RMSSD Zotero sample PEC doc.pdf](https://files.catbox.moe/3uy78s.pdf), Assignment
+			- [Microsoft Word - Zotero Homework.pdf](https://files.catbox.moe/7xelav.pdf), Assignment
+			- [final template example for zotero submission.pdf](https://files.catbox.moe/v10z97.pdf), Assignment
+		- DBMS
+			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
+			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
+			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
+			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
+			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
+			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
+			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
+			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
+			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
+		- Econometrics
+		- Analysis-and-Design-of-Algorithms
+			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
+			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
+			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
+			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
+			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
+			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
+			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
+			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
+			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
+			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
+			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
+			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
+			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
+			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
+			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
+			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
+			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
+			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
+			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
+			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
+			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
+			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
+			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
+			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
+			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
+			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
+			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
+			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
+			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
+			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
+			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
+			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
+			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
+		- PIS
+			- [Assignment 3.pdf](https://files.catbox.moe/ptvj0a.pdf), Assignment
+			- [Assignment 4.pdf](https://files.catbox.moe/f30rrd.pdf), Assignment
+			- [PIS A2.png](https://files.catbox.moe/vssxtc.pdf), Assignment
+			- [Week 2_Assignment_1.pdf](https://files.catbox.moe/mk6jge.pdf), Assignment
+			- [Field-Guide-to-Human-Centered-Design_IDEOorg.pdf](https://files.catbox.moe/s720hm.pdf), Lecture_Slides
+			- [Prototype.pdf](https://files.catbox.moe/fup5xi.pdf), Lecture_Slides
+			- [SuriExperiencePrototyping.pdf](https://files.catbox.moe/j1um5s.pdf), Lecture_Slides
+			- [Week2.pdf](https://files.catbox.moe/6hfoi0.pdf), Lecture_Slides
+			- [Week1.pdf](https://files.catbox.moe/rpj03r.pdf), Lecture_Slides
+			- [In-class Exercise 1.png](https://files.catbox.moe/gkmitt.pdf), Paper
+			- [Mid Sem Assignment.pdf](https://files.catbox.moe/dmqcac.pdf), Paper
+			- [Report Template.docx](Bad file type! docx isn't allowed!), Paper
+		- DIS
+			- [WK 3 DIS Usability_Heuristics.pdf](https://files.catbox.moe/hcxm48.pdf), Lecture_Slides
+			- [Wk 10 Multimodal interface design.pdf](https://files.catbox.moe/fc6lal.pdf), Lecture_Slides
+			- [Wk 9 Visual Interface Design.pdf](https://files.catbox.moe/zeujw5.pdf), Lecture_Slides
+			- [Wk 8 Designing Websites.pdf](https://files.catbox.moe/ce93ys.pdf), Lecture_Slides
+			- [Wk 7 DIS.pdf](https://files.catbox.moe/5oxenu.pdf), Lecture_Slides
+			- [Wk 6 DIS.pdf](https://files.catbox.moe/qm15vv.pdf), Lecture_Slides
+			- [Wk 5 DIS.pptx](https://files.catbox.moe/3gfcu5.pdf), Lecture_Slides
+			- [Wk 4 DIS.pdf](https://files.catbox.moe/qo0id8.pdf), Lecture_Slides
+			- [Wk 2 DIS.pptx](https://files.catbox.moe/6o5tru.pdf), Lecture_Slides
+			- [Wk 1 DIS.pptx](https://files.catbox.moe/yv149z.pdf), Lecture_Slides
+			- [Copy of Wk 2 DIS.pptx](https://files.catbox.moe/6827ta.pdf), Lecture_Slides
+			- [Assignment 2 - Portfolio Details.pdf](https://files.catbox.moe/7ahhkn.pdf), Assignment
+			- [Assignment 1 Details.pdf](https://files.catbox.moe/wra7cm.pdf), Assignment
+			- [Midsem Rubric.pdf](https://files.catbox.moe/hqj7oa.pdf), Paper
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+		- Theory-of-Computation
+	- CSSS
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/e5bfid.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/9ysx1p.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Introduction-to-Sociology-and-Anthropology
+			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
+		- Operating-Systems
+			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
+			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
+			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
+			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
+			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
+			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
+			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
+			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
+			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
+			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
+			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
+			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
+			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
+			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
+			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
+			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
+			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
+			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
+			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
+			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
+			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
+			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
+			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
+			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
+			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
+			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
+			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
+			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
+			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
+			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
+			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
+			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
+			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
+			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
+			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
+			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
+			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
+			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
+			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
+			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
+			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
+			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
+			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
+			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
+			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
+			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
+			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
+			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
+			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
+			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
+			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
+			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
+			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
+			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
+			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
+			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
+			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
+			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/3yr2ri.txt), Playlist
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Multivariate-calculus-3
+			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
+			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
+			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
+			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
+			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
+			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
+			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
+			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
+			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
+			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
+			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
+			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
+			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
+			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
+			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
+			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
+			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
+			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
+			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
+			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
+			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
+			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
+			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
+			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
+			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
+			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
+			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
+			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
+			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
+			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
+			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
+			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
+			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
+			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
+			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
+			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
+			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
+			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
+			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
+			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
+			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
+		- Research-Methods-in-Social-Science-and-Design
+			- [FINAL REVISED -RESEARCH METHODS 2022 (1).pdf](https://files.catbox.moe/yqduvu.pdf), Lecture_Slides
+			- [Information Archictures and Card Sorting (1).pdf](https://files.catbox.moe/6ry384.pdf), Lecture_Slides
+			- [Social Media Analytics.pptx[3719] (1).pdf](https://files.catbox.moe/morwxo.pdf), Lecture_Slides
+			- [RMSSD Guest Lecture Research Methods in Product Management (1).pdf](https://files.catbox.moe/s2da1u.pdf), Lecture_Slides
+			- [Neuroscience Methods in Experience Design [Autosaved] (1).pdf](https://files.catbox.moe/zcb8ih.pdf), Lecture_Slides
+			- [RM-Week-1-Introd+Fundamentals-Students Copy.pdf](https://files.catbox.moe/ogglme.pdf), Lecture_Slides
+			- [3-Sampling Methods-Teaching Copy.pdf](https://files.catbox.moe/2xzmoy.pdf), Lecture_Slides
+			- [Week-2 from Concepts to Measurements-Teaching Slides-2022.pdf](https://files.catbox.moe/2d9b99.pdf), Lecture_Slides
+			- [Focus Group Discussions.pdf](https://files.catbox.moe/fr1vb2.pdf), Lecture_Slides
+			- [Fundamentals of Survey Research.pptx](https://files.catbox.moe/nl68jr.pdf), Lecture_Slides
+			- [Discussion Section-Presentation.pptx](https://files.catbox.moe/hv8fda.pdf), Lecture_Slides
+			- [Qualitative data coding.pdf](https://files.catbox.moe/k8879r.pdf), Lecture_Slides
+			- [Survey Research-Home work.docx](Bad file type! docx isn't allowed!), Assignment
+			- [Article-2 for Homework.pdf](https://files.catbox.moe/39fqxo.pdf), Assignment
+			- [HOMEWORK Template.pdf](https://files.catbox.moe/p9kp6e.pdf), Assignment
+			- [Article-1 for Homework.pdf](https://files.catbox.moe/1sjy7r.pdf), Assignment
+			- [Zotero_Self-Paced_Workbook.pdf](https://files.catbox.moe/c54d8s.pdf), Assignment
+			- [RMSSD Zotero sample PEC doc.pdf](https://files.catbox.moe/3uy78s.pdf), Assignment
+			- [Microsoft Word - Zotero Homework.pdf](https://files.catbox.moe/7xelav.pdf), Assignment
+			- [final template example for zotero submission.pdf](https://files.catbox.moe/v10z97.pdf), Assignment
+		- Discrete-Mathematics
+			- [HW1.pdf](https://files.catbox.moe/n2ttfg.pdf), Other
+			- [HW3.pdf](https://files.catbox.moe/wjz33u.pdf), Other
+			- [HW4.pdf](https://files.catbox.moe/ku4glu.pdf), Other
+			- [HW5.pdf](https://files.catbox.moe/qtz1ul.pdf), Other
+			- [HW6.pdf](https://files.catbox.moe/7ygj76.pdf), Other
+			- [Class01.pptx](https://files.catbox.moe/gblynq.pdf), Lecture_Slides
+			- [Class02.pptx](https://files.catbox.moe/7wrnxb.pdf), Lecture_Slides
+			- [Class03.pptx](https://files.catbox.moe/gq3y26.pdf), Lecture_Slides
+			- [Class04.pptx](https://files.catbox.moe/av5j48.pdf), Lecture_Slides
+			- [Class05.pptx](https://files.catbox.moe/60lsjc.pdf), Lecture_Slides
+			- [Class06.pptx](https://files.catbox.moe/8n88gq.pdf), Lecture_Slides
+			- [Class07.pptx](https://files.catbox.moe/u32ww4.pdf), Lecture_Slides
+			- [Class08.pptx](https://files.catbox.moe/eju8kf.pdf), Lecture_Slides
+			- [Class09.pptx](https://files.catbox.moe/f41hg1.pdf), Lecture_Slides
+			- [Class10.pptx](https://files.catbox.moe/vjd1zi.pdf), Lecture_Slides
+			- [Class11.pptx](https://files.catbox.moe/hnykur.pdf), Lecture_Slides
+			- [Class12.pptx](https://files.catbox.moe/6vcisf.pdf), Lecture_Slides
+			- [Class13.pptx](https://files.catbox.moe/9gu6fq.pdf), Lecture_Slides
+			- [Class15.pptx](https://files.catbox.moe/cboc2a.pdf), Lecture_Slides
+			- [Class16.pptx](https://files.catbox.moe/lumix4.pdf), Lecture_Slides
+			- [Class17.pptx](https://files.catbox.moe/679mul.pdf), Lecture_Slides
+			- [Class18.pptx](https://files.catbox.moe/ekyw6v.pdf), Lecture_Slides
+			- [Class19.pptx](https://files.catbox.moe/nv0p74.pdf), Lecture_Slides
+			- [Class20.pptx](https://files.catbox.moe/pcqv6h.pdf), Lecture_Slides
+			- [Class21.pptx](https://files.catbox.moe/0nb641.pdf), Lecture_Slides
+			- [Class22.pptx](https://files.catbox.moe/o4roug.pdf), Lecture_Slides
+			- [Class23.pptx](https://files.catbox.moe/k6fokg.pdf), Lecture_Slides
+			- [Class24.pptx](https://files.catbox.moe/cbfbdl.pdf), Lecture_Slides
+			- [Class26 (1).pptx](https://files.catbox.moe/0psf1c.pdf), Lecture_Slides
+			- [Class26 (2).pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
+			- [Class26.pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
+			- [MidSem Soln 2022.pdf](https://files.catbox.moe/cahif8.pdf), Paper
+			- [Pre-Endsem 2022.pdf](https://files.catbox.moe/f8namz.pdf), Paper
+			- [Assignment-1.pdf](https://files.catbox.moe/ufakfa.pdf), Assignment
+			- [Discrete Math  by Kimberly Brehm.playlist](https://files.catbox.moe/5dafuf.txt), Playlist
+			- [Discrete Maths by Neso Academy.playlist](https://files.catbox.moe/g0vn9s.txt), Playlist
+			- [HW2.pdf](https://files.catbox.moe/fnenrf.pdf), Other
+			- [Project.pdf](https://files.catbox.moe/t4tgx1.pdf), Books_And_Misc
+			- [Midsem 2023.pdf](https://files.catbox.moe/ywtg9v.pdf), Paper
+		- DBMS
+			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
+			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
+			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
+			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
+			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
+			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
+			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
+			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
+			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
+		- Econometrics
+		- Analysis-and-Design-of-Algorithms
+			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
+			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
+			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
+			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
+			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
+			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
+			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
+			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
+			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
+			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
+			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
+			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
+			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
+			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
+			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
+			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
+			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
+			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
+			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
+			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
+			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
+			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
+			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
+			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
+			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
+			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
+			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
+			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
+			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
+			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
+			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
+			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
+			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
+		- Convex-Optimization
+			- [Coding Assignment.pdf](https://files.catbox.moe/y36x9v.pdf), Assignment
+			- [Assessment 1.pdf](https://files.catbox.moe/luvgpu.pdf), Assignment
+			- [Affine sets.pdf](https://files.catbox.moe/nbi4u6.pdf), Lecture_Slides
+			- [Algorithms for unconstrained optimization.pdf](https://files.catbox.moe/zhyx3a.pdf), Lecture_Slides
+			- [Basic library of convex functions .pdf](https://files.catbox.moe/bxuome.pdf), Lecture_Slides
+			- [Convex functions.pdf](https://files.catbox.moe/eswpki.pdf), Lecture_Slides
+			- [Convex sets.pdf](https://files.catbox.moe/86693u.pdf), Lecture_Slides
+			- [Convexity preserving operations .pdf](https://files.catbox.moe/bfnpuo.pdf), Lecture_Slides
+			- [Derivatives of a Function.pdf](https://files.catbox.moe/5qd4wm.pdf), Lecture_Slides
+			- [Differentiable convex functions .pdf](https://files.catbox.moe/xt78xs.pdf), Lecture_Slides
+			- [Duality .pdf](https://files.catbox.moe/588t48.pdf), Lecture_Slides
+			- [Interior point algorithm .pdf](https://files.catbox.moe/f9ia4m.pdf), Lecture_Slides
+			- [Interpretation of dual variables .pdf](https://files.catbox.moe/s6phqu.pdf), Lecture_Slides
+			- [KKT Optimality Conditions .pdf](https://files.catbox.moe/0qzrar.pdf), Lecture_Slides
+			- [Lagrangian Relaxation .pdf](https://files.catbox.moe/0lelvk.pdf), Lecture_Slides
+			- [Linear functions and Matrices.pdf](https://files.catbox.moe/8h0yoc.pdf), Lecture_Slides
+			- [Separating and Supporting Hyperplane Theorems.pdf](https://files.catbox.moe/ah5imb.pdf), Lecture_Slides
+			- [Strong duality.pdf](https://files.catbox.moe/v3k02c.pdf), Lecture_Slides
+			- [Symmetric Matrices and Quadratic Forms.pdf](https://files.catbox.moe/gonw87.pdf), Lecture_Slides
+			- [Theory of unconstrained optimization.pdf](https://files.catbox.moe/9j95kv.pdf), Lecture_Slides
+			- [Vector space R^n.pdf](https://files.catbox.moe/5f78tw.pdf), Lecture_Slides
+			- [Worked out problems .pdf](https://files.catbox.moe/xnidpm.pdf), Lecture_Slides
+			- [PS 3.pdf](https://files.catbox.moe/goajkn.pdf), Practice_Problems
+			- [PS 2.pdf](https://files.catbox.moe/6w4qqs.pdf), Practice_Problems
+			- [PS 1.pdf](https://files.catbox.moe/p437j7.pdf), Practice_Problems
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+	- CSB
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Basic-Electronics
+			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
+			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
+			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
+			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
+			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
+			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
+			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
+			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
+			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
+			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
+			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
+			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
+			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
+			- [ Midsem_2023.pdf](https://files.catbox.moe/n7dou9.pdf), Paper
+			- [Assignment 4 2023.pdf](https://files.catbox.moe/dvbbjt.pdf), Assignment
+			- [Assignment 3 2023.pdf](https://files.catbox.moe/4pbqsu.pdf), Assignment
+			- [Assignment 2 2023.pdf](https://files.catbox.moe/gf3v5a.pdf), Assignment
+			- [Assignment 1 2023.pdf](https://files.catbox.moe/gthh1s.pdf), Assignment
+			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/vvvhi1.pdf), Quizzes
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/zjl8ge.pdf), Quizzes
+			- [Quiz 4 2023.pdf](https://files.catbox.moe/kz1qy8.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/0f6wwm.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/6ufgex.pdf), Quizzes
+			- [Quiz 6 2023.pdf](https://files.catbox.moe/605qci.pdf), Quizzes
+			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/9f5wlq.pdf), Quizzes
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/q97bbt.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/mvxytn.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Fundamentals-Of-Biology
+			- [Lecture 6.3.pdf](https://files.catbox.moe/5lzpit.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/nbpvn6.pdf), Lecture_Slides
+			- [Lecture 6.1.pdf](https://files.catbox.moe/riws3f.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/dgrnor.pdf), Lecture_Slides
+			- [Lecture  4.pdf](https://files.catbox.moe/gi6rml.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/eczkz0.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3l1rq4.pdf), Lecture_Slides
+			- [Lecture 6.2.pdf](https://files.catbox.moe/l2hjhl.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/s2b83n.pdf), Lecture_Slides
+		- Introduction-to-Sociology-and-Anthropology
+			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
+		- Money-and-Banking
+			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
+			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
+			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
+			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
+			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
+			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
+		- Operating-Systems
+			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
+			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
+			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
+			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
+			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
+			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
+			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
+			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
+			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
+			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
+			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
+			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
+			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
+			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
+			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
+			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
+			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
+			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
+			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
+			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
+			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
+			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
+			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
+			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
+			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
+			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
+			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
+			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
+			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
+			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
+			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
+			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
+			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
+			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
+			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
+			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
+			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
+			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
+			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
+			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
+			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
+			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
+			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
+			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
+			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
+			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
+			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
+			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
+			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
+			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
+			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
+			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
+			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
+			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
+			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
+			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
+			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
+			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/89anpf.txt), Playlist
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Multivariate-calculus-3
+			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
+			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
+			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
+			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
+			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
+			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
+			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
+			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
+			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
+			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
+			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
+			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
+			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
+			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
+			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
+			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
+			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
+			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
+			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
+			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
+			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
+			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
+			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
+			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
+			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
+			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
+			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
+			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
+			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
+			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
+			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
+			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
+			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
+			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
+			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
+			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
+			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
+			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
+			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
+			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
+			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
+		- Cell-Biology-and-Biochemistry
+			- [Endsem 2022.PDF](https://files.catbox.moe/l9saxc.pdf), Paper
+			- [Assignment 2 2022.pdf](https://files.catbox.moe/n5bw2r.pdf), Assignment
+			- [Assignment 3 2022.pdf](https://files.catbox.moe/9dwa9d.pdf), Assignment
+			- [Assignment 1 2022.pdf](https://files.catbox.moe/pupa3s.pdf), Assignment
+			- [Quiz 3 2022 .pdf](https://files.catbox.moe/1a4ey4.pdf), Quizzes
+			- [Quiz 2 2022.pdf](https://files.catbox.moe/x4lxwe.pdf), Quizzes
+			- [Lab 4 2022.pdf](https://files.catbox.moe/w38h8a.pdf), Laboratory
+			- [Lab 3 2022.pdf](https://files.catbox.moe/aek139.pdf), Laboratory
+			- [Lab 1 2022.pdf](https://files.catbox.moe/ew43o6.pdf), Laboratory
+			- [Yeast Experiment.pdf](https://files.catbox.moe/sr52a2.pdf), Laboratory
+			- [Fluctuation Assay_Mutagenesis.pdf](https://files.catbox.moe/y5xsxd.pdf), Laboratory
+			- [Growth Curve Analysis of Yeast Cells.pdf](https://files.catbox.moe/oe9bo4.pdf), Laboratory
+			- [Midsem-Exam-2023.pdf](https://files.catbox.moe/ib44u0.pdf), Paper
+			- [Quiz01 -2023.pdf](https://files.catbox.moe/7aeyu3.pdf), Quizzes
+			- [2023_Lab quiz .pdf](https://files.catbox.moe/5in3n1.pdf), Laboratory
+			- [2023_Cell ViabilityTesting .pdf](https://files.catbox.moe/l8davy.pdf), Laboratory
+			- [2023_yeast culture and growth.pdf](https://files.catbox.moe/rwc62x.pdf), Laboratory
+			- [2023_yeast culture growth.pdf](https://files.catbox.moe/yzgy96.pdf), Laboratory
+			- [2023_Genomic isolation+ electrophoresis.pdf](https://files.catbox.moe/45nk68.pdf), Laboratory
+			- [2023_Polymerase chain reaction (PCR).pdf](https://files.catbox.moe/dn5b7h.pdf), Laboratory
+		- Genetic-and-Molecular-Biology
+			- [Lecture Slides.pdf](https://files.catbox.moe/n2d16u.pdf), Lecture_Slides
+			- [RNA Seq Data Analysis.txt](https://files.catbox.moe/oi7riz.pdf), Assignment
+			- [RUVSeq.R](https://files.catbox.moe/m86vzd.pdf), Assignment
+			- [Mutational_Analysis.txt](https://files.catbox.moe/mm0ofv.pdf), Assignment
+			- [Mutational_Frequency.xlsx](https://files.catbox.moe/tcneyh.pdf), Assignment
+			- [Mutational_Frequency_Data.xlsx](https://files.catbox.moe/gqwxwh.pdf), Assignment
+			- [RHistory.Rhistory](No file!), Assignment
+			- [GMB Syllabus.pdf](https://files.catbox.moe/wtyuuy.pdf), Books_And_Misc
+			- [GMB QUIZ-1.pdf](https://files.catbox.moe/t9x6p4.pdf), Quizzes
+			- [Midsem 2023.pdf](https://files.catbox.moe/x8tvpv.pdf), Paper
+			- [GMB-2.pdf](https://files.catbox.moe/v82kvi.pdf), Quizzes
+			- [Assignment-1 2023.pdf](https://files.catbox.moe/nq9w3n.pdf), Assignment
+			- [End-Sem Examination.pdf](https://files.catbox.moe/trodzm.pdf), Paper
+		- DBMS
+			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
+			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
+			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
+			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
+			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
+			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
+			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
+			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
+			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
+		- Econometrics
+		- Analysis-and-Design-of-Algorithms
+			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
+			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
+			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
+			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
+			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
+			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
+			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
+			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
+			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
+			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
+			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
+			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
+			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
+			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
+			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
+			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
+			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
+			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
+			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
+			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
+			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
+			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
+			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
+			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
+			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
+			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
+			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
+			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
+			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
+			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
+			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
+			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
+			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
+		- Introduction-to-Quantitative-Biology
+			- [Assignment-3.pdf](https://files.catbox.moe/ih7d2u.pdf), Assignment
+			- [Assignemnt-1.pdf](https://files.catbox.moe/s1h9ue.pdf), Assignment
+			- [Assignment-2.pdf](https://files.catbox.moe/gact6z.pdf), Assignment
+			- [QUIZ-1.pdf](https://files.catbox.moe/d7eb3t.pdf), Quizzes
+			- [ENDSEM--2023.pdf](https://files.catbox.moe/1ma4o8.pdf), Paper
+			- [MIDSEM-2023.pdf](https://files.catbox.moe/11dte8.pdf), Paper
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+		- Practical-Bioinformatics
+	- CSAI
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/61xafo.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/rujofb.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Introduction-to-Sociology-and-Anthropology
+			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
+		- Introduction-to-Intelligent-Systems
+			- [Lecture 1.pdf](https://files.catbox.moe/i06aul.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/niwwdg.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/s4a8u8.pdf), Lecture_Slides
+			- [lecture 4.pdf](https://files.catbox.moe/jklaaw.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/t3mzpx.pdf), Lecture_Slides
+			- [Lecture 7-8.pdf](https://files.catbox.moe/2iyejq.pdf), Lecture_Slides
+			- [Midsem 2023.pdf](https://files.catbox.moe/bqkv1r.pdf), Paper
+			- [Quiz-2 2023.pdf](https://files.catbox.moe/vsq9b0.pdf), Quizzes
+			- [Quiz-1 2023.pdf](https://files.catbox.moe/aom1o8.pdf), Quizzes
+			- [EDA on QQD.ipynb](https://files.catbox.moe/8h3w83.ipynb), Laboratory
+			- [Numpy_Tut.ipynb](https://files.catbox.moe/rn2ubi.ipynb), Laboratory
+			- [Pandas_basics.ipynb](https://files.catbox.moe/rzp4n1.ipynb), Laboratory
+			- [IIS LAB-1  Resources.pdf](https://files.catbox.moe/yi8k57.pdf), Laboratory
+			- [Prolog Tutorial.pdf](https://files.catbox.moe/ezxe6t.pdf), Laboratory
+		- Money-and-Banking
+			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
+			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
+			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
+			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
+			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
+			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
+		- Operating-Systems
+			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
+			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
+			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
+			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
+			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
+			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
+			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
+			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
+			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
+			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
+			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
+			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
+			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
+			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
+			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
+			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
+			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
+			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
+			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
+			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
+			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
+			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
+			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
+			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
+			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
+			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
+			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
+			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
+			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
+			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
+			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
+			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
+			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
+			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
+			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
+			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
+			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
+			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
+			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
+			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
+			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
+			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
+			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
+			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
+			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
+			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
+			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
+			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
+			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
+			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
+			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
+			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
+			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
+			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
+			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
+			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
+			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
+			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/3muyx4.txt), Playlist
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Multivariate-calculus-3
+			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
+			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
+			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
+			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
+			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
+			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
+			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
+			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
+			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
+			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
+			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
+			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
+			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
+			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
+			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
+			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
+			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
+			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
+			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
+			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
+			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
+			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
+			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
+			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
+			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
+			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
+			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
+			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
+			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
+			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
+			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
+			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
+			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
+			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
+			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
+			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
+			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
+			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
+			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
+			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
+			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
+		- Discrete-Structures
+			- [End Sem 2022 Soln.pdf](https://files.catbox.moe/wawb0j.pdf), Paper
+			- [End sem 2022.pdf](https://files.catbox.moe/bm2o59.pdf), Paper
+			- [Lecture 0 (Intro).pptx](https://files.catbox.moe/ava3gs.pdf), Lecture_Slides
+			- [Lecture 2.pptx](https://files.catbox.moe/d2czlz.pdf), Lecture_Slides
+			- [Lecture 1.pptx](https://files.catbox.moe/shzzci.pdf), Lecture_Slides
+			- [Lecture 16.pptx](https://files.catbox.moe/phih3x.pdf), Lecture_Slides
+			- [Lecture 15.pptx](https://files.catbox.moe/u2zqhn.pdf), Lecture_Slides
+			- [Lecture 14.pptx](https://files.catbox.moe/l84apr.pdf), Lecture_Slides
+			- [Lecture 13.pptx](https://files.catbox.moe/tfgcff.pdf), Lecture_Slides
+			- [Lecture 12.pptx](https://files.catbox.moe/orgdtx.pdf), Lecture_Slides
+			- [Lecture 11.pptx](https://files.catbox.moe/uixkxe.pdf), Lecture_Slides
+			- [Lecture 10.pptx](https://files.catbox.moe/qnm8lk.pdf), Lecture_Slides
+			- [Lecture 9.pptx](https://files.catbox.moe/51npmi.pdf), Lecture_Slides
+			- [Lecture 8.pptx](https://files.catbox.moe/hhj8e3.pdf), Lecture_Slides
+			- [Lecture 7.pptx](https://files.catbox.moe/va66gh.pdf), Lecture_Slides
+			- [Lecture 6.pptx](https://files.catbox.moe/dr191f.pdf), Lecture_Slides
+			- [Lecture 5.pptx](https://files.catbox.moe/btgzs8.pdf), Lecture_Slides
+			- [Lecture 3.pptx](https://files.catbox.moe/n4wa8s.pdf), Lecture_Slides
+			- [Lecture 4.pptx](https://files.catbox.moe/mhkhfe.pdf), Lecture_Slides
+			- [Lecture 24 (Extra).pptx](https://files.catbox.moe/pc3yzu.pdf), Lecture_Slides
+			- [Lecture 24.pdf](https://files.catbox.moe/kaujh6.pdf), Lecture_Slides
+			- [Lecture 23.pptx](https://files.catbox.moe/qi2n0q.pdf), Lecture_Slides
+			- [Lecture 22.pptx](https://files.catbox.moe/uf52se.pdf), Lecture_Slides
+			- [Lecture 21.pptx](https://files.catbox.moe/7b0evr.pdf), Lecture_Slides
+			- [Lecture 20.pptx](https://files.catbox.moe/be9bdg.pdf), Lecture_Slides
+			- [Lecture 19.pptx](https://files.catbox.moe/mljfnq.pdf), Lecture_Slides
+			- [Lecture 18.pptx](https://files.catbox.moe/tuw1f1.pdf), Lecture_Slides
+			- [Lecture 17.pptx](https://files.catbox.moe/uzz19v.pdf), Lecture_Slides
+			- [Mid sem 2022 Soln.pdf](https://files.catbox.moe/g2cqhq.pdf), Paper
+			- [Mid sem 2022.jpg](https://files.catbox.moe/xespm2.pdf), Paper
+			- [TUT 12 Soln 2.pdf](https://files.catbox.moe/nu2uwo.pdf), Tutorial_Assignment
+			- [TUT 12 Soln 1.pdf](https://files.catbox.moe/qeyf0n.pdf), Tutorial_Assignment
+			- [TUT 11 Soln.pdf](https://files.catbox.moe/geafgz.pdf), Tutorial_Assignment
+			- [TUT 10 Soln.pdf](https://files.catbox.moe/723a20.pdf), Tutorial_Assignment
+			- [TUT 9 Soln.pdf](https://files.catbox.moe/cth9lq.pdf), Tutorial_Assignment
+			- [TUT 8 Soln (Extra).pdf](https://files.catbox.moe/xmmpg3.pdf), Tutorial_Assignment
+			- [TUT 8 Soln.pdf](https://files.catbox.moe/07u01m.pdf), Tutorial_Assignment
+			- [TUT 7 Soln.pdf](https://files.catbox.moe/yozttw.pdf), Tutorial_Assignment
+			- [TUT 6 Soln.pdf](https://files.catbox.moe/0sgmsk.pdf), Tutorial_Assignment
+			- [TUT 5 Soln.pdf](https://files.catbox.moe/z9k81x.pdf), Tutorial_Assignment
+			- [TUT 4 Soln Q9.pdf](https://files.catbox.moe/4hdotr.pdf), Tutorial_Assignment
+			- [TUT 4 Soln.pdf](https://files.catbox.moe/cldoae.pdf), Tutorial_Assignment
+			- [TUT 3 Soln Q2&9.pdf](https://files.catbox.moe/yj9pp0.pdf), Tutorial_Assignment
+			- [TUT 3 Soln part 1.pdf](https://files.catbox.moe/9gbcfd.pdf), Tutorial_Assignment
+			- [TUT 2 Soln part 2.pdf](https://files.catbox.moe/6gywp3.pdf), Tutorial_Assignment
+			- [TUT 2 Soln part 1.pdf](https://files.catbox.moe/p8qwne.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q13_19.pdf](https://files.catbox.moe/rn2jy4.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q4&6.pdf](https://files.catbox.moe/4nmj8w.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q1_12.pdf](https://files.catbox.moe/7w4z0w.pdf), Tutorial_Assignment
+			- [TUT 12.pdf](https://files.catbox.moe/9kamh5.pdf), Tutorial_Assignment
+			- [TUT 11.pdf](https://files.catbox.moe/cbux3s.pdf), Tutorial_Assignment
+			- [TUT 10.pdf](https://files.catbox.moe/24kw8x.pdf), Tutorial_Assignment
+			- [TUT 9.pdf](https://files.catbox.moe/c25q27.pdf), Tutorial_Assignment
+			- [TUT 8.pdf](https://files.catbox.moe/beayqn.pdf), Tutorial_Assignment
+			- [TUT 7.pdf](https://files.catbox.moe/h7evbx.pdf), Tutorial_Assignment
+			- [TUT 6.pdf](https://files.catbox.moe/061ach.pdf), Tutorial_Assignment
+			- [TUT 5.pdf](https://files.catbox.moe/ik0956.pdf), Tutorial_Assignment
+			- [TUT 4.pdf](https://files.catbox.moe/a1jc12.pdf), Tutorial_Assignment
+			- [TUT 3.pdf](https://files.catbox.moe/n31g6y.pdf), Tutorial_Assignment
+			- [TUT 2.pdf](https://files.catbox.moe/7uibfr.pdf), Tutorial_Assignment
+			- [TUT 1.pdf](https://files.catbox.moe/qi558e.pdf), Tutorial_Assignment
+			- [Assignment 9 Solution.pdf](https://files.catbox.moe/8iasnk.pdf), Assignment
+			- [Assignment 8 & 9 2022 Rubric.pdf](https://files.catbox.moe/k4xowk.pdf), Assignment
+			- [Assignment 8 2022 Solution.pdf](https://files.catbox.moe/98ja6b.pdf), Assignment
+			- [Assignment 7 2022 Solution.pdf](https://files.catbox.moe/5esw40.pdf), Assignment
+			- [Assignment 6 2022 Solution.pdf](https://files.catbox.moe/u8kzt5.pdf), Assignment
+			- [Assignment 5 2022 Rubric.pdf](https://files.catbox.moe/qqdadd.pdf), Assignment
+			- [Assignment 4 2022 Solution.pdf](https://files.catbox.moe/u88hm4.pdf), Assignment
+			- [Assignment 4 2022 Rubric.pdf](https://files.catbox.moe/iyen3u.pdf), Assignment
+			- [Assignment 3 2022 Solution.pdf](https://files.catbox.moe/k90eys.pdf), Assignment
+			- [Assignment 3 2022 Rubric.pdf](https://files.catbox.moe/qk9z56.pdf), Assignment
+			- [Assignment 2 2022 Solution.pdf](https://files.catbox.moe/xorcq3.pdf), Assignment
+			- [Assignment 2 2022 Rubric.pdf](https://files.catbox.moe/wg6wao.pdf), Assignment
+			- [Assignment 1 2022 Solution.pdf](https://files.catbox.moe/371zpm.pdf), Assignment
+			- [Notes 21.pdf](https://files.catbox.moe/t01zcu.pdf), Note
+			- [Notes 20.pdf](https://files.catbox.moe/qh713z.pdf), Note
+			- [Notes 19.pdf](https://files.catbox.moe/86qfvl.pdf), Note
+			- [Notes 18.pdf](https://files.catbox.moe/30zx9z.pdf), Note
+			- [Notes 17.pdf](https://files.catbox.moe/m5tmnd.pdf), Note
+			- [Notes 16.pdf](https://files.catbox.moe/hwg6as.pdf), Note
+			- [Notes 15.pdf](https://files.catbox.moe/rbf6y6.pdf), Note
+			- [Notes 14.pdf](https://files.catbox.moe/619o0c.pdf), Note
+			- [Notes 13.pdf](https://files.catbox.moe/unxk63.pdf), Note
+			- [Notes 12.pdf](https://files.catbox.moe/oq4eyj.pdf), Note
+			- [Notes 11.pdf](https://files.catbox.moe/532wbu.pdf), Note
+			- [Notes 10.pdf](https://files.catbox.moe/ajhl9c.pdf), Note
+			- [Notes 9.pdf](https://files.catbox.moe/truhxe.pdf), Note
+			- [Notes 8.pdf](https://files.catbox.moe/6pu2kd.pdf), Note
+			- [Notes 7 (EXTRA).pdf](https://files.catbox.moe/ivzjhf.pdf), Note
+			- [Notes 7.pdf](https://files.catbox.moe/3dzlm2.pdf), Note
+			- [Notes 6.pdf](https://files.catbox.moe/avsa7a.pdf), Note
+			- [Notes 5.pdf](https://files.catbox.moe/rqg61r.pdf), Note
+			- [Notes 4.pdf](https://files.catbox.moe/2irh7w.pdf), Note
+			- [Notes 3.pdf](https://files.catbox.moe/6s4g30.pdf), Note
+			- [Notes 2.pdf](https://files.catbox.moe/zco3lg.pdf), Note
+			- [Notes 1.pdf](https://files.catbox.moe/lkgk13.pdf), Note
+			- [Discrete Structures Syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Kimberly Brehm- Discrete Structures.playlist](https://files.catbox.moe/hv9xhi.txt), Playlist
+			- [DS(2023)_midsem.pdf](https://files.catbox.moe/p7fw6w.pdf), Paper
+		- Signals-&-Systems
+			- [Lecture 14.pdf](https://files.catbox.moe/naiw2b.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/6yvjfb.pdf), Lecture_Slides
+			- [Lecture 12.pdf](https://files.catbox.moe/66s8qk.pdf), Lecture_Slides
+			- [Lecture 11.pdf](https://files.catbox.moe/coav0d.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/6gtg1b.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/bdj59i.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/vd2xhp.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/p46tg2.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/qat6jb.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/juv8eo.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/ns1y7b.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/w84kjw.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/unoc26.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/7hpmfv.pdf), Lecture_Slides
+			- [Endsem 2022.pdf](https://files.catbox.moe/a2iqkg.pdf), Paper
+			- [Endsem 2022 sol.pdf](https://files.catbox.moe/peduv5.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/08t43k.pdf), Paper
+			- [Midsem 2022 sol.pdf](https://files.catbox.moe/b75009.pdf), Paper
+			- [Quiz 10 2022 sol.pdf](https://files.catbox.moe/4autbr.pdf), Quizzes
+			- [Quiz 9 2022.pdf](https://files.catbox.moe/pifq6k.pdf), Quizzes
+			- [Quiz 9 2022 sol.pdf](https://files.catbox.moe/wx0fnx.pdf), Quizzes
+			- [Quiz 8 2022.pdf](https://files.catbox.moe/xv9l6i.pdf), Quizzes
+			- [Quiz 8 2022 sol.pdf](https://files.catbox.moe/m9mzln.pdf), Quizzes
+			- [Quiz 7 2022.pdf](https://files.catbox.moe/byotbp.pdf), Quizzes
+			- [Quiz 7 2022 sol.pdf](https://files.catbox.moe/bcdqb3.pdf), Quizzes
+			- [Quiz 6 2022.pdf](https://files.catbox.moe/o3tcjl.pdf), Quizzes
+			- [Quiz 5 2022.pdf](https://files.catbox.moe/j6swlx.pdf), Quizzes
+			- [Quiz 6 2022 sol.pdf](https://files.catbox.moe/lljmad.pdf), Quizzes
+			- [Quiz 4 2022.pdf](https://files.catbox.moe/4sph24.pdf), Quizzes
+			- [Quiz 5 2022 sol.pdf](https://files.catbox.moe/cwe0aq.pdf), Quizzes
+			- [Quiz 4 2022 sol.pdf](https://files.catbox.moe/554a98.pdf), Quizzes
+			- [Quiz 3 2022 sol.pdf](https://files.catbox.moe/pv1i80.pdf), Quizzes
+			- [Quiz 3 2022.pdf](https://files.catbox.moe/3a7ui1.pdf), Quizzes
+			- [Quiz 2 2022.pdf](https://files.catbox.moe/w941ek.pdf), Quizzes
+			- [Quiz 2 2022 sol.pdf](https://files.catbox.moe/9olddt.pdf), Quizzes
+			- [Quiz 1 2022 sol.pdf](https://files.catbox.moe/0imc6e.pdf), Quizzes
+			- [Quiz 1 2022.pdf](https://files.catbox.moe/l9jz6u.pdf), Quizzes
+			- [Optional Quiz 2022.pdf](https://files.catbox.moe/epmahr.pdf), Quizzes
+			- [Optional Quiz 2022 sol.pdf](https://files.catbox.moe/0qop1v.pdf), Quizzes
+			- [Quiz 10 2022.pdf](https://files.catbox.moe/o658gm.pdf), Quizzes
+			- [Signals & Systems course plan.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [SNS Syllabus.pdf](https://files.catbox.moe/3lq1na.pdf), Books_And_Misc
+			- [SNS - NESO.playlist](https://files.catbox.moe/cyj9oo.txt), Playlist
+			- [SnS midsem 2023.pdf](https://files.catbox.moe/yw0s5d.pdf), Paper
+			- [SNS - II(Oppenheim).pdf](https://files.catbox.moe/6o1fey.pdf), Book
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/04ww4j.pdf), Quizzes
+			- [Quiz 1 2023.pdf](https://files.catbox.moe/buae0c.pdf), Quizzes
+			- [ Quiz 4 2023.pdf](https://files.catbox.moe/h2xuip.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/802t41.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/y3wy8k.pdf), Quizzes
+			- [End Sem Sol 2023.pdf](https://files.catbox.moe/j3gh3f.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/igwnrv.pdf), Paper
+		- DBMS
+			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
+			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
+			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
+			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
+			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
+			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
+			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
+			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
+			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
+		- Econometrics
+		- Analysis-and-Design-of-Algorithms
+			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
+			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
+			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
+			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
+			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
+			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
+			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
+			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
+			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
+			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
+			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
+			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
+			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
+			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
+			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
+			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
+			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
+			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
+			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
+			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
+			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
+			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
+			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
+			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
+			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
+			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
+			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
+			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
+			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
+			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
+			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
+			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
+			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
+		- Convex-Optimization
+			- [Coding Assignment.pdf](https://files.catbox.moe/y36x9v.pdf), Assignment
+			- [Assessment 1.pdf](https://files.catbox.moe/luvgpu.pdf), Assignment
+			- [Affine sets.pdf](https://files.catbox.moe/nbi4u6.pdf), Lecture_Slides
+			- [Algorithms for unconstrained optimization.pdf](https://files.catbox.moe/zhyx3a.pdf), Lecture_Slides
+			- [Basic library of convex functions .pdf](https://files.catbox.moe/bxuome.pdf), Lecture_Slides
+			- [Convex functions.pdf](https://files.catbox.moe/eswpki.pdf), Lecture_Slides
+			- [Convex sets.pdf](https://files.catbox.moe/86693u.pdf), Lecture_Slides
+			- [Convexity preserving operations .pdf](https://files.catbox.moe/bfnpuo.pdf), Lecture_Slides
+			- [Derivatives of a Function.pdf](https://files.catbox.moe/5qd4wm.pdf), Lecture_Slides
+			- [Differentiable convex functions .pdf](https://files.catbox.moe/xt78xs.pdf), Lecture_Slides
+			- [Duality .pdf](https://files.catbox.moe/588t48.pdf), Lecture_Slides
+			- [Interior point algorithm .pdf](https://files.catbox.moe/f9ia4m.pdf), Lecture_Slides
+			- [Interpretation of dual variables .pdf](https://files.catbox.moe/s6phqu.pdf), Lecture_Slides
+			- [KKT Optimality Conditions .pdf](https://files.catbox.moe/0qzrar.pdf), Lecture_Slides
+			- [Lagrangian Relaxation .pdf](https://files.catbox.moe/0lelvk.pdf), Lecture_Slides
+			- [Linear functions and Matrices.pdf](https://files.catbox.moe/8h0yoc.pdf), Lecture_Slides
+			- [Separating and Supporting Hyperplane Theorems.pdf](https://files.catbox.moe/ah5imb.pdf), Lecture_Slides
+			- [Strong duality.pdf](https://files.catbox.moe/v3k02c.pdf), Lecture_Slides
+			- [Symmetric Matrices and Quadratic Forms.pdf](https://files.catbox.moe/gonw87.pdf), Lecture_Slides
+			- [Theory of unconstrained optimization.pdf](https://files.catbox.moe/9j95kv.pdf), Lecture_Slides
+			- [Vector space R^n.pdf](https://files.catbox.moe/5f78tw.pdf), Lecture_Slides
+			- [Worked out problems .pdf](https://files.catbox.moe/xnidpm.pdf), Lecture_Slides
+			- [PS 3.pdf](https://files.catbox.moe/goajkn.pdf), Practice_Problems
+			- [PS 2.pdf](https://files.catbox.moe/6w4qqs.pdf), Practice_Problems
+			- [PS 1.pdf](https://files.catbox.moe/p437j7.pdf), Practice_Problems
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+		- Theory-of-Computation
+	- CSAM
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Basic-Electronics
+			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
+			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
+			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
+			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
+			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
+			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
+			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
+			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
+			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
+			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
+			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
+			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
+			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
+			- [ Midsem_2023.pdf](https://files.catbox.moe/ahfna3.pdf), Paper
+			- [Assignment 4 2023.pdf](https://files.catbox.moe/xa9gcc.pdf), Assignment
+			- [Assignment 3 2023.pdf](https://files.catbox.moe/pf4j26.pdf), Assignment
+			- [Assignment 2 2023.pdf](https://files.catbox.moe/dtbffv.pdf), Assignment
+			- [Assignment 1 2023.pdf](https://files.catbox.moe/62k4gg.pdf), Assignment
+			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/1vkw14.pdf), Quizzes
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/7dkwrw.pdf), Quizzes
+			- [Quiz 4 2023.pdf](https://files.catbox.moe/tqw1fp.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/fpdbdq.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/ew9abd.pdf), Quizzes
+			- [Quiz 6 2023.pdf](https://files.catbox.moe/touvk5.pdf), Quizzes
+			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/eu1lf6.pdf), Quizzes
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/stzxkx.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/kjaxvy.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Introduction-to-Sociology-and-Anthropology
+			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
+		- Money-and-Banking
+			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
+			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
+			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
+			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
+			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
+			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
+		- Key-Concepts-in-Economic-Sociology
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Discrete-Structures
+			- [End Sem 2022 Soln.pdf](https://files.catbox.moe/wawb0j.pdf), Paper
+			- [End sem 2022.pdf](https://files.catbox.moe/bm2o59.pdf), Paper
+			- [Lecture 0 (Intro).pptx](https://files.catbox.moe/ava3gs.pdf), Lecture_Slides
+			- [Lecture 2.pptx](https://files.catbox.moe/d2czlz.pdf), Lecture_Slides
+			- [Lecture 1.pptx](https://files.catbox.moe/shzzci.pdf), Lecture_Slides
+			- [Lecture 16.pptx](https://files.catbox.moe/phih3x.pdf), Lecture_Slides
+			- [Lecture 15.pptx](https://files.catbox.moe/u2zqhn.pdf), Lecture_Slides
+			- [Lecture 14.pptx](https://files.catbox.moe/l84apr.pdf), Lecture_Slides
+			- [Lecture 13.pptx](https://files.catbox.moe/tfgcff.pdf), Lecture_Slides
+			- [Lecture 12.pptx](https://files.catbox.moe/orgdtx.pdf), Lecture_Slides
+			- [Lecture 11.pptx](https://files.catbox.moe/uixkxe.pdf), Lecture_Slides
+			- [Lecture 10.pptx](https://files.catbox.moe/qnm8lk.pdf), Lecture_Slides
+			- [Lecture 9.pptx](https://files.catbox.moe/51npmi.pdf), Lecture_Slides
+			- [Lecture 8.pptx](https://files.catbox.moe/hhj8e3.pdf), Lecture_Slides
+			- [Lecture 7.pptx](https://files.catbox.moe/va66gh.pdf), Lecture_Slides
+			- [Lecture 6.pptx](https://files.catbox.moe/dr191f.pdf), Lecture_Slides
+			- [Lecture 5.pptx](https://files.catbox.moe/btgzs8.pdf), Lecture_Slides
+			- [Lecture 3.pptx](https://files.catbox.moe/n4wa8s.pdf), Lecture_Slides
+			- [Lecture 4.pptx](https://files.catbox.moe/mhkhfe.pdf), Lecture_Slides
+			- [Lecture 24 (Extra).pptx](https://files.catbox.moe/pc3yzu.pdf), Lecture_Slides
+			- [Lecture 24.pdf](https://files.catbox.moe/kaujh6.pdf), Lecture_Slides
+			- [Lecture 23.pptx](https://files.catbox.moe/qi2n0q.pdf), Lecture_Slides
+			- [Lecture 22.pptx](https://files.catbox.moe/uf52se.pdf), Lecture_Slides
+			- [Lecture 21.pptx](https://files.catbox.moe/7b0evr.pdf), Lecture_Slides
+			- [Lecture 20.pptx](https://files.catbox.moe/be9bdg.pdf), Lecture_Slides
+			- [Lecture 19.pptx](https://files.catbox.moe/mljfnq.pdf), Lecture_Slides
+			- [Lecture 18.pptx](https://files.catbox.moe/tuw1f1.pdf), Lecture_Slides
+			- [Lecture 17.pptx](https://files.catbox.moe/uzz19v.pdf), Lecture_Slides
+			- [Mid sem 2022 Soln.pdf](https://files.catbox.moe/g2cqhq.pdf), Paper
+			- [Mid sem 2022.jpg](https://files.catbox.moe/xespm2.pdf), Paper
+			- [TUT 12 Soln 2.pdf](https://files.catbox.moe/nu2uwo.pdf), Tutorial_Assignment
+			- [TUT 12 Soln 1.pdf](https://files.catbox.moe/qeyf0n.pdf), Tutorial_Assignment
+			- [TUT 11 Soln.pdf](https://files.catbox.moe/geafgz.pdf), Tutorial_Assignment
+			- [TUT 10 Soln.pdf](https://files.catbox.moe/723a20.pdf), Tutorial_Assignment
+			- [TUT 9 Soln.pdf](https://files.catbox.moe/cth9lq.pdf), Tutorial_Assignment
+			- [TUT 8 Soln (Extra).pdf](https://files.catbox.moe/xmmpg3.pdf), Tutorial_Assignment
+			- [TUT 8 Soln.pdf](https://files.catbox.moe/07u01m.pdf), Tutorial_Assignment
+			- [TUT 7 Soln.pdf](https://files.catbox.moe/yozttw.pdf), Tutorial_Assignment
+			- [TUT 6 Soln.pdf](https://files.catbox.moe/0sgmsk.pdf), Tutorial_Assignment
+			- [TUT 5 Soln.pdf](https://files.catbox.moe/z9k81x.pdf), Tutorial_Assignment
+			- [TUT 4 Soln Q9.pdf](https://files.catbox.moe/4hdotr.pdf), Tutorial_Assignment
+			- [TUT 4 Soln.pdf](https://files.catbox.moe/cldoae.pdf), Tutorial_Assignment
+			- [TUT 3 Soln Q2&9.pdf](https://files.catbox.moe/yj9pp0.pdf), Tutorial_Assignment
+			- [TUT 3 Soln part 1.pdf](https://files.catbox.moe/9gbcfd.pdf), Tutorial_Assignment
+			- [TUT 2 Soln part 2.pdf](https://files.catbox.moe/6gywp3.pdf), Tutorial_Assignment
+			- [TUT 2 Soln part 1.pdf](https://files.catbox.moe/p8qwne.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q13_19.pdf](https://files.catbox.moe/rn2jy4.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q4&6.pdf](https://files.catbox.moe/4nmj8w.pdf), Tutorial_Assignment
+			- [TUT 1 Soln Q1_12.pdf](https://files.catbox.moe/7w4z0w.pdf), Tutorial_Assignment
+			- [TUT 12.pdf](https://files.catbox.moe/9kamh5.pdf), Tutorial_Assignment
+			- [TUT 11.pdf](https://files.catbox.moe/cbux3s.pdf), Tutorial_Assignment
+			- [TUT 10.pdf](https://files.catbox.moe/24kw8x.pdf), Tutorial_Assignment
+			- [TUT 9.pdf](https://files.catbox.moe/c25q27.pdf), Tutorial_Assignment
+			- [TUT 8.pdf](https://files.catbox.moe/beayqn.pdf), Tutorial_Assignment
+			- [TUT 7.pdf](https://files.catbox.moe/h7evbx.pdf), Tutorial_Assignment
+			- [TUT 6.pdf](https://files.catbox.moe/061ach.pdf), Tutorial_Assignment
+			- [TUT 5.pdf](https://files.catbox.moe/ik0956.pdf), Tutorial_Assignment
+			- [TUT 4.pdf](https://files.catbox.moe/a1jc12.pdf), Tutorial_Assignment
+			- [TUT 3.pdf](https://files.catbox.moe/n31g6y.pdf), Tutorial_Assignment
+			- [TUT 2.pdf](https://files.catbox.moe/7uibfr.pdf), Tutorial_Assignment
+			- [TUT 1.pdf](https://files.catbox.moe/qi558e.pdf), Tutorial_Assignment
+			- [Assignment 9 Solution.pdf](https://files.catbox.moe/8iasnk.pdf), Assignment
+			- [Assignment 8 & 9 2022 Rubric.pdf](https://files.catbox.moe/k4xowk.pdf), Assignment
+			- [Assignment 8 2022 Solution.pdf](https://files.catbox.moe/98ja6b.pdf), Assignment
+			- [Assignment 7 2022 Solution.pdf](https://files.catbox.moe/5esw40.pdf), Assignment
+			- [Assignment 6 2022 Solution.pdf](https://files.catbox.moe/u8kzt5.pdf), Assignment
+			- [Assignment 5 2022 Rubric.pdf](https://files.catbox.moe/qqdadd.pdf), Assignment
+			- [Assignment 4 2022 Solution.pdf](https://files.catbox.moe/u88hm4.pdf), Assignment
+			- [Assignment 4 2022 Rubric.pdf](https://files.catbox.moe/iyen3u.pdf), Assignment
+			- [Assignment 3 2022 Solution.pdf](https://files.catbox.moe/k90eys.pdf), Assignment
+			- [Assignment 3 2022 Rubric.pdf](https://files.catbox.moe/qk9z56.pdf), Assignment
+			- [Assignment 2 2022 Solution.pdf](https://files.catbox.moe/xorcq3.pdf), Assignment
+			- [Assignment 2 2022 Rubric.pdf](https://files.catbox.moe/wg6wao.pdf), Assignment
+			- [Assignment 1 2022 Solution.pdf](https://files.catbox.moe/371zpm.pdf), Assignment
+			- [Notes 21.pdf](https://files.catbox.moe/t01zcu.pdf), Note
+			- [Notes 20.pdf](https://files.catbox.moe/qh713z.pdf), Note
+			- [Notes 19.pdf](https://files.catbox.moe/86qfvl.pdf), Note
+			- [Notes 18.pdf](https://files.catbox.moe/30zx9z.pdf), Note
+			- [Notes 17.pdf](https://files.catbox.moe/m5tmnd.pdf), Note
+			- [Notes 16.pdf](https://files.catbox.moe/hwg6as.pdf), Note
+			- [Notes 15.pdf](https://files.catbox.moe/rbf6y6.pdf), Note
+			- [Notes 14.pdf](https://files.catbox.moe/619o0c.pdf), Note
+			- [Notes 13.pdf](https://files.catbox.moe/unxk63.pdf), Note
+			- [Notes 12.pdf](https://files.catbox.moe/oq4eyj.pdf), Note
+			- [Notes 11.pdf](https://files.catbox.moe/532wbu.pdf), Note
+			- [Notes 10.pdf](https://files.catbox.moe/ajhl9c.pdf), Note
+			- [Notes 9.pdf](https://files.catbox.moe/truhxe.pdf), Note
+			- [Notes 8.pdf](https://files.catbox.moe/6pu2kd.pdf), Note
+			- [Notes 7 (EXTRA).pdf](https://files.catbox.moe/ivzjhf.pdf), Note
+			- [Notes 7.pdf](https://files.catbox.moe/3dzlm2.pdf), Note
+			- [Notes 6.pdf](https://files.catbox.moe/avsa7a.pdf), Note
+			- [Notes 5.pdf](https://files.catbox.moe/rqg61r.pdf), Note
+			- [Notes 4.pdf](https://files.catbox.moe/2irh7w.pdf), Note
+			- [Notes 3.pdf](https://files.catbox.moe/6s4g30.pdf), Note
+			- [Notes 2.pdf](https://files.catbox.moe/zco3lg.pdf), Note
+			- [Notes 1.pdf](https://files.catbox.moe/lkgk13.pdf), Note
+			- [Discrete Structures Syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Kimberly Brehm- Discrete Structures.playlist](https://files.catbox.moe/dpb94y.txt), Playlist
+			- [DS(2023)_midsem.pdf](https://files.catbox.moe/p7fw6w.pdf), Paper
+		- Signals-&-Systems
+			- [Lecture 14.pdf](https://files.catbox.moe/naiw2b.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/6yvjfb.pdf), Lecture_Slides
+			- [Lecture 12.pdf](https://files.catbox.moe/66s8qk.pdf), Lecture_Slides
+			- [Lecture 11.pdf](https://files.catbox.moe/coav0d.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/6gtg1b.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/bdj59i.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/vd2xhp.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/p46tg2.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/qat6jb.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/juv8eo.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/ns1y7b.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/w84kjw.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/unoc26.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/7hpmfv.pdf), Lecture_Slides
+			- [Endsem 2022.pdf](https://files.catbox.moe/a2iqkg.pdf), Paper
+			- [Endsem 2022 sol.pdf](https://files.catbox.moe/peduv5.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/08t43k.pdf), Paper
+			- [Midsem 2022 sol.pdf](https://files.catbox.moe/b75009.pdf), Paper
+			- [Quiz 10 2022 sol.pdf](https://files.catbox.moe/4autbr.pdf), Quizzes
+			- [Quiz 9 2022.pdf](https://files.catbox.moe/pifq6k.pdf), Quizzes
+			- [Quiz 9 2022 sol.pdf](https://files.catbox.moe/wx0fnx.pdf), Quizzes
+			- [Quiz 8 2022.pdf](https://files.catbox.moe/xv9l6i.pdf), Quizzes
+			- [Quiz 8 2022 sol.pdf](https://files.catbox.moe/m9mzln.pdf), Quizzes
+			- [Quiz 7 2022.pdf](https://files.catbox.moe/byotbp.pdf), Quizzes
+			- [Quiz 7 2022 sol.pdf](https://files.catbox.moe/bcdqb3.pdf), Quizzes
+			- [Quiz 6 2022.pdf](https://files.catbox.moe/o3tcjl.pdf), Quizzes
+			- [Quiz 5 2022.pdf](https://files.catbox.moe/j6swlx.pdf), Quizzes
+			- [Quiz 6 2022 sol.pdf](https://files.catbox.moe/lljmad.pdf), Quizzes
+			- [Quiz 4 2022.pdf](https://files.catbox.moe/4sph24.pdf), Quizzes
+			- [Quiz 5 2022 sol.pdf](https://files.catbox.moe/cwe0aq.pdf), Quizzes
+			- [Quiz 4 2022 sol.pdf](https://files.catbox.moe/554a98.pdf), Quizzes
+			- [Quiz 3 2022 sol.pdf](https://files.catbox.moe/pv1i80.pdf), Quizzes
+			- [Quiz 3 2022.pdf](https://files.catbox.moe/3a7ui1.pdf), Quizzes
+			- [Quiz 2 2022.pdf](https://files.catbox.moe/w941ek.pdf), Quizzes
+			- [Quiz 2 2022 sol.pdf](https://files.catbox.moe/9olddt.pdf), Quizzes
+			- [Quiz 1 2022 sol.pdf](https://files.catbox.moe/0imc6e.pdf), Quizzes
+			- [Quiz 1 2022.pdf](https://files.catbox.moe/l9jz6u.pdf), Quizzes
+			- [Optional Quiz 2022.pdf](https://files.catbox.moe/epmahr.pdf), Quizzes
+			- [Optional Quiz 2022 sol.pdf](https://files.catbox.moe/0qop1v.pdf), Quizzes
+			- [Quiz 10 2022.pdf](https://files.catbox.moe/o658gm.pdf), Quizzes
+			- [Signals & Systems course plan.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [SNS Syllabus.pdf](https://files.catbox.moe/3lq1na.pdf), Books_And_Misc
+			- [SNS - NESO.playlist](https://files.catbox.moe/cyj9oo.txt), Playlist
+			- [SnS midsem 2023.pdf](https://files.catbox.moe/yw0s5d.pdf), Paper
+			- [SNS - II(Oppenheim).pdf](https://files.catbox.moe/6o1fey.pdf), Book
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/04ww4j.pdf), Quizzes
+			- [Quiz 1 2023.pdf](https://files.catbox.moe/buae0c.pdf), Quizzes
+			- [ Quiz 4 2023.pdf](https://files.catbox.moe/h2xuip.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/802t41.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/y3wy8k.pdf), Quizzes
+			- [End Sem Sol 2023.pdf](https://files.catbox.moe/j3gh3f.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/igwnrv.pdf), Paper
+		- Number-Theory
+			- [Midsem Soln 2022[1].pdf](https://files.catbox.moe/uqiygi.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/ml3dxc.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/7d0xna.pdf), Paper
+			- [Lecture 8.pdf](https://files.catbox.moe/ljxfbo.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/fceo6i.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/wl1er2.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/qlexn8.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/jzkd8l.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/l5p49n.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/m38yti.pdf), Lecture_Slides
+			- [Lecture 21.pdf](https://files.catbox.moe/mqhcje.pdf), Lecture_Slides
+			- [Lecture 20.pdf](https://files.catbox.moe/2fxa04.pdf), Lecture_Slides
+			- [Lecture 19.pdf](https://files.catbox.moe/m8w60j.pdf), Lecture_Slides
+			- [Lecture 18.pdf](https://files.catbox.moe/w9phgi.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/njjfw4.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/euxcqz.pdf), Lecture_Slides
+			- [Lecture 12.pdf](https://files.catbox.moe/0qbqn3.pdf), Lecture_Slides
+			- [Lecture 11.pdf](https://files.catbox.moe/m9qgy1.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/xqtpbp.pdf), Lecture_Slides
+			- [Homework 2.pdf](https://files.catbox.moe/to8c7z.pdf), Assignment
+			- [Homework 1.pdf](https://files.catbox.moe/f4u1zk.pdf), Assignment
+			- [HW-1 Solutions.pdf](https://files.catbox.moe/fkyp0b.pdf), Assignment
+			- [Formula Sheet.pdf](https://files.catbox.moe/tznfau.pdf), Book
+			- [Kenneth H. Rosen - Instructor's Resource Guide to Accompany Discrete Mathematics and Its Applications, 6th Edition [Black and white] (2017).pdf](https://files.catbox.moe/tuc4xx.pdf), Books_And_Misc
+			- [Midsem 2023.pdf](https://files.catbox.moe/m08bhv.pdf), Paper
+		- Real-Analysis---1
+			- [Midsem 2022 Soln.pdf](https://files.catbox.moe/is30o1.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/53llqu.pdf), Paper
+			- [Michael Penn-Real Analysis.playlist](https://files.catbox.moe/yy2sdc.txt), Playlist
+			- [2023_midsem.pdf](https://files.catbox.moe/4owcjx.pdf), Paper
+		- Social-and-Political-Philosophy
+			- [Rajeev Bhargava, Ashok Acharyha - Political Theory  An Introduction-Pearson Education (2008).pdf](https://files.catbox.moe/ipv0vy.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/fqdl0x.pdf), Paper
+		- DBMS
+			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
+			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
+			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
+			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
+			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
+			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
+			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
+			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
+			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
+		- Econometrics
+		- Analysis-and-Design-of-Algorithms
+			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
+			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
+			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
+			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
+			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
+			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
+			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
+			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
+			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
+			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
+			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
+			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
+			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
+			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
+			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
+			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
+			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
+			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
+			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
+			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
+			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
+			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
+			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
+			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
+			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
+			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
+			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
+			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
+			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
+			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
+			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
+			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
+			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+		- Theory-of-Computation
+	- ECE
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Basic-Electronics
+			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
+			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
+			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
+			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
+			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
+			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
+			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
+			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
+			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
+			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
+			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
+			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
+			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
+			- [ Midsem_2023.pdf](https://files.catbox.moe/mnid53.pdf), Paper
+			- [Assignment 4 2023.pdf](https://files.catbox.moe/jpu3i7.pdf), Assignment
+			- [Assignment 3 2023.pdf](https://files.catbox.moe/rnnito.pdf), Assignment
+			- [Assignment 2 2023.pdf](https://files.catbox.moe/db3n43.pdf), Assignment
+			- [Assignment 1 2023.pdf](https://files.catbox.moe/v96go3.pdf), Assignment
+			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/6fuzo2.pdf), Quizzes
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/3smpbq.pdf), Quizzes
+			- [Quiz 4 2023.pdf](https://files.catbox.moe/5y9930.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/313cy9.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/55bg25.pdf), Quizzes
+			- [Quiz 6 2023.pdf](https://files.catbox.moe/15laye.pdf), Quizzes
+			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/jcv3g0.pdf), Quizzes
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/gj1ezg.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/m1ap6b.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Introduction-to-Sociology-and-Anthropology
+			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
+		- Money-and-Banking
+			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
+			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
+			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
+			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
+			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
+			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
+		- Key-Concepts-in-Economic-Sociology
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Multivariate-calculus-3
+			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
+			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
+			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
+			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
+			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
+			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
+			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
+			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
+			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
+			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
+			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
+			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
+			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
+			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
+			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
+			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
+			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
+			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
+			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
+			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
+			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
+			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
+			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
+			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
+			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
+			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
+			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
+			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
+			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
+			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
+			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
+			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
+			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
+			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
+			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
+			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
+			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
+			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
+			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
+			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
+			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
+		- Signals-&-Systems
+			- [Lecture 14.pdf](https://files.catbox.moe/naiw2b.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/6yvjfb.pdf), Lecture_Slides
+			- [Lecture 12.pdf](https://files.catbox.moe/66s8qk.pdf), Lecture_Slides
+			- [Lecture 11.pdf](https://files.catbox.moe/coav0d.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/6gtg1b.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/bdj59i.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/vd2xhp.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/p46tg2.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/qat6jb.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/juv8eo.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/ns1y7b.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/w84kjw.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/unoc26.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/7hpmfv.pdf), Lecture_Slides
+			- [Endsem 2022.pdf](https://files.catbox.moe/a2iqkg.pdf), Paper
+			- [Endsem 2022 sol.pdf](https://files.catbox.moe/peduv5.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/08t43k.pdf), Paper
+			- [Midsem 2022 sol.pdf](https://files.catbox.moe/b75009.pdf), Paper
+			- [Quiz 10 2022 sol.pdf](https://files.catbox.moe/4autbr.pdf), Quizzes
+			- [Quiz 9 2022.pdf](https://files.catbox.moe/pifq6k.pdf), Quizzes
+			- [Quiz 9 2022 sol.pdf](https://files.catbox.moe/wx0fnx.pdf), Quizzes
+			- [Quiz 8 2022.pdf](https://files.catbox.moe/xv9l6i.pdf), Quizzes
+			- [Quiz 8 2022 sol.pdf](https://files.catbox.moe/m9mzln.pdf), Quizzes
+			- [Quiz 7 2022.pdf](https://files.catbox.moe/byotbp.pdf), Quizzes
+			- [Quiz 7 2022 sol.pdf](https://files.catbox.moe/bcdqb3.pdf), Quizzes
+			- [Quiz 6 2022.pdf](https://files.catbox.moe/o3tcjl.pdf), Quizzes
+			- [Quiz 5 2022.pdf](https://files.catbox.moe/j6swlx.pdf), Quizzes
+			- [Quiz 6 2022 sol.pdf](https://files.catbox.moe/lljmad.pdf), Quizzes
+			- [Quiz 4 2022.pdf](https://files.catbox.moe/4sph24.pdf), Quizzes
+			- [Quiz 5 2022 sol.pdf](https://files.catbox.moe/cwe0aq.pdf), Quizzes
+			- [Quiz 4 2022 sol.pdf](https://files.catbox.moe/554a98.pdf), Quizzes
+			- [Quiz 3 2022 sol.pdf](https://files.catbox.moe/pv1i80.pdf), Quizzes
+			- [Quiz 3 2022.pdf](https://files.catbox.moe/3a7ui1.pdf), Quizzes
+			- [Quiz 2 2022.pdf](https://files.catbox.moe/w941ek.pdf), Quizzes
+			- [Quiz 2 2022 sol.pdf](https://files.catbox.moe/9olddt.pdf), Quizzes
+			- [Quiz 1 2022 sol.pdf](https://files.catbox.moe/0imc6e.pdf), Quizzes
+			- [Quiz 1 2022.pdf](https://files.catbox.moe/l9jz6u.pdf), Quizzes
+			- [Optional Quiz 2022.pdf](https://files.catbox.moe/epmahr.pdf), Quizzes
+			- [Optional Quiz 2022 sol.pdf](https://files.catbox.moe/0qop1v.pdf), Quizzes
+			- [Quiz 10 2022.pdf](https://files.catbox.moe/o658gm.pdf), Quizzes
+			- [Signals & Systems course plan.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [SNS Syllabus.pdf](https://files.catbox.moe/3lq1na.pdf), Books_And_Misc
+			- [SNS - NESO.playlist](https://files.catbox.moe/cyj9oo.txt), Playlist
+			- [SnS midsem 2023.pdf](https://files.catbox.moe/yw0s5d.pdf), Paper
+			- [SNS - II(Oppenheim).pdf](https://files.catbox.moe/6o1fey.pdf), Book
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/04ww4j.pdf), Quizzes
+			- [Quiz 1 2023.pdf](https://files.catbox.moe/buae0c.pdf), Quizzes
+			- [ Quiz 4 2023.pdf](https://files.catbox.moe/h2xuip.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/802t41.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/y3wy8k.pdf), Quizzes
+			- [End Sem Sol 2023.pdf](https://files.catbox.moe/j3gh3f.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/igwnrv.pdf), Paper
+		- Social-and-Political-Philosophy
+			- [Rajeev Bhargava, Ashok Acharyha - Political Theory  An Introduction-Pearson Education (2008).pdf](https://files.catbox.moe/ipv0vy.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/fqdl0x.pdf), Paper
+		- Embedded-Logic-Design
+			- [Midsem 2022.pdf](https://files.catbox.moe/5ibywo.pdf), Paper
+			- [Midsem Lab 2020.pdf](https://files.catbox.moe/i9z3r1.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/v4l0gd.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/2cm2ii.pdf), Paper
+			- [Midsem Lab 2021.pdf](https://files.catbox.moe/ekw0by.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/p0lo01.pdf), Paper
+			- [Endsem Lab 2018.pdf](https://files.catbox.moe/fms4g4.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/wgvsoc.pdf), Paper
+			- [Endsem 2019.pdf](https://files.catbox.moe/nn2ilb.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/oanlcd.pdf), Paper
+			- [Endsem Lab 2021.pdf](https://files.catbox.moe/ed23a8.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/skux91.pdf), Paper
+			- [Lecture 28 pdf.pdf](https://files.catbox.moe/pt2mbn.pdf), Lecture_Slides
+			- [Lecture 27 pdf.pdf](https://files.catbox.moe/9ztnaj.pdf), Lecture_Slides
+			- [Lecture 26 pdf.pdf](https://files.catbox.moe/ipz74z.pdf), Lecture_Slides
+			- [Lecture 25 pdf.pdf](https://files.catbox.moe/ty91l5.pdf), Lecture_Slides
+			- [Lecture 24 pdf.pdf](https://files.catbox.moe/5kv84p.pdf), Lecture_Slides
+			- [Lecture 23 pdf.pdf](https://files.catbox.moe/mod6rm.pdf), Lecture_Slides
+			- [Lecture 22 pdf.pdf](https://files.catbox.moe/rwllbh.pdf), Lecture_Slides
+			- [Lecture 21 pdf.pdf](https://files.catbox.moe/cce85b.pdf), Lecture_Slides
+			- [Lecture 20 pdf.pdf](https://files.catbox.moe/gvmjhu.pdf), Lecture_Slides
+			- [Lecture 19 pdf.pdf](https://files.catbox.moe/6irttj.pdf), Lecture_Slides
+			- [Lecture 18 pdf.pdf](https://files.catbox.moe/zbvzkz.pdf), Lecture_Slides
+			- [Lecture 17 pdf.pdf](https://files.catbox.moe/rhucuv.pdf), Lecture_Slides
+			- [Lecture 16 pdf.pdf](https://files.catbox.moe/ci8dii.pdf), Lecture_Slides
+			- [Lecture 15 pdf.pdf](https://files.catbox.moe/plxio7.pdf), Lecture_Slides
+			- [Lecture 14 pdf.pdf](https://files.catbox.moe/h6irse.pdf), Lecture_Slides
+			- [Lecture 13 pdf.pdf](https://files.catbox.moe/58t7xm.pdf), Lecture_Slides
+			- [Lecture 12 pdf.pdf](https://files.catbox.moe/3fmqtk.pdf), Lecture_Slides
+			- [Lecture 10 pdf.pdf](https://files.catbox.moe/4v93ag.pdf), Lecture_Slides
+			- [Lecture 11 pdf.pdf](https://files.catbox.moe/fi5hyu.pdf), Lecture_Slides
+			- [Lecture 9 pdf.pdf](https://files.catbox.moe/6teim7.pdf), Lecture_Slides
+			- [Lecture 7 pdf.pdf](https://files.catbox.moe/lsaafb.pdf), Lecture_Slides
+			- [Lecture 6 pdf.pdf](https://files.catbox.moe/o9qo94.pdf), Lecture_Slides
+			- [Lecture 5 pdf.pdf](https://files.catbox.moe/8a75df.pdf), Lecture_Slides
+			- [Lecture 4 pdf.pdf](https://files.catbox.moe/0ejouc.pdf), Lecture_Slides
+			- [Lecture 2 and 3 pdf.pdf](https://files.catbox.moe/rr2j1i.pdf), Lecture_Slides
+			- [Lecture 1 pdf.pdf](https://files.catbox.moe/94s15e.pdf), Lecture_Slides
+			- [Quiz 3 2022.pdf](https://files.catbox.moe/brvaiz.pdf), Quizzes
+			- [Quiz 2 2022.pdf](https://files.catbox.moe/vbsdpp.pdf), Quizzes
+			- [ELD Syllabus.pdf](https://files.catbox.moe/waphux.pdf), Books_And_Misc
+			- [ELD Labs (2021).playlist](https://files.catbox.moe/l5aara.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/ah7m0m.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/1c59oe.pdf), Paper
+		- Circuit-Theory-and-Devices
+			- [Endsem 2021.pdf](https://files.catbox.moe/zygo18.pdf), Paper
+			- [Lecture 7.pdf](https://files.catbox.moe/4m944s.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/jaen0j.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/7pjy50.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/liv41k.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/7at5lx.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/7at5lx.pdf), Lecture_Slides
+			- [Tutorial 12.pdf](https://files.catbox.moe/xn6f2d.pdf), Tutorial_Assignment
+			- [Tutorial 11.pdf](https://files.catbox.moe/awtzb6.pdf), Tutorial_Assignment
+			- [Tutorial 10.pdf](https://files.catbox.moe/59t80p.pdf), Tutorial_Assignment
+			- [Tutorial 9 .pdf](https://files.catbox.moe/sz88yi.pdf), Tutorial_Assignment
+			- [Tutorial 8 .pdf](https://files.catbox.moe/8wwhxk.pdf), Tutorial_Assignment
+			- [Tutorial 7 .pdf](https://files.catbox.moe/aafiyx.pdf), Tutorial_Assignment
+			- [Tutorial 6 .pdf](https://files.catbox.moe/4aktn8.pdf), Tutorial_Assignment
+			- [Tutorial 5.pdf](https://files.catbox.moe/hei8e7.pdf), Tutorial_Assignment
+			- [Tutorial 4 .pdf](https://files.catbox.moe/yshtpj.pdf), Tutorial_Assignment
+			- [Tutorial 3 .pdf](https://files.catbox.moe/wx6jjj.pdf), Tutorial_Assignment
+			- [Tutorial 2 .pdf](https://files.catbox.moe/9u6qaz.pdf), Tutorial_Assignment
+			- [Quiz 4.pdf](https://files.catbox.moe/dq5l9h.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/48bz7o.pdf), Quizzes
+			- [Quiz 2.pdf](https://files.catbox.moe/3t0dek.pdf), Quizzes
+			- [Quiz 1.pdf](https://files.catbox.moe/td3qbs.pdf), Quizzes
+			- [Tutorial 1.pdf](https://files.catbox.moe/joclok.pdf), Tutorial_Assignment
+			- [CTD Syllabus.pdf](https://files.catbox.moe/xebcno.pdf), Books_And_Misc
+			- [CTD Playlist.playlist](https://files.catbox.moe/yy1vgk.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/shfw1q.pdf), Paper
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- Fields-&-Waves
+			- [David J. Griffith.pdf](https://files.catbox.moe/zkzn0j.pdf), Book
+			- [David Solutions.pdf](https://files.catbox.moe/x1rg40.pdf), Book
+		- Integrated-Electronics
+			- [Sedra Smith.pdf](https://files.catbox.moe/va20ao.pdf), Book
+		- Principles-of-Communication-Systems
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+	- CSE
+		- Introduction-to-Human-Computer-Interaction
+			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
+			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
+			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
+			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
+			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
+			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
+			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
+			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
+			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
+			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
+			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
+			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
+			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
+			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
+		- Digital-Circuits
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
+			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
+			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
+			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
+			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
+			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
+			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
+			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
+			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
+			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
+			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
+			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
+			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
+			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
+			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
+			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
+			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
+			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
+			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
+			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
+			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
+			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
+			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
+			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
+			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
+			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
+			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
+			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
+			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
+			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
+			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
+			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
+		- Introduction-to-Programming
+			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
+			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
+			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
+			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
+			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
+			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
+			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
+			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
+			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
+			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
+			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
+			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
+			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
+			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
+			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
+			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
+			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
+			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
+			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
+			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
+			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
+			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
+			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
+			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
+			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
+			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
+			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
+			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
+			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
+			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
+			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
+			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
+			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
+			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
+			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
+			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
+			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
+			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
+			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
+			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
+			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
+			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
+			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
+			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
+			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
+			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
+			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
+			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
+			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
+		- Linear-Algebra
+			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
+			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
+			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
+			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
+			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
+			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
+			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
+			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
+			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
+			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
+			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
+			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
+			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
+			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
+			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
+			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
+			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
+			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
+			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
+			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
+			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
+			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
+			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
+			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
+			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
+			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
+			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
+			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
+			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
+			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
+			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
+			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
+			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
+			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
+			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
+			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
+			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
+			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
+			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
+			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
+			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
+			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
+			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
+			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
+			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
+			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
+			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
+			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
+			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
+			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
+			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
+		- Comm-Skills
+			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
+			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
+			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
+			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
+			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
+			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
+			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
+			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
+			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
+			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
+			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
+			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
+			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
+			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
+			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
+			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
+			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
+			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
+			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
+			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
+		- Basic-Electronics
+			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
+			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
+			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
+			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
+			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
+			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
+			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
+			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
+			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
+			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
+			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
+			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
+			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
+			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
+			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
+			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
+			- [ Midsem_2023.pdf](https://files.catbox.moe/jgm3io.pdf), Paper
+			- [Assignment 4 2023.pdf](https://files.catbox.moe/u8lkbt.pdf), Assignment
+			- [Assignment 3 2023.pdf](https://files.catbox.moe/bddvtr.pdf), Assignment
+			- [Assignment 2 2023.pdf](https://files.catbox.moe/edejjg.pdf), Assignment
+			- [Assignment 1 2023.pdf](https://files.catbox.moe/qror0i.pdf), Assignment
+			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/cmumaa.pdf), Quizzes
+			- [Quiz 5 2023.pdf](https://files.catbox.moe/3feobr.pdf), Quizzes
+			- [Quiz 4 2023.pdf](https://files.catbox.moe/43wpzg.pdf), Quizzes
+			- [Quiz 3 2023.pdf](https://files.catbox.moe/jhu5zh.pdf), Quizzes
+			- [Quiz 2 2023.pdf](https://files.catbox.moe/rsunhw.pdf), Quizzes
+			- [Quiz 6 2023.pdf](https://files.catbox.moe/g9gcxe.pdf), Quizzes
+			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/9mowur.pdf), Quizzes
+		- Probability-and-Statistics
+			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
+			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
+			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
+			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
+			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
+			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
+			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
+			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
+			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
+			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
+			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
+			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
+			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
+			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
+			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
+			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
+			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
+			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
+			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
+			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
+			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
+			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
+			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
+			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
+			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
+			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
+			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
+			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
+			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
+			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
+			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
+			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
+			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
+			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
+			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
+			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
+			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/b54e4b.pdf), Paper
+			- [ Endsem 2023 B.pdf](https://files.catbox.moe/jeariv.pdf), Paper
+		- Data-Structures-and-Algorithms
+			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
+			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
+			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
+			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
+			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
+			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
+			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
+			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
+			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
+			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
+			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
+			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
+			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
+			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
+			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
+			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
+			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
+			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
+			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
+			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
+			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
+		- Computer-Organization
+			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
+			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
+			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
+			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
+			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
+			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
+			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
+			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
+			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
+			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
+			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
+			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
+			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
+			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
+			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
+			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
+			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
+			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
+			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
+			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
+			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
+			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
+			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
+			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
+			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
+			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
+			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
+			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
+		- Introduction-to-Sociology-and-Anthropology
+			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
+			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
+		- Money-and-Banking
+			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
+			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
+			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
+			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
+			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
+			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
+		- Operating-Systems
+			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
+			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
+			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
+			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
+			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
+			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
+			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
+			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
+			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
+			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
+			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
+			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
+			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
+			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
+			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
+			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
+			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
+			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
+			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
+			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
+			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
+			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
+			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
+			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
+			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
+			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
+			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
+			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
+			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
+			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
+			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
+			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
+			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
+			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
+			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
+			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
+			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
+			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
+			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
+			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
+			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
+			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
+			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
+			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
+			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
+			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
+			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
+			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
+			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
+			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
+			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
+			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
+			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
+			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
+			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
+			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
+			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
+			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/vt0dma.txt), Playlist
+		- Advanced-Programming
+			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
+			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
+			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
+			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
+			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
+			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
+			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
+			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
+			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
+			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
+			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
+			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
+			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
+			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
+			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
+			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
+			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
+			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
+			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
+			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
+		- Multivariate-calculus-3
+			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
+			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
+			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
+			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
+			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
+			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
+			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
+			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
+			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
+			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
+			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
+			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
+			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
+			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
+			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
+			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
+			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
+			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
+			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
+			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
+			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
+			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
+			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
+			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
+			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
+			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
+			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
+			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
+			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
+			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
+			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
+			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
+			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
+			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
+			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
+			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
+			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
+			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
+			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
+			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
+			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
+			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
+			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
+			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
+		- Number-Theory
+			- [Midsem Soln 2022[1].pdf](https://files.catbox.moe/uqiygi.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/ml3dxc.pdf), Paper
+			- [Endsem 2022.pdf](https://files.catbox.moe/7d0xna.pdf), Paper
+			- [Lecture 8.pdf](https://files.catbox.moe/ljxfbo.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/fceo6i.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/wl1er2.pdf), Lecture_Slides
+			- [Lecture 5.pdf](https://files.catbox.moe/qlexn8.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/jzkd8l.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/l5p49n.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/m38yti.pdf), Lecture_Slides
+			- [Lecture 21.pdf](https://files.catbox.moe/mqhcje.pdf), Lecture_Slides
+			- [Lecture 20.pdf](https://files.catbox.moe/2fxa04.pdf), Lecture_Slides
+			- [Lecture 19.pdf](https://files.catbox.moe/m8w60j.pdf), Lecture_Slides
+			- [Lecture 18.pdf](https://files.catbox.moe/w9phgi.pdf), Lecture_Slides
+			- [Lecture 15.pdf](https://files.catbox.moe/njjfw4.pdf), Lecture_Slides
+			- [Lecture 14.pdf](https://files.catbox.moe/euxcqz.pdf), Lecture_Slides
+			- [Lecture 12.pdf](https://files.catbox.moe/0qbqn3.pdf), Lecture_Slides
+			- [Lecture 11.pdf](https://files.catbox.moe/m9qgy1.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/xqtpbp.pdf), Lecture_Slides
+			- [Homework 2.pdf](https://files.catbox.moe/to8c7z.pdf), Assignment
+			- [Homework 1.pdf](https://files.catbox.moe/f4u1zk.pdf), Assignment
+			- [HW-1 Solutions.pdf](https://files.catbox.moe/fkyp0b.pdf), Assignment
+			- [Formula Sheet.pdf](https://files.catbox.moe/tznfau.pdf), Book
+			- [Kenneth H. Rosen - Instructor's Resource Guide to Accompany Discrete Mathematics and Its Applications, 6th Edition [Black and white] (2017).pdf](https://files.catbox.moe/tuc4xx.pdf), Books_And_Misc
+			- [Midsem 2023.pdf](https://files.catbox.moe/m08bhv.pdf), Paper
+		- Real-Analysis---1
+			- [Midsem 2022 Soln.pdf](https://files.catbox.moe/is30o1.pdf), Paper
+			- [Midsem 2022.pdf](https://files.catbox.moe/53llqu.pdf), Paper
+			- [Michael Penn-Real Analysis.playlist](https://files.catbox.moe/blbrin.txt), Playlist
+			- [2023_midsem.pdf](https://files.catbox.moe/4owcjx.pdf), Paper
+		- Social-and-Political-Philosophy
+			- [Rajeev Bhargava, Ashok Acharyha - Political Theory  An Introduction-Pearson Education (2008).pdf](https://files.catbox.moe/ipv0vy.pdf), Book
+			- [Midsem 2023.pdf](https://files.catbox.moe/fqdl0x.pdf), Paper
+		- Discrete-Mathematics
+			- [HW1.pdf](https://files.catbox.moe/n2ttfg.pdf), Other
+			- [HW3.pdf](https://files.catbox.moe/wjz33u.pdf), Other
+			- [HW4.pdf](https://files.catbox.moe/ku4glu.pdf), Other
+			- [HW5.pdf](https://files.catbox.moe/qtz1ul.pdf), Other
+			- [HW6.pdf](https://files.catbox.moe/7ygj76.pdf), Other
+			- [Class01.pptx](https://files.catbox.moe/gblynq.pdf), Lecture_Slides
+			- [Class02.pptx](https://files.catbox.moe/7wrnxb.pdf), Lecture_Slides
+			- [Class03.pptx](https://files.catbox.moe/gq3y26.pdf), Lecture_Slides
+			- [Class04.pptx](https://files.catbox.moe/av5j48.pdf), Lecture_Slides
+			- [Class05.pptx](https://files.catbox.moe/60lsjc.pdf), Lecture_Slides
+			- [Class06.pptx](https://files.catbox.moe/8n88gq.pdf), Lecture_Slides
+			- [Class07.pptx](https://files.catbox.moe/u32ww4.pdf), Lecture_Slides
+			- [Class08.pptx](https://files.catbox.moe/eju8kf.pdf), Lecture_Slides
+			- [Class09.pptx](https://files.catbox.moe/f41hg1.pdf), Lecture_Slides
+			- [Class10.pptx](https://files.catbox.moe/vjd1zi.pdf), Lecture_Slides
+			- [Class11.pptx](https://files.catbox.moe/hnykur.pdf), Lecture_Slides
+			- [Class12.pptx](https://files.catbox.moe/6vcisf.pdf), Lecture_Slides
+			- [Class13.pptx](https://files.catbox.moe/9gu6fq.pdf), Lecture_Slides
+			- [Class15.pptx](https://files.catbox.moe/cboc2a.pdf), Lecture_Slides
+			- [Class16.pptx](https://files.catbox.moe/lumix4.pdf), Lecture_Slides
+			- [Class17.pptx](https://files.catbox.moe/679mul.pdf), Lecture_Slides
+			- [Class18.pptx](https://files.catbox.moe/ekyw6v.pdf), Lecture_Slides
+			- [Class19.pptx](https://files.catbox.moe/nv0p74.pdf), Lecture_Slides
+			- [Class20.pptx](https://files.catbox.moe/pcqv6h.pdf), Lecture_Slides
+			- [Class21.pptx](https://files.catbox.moe/0nb641.pdf), Lecture_Slides
+			- [Class22.pptx](https://files.catbox.moe/o4roug.pdf), Lecture_Slides
+			- [Class23.pptx](https://files.catbox.moe/k6fokg.pdf), Lecture_Slides
+			- [Class24.pptx](https://files.catbox.moe/cbfbdl.pdf), Lecture_Slides
+			- [Class26 (1).pptx](https://files.catbox.moe/0psf1c.pdf), Lecture_Slides
+			- [Class26 (2).pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
+			- [Class26.pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
+			- [MidSem Soln 2022.pdf](https://files.catbox.moe/cahif8.pdf), Paper
+			- [Pre-Endsem 2022.pdf](https://files.catbox.moe/f8namz.pdf), Paper
+			- [Assignment-1.pdf](https://files.catbox.moe/ufakfa.pdf), Assignment
+			- [Discrete Math  by Kimberly Brehm.playlist](https://files.catbox.moe/5dafuf.txt), Playlist
+			- [Discrete Maths by Neso Academy.playlist](https://files.catbox.moe/g0vn9s.txt), Playlist
+			- [HW2.pdf](https://files.catbox.moe/fnenrf.pdf), Other
+			- [Project.pdf](https://files.catbox.moe/t4tgx1.pdf), Books_And_Misc
+			- [Midsem 2023.pdf](https://files.catbox.moe/ywtg9v.pdf), Paper
+		- DBMS
+			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
+			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
+			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
+			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
+			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
+			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
+			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
+			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
+			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
+			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
+			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
+			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
+			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
+			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
+			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
+			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
+			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
+			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
+		- Econometrics
+		- Analysis-and-Design-of-Algorithms
+			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
+			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
+			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
+			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
+			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
+			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
+			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
+			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
+			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
+			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
+			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
+			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
+			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
+			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
+			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
+			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
+			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
+			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
+			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
+			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
+			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
+			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
+			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
+			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
+			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
+			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
+			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
+			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
+			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
+			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
+			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
+			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
+			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
+			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
+		- PIS
+			- [Assignment 3.pdf](https://files.catbox.moe/ptvj0a.pdf), Assignment
+			- [Assignment 4.pdf](https://files.catbox.moe/f30rrd.pdf), Assignment
+			- [PIS A2.png](https://files.catbox.moe/vssxtc.pdf), Assignment
+			- [Week 2_Assignment_1.pdf](https://files.catbox.moe/mk6jge.pdf), Assignment
+			- [Field-Guide-to-Human-Centered-Design_IDEOorg.pdf](https://files.catbox.moe/s720hm.pdf), Lecture_Slides
+			- [Prototype.pdf](https://files.catbox.moe/fup5xi.pdf), Lecture_Slides
+			- [SuriExperiencePrototyping.pdf](https://files.catbox.moe/j1um5s.pdf), Lecture_Slides
+			- [Week2.pdf](https://files.catbox.moe/6hfoi0.pdf), Lecture_Slides
+			- [Week1.pdf](https://files.catbox.moe/rpj03r.pdf), Lecture_Slides
+			- [In-class Exercise 1.png](https://files.catbox.moe/gkmitt.pdf), Paper
+			- [Mid Sem Assignment.pdf](https://files.catbox.moe/dmqcac.pdf), Paper
+			- [Report Template.docx](Bad file type! docx isn't allowed!), Paper
+		- Nation-and-her-Narratives
+			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
+			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
+			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
+			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
+			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
+			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
+			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
+			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
+			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
+			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
+			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
+		- M4-ODE-PDE
+			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
+		- Practical-Bioinformatics
+		- Theory-of-Computation
+	- Fresources-Test-Dev
+		- Fresources-Test-Subject
+			- [Dhruv Bakshi Master Resume 2.pdf](https://files.catbox.moe/l1sh1n.pdf), Book
 - DTU
 	- ME
 		- Engineering-Materials-&-Metallurgy
@@ -21074,4583 +25654,3 @@
 			- [PRACTICE QUESTION.pdf](https://files.catbox.moe/dsnbzo.pdf), Paper
 			- [End Sem ( Chemistry ) - 2023.pdf](https://files.catbox.moe/5yu3ao.pdf), Paper
 			- [Mid Sem ( Chemistry) -2023.pdf](https://files.catbox.moe/y9zczo.pdf), Paper
-- IIITD
-	- CSD
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/wxlvvz.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/ho9u2l.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Operating-Systems
-			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
-			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
-			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
-			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
-			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
-			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
-			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
-			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
-			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
-			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
-			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
-			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
-			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
-			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
-			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
-			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
-			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
-			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
-			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
-			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
-			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
-			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
-			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
-			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
-			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
-			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
-			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
-			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
-			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
-			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
-			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
-			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
-			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
-			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
-			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
-			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
-			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
-			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
-			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
-			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
-			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
-			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
-			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
-			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
-			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
-			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
-			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
-			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
-			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
-			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
-			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
-			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
-			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
-			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
-			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
-			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
-			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
-			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/dz882d.txt), Playlist
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Multivariate-calculus-3
-			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
-			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
-			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
-			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
-			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
-			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
-			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
-			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
-			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
-			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
-			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
-			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
-			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
-			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
-			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
-			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
-			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
-			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
-			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
-			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
-			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
-			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
-			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
-			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
-			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
-			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
-			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
-			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
-			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
-			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
-			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
-			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
-			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
-			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
-			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
-			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
-			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
-			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
-			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
-			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
-			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
-		- Discrete-Structures
-			- [End Sem 2022 Soln.pdf](https://files.catbox.moe/wawb0j.pdf), Paper
-			- [End sem 2022.pdf](https://files.catbox.moe/bm2o59.pdf), Paper
-			- [Lecture 0 (Intro).pptx](https://files.catbox.moe/ava3gs.pdf), Lecture_Slides
-			- [Lecture 2.pptx](https://files.catbox.moe/d2czlz.pdf), Lecture_Slides
-			- [Lecture 1.pptx](https://files.catbox.moe/shzzci.pdf), Lecture_Slides
-			- [Lecture 16.pptx](https://files.catbox.moe/phih3x.pdf), Lecture_Slides
-			- [Lecture 15.pptx](https://files.catbox.moe/u2zqhn.pdf), Lecture_Slides
-			- [Lecture 14.pptx](https://files.catbox.moe/l84apr.pdf), Lecture_Slides
-			- [Lecture 13.pptx](https://files.catbox.moe/tfgcff.pdf), Lecture_Slides
-			- [Lecture 12.pptx](https://files.catbox.moe/orgdtx.pdf), Lecture_Slides
-			- [Lecture 11.pptx](https://files.catbox.moe/uixkxe.pdf), Lecture_Slides
-			- [Lecture 10.pptx](https://files.catbox.moe/qnm8lk.pdf), Lecture_Slides
-			- [Lecture 9.pptx](https://files.catbox.moe/51npmi.pdf), Lecture_Slides
-			- [Lecture 8.pptx](https://files.catbox.moe/hhj8e3.pdf), Lecture_Slides
-			- [Lecture 7.pptx](https://files.catbox.moe/va66gh.pdf), Lecture_Slides
-			- [Lecture 6.pptx](https://files.catbox.moe/dr191f.pdf), Lecture_Slides
-			- [Lecture 5.pptx](https://files.catbox.moe/btgzs8.pdf), Lecture_Slides
-			- [Lecture 3.pptx](https://files.catbox.moe/n4wa8s.pdf), Lecture_Slides
-			- [Lecture 4.pptx](https://files.catbox.moe/mhkhfe.pdf), Lecture_Slides
-			- [Lecture 24 (Extra).pptx](https://files.catbox.moe/pc3yzu.pdf), Lecture_Slides
-			- [Lecture 24.pdf](https://files.catbox.moe/kaujh6.pdf), Lecture_Slides
-			- [Lecture 23.pptx](https://files.catbox.moe/qi2n0q.pdf), Lecture_Slides
-			- [Lecture 22.pptx](https://files.catbox.moe/uf52se.pdf), Lecture_Slides
-			- [Lecture 21.pptx](https://files.catbox.moe/7b0evr.pdf), Lecture_Slides
-			- [Lecture 20.pptx](https://files.catbox.moe/be9bdg.pdf), Lecture_Slides
-			- [Lecture 19.pptx](https://files.catbox.moe/mljfnq.pdf), Lecture_Slides
-			- [Lecture 18.pptx](https://files.catbox.moe/tuw1f1.pdf), Lecture_Slides
-			- [Lecture 17.pptx](https://files.catbox.moe/uzz19v.pdf), Lecture_Slides
-			- [Mid sem 2022 Soln.pdf](https://files.catbox.moe/g2cqhq.pdf), Paper
-			- [Mid sem 2022.jpg](https://files.catbox.moe/xespm2.pdf), Paper
-			- [TUT 12 Soln 2.pdf](https://files.catbox.moe/nu2uwo.pdf), Tutorial_Assignment
-			- [TUT 12 Soln 1.pdf](https://files.catbox.moe/qeyf0n.pdf), Tutorial_Assignment
-			- [TUT 11 Soln.pdf](https://files.catbox.moe/geafgz.pdf), Tutorial_Assignment
-			- [TUT 10 Soln.pdf](https://files.catbox.moe/723a20.pdf), Tutorial_Assignment
-			- [TUT 9 Soln.pdf](https://files.catbox.moe/cth9lq.pdf), Tutorial_Assignment
-			- [TUT 8 Soln (Extra).pdf](https://files.catbox.moe/xmmpg3.pdf), Tutorial_Assignment
-			- [TUT 8 Soln.pdf](https://files.catbox.moe/07u01m.pdf), Tutorial_Assignment
-			- [TUT 7 Soln.pdf](https://files.catbox.moe/yozttw.pdf), Tutorial_Assignment
-			- [TUT 6 Soln.pdf](https://files.catbox.moe/0sgmsk.pdf), Tutorial_Assignment
-			- [TUT 5 Soln.pdf](https://files.catbox.moe/z9k81x.pdf), Tutorial_Assignment
-			- [TUT 4 Soln Q9.pdf](https://files.catbox.moe/4hdotr.pdf), Tutorial_Assignment
-			- [TUT 4 Soln.pdf](https://files.catbox.moe/cldoae.pdf), Tutorial_Assignment
-			- [TUT 3 Soln Q2&9.pdf](https://files.catbox.moe/yj9pp0.pdf), Tutorial_Assignment
-			- [TUT 3 Soln part 1.pdf](https://files.catbox.moe/9gbcfd.pdf), Tutorial_Assignment
-			- [TUT 2 Soln part 2.pdf](https://files.catbox.moe/6gywp3.pdf), Tutorial_Assignment
-			- [TUT 2 Soln part 1.pdf](https://files.catbox.moe/p8qwne.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q13_19.pdf](https://files.catbox.moe/rn2jy4.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q4&6.pdf](https://files.catbox.moe/4nmj8w.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q1_12.pdf](https://files.catbox.moe/7w4z0w.pdf), Tutorial_Assignment
-			- [TUT 12.pdf](https://files.catbox.moe/9kamh5.pdf), Tutorial_Assignment
-			- [TUT 11.pdf](https://files.catbox.moe/cbux3s.pdf), Tutorial_Assignment
-			- [TUT 10.pdf](https://files.catbox.moe/24kw8x.pdf), Tutorial_Assignment
-			- [TUT 9.pdf](https://files.catbox.moe/c25q27.pdf), Tutorial_Assignment
-			- [TUT 8.pdf](https://files.catbox.moe/beayqn.pdf), Tutorial_Assignment
-			- [TUT 7.pdf](https://files.catbox.moe/h7evbx.pdf), Tutorial_Assignment
-			- [TUT 6.pdf](https://files.catbox.moe/061ach.pdf), Tutorial_Assignment
-			- [TUT 5.pdf](https://files.catbox.moe/ik0956.pdf), Tutorial_Assignment
-			- [TUT 4.pdf](https://files.catbox.moe/a1jc12.pdf), Tutorial_Assignment
-			- [TUT 3.pdf](https://files.catbox.moe/n31g6y.pdf), Tutorial_Assignment
-			- [TUT 2.pdf](https://files.catbox.moe/7uibfr.pdf), Tutorial_Assignment
-			- [TUT 1.pdf](https://files.catbox.moe/qi558e.pdf), Tutorial_Assignment
-			- [Assignment 9 Solution.pdf](https://files.catbox.moe/8iasnk.pdf), Assignment
-			- [Assignment 8 & 9 2022 Rubric.pdf](https://files.catbox.moe/k4xowk.pdf), Assignment
-			- [Assignment 8 2022 Solution.pdf](https://files.catbox.moe/98ja6b.pdf), Assignment
-			- [Assignment 7 2022 Solution.pdf](https://files.catbox.moe/5esw40.pdf), Assignment
-			- [Assignment 6 2022 Solution.pdf](https://files.catbox.moe/u8kzt5.pdf), Assignment
-			- [Assignment 5 2022 Rubric.pdf](https://files.catbox.moe/qqdadd.pdf), Assignment
-			- [Assignment 4 2022 Solution.pdf](https://files.catbox.moe/u88hm4.pdf), Assignment
-			- [Assignment 4 2022 Rubric.pdf](https://files.catbox.moe/iyen3u.pdf), Assignment
-			- [Assignment 3 2022 Solution.pdf](https://files.catbox.moe/k90eys.pdf), Assignment
-			- [Assignment 3 2022 Rubric.pdf](https://files.catbox.moe/qk9z56.pdf), Assignment
-			- [Assignment 2 2022 Solution.pdf](https://files.catbox.moe/xorcq3.pdf), Assignment
-			- [Assignment 2 2022 Rubric.pdf](https://files.catbox.moe/wg6wao.pdf), Assignment
-			- [Assignment 1 2022 Solution.pdf](https://files.catbox.moe/371zpm.pdf), Assignment
-			- [Notes 21.pdf](https://files.catbox.moe/t01zcu.pdf), Note
-			- [Notes 20.pdf](https://files.catbox.moe/qh713z.pdf), Note
-			- [Notes 19.pdf](https://files.catbox.moe/86qfvl.pdf), Note
-			- [Notes 18.pdf](https://files.catbox.moe/30zx9z.pdf), Note
-			- [Notes 17.pdf](https://files.catbox.moe/m5tmnd.pdf), Note
-			- [Notes 16.pdf](https://files.catbox.moe/hwg6as.pdf), Note
-			- [Notes 15.pdf](https://files.catbox.moe/rbf6y6.pdf), Note
-			- [Notes 14.pdf](https://files.catbox.moe/619o0c.pdf), Note
-			- [Notes 13.pdf](https://files.catbox.moe/unxk63.pdf), Note
-			- [Notes 12.pdf](https://files.catbox.moe/oq4eyj.pdf), Note
-			- [Notes 11.pdf](https://files.catbox.moe/532wbu.pdf), Note
-			- [Notes 10.pdf](https://files.catbox.moe/ajhl9c.pdf), Note
-			- [Notes 9.pdf](https://files.catbox.moe/truhxe.pdf), Note
-			- [Notes 8.pdf](https://files.catbox.moe/6pu2kd.pdf), Note
-			- [Notes 7 (EXTRA).pdf](https://files.catbox.moe/ivzjhf.pdf), Note
-			- [Notes 7.pdf](https://files.catbox.moe/3dzlm2.pdf), Note
-			- [Notes 6.pdf](https://files.catbox.moe/avsa7a.pdf), Note
-			- [Notes 5.pdf](https://files.catbox.moe/rqg61r.pdf), Note
-			- [Notes 4.pdf](https://files.catbox.moe/2irh7w.pdf), Note
-			- [Notes 3.pdf](https://files.catbox.moe/6s4g30.pdf), Note
-			- [Notes 2.pdf](https://files.catbox.moe/zco3lg.pdf), Note
-			- [Notes 1.pdf](https://files.catbox.moe/lkgk13.pdf), Note
-			- [Discrete Structures Syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Kimberly Brehm- Discrete Structures.playlist](https://files.catbox.moe/ykqj9h.txt), Playlist
-			- [DS(2023)_midsem.pdf](https://files.catbox.moe/p7fw6w.pdf), Paper
-		- Research-Methods-in-Social-Science-and-Design
-			- [FINAL REVISED -RESEARCH METHODS 2022 (1).pdf](https://files.catbox.moe/yqduvu.pdf), Lecture_Slides
-			- [Information Archictures and Card Sorting (1).pdf](https://files.catbox.moe/6ry384.pdf), Lecture_Slides
-			- [Social Media Analytics.pptx[3719] (1).pdf](https://files.catbox.moe/morwxo.pdf), Lecture_Slides
-			- [RMSSD Guest Lecture Research Methods in Product Management (1).pdf](https://files.catbox.moe/s2da1u.pdf), Lecture_Slides
-			- [Neuroscience Methods in Experience Design [Autosaved] (1).pdf](https://files.catbox.moe/zcb8ih.pdf), Lecture_Slides
-			- [RM-Week-1-Introd+Fundamentals-Students Copy.pdf](https://files.catbox.moe/ogglme.pdf), Lecture_Slides
-			- [3-Sampling Methods-Teaching Copy.pdf](https://files.catbox.moe/2xzmoy.pdf), Lecture_Slides
-			- [Week-2 from Concepts to Measurements-Teaching Slides-2022.pdf](https://files.catbox.moe/2d9b99.pdf), Lecture_Slides
-			- [Focus Group Discussions.pdf](https://files.catbox.moe/fr1vb2.pdf), Lecture_Slides
-			- [Fundamentals of Survey Research.pptx](https://files.catbox.moe/nl68jr.pdf), Lecture_Slides
-			- [Discussion Section-Presentation.pptx](https://files.catbox.moe/hv8fda.pdf), Lecture_Slides
-			- [Qualitative data coding.pdf](https://files.catbox.moe/k8879r.pdf), Lecture_Slides
-			- [Survey Research-Home work.docx](Bad file type! docx isn't allowed!), Assignment
-			- [Article-2 for Homework.pdf](https://files.catbox.moe/39fqxo.pdf), Assignment
-			- [HOMEWORK Template.pdf](https://files.catbox.moe/p9kp6e.pdf), Assignment
-			- [Article-1 for Homework.pdf](https://files.catbox.moe/1sjy7r.pdf), Assignment
-			- [Zotero_Self-Paced_Workbook.pdf](https://files.catbox.moe/c54d8s.pdf), Assignment
-			- [RMSSD Zotero sample PEC doc.pdf](https://files.catbox.moe/3uy78s.pdf), Assignment
-			- [Microsoft Word - Zotero Homework.pdf](https://files.catbox.moe/7xelav.pdf), Assignment
-			- [final template example for zotero submission.pdf](https://files.catbox.moe/v10z97.pdf), Assignment
-		- DBMS
-			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
-			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
-			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
-			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
-			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
-			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
-			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
-			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
-			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
-		- Econometrics
-		- Analysis-and-Design-of-Algorithms
-			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
-			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
-			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
-			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
-			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
-			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
-			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
-			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
-			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
-			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
-			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
-			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
-			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
-			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
-			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
-			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
-			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
-			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
-			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
-			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
-			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
-			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
-			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
-			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
-			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
-			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
-			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
-			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
-			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
-			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
-			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
-			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
-			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
-		- PIS
-			- [Assignment 3.pdf](https://files.catbox.moe/ptvj0a.pdf), Assignment
-			- [Assignment 4.pdf](https://files.catbox.moe/f30rrd.pdf), Assignment
-			- [PIS A2.png](https://files.catbox.moe/vssxtc.pdf), Assignment
-			- [Week 2_Assignment_1.pdf](https://files.catbox.moe/mk6jge.pdf), Assignment
-			- [Field-Guide-to-Human-Centered-Design_IDEOorg.pdf](https://files.catbox.moe/s720hm.pdf), Lecture_Slides
-			- [Prototype.pdf](https://files.catbox.moe/fup5xi.pdf), Lecture_Slides
-			- [SuriExperiencePrototyping.pdf](https://files.catbox.moe/j1um5s.pdf), Lecture_Slides
-			- [Week2.pdf](https://files.catbox.moe/6hfoi0.pdf), Lecture_Slides
-			- [Week1.pdf](https://files.catbox.moe/rpj03r.pdf), Lecture_Slides
-			- [In-class Exercise 1.png](https://files.catbox.moe/gkmitt.pdf), Paper
-			- [Mid Sem Assignment.pdf](https://files.catbox.moe/dmqcac.pdf), Paper
-			- [Report Template.docx](Bad file type! docx isn't allowed!), Paper
-		- DIS
-			- [WK 3 DIS Usability_Heuristics.pdf](https://files.catbox.moe/hcxm48.pdf), Lecture_Slides
-			- [Wk 10 Multimodal interface design.pdf](https://files.catbox.moe/fc6lal.pdf), Lecture_Slides
-			- [Wk 9 Visual Interface Design.pdf](https://files.catbox.moe/zeujw5.pdf), Lecture_Slides
-			- [Wk 8 Designing Websites.pdf](https://files.catbox.moe/ce93ys.pdf), Lecture_Slides
-			- [Wk 7 DIS.pdf](https://files.catbox.moe/5oxenu.pdf), Lecture_Slides
-			- [Wk 6 DIS.pdf](https://files.catbox.moe/qm15vv.pdf), Lecture_Slides
-			- [Wk 5 DIS.pptx](https://files.catbox.moe/3gfcu5.pdf), Lecture_Slides
-			- [Wk 4 DIS.pdf](https://files.catbox.moe/qo0id8.pdf), Lecture_Slides
-			- [Wk 2 DIS.pptx](https://files.catbox.moe/6o5tru.pdf), Lecture_Slides
-			- [Wk 1 DIS.pptx](https://files.catbox.moe/yv149z.pdf), Lecture_Slides
-			- [Copy of Wk 2 DIS.pptx](https://files.catbox.moe/6827ta.pdf), Lecture_Slides
-			- [Assignment 2 - Portfolio Details.pdf](https://files.catbox.moe/7ahhkn.pdf), Assignment
-			- [Assignment 1 Details.pdf](https://files.catbox.moe/wra7cm.pdf), Assignment
-			- [Midsem Rubric.pdf](https://files.catbox.moe/hqj7oa.pdf), Paper
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-		- Theory-of-Computation
-	- CSSS
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/e5bfid.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/9ysx1p.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Introduction-to-Sociology-and-Anthropology
-			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
-		- Operating-Systems
-			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
-			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
-			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
-			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
-			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
-			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
-			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
-			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
-			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
-			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
-			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
-			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
-			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
-			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
-			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
-			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
-			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
-			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
-			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
-			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
-			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
-			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
-			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
-			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
-			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
-			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
-			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
-			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
-			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
-			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
-			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
-			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
-			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
-			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
-			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
-			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
-			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
-			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
-			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
-			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
-			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
-			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
-			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
-			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
-			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
-			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
-			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
-			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
-			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
-			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
-			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
-			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
-			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
-			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
-			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
-			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
-			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
-			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/3yr2ri.txt), Playlist
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Multivariate-calculus-3
-			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
-			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
-			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
-			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
-			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
-			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
-			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
-			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
-			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
-			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
-			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
-			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
-			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
-			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
-			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
-			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
-			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
-			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
-			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
-			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
-			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
-			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
-			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
-			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
-			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
-			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
-			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
-			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
-			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
-			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
-			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
-			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
-			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
-			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
-			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
-			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
-			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
-			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
-			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
-			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
-			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
-		- Research-Methods-in-Social-Science-and-Design
-			- [FINAL REVISED -RESEARCH METHODS 2022 (1).pdf](https://files.catbox.moe/yqduvu.pdf), Lecture_Slides
-			- [Information Archictures and Card Sorting (1).pdf](https://files.catbox.moe/6ry384.pdf), Lecture_Slides
-			- [Social Media Analytics.pptx[3719] (1).pdf](https://files.catbox.moe/morwxo.pdf), Lecture_Slides
-			- [RMSSD Guest Lecture Research Methods in Product Management (1).pdf](https://files.catbox.moe/s2da1u.pdf), Lecture_Slides
-			- [Neuroscience Methods in Experience Design [Autosaved] (1).pdf](https://files.catbox.moe/zcb8ih.pdf), Lecture_Slides
-			- [RM-Week-1-Introd+Fundamentals-Students Copy.pdf](https://files.catbox.moe/ogglme.pdf), Lecture_Slides
-			- [3-Sampling Methods-Teaching Copy.pdf](https://files.catbox.moe/2xzmoy.pdf), Lecture_Slides
-			- [Week-2 from Concepts to Measurements-Teaching Slides-2022.pdf](https://files.catbox.moe/2d9b99.pdf), Lecture_Slides
-			- [Focus Group Discussions.pdf](https://files.catbox.moe/fr1vb2.pdf), Lecture_Slides
-			- [Fundamentals of Survey Research.pptx](https://files.catbox.moe/nl68jr.pdf), Lecture_Slides
-			- [Discussion Section-Presentation.pptx](https://files.catbox.moe/hv8fda.pdf), Lecture_Slides
-			- [Qualitative data coding.pdf](https://files.catbox.moe/k8879r.pdf), Lecture_Slides
-			- [Survey Research-Home work.docx](Bad file type! docx isn't allowed!), Assignment
-			- [Article-2 for Homework.pdf](https://files.catbox.moe/39fqxo.pdf), Assignment
-			- [HOMEWORK Template.pdf](https://files.catbox.moe/p9kp6e.pdf), Assignment
-			- [Article-1 for Homework.pdf](https://files.catbox.moe/1sjy7r.pdf), Assignment
-			- [Zotero_Self-Paced_Workbook.pdf](https://files.catbox.moe/c54d8s.pdf), Assignment
-			- [RMSSD Zotero sample PEC doc.pdf](https://files.catbox.moe/3uy78s.pdf), Assignment
-			- [Microsoft Word - Zotero Homework.pdf](https://files.catbox.moe/7xelav.pdf), Assignment
-			- [final template example for zotero submission.pdf](https://files.catbox.moe/v10z97.pdf), Assignment
-		- Discrete-Mathematics
-			- [HW1.pdf](https://files.catbox.moe/n2ttfg.pdf), Other
-			- [HW3.pdf](https://files.catbox.moe/wjz33u.pdf), Other
-			- [HW4.pdf](https://files.catbox.moe/ku4glu.pdf), Other
-			- [HW5.pdf](https://files.catbox.moe/qtz1ul.pdf), Other
-			- [HW6.pdf](https://files.catbox.moe/7ygj76.pdf), Other
-			- [Class01.pptx](https://files.catbox.moe/gblynq.pdf), Lecture_Slides
-			- [Class02.pptx](https://files.catbox.moe/7wrnxb.pdf), Lecture_Slides
-			- [Class03.pptx](https://files.catbox.moe/gq3y26.pdf), Lecture_Slides
-			- [Class04.pptx](https://files.catbox.moe/av5j48.pdf), Lecture_Slides
-			- [Class05.pptx](https://files.catbox.moe/60lsjc.pdf), Lecture_Slides
-			- [Class06.pptx](https://files.catbox.moe/8n88gq.pdf), Lecture_Slides
-			- [Class07.pptx](https://files.catbox.moe/u32ww4.pdf), Lecture_Slides
-			- [Class08.pptx](https://files.catbox.moe/eju8kf.pdf), Lecture_Slides
-			- [Class09.pptx](https://files.catbox.moe/f41hg1.pdf), Lecture_Slides
-			- [Class10.pptx](https://files.catbox.moe/vjd1zi.pdf), Lecture_Slides
-			- [Class11.pptx](https://files.catbox.moe/hnykur.pdf), Lecture_Slides
-			- [Class12.pptx](https://files.catbox.moe/6vcisf.pdf), Lecture_Slides
-			- [Class13.pptx](https://files.catbox.moe/9gu6fq.pdf), Lecture_Slides
-			- [Class15.pptx](https://files.catbox.moe/cboc2a.pdf), Lecture_Slides
-			- [Class16.pptx](https://files.catbox.moe/lumix4.pdf), Lecture_Slides
-			- [Class17.pptx](https://files.catbox.moe/679mul.pdf), Lecture_Slides
-			- [Class18.pptx](https://files.catbox.moe/ekyw6v.pdf), Lecture_Slides
-			- [Class19.pptx](https://files.catbox.moe/nv0p74.pdf), Lecture_Slides
-			- [Class20.pptx](https://files.catbox.moe/pcqv6h.pdf), Lecture_Slides
-			- [Class21.pptx](https://files.catbox.moe/0nb641.pdf), Lecture_Slides
-			- [Class22.pptx](https://files.catbox.moe/o4roug.pdf), Lecture_Slides
-			- [Class23.pptx](https://files.catbox.moe/k6fokg.pdf), Lecture_Slides
-			- [Class24.pptx](https://files.catbox.moe/cbfbdl.pdf), Lecture_Slides
-			- [Class26 (1).pptx](https://files.catbox.moe/0psf1c.pdf), Lecture_Slides
-			- [Class26 (2).pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
-			- [Class26.pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
-			- [MidSem Soln 2022.pdf](https://files.catbox.moe/cahif8.pdf), Paper
-			- [Pre-Endsem 2022.pdf](https://files.catbox.moe/f8namz.pdf), Paper
-			- [Assignment-1.pdf](https://files.catbox.moe/ufakfa.pdf), Assignment
-			- [Discrete Math  by Kimberly Brehm.playlist](https://files.catbox.moe/5dafuf.txt), Playlist
-			- [Discrete Maths by Neso Academy.playlist](https://files.catbox.moe/g0vn9s.txt), Playlist
-			- [HW2.pdf](https://files.catbox.moe/fnenrf.pdf), Other
-			- [Project.pdf](https://files.catbox.moe/t4tgx1.pdf), Books_And_Misc
-			- [Midsem 2023.pdf](https://files.catbox.moe/ywtg9v.pdf), Paper
-		- DBMS
-			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
-			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
-			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
-			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
-			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
-			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
-			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
-			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
-			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
-		- Econometrics
-		- Analysis-and-Design-of-Algorithms
-			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
-			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
-			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
-			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
-			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
-			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
-			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
-			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
-			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
-			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
-			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
-			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
-			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
-			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
-			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
-			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
-			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
-			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
-			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
-			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
-			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
-			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
-			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
-			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
-			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
-			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
-			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
-			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
-			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
-			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
-			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
-			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
-			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
-		- Convex-Optimization
-			- [Coding Assignment.pdf](https://files.catbox.moe/y36x9v.pdf), Assignment
-			- [Assessment 1.pdf](https://files.catbox.moe/luvgpu.pdf), Assignment
-			- [Affine sets.pdf](https://files.catbox.moe/nbi4u6.pdf), Lecture_Slides
-			- [Algorithms for unconstrained optimization.pdf](https://files.catbox.moe/zhyx3a.pdf), Lecture_Slides
-			- [Basic library of convex functions .pdf](https://files.catbox.moe/bxuome.pdf), Lecture_Slides
-			- [Convex functions.pdf](https://files.catbox.moe/eswpki.pdf), Lecture_Slides
-			- [Convex sets.pdf](https://files.catbox.moe/86693u.pdf), Lecture_Slides
-			- [Convexity preserving operations .pdf](https://files.catbox.moe/bfnpuo.pdf), Lecture_Slides
-			- [Derivatives of a Function.pdf](https://files.catbox.moe/5qd4wm.pdf), Lecture_Slides
-			- [Differentiable convex functions .pdf](https://files.catbox.moe/xt78xs.pdf), Lecture_Slides
-			- [Duality .pdf](https://files.catbox.moe/588t48.pdf), Lecture_Slides
-			- [Interior point algorithm .pdf](https://files.catbox.moe/f9ia4m.pdf), Lecture_Slides
-			- [Interpretation of dual variables .pdf](https://files.catbox.moe/s6phqu.pdf), Lecture_Slides
-			- [KKT Optimality Conditions .pdf](https://files.catbox.moe/0qzrar.pdf), Lecture_Slides
-			- [Lagrangian Relaxation .pdf](https://files.catbox.moe/0lelvk.pdf), Lecture_Slides
-			- [Linear functions and Matrices.pdf](https://files.catbox.moe/8h0yoc.pdf), Lecture_Slides
-			- [Separating and Supporting Hyperplane Theorems.pdf](https://files.catbox.moe/ah5imb.pdf), Lecture_Slides
-			- [Strong duality.pdf](https://files.catbox.moe/v3k02c.pdf), Lecture_Slides
-			- [Symmetric Matrices and Quadratic Forms.pdf](https://files.catbox.moe/gonw87.pdf), Lecture_Slides
-			- [Theory of unconstrained optimization.pdf](https://files.catbox.moe/9j95kv.pdf), Lecture_Slides
-			- [Vector space R^n.pdf](https://files.catbox.moe/5f78tw.pdf), Lecture_Slides
-			- [Worked out problems .pdf](https://files.catbox.moe/xnidpm.pdf), Lecture_Slides
-			- [PS 3.pdf](https://files.catbox.moe/goajkn.pdf), Practice_Problems
-			- [PS 2.pdf](https://files.catbox.moe/6w4qqs.pdf), Practice_Problems
-			- [PS 1.pdf](https://files.catbox.moe/p437j7.pdf), Practice_Problems
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-	- CSB
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Basic-Electronics
-			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
-			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
-			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
-			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
-			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
-			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
-			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
-			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
-			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
-			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
-			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
-			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
-			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
-			- [ Midsem_2023.pdf](https://files.catbox.moe/n7dou9.pdf), Paper
-			- [Assignment 4 2023.pdf](https://files.catbox.moe/dvbbjt.pdf), Assignment
-			- [Assignment 3 2023.pdf](https://files.catbox.moe/4pbqsu.pdf), Assignment
-			- [Assignment 2 2023.pdf](https://files.catbox.moe/gf3v5a.pdf), Assignment
-			- [Assignment 1 2023.pdf](https://files.catbox.moe/gthh1s.pdf), Assignment
-			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/vvvhi1.pdf), Quizzes
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/zjl8ge.pdf), Quizzes
-			- [Quiz 4 2023.pdf](https://files.catbox.moe/kz1qy8.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/0f6wwm.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/6ufgex.pdf), Quizzes
-			- [Quiz 6 2023.pdf](https://files.catbox.moe/605qci.pdf), Quizzes
-			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/9f5wlq.pdf), Quizzes
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/q97bbt.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/mvxytn.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Fundamentals-Of-Biology
-			- [Lecture 6.3.pdf](https://files.catbox.moe/5lzpit.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/nbpvn6.pdf), Lecture_Slides
-			- [Lecture 6.1.pdf](https://files.catbox.moe/riws3f.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/dgrnor.pdf), Lecture_Slides
-			- [Lecture  4.pdf](https://files.catbox.moe/gi6rml.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/eczkz0.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3l1rq4.pdf), Lecture_Slides
-			- [Lecture 6.2.pdf](https://files.catbox.moe/l2hjhl.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/s2b83n.pdf), Lecture_Slides
-		- Introduction-to-Sociology-and-Anthropology
-			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
-		- Money-and-Banking
-			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
-			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
-			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
-			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
-			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
-			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
-		- Operating-Systems
-			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
-			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
-			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
-			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
-			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
-			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
-			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
-			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
-			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
-			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
-			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
-			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
-			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
-			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
-			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
-			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
-			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
-			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
-			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
-			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
-			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
-			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
-			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
-			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
-			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
-			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
-			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
-			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
-			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
-			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
-			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
-			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
-			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
-			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
-			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
-			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
-			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
-			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
-			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
-			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
-			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
-			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
-			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
-			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
-			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
-			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
-			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
-			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
-			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
-			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
-			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
-			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
-			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
-			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
-			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
-			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
-			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
-			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/89anpf.txt), Playlist
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Multivariate-calculus-3
-			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
-			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
-			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
-			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
-			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
-			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
-			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
-			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
-			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
-			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
-			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
-			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
-			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
-			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
-			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
-			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
-			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
-			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
-			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
-			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
-			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
-			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
-			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
-			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
-			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
-			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
-			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
-			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
-			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
-			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
-			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
-			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
-			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
-			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
-			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
-			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
-			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
-			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
-			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
-			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
-			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
-		- Cell-Biology-and-Biochemistry
-			- [Endsem 2022.PDF](https://files.catbox.moe/l9saxc.pdf), Paper
-			- [Assignment 2 2022.pdf](https://files.catbox.moe/n5bw2r.pdf), Assignment
-			- [Assignment 3 2022.pdf](https://files.catbox.moe/9dwa9d.pdf), Assignment
-			- [Assignment 1 2022.pdf](https://files.catbox.moe/pupa3s.pdf), Assignment
-			- [Quiz 3 2022 .pdf](https://files.catbox.moe/1a4ey4.pdf), Quizzes
-			- [Quiz 2 2022.pdf](https://files.catbox.moe/x4lxwe.pdf), Quizzes
-			- [Lab 4 2022.pdf](https://files.catbox.moe/w38h8a.pdf), Laboratory
-			- [Lab 3 2022.pdf](https://files.catbox.moe/aek139.pdf), Laboratory
-			- [Lab 1 2022.pdf](https://files.catbox.moe/ew43o6.pdf), Laboratory
-			- [Yeast Experiment.pdf](https://files.catbox.moe/sr52a2.pdf), Laboratory
-			- [Fluctuation Assay_Mutagenesis.pdf](https://files.catbox.moe/y5xsxd.pdf), Laboratory
-			- [Growth Curve Analysis of Yeast Cells.pdf](https://files.catbox.moe/oe9bo4.pdf), Laboratory
-			- [Midsem-Exam-2023.pdf](https://files.catbox.moe/ib44u0.pdf), Paper
-			- [Quiz01 -2023.pdf](https://files.catbox.moe/7aeyu3.pdf), Quizzes
-			- [2023_Lab quiz .pdf](https://files.catbox.moe/5in3n1.pdf), Laboratory
-			- [2023_Cell ViabilityTesting .pdf](https://files.catbox.moe/l8davy.pdf), Laboratory
-			- [2023_yeast culture and growth.pdf](https://files.catbox.moe/rwc62x.pdf), Laboratory
-			- [2023_yeast culture growth.pdf](https://files.catbox.moe/yzgy96.pdf), Laboratory
-			- [2023_Genomic isolation+ electrophoresis.pdf](https://files.catbox.moe/45nk68.pdf), Laboratory
-			- [2023_Polymerase chain reaction (PCR).pdf](https://files.catbox.moe/dn5b7h.pdf), Laboratory
-		- Genetic-and-Molecular-Biology
-			- [Lecture Slides.pdf](https://files.catbox.moe/n2d16u.pdf), Lecture_Slides
-			- [RNA Seq Data Analysis.txt](https://files.catbox.moe/oi7riz.pdf), Assignment
-			- [RUVSeq.R](https://files.catbox.moe/m86vzd.pdf), Assignment
-			- [Mutational_Analysis.txt](https://files.catbox.moe/mm0ofv.pdf), Assignment
-			- [Mutational_Frequency.xlsx](https://files.catbox.moe/tcneyh.pdf), Assignment
-			- [Mutational_Frequency_Data.xlsx](https://files.catbox.moe/gqwxwh.pdf), Assignment
-			- [RHistory.Rhistory](No file!), Assignment
-			- [GMB Syllabus.pdf](https://files.catbox.moe/wtyuuy.pdf), Books_And_Misc
-			- [GMB QUIZ-1.pdf](https://files.catbox.moe/t9x6p4.pdf), Quizzes
-			- [Midsem 2023.pdf](https://files.catbox.moe/x8tvpv.pdf), Paper
-			- [GMB-2.pdf](https://files.catbox.moe/v82kvi.pdf), Quizzes
-			- [Assignment-1 2023.pdf](https://files.catbox.moe/nq9w3n.pdf), Assignment
-			- [End-Sem Examination.pdf](https://files.catbox.moe/trodzm.pdf), Paper
-		- DBMS
-			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
-			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
-			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
-			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
-			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
-			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
-			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
-			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
-			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
-		- Econometrics
-		- Analysis-and-Design-of-Algorithms
-			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
-			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
-			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
-			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
-			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
-			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
-			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
-			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
-			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
-			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
-			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
-			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
-			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
-			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
-			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
-			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
-			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
-			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
-			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
-			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
-			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
-			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
-			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
-			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
-			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
-			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
-			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
-			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
-			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
-			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
-			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
-			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
-			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
-		- Introduction-to-Quantitative-Biology
-			- [Assignment-3.pdf](https://files.catbox.moe/ih7d2u.pdf), Assignment
-			- [Assignemnt-1.pdf](https://files.catbox.moe/s1h9ue.pdf), Assignment
-			- [Assignment-2.pdf](https://files.catbox.moe/gact6z.pdf), Assignment
-			- [QUIZ-1.pdf](https://files.catbox.moe/d7eb3t.pdf), Quizzes
-			- [ENDSEM--2023.pdf](https://files.catbox.moe/1ma4o8.pdf), Paper
-			- [MIDSEM-2023.pdf](https://files.catbox.moe/11dte8.pdf), Paper
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-		- Practical-Bioinformatics
-	- CSAI
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/61xafo.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/rujofb.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Introduction-to-Sociology-and-Anthropology
-			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
-		- Introduction-to-Intelligent-Systems
-			- [Lecture 1.pdf](https://files.catbox.moe/i06aul.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/niwwdg.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/s4a8u8.pdf), Lecture_Slides
-			- [lecture 4.pdf](https://files.catbox.moe/jklaaw.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/t3mzpx.pdf), Lecture_Slides
-			- [Lecture 7-8.pdf](https://files.catbox.moe/2iyejq.pdf), Lecture_Slides
-			- [Midsem 2023.pdf](https://files.catbox.moe/bqkv1r.pdf), Paper
-			- [Quiz-2 2023.pdf](https://files.catbox.moe/vsq9b0.pdf), Quizzes
-			- [Quiz-1 2023.pdf](https://files.catbox.moe/aom1o8.pdf), Quizzes
-			- [EDA on QQD.ipynb](https://files.catbox.moe/8h3w83.ipynb), Laboratory
-			- [Numpy_Tut.ipynb](https://files.catbox.moe/rn2ubi.ipynb), Laboratory
-			- [Pandas_basics.ipynb](https://files.catbox.moe/rzp4n1.ipynb), Laboratory
-			- [IIS LAB-1  Resources.pdf](https://files.catbox.moe/yi8k57.pdf), Laboratory
-			- [Prolog Tutorial.pdf](https://files.catbox.moe/ezxe6t.pdf), Laboratory
-		- Money-and-Banking
-			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
-			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
-			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
-			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
-			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
-			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
-		- Operating-Systems
-			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
-			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
-			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
-			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
-			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
-			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
-			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
-			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
-			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
-			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
-			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
-			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
-			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
-			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
-			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
-			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
-			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
-			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
-			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
-			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
-			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
-			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
-			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
-			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
-			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
-			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
-			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
-			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
-			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
-			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
-			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
-			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
-			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
-			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
-			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
-			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
-			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
-			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
-			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
-			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
-			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
-			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
-			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
-			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
-			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
-			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
-			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
-			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
-			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
-			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
-			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
-			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
-			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
-			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
-			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
-			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
-			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
-			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/3muyx4.txt), Playlist
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Multivariate-calculus-3
-			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
-			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
-			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
-			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
-			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
-			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
-			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
-			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
-			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
-			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
-			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
-			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
-			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
-			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
-			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
-			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
-			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
-			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
-			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
-			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
-			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
-			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
-			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
-			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
-			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
-			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
-			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
-			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
-			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
-			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
-			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
-			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
-			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
-			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
-			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
-			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
-			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
-			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
-			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
-			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
-			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
-		- Discrete-Structures
-			- [End Sem 2022 Soln.pdf](https://files.catbox.moe/wawb0j.pdf), Paper
-			- [End sem 2022.pdf](https://files.catbox.moe/bm2o59.pdf), Paper
-			- [Lecture 0 (Intro).pptx](https://files.catbox.moe/ava3gs.pdf), Lecture_Slides
-			- [Lecture 2.pptx](https://files.catbox.moe/d2czlz.pdf), Lecture_Slides
-			- [Lecture 1.pptx](https://files.catbox.moe/shzzci.pdf), Lecture_Slides
-			- [Lecture 16.pptx](https://files.catbox.moe/phih3x.pdf), Lecture_Slides
-			- [Lecture 15.pptx](https://files.catbox.moe/u2zqhn.pdf), Lecture_Slides
-			- [Lecture 14.pptx](https://files.catbox.moe/l84apr.pdf), Lecture_Slides
-			- [Lecture 13.pptx](https://files.catbox.moe/tfgcff.pdf), Lecture_Slides
-			- [Lecture 12.pptx](https://files.catbox.moe/orgdtx.pdf), Lecture_Slides
-			- [Lecture 11.pptx](https://files.catbox.moe/uixkxe.pdf), Lecture_Slides
-			- [Lecture 10.pptx](https://files.catbox.moe/qnm8lk.pdf), Lecture_Slides
-			- [Lecture 9.pptx](https://files.catbox.moe/51npmi.pdf), Lecture_Slides
-			- [Lecture 8.pptx](https://files.catbox.moe/hhj8e3.pdf), Lecture_Slides
-			- [Lecture 7.pptx](https://files.catbox.moe/va66gh.pdf), Lecture_Slides
-			- [Lecture 6.pptx](https://files.catbox.moe/dr191f.pdf), Lecture_Slides
-			- [Lecture 5.pptx](https://files.catbox.moe/btgzs8.pdf), Lecture_Slides
-			- [Lecture 3.pptx](https://files.catbox.moe/n4wa8s.pdf), Lecture_Slides
-			- [Lecture 4.pptx](https://files.catbox.moe/mhkhfe.pdf), Lecture_Slides
-			- [Lecture 24 (Extra).pptx](https://files.catbox.moe/pc3yzu.pdf), Lecture_Slides
-			- [Lecture 24.pdf](https://files.catbox.moe/kaujh6.pdf), Lecture_Slides
-			- [Lecture 23.pptx](https://files.catbox.moe/qi2n0q.pdf), Lecture_Slides
-			- [Lecture 22.pptx](https://files.catbox.moe/uf52se.pdf), Lecture_Slides
-			- [Lecture 21.pptx](https://files.catbox.moe/7b0evr.pdf), Lecture_Slides
-			- [Lecture 20.pptx](https://files.catbox.moe/be9bdg.pdf), Lecture_Slides
-			- [Lecture 19.pptx](https://files.catbox.moe/mljfnq.pdf), Lecture_Slides
-			- [Lecture 18.pptx](https://files.catbox.moe/tuw1f1.pdf), Lecture_Slides
-			- [Lecture 17.pptx](https://files.catbox.moe/uzz19v.pdf), Lecture_Slides
-			- [Mid sem 2022 Soln.pdf](https://files.catbox.moe/g2cqhq.pdf), Paper
-			- [Mid sem 2022.jpg](https://files.catbox.moe/xespm2.pdf), Paper
-			- [TUT 12 Soln 2.pdf](https://files.catbox.moe/nu2uwo.pdf), Tutorial_Assignment
-			- [TUT 12 Soln 1.pdf](https://files.catbox.moe/qeyf0n.pdf), Tutorial_Assignment
-			- [TUT 11 Soln.pdf](https://files.catbox.moe/geafgz.pdf), Tutorial_Assignment
-			- [TUT 10 Soln.pdf](https://files.catbox.moe/723a20.pdf), Tutorial_Assignment
-			- [TUT 9 Soln.pdf](https://files.catbox.moe/cth9lq.pdf), Tutorial_Assignment
-			- [TUT 8 Soln (Extra).pdf](https://files.catbox.moe/xmmpg3.pdf), Tutorial_Assignment
-			- [TUT 8 Soln.pdf](https://files.catbox.moe/07u01m.pdf), Tutorial_Assignment
-			- [TUT 7 Soln.pdf](https://files.catbox.moe/yozttw.pdf), Tutorial_Assignment
-			- [TUT 6 Soln.pdf](https://files.catbox.moe/0sgmsk.pdf), Tutorial_Assignment
-			- [TUT 5 Soln.pdf](https://files.catbox.moe/z9k81x.pdf), Tutorial_Assignment
-			- [TUT 4 Soln Q9.pdf](https://files.catbox.moe/4hdotr.pdf), Tutorial_Assignment
-			- [TUT 4 Soln.pdf](https://files.catbox.moe/cldoae.pdf), Tutorial_Assignment
-			- [TUT 3 Soln Q2&9.pdf](https://files.catbox.moe/yj9pp0.pdf), Tutorial_Assignment
-			- [TUT 3 Soln part 1.pdf](https://files.catbox.moe/9gbcfd.pdf), Tutorial_Assignment
-			- [TUT 2 Soln part 2.pdf](https://files.catbox.moe/6gywp3.pdf), Tutorial_Assignment
-			- [TUT 2 Soln part 1.pdf](https://files.catbox.moe/p8qwne.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q13_19.pdf](https://files.catbox.moe/rn2jy4.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q4&6.pdf](https://files.catbox.moe/4nmj8w.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q1_12.pdf](https://files.catbox.moe/7w4z0w.pdf), Tutorial_Assignment
-			- [TUT 12.pdf](https://files.catbox.moe/9kamh5.pdf), Tutorial_Assignment
-			- [TUT 11.pdf](https://files.catbox.moe/cbux3s.pdf), Tutorial_Assignment
-			- [TUT 10.pdf](https://files.catbox.moe/24kw8x.pdf), Tutorial_Assignment
-			- [TUT 9.pdf](https://files.catbox.moe/c25q27.pdf), Tutorial_Assignment
-			- [TUT 8.pdf](https://files.catbox.moe/beayqn.pdf), Tutorial_Assignment
-			- [TUT 7.pdf](https://files.catbox.moe/h7evbx.pdf), Tutorial_Assignment
-			- [TUT 6.pdf](https://files.catbox.moe/061ach.pdf), Tutorial_Assignment
-			- [TUT 5.pdf](https://files.catbox.moe/ik0956.pdf), Tutorial_Assignment
-			- [TUT 4.pdf](https://files.catbox.moe/a1jc12.pdf), Tutorial_Assignment
-			- [TUT 3.pdf](https://files.catbox.moe/n31g6y.pdf), Tutorial_Assignment
-			- [TUT 2.pdf](https://files.catbox.moe/7uibfr.pdf), Tutorial_Assignment
-			- [TUT 1.pdf](https://files.catbox.moe/qi558e.pdf), Tutorial_Assignment
-			- [Assignment 9 Solution.pdf](https://files.catbox.moe/8iasnk.pdf), Assignment
-			- [Assignment 8 & 9 2022 Rubric.pdf](https://files.catbox.moe/k4xowk.pdf), Assignment
-			- [Assignment 8 2022 Solution.pdf](https://files.catbox.moe/98ja6b.pdf), Assignment
-			- [Assignment 7 2022 Solution.pdf](https://files.catbox.moe/5esw40.pdf), Assignment
-			- [Assignment 6 2022 Solution.pdf](https://files.catbox.moe/u8kzt5.pdf), Assignment
-			- [Assignment 5 2022 Rubric.pdf](https://files.catbox.moe/qqdadd.pdf), Assignment
-			- [Assignment 4 2022 Solution.pdf](https://files.catbox.moe/u88hm4.pdf), Assignment
-			- [Assignment 4 2022 Rubric.pdf](https://files.catbox.moe/iyen3u.pdf), Assignment
-			- [Assignment 3 2022 Solution.pdf](https://files.catbox.moe/k90eys.pdf), Assignment
-			- [Assignment 3 2022 Rubric.pdf](https://files.catbox.moe/qk9z56.pdf), Assignment
-			- [Assignment 2 2022 Solution.pdf](https://files.catbox.moe/xorcq3.pdf), Assignment
-			- [Assignment 2 2022 Rubric.pdf](https://files.catbox.moe/wg6wao.pdf), Assignment
-			- [Assignment 1 2022 Solution.pdf](https://files.catbox.moe/371zpm.pdf), Assignment
-			- [Notes 21.pdf](https://files.catbox.moe/t01zcu.pdf), Note
-			- [Notes 20.pdf](https://files.catbox.moe/qh713z.pdf), Note
-			- [Notes 19.pdf](https://files.catbox.moe/86qfvl.pdf), Note
-			- [Notes 18.pdf](https://files.catbox.moe/30zx9z.pdf), Note
-			- [Notes 17.pdf](https://files.catbox.moe/m5tmnd.pdf), Note
-			- [Notes 16.pdf](https://files.catbox.moe/hwg6as.pdf), Note
-			- [Notes 15.pdf](https://files.catbox.moe/rbf6y6.pdf), Note
-			- [Notes 14.pdf](https://files.catbox.moe/619o0c.pdf), Note
-			- [Notes 13.pdf](https://files.catbox.moe/unxk63.pdf), Note
-			- [Notes 12.pdf](https://files.catbox.moe/oq4eyj.pdf), Note
-			- [Notes 11.pdf](https://files.catbox.moe/532wbu.pdf), Note
-			- [Notes 10.pdf](https://files.catbox.moe/ajhl9c.pdf), Note
-			- [Notes 9.pdf](https://files.catbox.moe/truhxe.pdf), Note
-			- [Notes 8.pdf](https://files.catbox.moe/6pu2kd.pdf), Note
-			- [Notes 7 (EXTRA).pdf](https://files.catbox.moe/ivzjhf.pdf), Note
-			- [Notes 7.pdf](https://files.catbox.moe/3dzlm2.pdf), Note
-			- [Notes 6.pdf](https://files.catbox.moe/avsa7a.pdf), Note
-			- [Notes 5.pdf](https://files.catbox.moe/rqg61r.pdf), Note
-			- [Notes 4.pdf](https://files.catbox.moe/2irh7w.pdf), Note
-			- [Notes 3.pdf](https://files.catbox.moe/6s4g30.pdf), Note
-			- [Notes 2.pdf](https://files.catbox.moe/zco3lg.pdf), Note
-			- [Notes 1.pdf](https://files.catbox.moe/lkgk13.pdf), Note
-			- [Discrete Structures Syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Kimberly Brehm- Discrete Structures.playlist](https://files.catbox.moe/hv9xhi.txt), Playlist
-			- [DS(2023)_midsem.pdf](https://files.catbox.moe/p7fw6w.pdf), Paper
-		- Signals-&-Systems
-			- [Lecture 14.pdf](https://files.catbox.moe/naiw2b.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/6yvjfb.pdf), Lecture_Slides
-			- [Lecture 12.pdf](https://files.catbox.moe/66s8qk.pdf), Lecture_Slides
-			- [Lecture 11.pdf](https://files.catbox.moe/coav0d.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/6gtg1b.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/bdj59i.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/vd2xhp.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/p46tg2.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/qat6jb.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/juv8eo.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/ns1y7b.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/w84kjw.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/unoc26.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/7hpmfv.pdf), Lecture_Slides
-			- [Endsem 2022.pdf](https://files.catbox.moe/a2iqkg.pdf), Paper
-			- [Endsem 2022 sol.pdf](https://files.catbox.moe/peduv5.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/08t43k.pdf), Paper
-			- [Midsem 2022 sol.pdf](https://files.catbox.moe/b75009.pdf), Paper
-			- [Quiz 10 2022 sol.pdf](https://files.catbox.moe/4autbr.pdf), Quizzes
-			- [Quiz 9 2022.pdf](https://files.catbox.moe/pifq6k.pdf), Quizzes
-			- [Quiz 9 2022 sol.pdf](https://files.catbox.moe/wx0fnx.pdf), Quizzes
-			- [Quiz 8 2022.pdf](https://files.catbox.moe/xv9l6i.pdf), Quizzes
-			- [Quiz 8 2022 sol.pdf](https://files.catbox.moe/m9mzln.pdf), Quizzes
-			- [Quiz 7 2022.pdf](https://files.catbox.moe/byotbp.pdf), Quizzes
-			- [Quiz 7 2022 sol.pdf](https://files.catbox.moe/bcdqb3.pdf), Quizzes
-			- [Quiz 6 2022.pdf](https://files.catbox.moe/o3tcjl.pdf), Quizzes
-			- [Quiz 5 2022.pdf](https://files.catbox.moe/j6swlx.pdf), Quizzes
-			- [Quiz 6 2022 sol.pdf](https://files.catbox.moe/lljmad.pdf), Quizzes
-			- [Quiz 4 2022.pdf](https://files.catbox.moe/4sph24.pdf), Quizzes
-			- [Quiz 5 2022 sol.pdf](https://files.catbox.moe/cwe0aq.pdf), Quizzes
-			- [Quiz 4 2022 sol.pdf](https://files.catbox.moe/554a98.pdf), Quizzes
-			- [Quiz 3 2022 sol.pdf](https://files.catbox.moe/pv1i80.pdf), Quizzes
-			- [Quiz 3 2022.pdf](https://files.catbox.moe/3a7ui1.pdf), Quizzes
-			- [Quiz 2 2022.pdf](https://files.catbox.moe/w941ek.pdf), Quizzes
-			- [Quiz 2 2022 sol.pdf](https://files.catbox.moe/9olddt.pdf), Quizzes
-			- [Quiz 1 2022 sol.pdf](https://files.catbox.moe/0imc6e.pdf), Quizzes
-			- [Quiz 1 2022.pdf](https://files.catbox.moe/l9jz6u.pdf), Quizzes
-			- [Optional Quiz 2022.pdf](https://files.catbox.moe/epmahr.pdf), Quizzes
-			- [Optional Quiz 2022 sol.pdf](https://files.catbox.moe/0qop1v.pdf), Quizzes
-			- [Quiz 10 2022.pdf](https://files.catbox.moe/o658gm.pdf), Quizzes
-			- [Signals & Systems course plan.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [SNS Syllabus.pdf](https://files.catbox.moe/3lq1na.pdf), Books_And_Misc
-			- [SNS - NESO.playlist](https://files.catbox.moe/cyj9oo.txt), Playlist
-			- [SnS midsem 2023.pdf](https://files.catbox.moe/yw0s5d.pdf), Paper
-			- [SNS - II(Oppenheim).pdf](https://files.catbox.moe/6o1fey.pdf), Book
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/04ww4j.pdf), Quizzes
-			- [Quiz 1 2023.pdf](https://files.catbox.moe/buae0c.pdf), Quizzes
-			- [ Quiz 4 2023.pdf](https://files.catbox.moe/h2xuip.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/802t41.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/y3wy8k.pdf), Quizzes
-			- [End Sem Sol 2023.pdf](https://files.catbox.moe/j3gh3f.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/igwnrv.pdf), Paper
-		- DBMS
-			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
-			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
-			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
-			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
-			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
-			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
-			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
-			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
-			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
-		- Econometrics
-		- Analysis-and-Design-of-Algorithms
-			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
-			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
-			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
-			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
-			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
-			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
-			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
-			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
-			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
-			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
-			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
-			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
-			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
-			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
-			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
-			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
-			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
-			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
-			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
-			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
-			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
-			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
-			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
-			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
-			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
-			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
-			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
-			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
-			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
-			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
-			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
-			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
-			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
-		- Convex-Optimization
-			- [Coding Assignment.pdf](https://files.catbox.moe/y36x9v.pdf), Assignment
-			- [Assessment 1.pdf](https://files.catbox.moe/luvgpu.pdf), Assignment
-			- [Affine sets.pdf](https://files.catbox.moe/nbi4u6.pdf), Lecture_Slides
-			- [Algorithms for unconstrained optimization.pdf](https://files.catbox.moe/zhyx3a.pdf), Lecture_Slides
-			- [Basic library of convex functions .pdf](https://files.catbox.moe/bxuome.pdf), Lecture_Slides
-			- [Convex functions.pdf](https://files.catbox.moe/eswpki.pdf), Lecture_Slides
-			- [Convex sets.pdf](https://files.catbox.moe/86693u.pdf), Lecture_Slides
-			- [Convexity preserving operations .pdf](https://files.catbox.moe/bfnpuo.pdf), Lecture_Slides
-			- [Derivatives of a Function.pdf](https://files.catbox.moe/5qd4wm.pdf), Lecture_Slides
-			- [Differentiable convex functions .pdf](https://files.catbox.moe/xt78xs.pdf), Lecture_Slides
-			- [Duality .pdf](https://files.catbox.moe/588t48.pdf), Lecture_Slides
-			- [Interior point algorithm .pdf](https://files.catbox.moe/f9ia4m.pdf), Lecture_Slides
-			- [Interpretation of dual variables .pdf](https://files.catbox.moe/s6phqu.pdf), Lecture_Slides
-			- [KKT Optimality Conditions .pdf](https://files.catbox.moe/0qzrar.pdf), Lecture_Slides
-			- [Lagrangian Relaxation .pdf](https://files.catbox.moe/0lelvk.pdf), Lecture_Slides
-			- [Linear functions and Matrices.pdf](https://files.catbox.moe/8h0yoc.pdf), Lecture_Slides
-			- [Separating and Supporting Hyperplane Theorems.pdf](https://files.catbox.moe/ah5imb.pdf), Lecture_Slides
-			- [Strong duality.pdf](https://files.catbox.moe/v3k02c.pdf), Lecture_Slides
-			- [Symmetric Matrices and Quadratic Forms.pdf](https://files.catbox.moe/gonw87.pdf), Lecture_Slides
-			- [Theory of unconstrained optimization.pdf](https://files.catbox.moe/9j95kv.pdf), Lecture_Slides
-			- [Vector space R^n.pdf](https://files.catbox.moe/5f78tw.pdf), Lecture_Slides
-			- [Worked out problems .pdf](https://files.catbox.moe/xnidpm.pdf), Lecture_Slides
-			- [PS 3.pdf](https://files.catbox.moe/goajkn.pdf), Practice_Problems
-			- [PS 2.pdf](https://files.catbox.moe/6w4qqs.pdf), Practice_Problems
-			- [PS 1.pdf](https://files.catbox.moe/p437j7.pdf), Practice_Problems
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-		- Theory-of-Computation
-	- CSAM
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Basic-Electronics
-			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
-			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
-			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
-			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
-			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
-			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
-			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
-			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
-			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
-			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
-			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
-			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
-			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
-			- [ Midsem_2023.pdf](https://files.catbox.moe/ahfna3.pdf), Paper
-			- [Assignment 4 2023.pdf](https://files.catbox.moe/xa9gcc.pdf), Assignment
-			- [Assignment 3 2023.pdf](https://files.catbox.moe/pf4j26.pdf), Assignment
-			- [Assignment 2 2023.pdf](https://files.catbox.moe/dtbffv.pdf), Assignment
-			- [Assignment 1 2023.pdf](https://files.catbox.moe/62k4gg.pdf), Assignment
-			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/1vkw14.pdf), Quizzes
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/7dkwrw.pdf), Quizzes
-			- [Quiz 4 2023.pdf](https://files.catbox.moe/tqw1fp.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/fpdbdq.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/ew9abd.pdf), Quizzes
-			- [Quiz 6 2023.pdf](https://files.catbox.moe/touvk5.pdf), Quizzes
-			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/eu1lf6.pdf), Quizzes
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/stzxkx.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/kjaxvy.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Introduction-to-Sociology-and-Anthropology
-			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
-		- Money-and-Banking
-			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
-			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
-			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
-			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
-			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
-			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
-		- Key-Concepts-in-Economic-Sociology
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Discrete-Structures
-			- [End Sem 2022 Soln.pdf](https://files.catbox.moe/wawb0j.pdf), Paper
-			- [End sem 2022.pdf](https://files.catbox.moe/bm2o59.pdf), Paper
-			- [Lecture 0 (Intro).pptx](https://files.catbox.moe/ava3gs.pdf), Lecture_Slides
-			- [Lecture 2.pptx](https://files.catbox.moe/d2czlz.pdf), Lecture_Slides
-			- [Lecture 1.pptx](https://files.catbox.moe/shzzci.pdf), Lecture_Slides
-			- [Lecture 16.pptx](https://files.catbox.moe/phih3x.pdf), Lecture_Slides
-			- [Lecture 15.pptx](https://files.catbox.moe/u2zqhn.pdf), Lecture_Slides
-			- [Lecture 14.pptx](https://files.catbox.moe/l84apr.pdf), Lecture_Slides
-			- [Lecture 13.pptx](https://files.catbox.moe/tfgcff.pdf), Lecture_Slides
-			- [Lecture 12.pptx](https://files.catbox.moe/orgdtx.pdf), Lecture_Slides
-			- [Lecture 11.pptx](https://files.catbox.moe/uixkxe.pdf), Lecture_Slides
-			- [Lecture 10.pptx](https://files.catbox.moe/qnm8lk.pdf), Lecture_Slides
-			- [Lecture 9.pptx](https://files.catbox.moe/51npmi.pdf), Lecture_Slides
-			- [Lecture 8.pptx](https://files.catbox.moe/hhj8e3.pdf), Lecture_Slides
-			- [Lecture 7.pptx](https://files.catbox.moe/va66gh.pdf), Lecture_Slides
-			- [Lecture 6.pptx](https://files.catbox.moe/dr191f.pdf), Lecture_Slides
-			- [Lecture 5.pptx](https://files.catbox.moe/btgzs8.pdf), Lecture_Slides
-			- [Lecture 3.pptx](https://files.catbox.moe/n4wa8s.pdf), Lecture_Slides
-			- [Lecture 4.pptx](https://files.catbox.moe/mhkhfe.pdf), Lecture_Slides
-			- [Lecture 24 (Extra).pptx](https://files.catbox.moe/pc3yzu.pdf), Lecture_Slides
-			- [Lecture 24.pdf](https://files.catbox.moe/kaujh6.pdf), Lecture_Slides
-			- [Lecture 23.pptx](https://files.catbox.moe/qi2n0q.pdf), Lecture_Slides
-			- [Lecture 22.pptx](https://files.catbox.moe/uf52se.pdf), Lecture_Slides
-			- [Lecture 21.pptx](https://files.catbox.moe/7b0evr.pdf), Lecture_Slides
-			- [Lecture 20.pptx](https://files.catbox.moe/be9bdg.pdf), Lecture_Slides
-			- [Lecture 19.pptx](https://files.catbox.moe/mljfnq.pdf), Lecture_Slides
-			- [Lecture 18.pptx](https://files.catbox.moe/tuw1f1.pdf), Lecture_Slides
-			- [Lecture 17.pptx](https://files.catbox.moe/uzz19v.pdf), Lecture_Slides
-			- [Mid sem 2022 Soln.pdf](https://files.catbox.moe/g2cqhq.pdf), Paper
-			- [Mid sem 2022.jpg](https://files.catbox.moe/xespm2.pdf), Paper
-			- [TUT 12 Soln 2.pdf](https://files.catbox.moe/nu2uwo.pdf), Tutorial_Assignment
-			- [TUT 12 Soln 1.pdf](https://files.catbox.moe/qeyf0n.pdf), Tutorial_Assignment
-			- [TUT 11 Soln.pdf](https://files.catbox.moe/geafgz.pdf), Tutorial_Assignment
-			- [TUT 10 Soln.pdf](https://files.catbox.moe/723a20.pdf), Tutorial_Assignment
-			- [TUT 9 Soln.pdf](https://files.catbox.moe/cth9lq.pdf), Tutorial_Assignment
-			- [TUT 8 Soln (Extra).pdf](https://files.catbox.moe/xmmpg3.pdf), Tutorial_Assignment
-			- [TUT 8 Soln.pdf](https://files.catbox.moe/07u01m.pdf), Tutorial_Assignment
-			- [TUT 7 Soln.pdf](https://files.catbox.moe/yozttw.pdf), Tutorial_Assignment
-			- [TUT 6 Soln.pdf](https://files.catbox.moe/0sgmsk.pdf), Tutorial_Assignment
-			- [TUT 5 Soln.pdf](https://files.catbox.moe/z9k81x.pdf), Tutorial_Assignment
-			- [TUT 4 Soln Q9.pdf](https://files.catbox.moe/4hdotr.pdf), Tutorial_Assignment
-			- [TUT 4 Soln.pdf](https://files.catbox.moe/cldoae.pdf), Tutorial_Assignment
-			- [TUT 3 Soln Q2&9.pdf](https://files.catbox.moe/yj9pp0.pdf), Tutorial_Assignment
-			- [TUT 3 Soln part 1.pdf](https://files.catbox.moe/9gbcfd.pdf), Tutorial_Assignment
-			- [TUT 2 Soln part 2.pdf](https://files.catbox.moe/6gywp3.pdf), Tutorial_Assignment
-			- [TUT 2 Soln part 1.pdf](https://files.catbox.moe/p8qwne.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q13_19.pdf](https://files.catbox.moe/rn2jy4.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q4&6.pdf](https://files.catbox.moe/4nmj8w.pdf), Tutorial_Assignment
-			- [TUT 1 Soln Q1_12.pdf](https://files.catbox.moe/7w4z0w.pdf), Tutorial_Assignment
-			- [TUT 12.pdf](https://files.catbox.moe/9kamh5.pdf), Tutorial_Assignment
-			- [TUT 11.pdf](https://files.catbox.moe/cbux3s.pdf), Tutorial_Assignment
-			- [TUT 10.pdf](https://files.catbox.moe/24kw8x.pdf), Tutorial_Assignment
-			- [TUT 9.pdf](https://files.catbox.moe/c25q27.pdf), Tutorial_Assignment
-			- [TUT 8.pdf](https://files.catbox.moe/beayqn.pdf), Tutorial_Assignment
-			- [TUT 7.pdf](https://files.catbox.moe/h7evbx.pdf), Tutorial_Assignment
-			- [TUT 6.pdf](https://files.catbox.moe/061ach.pdf), Tutorial_Assignment
-			- [TUT 5.pdf](https://files.catbox.moe/ik0956.pdf), Tutorial_Assignment
-			- [TUT 4.pdf](https://files.catbox.moe/a1jc12.pdf), Tutorial_Assignment
-			- [TUT 3.pdf](https://files.catbox.moe/n31g6y.pdf), Tutorial_Assignment
-			- [TUT 2.pdf](https://files.catbox.moe/7uibfr.pdf), Tutorial_Assignment
-			- [TUT 1.pdf](https://files.catbox.moe/qi558e.pdf), Tutorial_Assignment
-			- [Assignment 9 Solution.pdf](https://files.catbox.moe/8iasnk.pdf), Assignment
-			- [Assignment 8 & 9 2022 Rubric.pdf](https://files.catbox.moe/k4xowk.pdf), Assignment
-			- [Assignment 8 2022 Solution.pdf](https://files.catbox.moe/98ja6b.pdf), Assignment
-			- [Assignment 7 2022 Solution.pdf](https://files.catbox.moe/5esw40.pdf), Assignment
-			- [Assignment 6 2022 Solution.pdf](https://files.catbox.moe/u8kzt5.pdf), Assignment
-			- [Assignment 5 2022 Rubric.pdf](https://files.catbox.moe/qqdadd.pdf), Assignment
-			- [Assignment 4 2022 Solution.pdf](https://files.catbox.moe/u88hm4.pdf), Assignment
-			- [Assignment 4 2022 Rubric.pdf](https://files.catbox.moe/iyen3u.pdf), Assignment
-			- [Assignment 3 2022 Solution.pdf](https://files.catbox.moe/k90eys.pdf), Assignment
-			- [Assignment 3 2022 Rubric.pdf](https://files.catbox.moe/qk9z56.pdf), Assignment
-			- [Assignment 2 2022 Solution.pdf](https://files.catbox.moe/xorcq3.pdf), Assignment
-			- [Assignment 2 2022 Rubric.pdf](https://files.catbox.moe/wg6wao.pdf), Assignment
-			- [Assignment 1 2022 Solution.pdf](https://files.catbox.moe/371zpm.pdf), Assignment
-			- [Notes 21.pdf](https://files.catbox.moe/t01zcu.pdf), Note
-			- [Notes 20.pdf](https://files.catbox.moe/qh713z.pdf), Note
-			- [Notes 19.pdf](https://files.catbox.moe/86qfvl.pdf), Note
-			- [Notes 18.pdf](https://files.catbox.moe/30zx9z.pdf), Note
-			- [Notes 17.pdf](https://files.catbox.moe/m5tmnd.pdf), Note
-			- [Notes 16.pdf](https://files.catbox.moe/hwg6as.pdf), Note
-			- [Notes 15.pdf](https://files.catbox.moe/rbf6y6.pdf), Note
-			- [Notes 14.pdf](https://files.catbox.moe/619o0c.pdf), Note
-			- [Notes 13.pdf](https://files.catbox.moe/unxk63.pdf), Note
-			- [Notes 12.pdf](https://files.catbox.moe/oq4eyj.pdf), Note
-			- [Notes 11.pdf](https://files.catbox.moe/532wbu.pdf), Note
-			- [Notes 10.pdf](https://files.catbox.moe/ajhl9c.pdf), Note
-			- [Notes 9.pdf](https://files.catbox.moe/truhxe.pdf), Note
-			- [Notes 8.pdf](https://files.catbox.moe/6pu2kd.pdf), Note
-			- [Notes 7 (EXTRA).pdf](https://files.catbox.moe/ivzjhf.pdf), Note
-			- [Notes 7.pdf](https://files.catbox.moe/3dzlm2.pdf), Note
-			- [Notes 6.pdf](https://files.catbox.moe/avsa7a.pdf), Note
-			- [Notes 5.pdf](https://files.catbox.moe/rqg61r.pdf), Note
-			- [Notes 4.pdf](https://files.catbox.moe/2irh7w.pdf), Note
-			- [Notes 3.pdf](https://files.catbox.moe/6s4g30.pdf), Note
-			- [Notes 2.pdf](https://files.catbox.moe/zco3lg.pdf), Note
-			- [Notes 1.pdf](https://files.catbox.moe/lkgk13.pdf), Note
-			- [Discrete Structures Syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Kimberly Brehm- Discrete Structures.playlist](https://files.catbox.moe/dpb94y.txt), Playlist
-			- [DS(2023)_midsem.pdf](https://files.catbox.moe/p7fw6w.pdf), Paper
-		- Signals-&-Systems
-			- [Lecture 14.pdf](https://files.catbox.moe/naiw2b.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/6yvjfb.pdf), Lecture_Slides
-			- [Lecture 12.pdf](https://files.catbox.moe/66s8qk.pdf), Lecture_Slides
-			- [Lecture 11.pdf](https://files.catbox.moe/coav0d.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/6gtg1b.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/bdj59i.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/vd2xhp.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/p46tg2.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/qat6jb.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/juv8eo.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/ns1y7b.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/w84kjw.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/unoc26.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/7hpmfv.pdf), Lecture_Slides
-			- [Endsem 2022.pdf](https://files.catbox.moe/a2iqkg.pdf), Paper
-			- [Endsem 2022 sol.pdf](https://files.catbox.moe/peduv5.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/08t43k.pdf), Paper
-			- [Midsem 2022 sol.pdf](https://files.catbox.moe/b75009.pdf), Paper
-			- [Quiz 10 2022 sol.pdf](https://files.catbox.moe/4autbr.pdf), Quizzes
-			- [Quiz 9 2022.pdf](https://files.catbox.moe/pifq6k.pdf), Quizzes
-			- [Quiz 9 2022 sol.pdf](https://files.catbox.moe/wx0fnx.pdf), Quizzes
-			- [Quiz 8 2022.pdf](https://files.catbox.moe/xv9l6i.pdf), Quizzes
-			- [Quiz 8 2022 sol.pdf](https://files.catbox.moe/m9mzln.pdf), Quizzes
-			- [Quiz 7 2022.pdf](https://files.catbox.moe/byotbp.pdf), Quizzes
-			- [Quiz 7 2022 sol.pdf](https://files.catbox.moe/bcdqb3.pdf), Quizzes
-			- [Quiz 6 2022.pdf](https://files.catbox.moe/o3tcjl.pdf), Quizzes
-			- [Quiz 5 2022.pdf](https://files.catbox.moe/j6swlx.pdf), Quizzes
-			- [Quiz 6 2022 sol.pdf](https://files.catbox.moe/lljmad.pdf), Quizzes
-			- [Quiz 4 2022.pdf](https://files.catbox.moe/4sph24.pdf), Quizzes
-			- [Quiz 5 2022 sol.pdf](https://files.catbox.moe/cwe0aq.pdf), Quizzes
-			- [Quiz 4 2022 sol.pdf](https://files.catbox.moe/554a98.pdf), Quizzes
-			- [Quiz 3 2022 sol.pdf](https://files.catbox.moe/pv1i80.pdf), Quizzes
-			- [Quiz 3 2022.pdf](https://files.catbox.moe/3a7ui1.pdf), Quizzes
-			- [Quiz 2 2022.pdf](https://files.catbox.moe/w941ek.pdf), Quizzes
-			- [Quiz 2 2022 sol.pdf](https://files.catbox.moe/9olddt.pdf), Quizzes
-			- [Quiz 1 2022 sol.pdf](https://files.catbox.moe/0imc6e.pdf), Quizzes
-			- [Quiz 1 2022.pdf](https://files.catbox.moe/l9jz6u.pdf), Quizzes
-			- [Optional Quiz 2022.pdf](https://files.catbox.moe/epmahr.pdf), Quizzes
-			- [Optional Quiz 2022 sol.pdf](https://files.catbox.moe/0qop1v.pdf), Quizzes
-			- [Quiz 10 2022.pdf](https://files.catbox.moe/o658gm.pdf), Quizzes
-			- [Signals & Systems course plan.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [SNS Syllabus.pdf](https://files.catbox.moe/3lq1na.pdf), Books_And_Misc
-			- [SNS - NESO.playlist](https://files.catbox.moe/cyj9oo.txt), Playlist
-			- [SnS midsem 2023.pdf](https://files.catbox.moe/yw0s5d.pdf), Paper
-			- [SNS - II(Oppenheim).pdf](https://files.catbox.moe/6o1fey.pdf), Book
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/04ww4j.pdf), Quizzes
-			- [Quiz 1 2023.pdf](https://files.catbox.moe/buae0c.pdf), Quizzes
-			- [ Quiz 4 2023.pdf](https://files.catbox.moe/h2xuip.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/802t41.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/y3wy8k.pdf), Quizzes
-			- [End Sem Sol 2023.pdf](https://files.catbox.moe/j3gh3f.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/igwnrv.pdf), Paper
-		- Number-Theory
-			- [Midsem Soln 2022[1].pdf](https://files.catbox.moe/uqiygi.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/ml3dxc.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/7d0xna.pdf), Paper
-			- [Lecture 8.pdf](https://files.catbox.moe/ljxfbo.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/fceo6i.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/wl1er2.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/qlexn8.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/jzkd8l.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/l5p49n.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/m38yti.pdf), Lecture_Slides
-			- [Lecture 21.pdf](https://files.catbox.moe/mqhcje.pdf), Lecture_Slides
-			- [Lecture 20.pdf](https://files.catbox.moe/2fxa04.pdf), Lecture_Slides
-			- [Lecture 19.pdf](https://files.catbox.moe/m8w60j.pdf), Lecture_Slides
-			- [Lecture 18.pdf](https://files.catbox.moe/w9phgi.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/njjfw4.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/euxcqz.pdf), Lecture_Slides
-			- [Lecture 12.pdf](https://files.catbox.moe/0qbqn3.pdf), Lecture_Slides
-			- [Lecture 11.pdf](https://files.catbox.moe/m9qgy1.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/xqtpbp.pdf), Lecture_Slides
-			- [Homework 2.pdf](https://files.catbox.moe/to8c7z.pdf), Assignment
-			- [Homework 1.pdf](https://files.catbox.moe/f4u1zk.pdf), Assignment
-			- [HW-1 Solutions.pdf](https://files.catbox.moe/fkyp0b.pdf), Assignment
-			- [Formula Sheet.pdf](https://files.catbox.moe/tznfau.pdf), Book
-			- [Kenneth H. Rosen - Instructor's Resource Guide to Accompany Discrete Mathematics and Its Applications, 6th Edition [Black and white] (2017).pdf](https://files.catbox.moe/tuc4xx.pdf), Books_And_Misc
-			- [Midsem 2023.pdf](https://files.catbox.moe/m08bhv.pdf), Paper
-		- Real-Analysis---1
-			- [Midsem 2022 Soln.pdf](https://files.catbox.moe/is30o1.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/53llqu.pdf), Paper
-			- [Michael Penn-Real Analysis.playlist](https://files.catbox.moe/yy2sdc.txt), Playlist
-			- [2023_midsem.pdf](https://files.catbox.moe/4owcjx.pdf), Paper
-		- Social-and-Political-Philosophy
-			- [Rajeev Bhargava, Ashok Acharyha - Political Theory  An Introduction-Pearson Education (2008).pdf](https://files.catbox.moe/ipv0vy.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/fqdl0x.pdf), Paper
-		- DBMS
-			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
-			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
-			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
-			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
-			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
-			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
-			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
-			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
-			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
-		- Econometrics
-		- Analysis-and-Design-of-Algorithms
-			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
-			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
-			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
-			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
-			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
-			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
-			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
-			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
-			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
-			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
-			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
-			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
-			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
-			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
-			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
-			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
-			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
-			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
-			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
-			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
-			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
-			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
-			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
-			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
-			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
-			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
-			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
-			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
-			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
-			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
-			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
-			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
-			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-		- Theory-of-Computation
-	- ECE
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Basic-Electronics
-			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
-			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
-			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
-			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
-			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
-			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
-			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
-			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
-			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
-			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
-			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
-			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
-			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
-			- [ Midsem_2023.pdf](https://files.catbox.moe/mnid53.pdf), Paper
-			- [Assignment 4 2023.pdf](https://files.catbox.moe/jpu3i7.pdf), Assignment
-			- [Assignment 3 2023.pdf](https://files.catbox.moe/rnnito.pdf), Assignment
-			- [Assignment 2 2023.pdf](https://files.catbox.moe/db3n43.pdf), Assignment
-			- [Assignment 1 2023.pdf](https://files.catbox.moe/v96go3.pdf), Assignment
-			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/6fuzo2.pdf), Quizzes
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/3smpbq.pdf), Quizzes
-			- [Quiz 4 2023.pdf](https://files.catbox.moe/5y9930.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/313cy9.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/55bg25.pdf), Quizzes
-			- [Quiz 6 2023.pdf](https://files.catbox.moe/15laye.pdf), Quizzes
-			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/jcv3g0.pdf), Quizzes
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/gj1ezg.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/m1ap6b.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Introduction-to-Sociology-and-Anthropology
-			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
-		- Money-and-Banking
-			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
-			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
-			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
-			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
-			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
-			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
-		- Key-Concepts-in-Economic-Sociology
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Multivariate-calculus-3
-			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
-			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
-			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
-			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
-			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
-			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
-			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
-			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
-			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
-			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
-			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
-			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
-			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
-			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
-			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
-			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
-			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
-			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
-			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
-			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
-			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
-			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
-			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
-			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
-			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
-			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
-			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
-			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
-			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
-			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
-			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
-			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
-			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
-			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
-			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
-			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
-			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
-			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
-			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
-			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
-			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
-		- Signals-&-Systems
-			- [Lecture 14.pdf](https://files.catbox.moe/naiw2b.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/6yvjfb.pdf), Lecture_Slides
-			- [Lecture 12.pdf](https://files.catbox.moe/66s8qk.pdf), Lecture_Slides
-			- [Lecture 11.pdf](https://files.catbox.moe/coav0d.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/6gtg1b.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/bdj59i.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/vd2xhp.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/p46tg2.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/qat6jb.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/juv8eo.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/ns1y7b.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/w84kjw.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/unoc26.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/7hpmfv.pdf), Lecture_Slides
-			- [Endsem 2022.pdf](https://files.catbox.moe/a2iqkg.pdf), Paper
-			- [Endsem 2022 sol.pdf](https://files.catbox.moe/peduv5.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/08t43k.pdf), Paper
-			- [Midsem 2022 sol.pdf](https://files.catbox.moe/b75009.pdf), Paper
-			- [Quiz 10 2022 sol.pdf](https://files.catbox.moe/4autbr.pdf), Quizzes
-			- [Quiz 9 2022.pdf](https://files.catbox.moe/pifq6k.pdf), Quizzes
-			- [Quiz 9 2022 sol.pdf](https://files.catbox.moe/wx0fnx.pdf), Quizzes
-			- [Quiz 8 2022.pdf](https://files.catbox.moe/xv9l6i.pdf), Quizzes
-			- [Quiz 8 2022 sol.pdf](https://files.catbox.moe/m9mzln.pdf), Quizzes
-			- [Quiz 7 2022.pdf](https://files.catbox.moe/byotbp.pdf), Quizzes
-			- [Quiz 7 2022 sol.pdf](https://files.catbox.moe/bcdqb3.pdf), Quizzes
-			- [Quiz 6 2022.pdf](https://files.catbox.moe/o3tcjl.pdf), Quizzes
-			- [Quiz 5 2022.pdf](https://files.catbox.moe/j6swlx.pdf), Quizzes
-			- [Quiz 6 2022 sol.pdf](https://files.catbox.moe/lljmad.pdf), Quizzes
-			- [Quiz 4 2022.pdf](https://files.catbox.moe/4sph24.pdf), Quizzes
-			- [Quiz 5 2022 sol.pdf](https://files.catbox.moe/cwe0aq.pdf), Quizzes
-			- [Quiz 4 2022 sol.pdf](https://files.catbox.moe/554a98.pdf), Quizzes
-			- [Quiz 3 2022 sol.pdf](https://files.catbox.moe/pv1i80.pdf), Quizzes
-			- [Quiz 3 2022.pdf](https://files.catbox.moe/3a7ui1.pdf), Quizzes
-			- [Quiz 2 2022.pdf](https://files.catbox.moe/w941ek.pdf), Quizzes
-			- [Quiz 2 2022 sol.pdf](https://files.catbox.moe/9olddt.pdf), Quizzes
-			- [Quiz 1 2022 sol.pdf](https://files.catbox.moe/0imc6e.pdf), Quizzes
-			- [Quiz 1 2022.pdf](https://files.catbox.moe/l9jz6u.pdf), Quizzes
-			- [Optional Quiz 2022.pdf](https://files.catbox.moe/epmahr.pdf), Quizzes
-			- [Optional Quiz 2022 sol.pdf](https://files.catbox.moe/0qop1v.pdf), Quizzes
-			- [Quiz 10 2022.pdf](https://files.catbox.moe/o658gm.pdf), Quizzes
-			- [Signals & Systems course plan.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [SNS Syllabus.pdf](https://files.catbox.moe/3lq1na.pdf), Books_And_Misc
-			- [SNS - NESO.playlist](https://files.catbox.moe/cyj9oo.txt), Playlist
-			- [SnS midsem 2023.pdf](https://files.catbox.moe/yw0s5d.pdf), Paper
-			- [SNS - II(Oppenheim).pdf](https://files.catbox.moe/6o1fey.pdf), Book
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/04ww4j.pdf), Quizzes
-			- [Quiz 1 2023.pdf](https://files.catbox.moe/buae0c.pdf), Quizzes
-			- [ Quiz 4 2023.pdf](https://files.catbox.moe/h2xuip.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/802t41.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/y3wy8k.pdf), Quizzes
-			- [End Sem Sol 2023.pdf](https://files.catbox.moe/j3gh3f.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/igwnrv.pdf), Paper
-		- Social-and-Political-Philosophy
-			- [Rajeev Bhargava, Ashok Acharyha - Political Theory  An Introduction-Pearson Education (2008).pdf](https://files.catbox.moe/ipv0vy.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/fqdl0x.pdf), Paper
-		- Embedded-Logic-Design
-			- [Midsem 2022.pdf](https://files.catbox.moe/5ibywo.pdf), Paper
-			- [Midsem Lab 2020.pdf](https://files.catbox.moe/i9z3r1.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/v4l0gd.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/2cm2ii.pdf), Paper
-			- [Midsem Lab 2021.pdf](https://files.catbox.moe/ekw0by.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/p0lo01.pdf), Paper
-			- [Endsem Lab 2018.pdf](https://files.catbox.moe/fms4g4.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/wgvsoc.pdf), Paper
-			- [Endsem 2019.pdf](https://files.catbox.moe/nn2ilb.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/oanlcd.pdf), Paper
-			- [Endsem Lab 2021.pdf](https://files.catbox.moe/ed23a8.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/skux91.pdf), Paper
-			- [Lecture 28 pdf.pdf](https://files.catbox.moe/pt2mbn.pdf), Lecture_Slides
-			- [Lecture 27 pdf.pdf](https://files.catbox.moe/9ztnaj.pdf), Lecture_Slides
-			- [Lecture 26 pdf.pdf](https://files.catbox.moe/ipz74z.pdf), Lecture_Slides
-			- [Lecture 25 pdf.pdf](https://files.catbox.moe/ty91l5.pdf), Lecture_Slides
-			- [Lecture 24 pdf.pdf](https://files.catbox.moe/5kv84p.pdf), Lecture_Slides
-			- [Lecture 23 pdf.pdf](https://files.catbox.moe/mod6rm.pdf), Lecture_Slides
-			- [Lecture 22 pdf.pdf](https://files.catbox.moe/rwllbh.pdf), Lecture_Slides
-			- [Lecture 21 pdf.pdf](https://files.catbox.moe/cce85b.pdf), Lecture_Slides
-			- [Lecture 20 pdf.pdf](https://files.catbox.moe/gvmjhu.pdf), Lecture_Slides
-			- [Lecture 19 pdf.pdf](https://files.catbox.moe/6irttj.pdf), Lecture_Slides
-			- [Lecture 18 pdf.pdf](https://files.catbox.moe/zbvzkz.pdf), Lecture_Slides
-			- [Lecture 17 pdf.pdf](https://files.catbox.moe/rhucuv.pdf), Lecture_Slides
-			- [Lecture 16 pdf.pdf](https://files.catbox.moe/ci8dii.pdf), Lecture_Slides
-			- [Lecture 15 pdf.pdf](https://files.catbox.moe/plxio7.pdf), Lecture_Slides
-			- [Lecture 14 pdf.pdf](https://files.catbox.moe/h6irse.pdf), Lecture_Slides
-			- [Lecture 13 pdf.pdf](https://files.catbox.moe/58t7xm.pdf), Lecture_Slides
-			- [Lecture 12 pdf.pdf](https://files.catbox.moe/3fmqtk.pdf), Lecture_Slides
-			- [Lecture 10 pdf.pdf](https://files.catbox.moe/4v93ag.pdf), Lecture_Slides
-			- [Lecture 11 pdf.pdf](https://files.catbox.moe/fi5hyu.pdf), Lecture_Slides
-			- [Lecture 9 pdf.pdf](https://files.catbox.moe/6teim7.pdf), Lecture_Slides
-			- [Lecture 7 pdf.pdf](https://files.catbox.moe/lsaafb.pdf), Lecture_Slides
-			- [Lecture 6 pdf.pdf](https://files.catbox.moe/o9qo94.pdf), Lecture_Slides
-			- [Lecture 5 pdf.pdf](https://files.catbox.moe/8a75df.pdf), Lecture_Slides
-			- [Lecture 4 pdf.pdf](https://files.catbox.moe/0ejouc.pdf), Lecture_Slides
-			- [Lecture 2 and 3 pdf.pdf](https://files.catbox.moe/rr2j1i.pdf), Lecture_Slides
-			- [Lecture 1 pdf.pdf](https://files.catbox.moe/94s15e.pdf), Lecture_Slides
-			- [Quiz 3 2022.pdf](https://files.catbox.moe/brvaiz.pdf), Quizzes
-			- [Quiz 2 2022.pdf](https://files.catbox.moe/vbsdpp.pdf), Quizzes
-			- [ELD Syllabus.pdf](https://files.catbox.moe/waphux.pdf), Books_And_Misc
-			- [ELD Labs (2021).playlist](https://files.catbox.moe/l5aara.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/ah7m0m.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/1c59oe.pdf), Paper
-		- Circuit-Theory-and-Devices
-			- [Endsem 2021.pdf](https://files.catbox.moe/zygo18.pdf), Paper
-			- [Lecture 7.pdf](https://files.catbox.moe/4m944s.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/jaen0j.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/7pjy50.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/liv41k.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/7at5lx.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/7at5lx.pdf), Lecture_Slides
-			- [Tutorial 12.pdf](https://files.catbox.moe/xn6f2d.pdf), Tutorial_Assignment
-			- [Tutorial 11.pdf](https://files.catbox.moe/awtzb6.pdf), Tutorial_Assignment
-			- [Tutorial 10.pdf](https://files.catbox.moe/59t80p.pdf), Tutorial_Assignment
-			- [Tutorial 9 .pdf](https://files.catbox.moe/sz88yi.pdf), Tutorial_Assignment
-			- [Tutorial 8 .pdf](https://files.catbox.moe/8wwhxk.pdf), Tutorial_Assignment
-			- [Tutorial 7 .pdf](https://files.catbox.moe/aafiyx.pdf), Tutorial_Assignment
-			- [Tutorial 6 .pdf](https://files.catbox.moe/4aktn8.pdf), Tutorial_Assignment
-			- [Tutorial 5.pdf](https://files.catbox.moe/hei8e7.pdf), Tutorial_Assignment
-			- [Tutorial 4 .pdf](https://files.catbox.moe/yshtpj.pdf), Tutorial_Assignment
-			- [Tutorial 3 .pdf](https://files.catbox.moe/wx6jjj.pdf), Tutorial_Assignment
-			- [Tutorial 2 .pdf](https://files.catbox.moe/9u6qaz.pdf), Tutorial_Assignment
-			- [Quiz 4.pdf](https://files.catbox.moe/dq5l9h.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/48bz7o.pdf), Quizzes
-			- [Quiz 2.pdf](https://files.catbox.moe/3t0dek.pdf), Quizzes
-			- [Quiz 1.pdf](https://files.catbox.moe/td3qbs.pdf), Quizzes
-			- [Tutorial 1.pdf](https://files.catbox.moe/joclok.pdf), Tutorial_Assignment
-			- [CTD Syllabus.pdf](https://files.catbox.moe/xebcno.pdf), Books_And_Misc
-			- [CTD Playlist.playlist](https://files.catbox.moe/yy1vgk.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/shfw1q.pdf), Paper
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- Fields-&-Waves
-			- [David J. Griffith.pdf](https://files.catbox.moe/zkzn0j.pdf), Book
-			- [David Solutions.pdf](https://files.catbox.moe/x1rg40.pdf), Book
-		- Integrated-Electronics
-			- [Sedra Smith.pdf](https://files.catbox.moe/va20ao.pdf), Book
-		- Principles-of-Communication-Systems
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-	- CSE
-		- Introduction-to-Human-Computer-Interaction
-			- [Endsem 2020.pdf](https://files.catbox.moe/9i2kl5.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/0u8mnx.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/vx1jt0.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/y1fuuf.pdf), Paper
-			- [Lecture 6-10.pdf](https://files.catbox.moe/5lni50.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/gonbv9.pdf), Lecture_Slides
-			- [Lecture 1-5.pdf](https://files.catbox.moe/s0nw5k.pdf), Lecture_Slides
-			- [Lecture 12-15.pdf](https://files.catbox.moe/wwz342.pdf), Lecture_Slides
-			- [Tuts 1-5.pdf](https://files.catbox.moe/ze12zj.pdf), Tutorial_Assignment
-			- [Tuts 6-10.pdf](https://files.catbox.moe/2n5y9m.pdf), Tutorial_Assignment
-			- [Project 2020.pdf](https://files.catbox.moe/7kl0eg.pdf), Books_And_Misc
-			- [Project 2021.pdf](https://files.catbox.moe/4aleqz.pdf), Books_And_Misc
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/9ydycs.pdf), Quizzes
-			- [Quiz 1-2 2021.pdf](https://files.catbox.moe/fnb6e4.pdf), Quizzes
-			- [Interaction Design Beyond Human-Computer Interaction .pdf](https://files.catbox.moe/lwm4iy.pdf), Book
-			- [Midsem 2022.pdf](https://files.catbox.moe/ex3qed.pdf), Paper
-			- [IHCI (Highlighted Book).pdf](https://files.catbox.moe/i3p8m4.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/hmvxnw.pdf), Paper
-			- [IHCI END SEM 2023.pdf](https://files.catbox.moe/xiyroj.pdf), Paper
-			- [IHCI QUIZ 2 2023.pdf](https://files.catbox.moe/7qu5yy.pdf), Quizzes
-		- Digital-Circuits
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9o9ilb.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/yv221o.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/wuqt8k.pdf), Lecture_Slides
-			- [Lecture 16-19.pdf](https://files.catbox.moe/6xpbzj.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/gq33r9.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/0g5oag.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/quqvhs.pdf), Lecture_Slides
-			- [Lecture 36-37.pdf](https://files.catbox.moe/2srjrc.pdf), Lecture_Slides
-			- [ Lab Ast 2018 .pdf](https://files.catbox.moe/u4on94.pdf), Laboratory
-			- [Lab 1-4 2021.pdf](https://files.catbox.moe/cr0tim.pdf), Laboratory
-			- [Lab 5-7 2021 .pdf](https://files.catbox.moe/23z4l2.pdf), Laboratory
-			- [Lab 8-9 2021 .pdf](https://files.catbox.moe/1e81qw.pdf), Laboratory
-			- [Lab Ast 1-4 2021 .pdf](https://files.catbox.moe/nbhzfk.pdf), Laboratory
-			- [Lab Ast 5-9 2021 .pdf](https://files.catbox.moe/cbg3j0.pdf), Laboratory
-			- [Midsem 2018.pdf](https://files.catbox.moe/rv00be.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wsgnxm.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/li1whp.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/4g4b5b.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/422viv.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/ui80vy.pdf), Paper
-			- [Pset 1-5 2021.pdf](https://files.catbox.moe/djg919.pdf), Practice_Problems
-			- [Pset 7-10 2021.pdf](https://files.catbox.moe/dcgx6t.pdf), Practice_Problems
-			- [Stephen Brown.pdf](https://files.catbox.moe/eevaej.pdf), Books_And_Misc
-			- [Boolean Algebra.pdf](https://files.catbox.moe/7lb2qv.pdf), Books_And_Misc
-			- [M Moris Solutions.pdf](https://files.catbox.moe/n52y4d.pdf), Books_And_Misc
-			- [M Moris.pdf](https://files.catbox.moe/tnl00p.pdf), Books_And_Misc
-			- [Quiz 2020.pdf](https://files.catbox.moe/yh58kf.pdf), Quizzes
-			- [Quiz 2021.pdf](https://files.catbox.moe/8rdu17.pdf), Quizzes
-			- [Quiz 2018.pdf](https://files.catbox.moe/4mvh6b.pdf), Quizzes
-			- [Timing SL.pdf](https://files.catbox.moe/53l9yd.pdf), Books_And_Misc
-			- [Lab File 1-6 2022.pdf](https://files.catbox.moe/xyg9hy.pdf), Laboratory
-			- [Lab File 7-9 2022.pdf](https://files.catbox.moe/mow56i.pdf), Laboratory
-			- [Lab File 10 2022.pdf](https://files.catbox.moe/1znbgx.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/sgk1as.pdf), Paper
-			- [Tuts 1-4 2021.pdf](https://files.catbox.moe/pxvysy.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/33uxvu.pdf), Tutorial_Assignment
-			- [Tuts 5-8 2018.pdf](https://files.catbox.moe/p7124j.pdf), Tutorial_Assignment
-			- [Tuts 5-9 2021.pdf](https://files.catbox.moe/2x8yee.pdf), Tutorial_Assignment
-			- [Tuts 9-12 2018.pdf](https://files.catbox.moe/cu9fri.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2022.pdf](https://files.catbox.moe/elx0ve.pdf), Tutorial_Assignment
-			- [Tuts 1-4 2018.pdf](https://files.catbox.moe/6t60sg.pdf), Tutorial_Assignment
-			- [Assignments 2018.pdf](https://files.catbox.moe/pafxhy.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/ipo6cm.pdf), Paper
-			- [TUT 1-11 (ALL) 2023.pdf](https://files.catbox.moe/h0z9hs.pdf), Tutorial_Assignment
-			- [LAB 1-9 2023.pdf](https://files.catbox.moe/o1tq7i.pdf), Laboratory
-			- [DC QUIZ-2 2023.pdf](https://files.catbox.moe/k8ui8m.pdf), Quizzes
-		- Introduction-to-Programming
-			- [Lab-3 B 2021.pdf](https://files.catbox.moe/kompds.pdf), Laboratory
-			- [Lab-3 A 2021.pdf](https://files.catbox.moe/s0cslh.pdf), Laboratory
-			- [Lab-4 B 2021.pdf](https://files.catbox.moe/1j7xtg.pdf), Laboratory
-			- [Lab-4 A 2021.pdf](https://files.catbox.moe/nj8hd1.pdf), Laboratory
-			- [Lab-5 B 2021.pdf](https://files.catbox.moe/a7z8dz.pdf), Laboratory
-			- [Lab-6 A 2021.pdf](https://files.catbox.moe/od9knp.pdf), Laboratory
-			- [Lab-7 B 2021.pdf](https://files.catbox.moe/iiq9g5.pdf), Laboratory
-			- [Lab-8 A 2021.pdf](https://files.catbox.moe/d29r5a.pdf), Laboratory
-			- [Lab-8 B 2021.pdf](https://files.catbox.moe/u2fcw6.pdf), Laboratory
-			- [Lab-5 A 2021.pdf](https://files.catbox.moe/s8u9m1.pdf), Laboratory
-			- [Lab-6 B 2021.pdf](https://files.catbox.moe/n40zk7.pdf), Laboratory
-			- [Lab-7 A 2021.pdf](https://files.catbox.moe/bzyb6l.pdf), Laboratory
-			- [Lab-2 A 2021.pdf](https://files.catbox.moe/gxqd8x.pdf), Laboratory
-			- [Lab-2 B 2021.pdf](https://files.catbox.moe/ck7vib.pdf), Laboratory
-			- [Lab 2020.pdf](https://files.catbox.moe/m8jx6p.pdf), Laboratory
-			- [Lab-1 2021.pdf](https://files.catbox.moe/rnx4p8.pdf), Laboratory
-			- [Lecture 1-6.pdf](https://files.catbox.moe/ovz54z.pdf), Lecture_Slides
-			- [Lecture 7-11.pdf](https://files.catbox.moe/klv82d.pdf), Lecture_Slides
-			- [Lecture 12-16.pdf](https://files.catbox.moe/7s2k29.pdf), Lecture_Slides
-			- [Lecture 17-21.pdf](https://files.catbox.moe/3q25ij.pdf), Lecture_Slides
-			- [Lecture 22-26.pdf](https://files.catbox.moe/o88cq9.pdf), Lecture_Slides
-			- [Midsem 2018.pdf](https://files.catbox.moe/kr0pa8.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/rpnrq4.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/lb7swj.pdf), Paper
-			- [Endsem 2021.pdf](https://files.catbox.moe/7cma7o.pdf), Paper
-			- [Midsem-Re 2018.pdf](https://files.catbox.moe/xgd2ny.pdf), Paper
-			- [Endsem 2020.pdf](https://files.catbox.moe/54gg4k.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/0cr1gv.pdf), Paper
-			- [Pset-4 2021.pdf](https://files.catbox.moe/u80say.pdf), Practice_Problems
-			- [Pset-1 2021.pdf](https://files.catbox.moe/6pjxly.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/6mr8tk.pdf), Practice_Problems
-			- [Pset-5 2021.pdf](https://files.catbox.moe/gy64q1.pdf), Practice_Problems
-			- [Pset-3 2021.pdf](https://files.catbox.moe/os4i3l.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/oa41ka.pdf), Practice_Problems
-			- [Assignment-1 2021.pdf](https://files.catbox.moe/10611v.pdf), Assignment
-			- [Assignment-3 2021.pdf](https://files.catbox.moe/9pil0q.pdf), Assignment
-			- [Assignment-2 2021.pdf](https://files.catbox.moe/dwy0cr.pdf), Assignment
-			- [Assignment(Rubrics) 2021.pdf](https://files.catbox.moe/oe0yb5.pdf), Assignment
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5guhwg.pdf), Quizzes
-			- [Quiz 1-5 2020.pdf](https://files.catbox.moe/44ea63.pdf), Quizzes
-			- [Beginners guide to Python 2021.pdf](https://files.catbox.moe/w4zba5.pdf), Books_And_Misc
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/1hpxss.pdf), Quizzes
-			- [Python Complete Playlist.playlist](https://files.catbox.moe/d31w2o.txt), Playlist
-			- [Code with Harry - Python Tutorial.playlist](https://files.catbox.moe/0hmww3.txt), Playlist
-			- [Python One Shot.playlist](https://files.catbox.moe/m195lq.txt), Playlist
-			- [Lab 1-3 2022.pdf](https://files.catbox.moe/1a58st.pdf), Laboratory
-			- [Lab 4-6 2022.pdf](https://files.catbox.moe/anjrem.pdf), Laboratory
-			- [Midsem 2022.pdf](https://files.catbox.moe/w9qa32.pdf), Paper
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/8uf8qj.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/2a3dkd.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/pecbkm.pdf), Assignment
-			- [Tuts 2018.pdf](https://files.catbox.moe/7thwz7.pdf), Tutorial_Assignment
-			- [Tuts 6-10 2021.pdf](https://files.catbox.moe/o57rmz.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2021.pdf](https://files.catbox.moe/i7ptjc.pdf), Tutorial_Assignment
-			- [Tuts 1-5 2022.pdf](https://files.catbox.moe/ek7lo5.pdf), Tutorial_Assignment
-			- [Tuts 6-11 2022.pdf](https://files.catbox.moe/ngmus0.pdf), Tutorial_Assignment
-			- [Midsem 2023.pdf](https://files.catbox.moe/jgv33c.pdf), Paper
-			- [MidSem_Lab_Solution.ipynb](https://files.catbox.moe/c841pd.pdf), Paper
-			- [Endsem Lab 2022.pdf](https://files.catbox.moe/paot37.pdf), Paper
-			- [End sem rubrics 2023.pdf](https://files.catbox.moe/ndwiv5.pdf), Paper
-		- Linear-Algebra
-			- [Lecture 1-5.pdf](https://files.catbox.moe/nddago.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ch6qtv.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/4gp2ky.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/srvp95.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/tyax7c.pdf), Lecture_Slides
-			- [Lecture 26-30.pdf](https://files.catbox.moe/vtsywt.pdf), Lecture_Slides
-			- [Lecture 31-35.pdf](https://files.catbox.moe/cb658x.pdf), Lecture_Slides
-			- [Endsem 2019.pdf](https://files.catbox.moe/4b8bzk.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/k3gbdq.pdf), Paper
-			- [Pset-10 2021.pdf](https://files.catbox.moe/oolot3.pdf), Practice_Problems
-			- [ Pset 1-5 2021.pdf](https://files.catbox.moe/j5pkz0.pdf), Practice_Problems
-			- [Pset-7 2021.pdf](https://files.catbox.moe/bssst3.pdf), Practice_Problems
-			- [Pset-8 2021.pdf](https://files.catbox.moe/j0fsg3.pdf), Practice_Problems
-			- [Pset-9 2021.pdf](https://files.catbox.moe/3tlhrr.pdf), Practice_Problems
-			- [Pset-6 2021.pdf](https://files.catbox.moe/boqepx.pdf), Practice_Problems
-			- [David C Lay Soln.pdf](https://files.catbox.moe/07mg9c.pdf), Books_And_Misc
-			- [David C Lay.pdf](https://files.catbox.moe/7vxtrr.pdf), Books_And_Misc
-			- [Quiz 1-5 2021.pdf](https://files.catbox.moe/hsoaq5.pdf), Quizzes
-			- [Quiz 6-10 2021.pdf](https://files.catbox.moe/vt5jrp.pdf), Quizzes
-			- [Quiz 11-14 2021.pdf](https://files.catbox.moe/5luzi2.pdf), Quizzes
-			- [Lecture 36-40.pdf](https://files.catbox.moe/et7ii4.pdf), Lecture_Slides
-			- [Endsem 2020.pdf](https://files.catbox.moe/wayosx.pdf), Paper
-			- [Grade Improvement 2021.pdf](https://files.catbox.moe/e1v2yy.pdf), Paper
-			- [Midsem 2020.pdf](https://files.catbox.moe/wnutki.pdf), Paper
-			- [Gilbert Strang.pdf](https://files.catbox.moe/sd4rzv.pdf), Books_And_Misc
-			- [Axler.pdf](https://files.catbox.moe/gcr71q.pdf), Books_And_Misc
-			- [James Hamblin .playlist](https://files.catbox.moe/wpr15z.txt), Playlist
-			- [Midsem 2022.pdf](https://files.catbox.moe/w34u2m.pdf), Paper
-			- [Notes-1 .pdf](https://files.catbox.moe/wlp4ky.pdf), Note
-			- [Endsem 2021.pdf](https://files.catbox.moe/lc1179.pdf), Paper
-			- [Notes-2.pdf](https://files.catbox.moe/98hzoq.pdf), Note
-			- [Assignment-1 2022.png](https://files.catbox.moe/ea9abx.pdf), Assignment
-			- [Tuts 1-6 2021.pdf](https://files.catbox.moe/ghife2.pdf), Assignment
-			- [Tuts 7-12 2021.pdf](https://files.catbox.moe/7ywhh5.pdf), Assignment
-			- [ Midsem 2023.pdf](https://files.catbox.moe/a8kx3t.pdf), Paper
-			- [QUIZ  1-3 WITH ANS 2023.pdf](https://files.catbox.moe/mjdsor.pdf), Quizzes
-			- [Worksheet_5.pdf](https://files.catbox.moe/5t8gc9.pdf), Assignment
-			- [Worksheet_4.pdf](https://files.catbox.moe/foov21.pdf), Assignment
-			- [Worksheet_3.pdf](https://files.catbox.moe/jqgens.pdf), Assignment
-			- [Worksheet_2.pdf](https://files.catbox.moe/fksbky.pdf), Assignment
-			- [Worksheet_1.pdf](https://files.catbox.moe/rzchh7.pdf), Assignment
-			- [Worksheet_10.pdf](https://files.catbox.moe/c9g9zc.pdf), Assignment
-			- [Worksheet_9.pdf](https://files.catbox.moe/qlq9j4.pdf), Assignment
-			- [Worksheet_8.pdf](https://files.catbox.moe/o9i3d4.pdf), Assignment
-			- [Worksheet_7 .pdf](https://files.catbox.moe/1kpaiy.pdf), Assignment
-			- [Worksheet_6.pdf](https://files.catbox.moe/wauvu6.pdf), Assignment
-			- [LA END SEM 2023.pdf](https://files.catbox.moe/nnhncp.pdf), Paper
-			- [make up exam solution 2023.pdf](https://files.catbox.moe/45yqzi.pdf), Paper
-			- [end sem solution 2023.pdf](https://files.catbox.moe/itkoth.pdf), Paper
-			- [Quiz 10.pdf](https://files.catbox.moe/tz1st4.pdf), Quizzes
-			- [Quiz 9.pdf](https://files.catbox.moe/lrkih3.pdf), Quizzes
-			- [Quiz 8.pdf](https://files.catbox.moe/ngux49.pdf), Quizzes
-			- [Quiz 6 & 7.pdf](https://files.catbox.moe/c5cwfl.pdf), Quizzes
-			- [Quiz 3.pdf](https://files.catbox.moe/rwv42h.pdf), Quizzes
-			- [Quiz 5.pdf](https://files.catbox.moe/4rtgiu.pdf), Quizzes
-			- [Quiz 4.pdf](https://files.catbox.moe/pb68ip.pdf), Quizzes
-		- Comm-Skills
-			- [Practice Passage.pdf](https://files.catbox.moe/8buix6.pdf), Books_And_Misc
-			- [Notes Taking Techniques.pdf](https://files.catbox.moe/fv9je7.pdf), Books_And_Misc
-			- [The Last Leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Essay on Harry Potter.pdf](https://files.catbox.moe/108a8b.pdf), Books_And_Misc
-			- [Lecture 1.pdf](https://files.catbox.moe/1w6m9e.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/1ci4yj.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/rdv8ei.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/f0nuyu.pdf), Lecture_Slides
-			- [Lecture 5.1.pdf](https://files.catbox.moe/y747a5.pdf), Lecture_Slides
-			- [Lecture 5.2.pdf](https://files.catbox.moe/3kv3ic.pdf), Lecture_Slides
-			- [Lecture 5.3.pdf](https://files.catbox.moe/qim4w2.pdf), Lecture_Slides
-			- [Mail writing.pdf](https://files.catbox.moe/e3vhfz.pdf), Books_And_Misc
-			- [Reading Codes.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [Links for Comm.pdf](https://files.catbox.moe/2s1837.pdf), Books_And_Misc
-			- [Evaluation 1 2021.pdf](https://files.catbox.moe/82j9uh.pdf), Paper
-			- [Evaluation 2 2021.pdf](https://files.catbox.moe/oc3fnt.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/i8njv2.pdf), Paper
-			- [The Open Window.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Resume & CV.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Endsem 2022.pdf](https://files.catbox.moe/w6jky4.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/u24tbo.pdf), Paper
-			- [RE - mid sem exam 2022.pdf](https://files.catbox.moe/3t2psq.pdf), Paper
-			- [How to make mindmaps.pdf](https://files.catbox.moe/3w4c8b.pdf), Note
-			- [Session 7 COM 101.pdf](https://files.catbox.moe/soiqcu.pdf), Note
-			- [Coding Sheet.pdf](https://files.catbox.moe/irazc4.pdf), Books_And_Misc
-			- [the-last-leaf.pdf](https://files.catbox.moe/fpafq0.pdf), Books_And_Misc
-			- [Week 3 COM 101 Section B IIITD.pdf](https://files.catbox.moe/b6ax0m.pdf), Note
-			- [Mind maps - Slides.pdf](https://files.catbox.moe/rk6rwa.pdf), Note
-			- [Non Verbal Communication.pdf](https://files.catbox.moe/c03mob.pdf), Note
-		- Basic-Electronics
-			- [Lab 1.pdf](https://files.catbox.moe/jeo1ke.pdf), Laboratory
-			- [Lab 2-3.pdf](https://files.catbox.moe/an9obm.pdf), Laboratory
-			- [Lab 4-5.pdf](https://files.catbox.moe/bwrve3.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/k6zlgg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/qq7zuu.pdf), Laboratory
-			- [Class Test-3 2019.pdf](https://files.catbox.moe/peg8mx.pdf), Paper
-			- [Class Test-2 2019.pdf](https://files.catbox.moe/kvdykp.pdf), Paper
-			- [Class Test-Bonus 2019.pdf](https://files.catbox.moe/esebbr.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/iu906y.pdf), Paper
-			- [Assignment-3 2019.pdf](https://files.catbox.moe/4yy2gx.pdf), Assignment
-			- [Assignment-1 2019.pdf](https://files.catbox.moe/s0ixhs.pdf), Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/9956qw.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/n0ixfn.pdf), Lecture_Slides
-			- [Lecture 11-15.pdf](https://files.catbox.moe/1qhsav.pdf), Lecture_Slides
-			- [Lecture 16-20.pdf](https://files.catbox.moe/4eubol.pdf), Lecture_Slides
-			- [Lecture 21-25.pdf](https://files.catbox.moe/pixcuq.pdf), Lecture_Slides
-			- [Lecture 26-29.pdf](https://files.catbox.moe/iq2dd8.pdf), Lecture_Slides
-			- [Tuts 2018.pdf](https://files.catbox.moe/gg79k1.pdf), Assignment
-			- [Midsem 2022.pdf](https://files.catbox.moe/8x1kau.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/iukkvk.pdf), Paper
-			- [William Hart Hayt-8th Edition.pdf](https://files.catbox.moe/sgk0qq.pdf), Book
-			- [William Hart Hayt-Solution.pdf](https://files.catbox.moe/3oc9f8.pdf), Book
-			- [ Midsem_2023.pdf](https://files.catbox.moe/jgm3io.pdf), Paper
-			- [Assignment 4 2023.pdf](https://files.catbox.moe/u8lkbt.pdf), Assignment
-			- [Assignment 3 2023.pdf](https://files.catbox.moe/bddvtr.pdf), Assignment
-			- [Assignment 2 2023.pdf](https://files.catbox.moe/edejjg.pdf), Assignment
-			- [Assignment 1 2023.pdf](https://files.catbox.moe/qror0i.pdf), Assignment
-			- [Re-Quiz 1 2023.pdf](https://files.catbox.moe/cmumaa.pdf), Quizzes
-			- [Quiz 5 2023.pdf](https://files.catbox.moe/3feobr.pdf), Quizzes
-			- [Quiz 4 2023.pdf](https://files.catbox.moe/43wpzg.pdf), Quizzes
-			- [Quiz 3 2023.pdf](https://files.catbox.moe/jhu5zh.pdf), Quizzes
-			- [Quiz 2 2023.pdf](https://files.catbox.moe/rsunhw.pdf), Quizzes
-			- [Quiz 6 2023.pdf](https://files.catbox.moe/g9gcxe.pdf), Quizzes
-			- [Make-Up Quiz 2023.pdf](https://files.catbox.moe/9mowur.pdf), Quizzes
-		- Probability-and-Statistics
-			- [Introduction to Probability and Statistics for Engineers and Scientists InstructorsManual 0994.pdf](https://files.catbox.moe/zd403j.pdf), Books_And_Misc
-			- [Roy D. Yates  Solution Manual.pdf](https://files.catbox.moe/fykp5s.pdf), Books_And_Misc
-			- [Roy D. Yates, David J. Goodman - Probability and Stochastic Processes A Friendly Introduction for Electrical and Computer Engineers (2005, John Wiley Sons).pdf](https://files.catbox.moe/hilnfj.pdf), Books_And_Misc
-			- [Roy D.Yates Quiz Solutions.pdf](https://files.catbox.moe/tv4cng.pdf), Books_And_Misc
-			- [About The Course.pdf](https://files.catbox.moe/mxpsef.pdf), Books_And_Misc
-			- [Derivatives Cheat Sheet.pdf](https://files.catbox.moe/cc82c1.pdf), Books_And_Misc
-			- [Integrals Cheat Sheet.pdf](https://files.catbox.moe/24hibr.pdf), Books_And_Misc
-			- [Limits Cheat Sheet.pdf](https://files.catbox.moe/87gtoo.pdf), Books_And_Misc
-			- [Lecture 1-5.pdf](https://files.catbox.moe/w9bqg9.pdf), Lecture_Slides
-			- [Lecture 6-10.pdf](https://files.catbox.moe/ac8fj9.pdf), Lecture_Slides
-			- [Lecture 11-16.pdf](https://files.catbox.moe/4tfflz.pdf), Lecture_Slides
-			- [Quiz-1 2017.pdf](https://files.catbox.moe/q7pyw0.pdf), Quizzes
-			- [Quiz-1 2018.pdf](https://files.catbox.moe/c40d7a.pdf), Quizzes
-			- [Quiz-2 2017.pdf](https://files.catbox.moe/okon6a.pdf), Quizzes
-			- [Quiz-2 2018.pdf](https://files.catbox.moe/8xlwzv.pdf), Quizzes
-			- [Quiz-3 2017.pdf](https://files.catbox.moe/82wkkd.pdf), Quizzes
-			- [Quiz-3 2018.pdf](https://files.catbox.moe/bw7dhk.pdf), Quizzes
-			- [Quiz-4 2017.pdf](https://files.catbox.moe/qcs5kq.pdf), Quizzes
-			- [Quiz-5 2017.pdf](https://files.catbox.moe/osu4zd.pdf), Quizzes
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/dgp1mn.pdf), Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/97wq22.pdf), Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/rkrk8k.pdf), Assignment
-			- [Assignment-4 2022.pdf](https://files.catbox.moe/3c4gco.pdf), Assignment
-			- [Assignment-5 2022.pdf](https://files.catbox.moe/fxqniw.pdf), Assignment
-			- [Assignment-6 2022.pdf](https://files.catbox.moe/phitr3.pdf), Assignment
-			- [Endsem 2017.pdf](https://files.catbox.moe/jb5k4s.pdf), Paper
-			- [Endsem 2018.pdf](https://files.catbox.moe/dzly0j.pdf), Paper
-			- [Midsem 2017.pdf](https://files.catbox.moe/8c9f1o.pdf), Paper
-			- [Midsem Soln 2018.pdf](https://files.catbox.moe/z9mdcu.pdf), Paper
-			- [Midsem 2019.pdf](https://files.catbox.moe/58gqm7.pdf), Paper
-			- [Midsem-Re 2019.pdf](https://files.catbox.moe/zy98o3.pdf), Paper
-			- [Midsem Soln 2019.pdf](https://files.catbox.moe/lseizo.pdf), Paper
-			- [Quiz-1 Soln 2018.pdf](https://files.catbox.moe/80qa4d.pdf), Quizzes
-			- [Quiz-2 Soln 2018.pdf](https://files.catbox.moe/c8i2zk.pdf), Quizzes
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/q6h5h3.pdf), Paper
-			- [Endsem Soln 2022.pdf](https://files.catbox.moe/uk382t.pdf), Paper
-			- [Midsem 2023 A.pdf](https://files.catbox.moe/2tkxdz.pdf), Paper
-			- [Midsem 2023 B.pdf](https://files.catbox.moe/x73n56.pdf), Paper
-			- [Introduction to Probability Theory and Stochastic Processes.playlist](https://files.catbox.moe/fib0qy.txt), Playlist
-			- [Probability Concepts for Engineers.playlist](https://files.catbox.moe/luzgfc.txt), Playlist
-			- [Endsem Soln 2023 B .pdf](https://files.catbox.moe/b54e4b.pdf), Paper
-			- [ Endsem 2023 B.pdf](https://files.catbox.moe/jeariv.pdf), Paper
-		- Data-Structures-and-Algorithms
-			- [Lab 1.pdf](https://files.catbox.moe/9za7ft.pdf), Laboratory
-			- [Lab 2.pdf](https://files.catbox.moe/pifx30.pdf), Laboratory
-			- [Lab 3.pdf](https://files.catbox.moe/35eaxu.pdf), Laboratory
-			- [Lab 4.pdf](https://files.catbox.moe/syjf3l.pdf), Laboratory
-			- [Lab 5.pdf](https://files.catbox.moe/mo0mr4.pdf), Laboratory
-			- [Lab 6.pdf](https://files.catbox.moe/bvhdqg.pdf), Laboratory
-			- [Lab 7.pdf](https://files.catbox.moe/l1tfxq.pdf), Laboratory
-			- [Mark Allen Weiss.pdf](https://files.catbox.moe/1mabmd.pdf), Book
-			- [Leiserson Stein Rivest Cormen 4th edition.pdf](https://files.catbox.moe/pkz8nu.pdf), Book
-			- [Quiz-2 Soln 2022.pdf](https://files.catbox.moe/v1z698.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/j1hiw9.pdf), Quizzes
-			- [Quiz-3 Soln 2022.pdf](https://files.catbox.moe/ot5nhd.pdf), Quizzes
-			- [Quiz-1 Soln 2022.pdf](https://files.catbox.moe/6b8r21.pdf), Quizzes
-			- [ICE 3.1 B.pdf](https://files.catbox.moe/m3yydv.pdf), Practice_Problems
-			- [ICE 4.1.pdf](https://files.catbox.moe/v9ydig.pdf), Practice_Problems
-			- [ICE 5.1.pdf](https://files.catbox.moe/ukbbye.pdf), Practice_Problems
-			- [ICE 6.1.pdf](https://files.catbox.moe/lazj8t.pdf), Practice_Problems
-			- [ICE 1.1 A.pdf](https://files.catbox.moe/6ztqyc.pdf), Practice_Problems
-			- [ICE 1.1 B.pdf](https://files.catbox.moe/twfei1.pdf), Practice_Problems
-			- [ICE 2.1.pdf](https://files.catbox.moe/5z7098.pdf), Practice_Problems
-			- [ICE 3.1 A.pdf](https://files.catbox.moe/vk23a5.pdf), Practice_Problems
-			- [Midsem Soln 2022.pdf](https://files.catbox.moe/x711gl.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/jne4dy.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/8xd0in.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/aqrcff.pdf), Paper
-		- Computer-Organization
-			- [Tuts-1 2022.pdf](https://files.catbox.moe/tauvuj.pdf), Tutorial_Assignment
-			- [Tuts-2 2022.pdf](https://files.catbox.moe/h099nc.pdf), Tutorial_Assignment
-			- [Tuts-3 2022.pdf](https://files.catbox.moe/0qmjgf.pdf), Tutorial_Assignment
-			- [Tuts-4 2022.pdf](https://files.catbox.moe/0pofdb.pdf), Tutorial_Assignment
-			- [Tuts-5 2022.pdf](https://files.catbox.moe/xj3cny.pdf), Tutorial_Assignment
-			- [Tuts-6 2022.pdf](https://files.catbox.moe/zlgph2.pdf), Tutorial_Assignment
-			- [Tuts-7 2022.pdf](https://files.catbox.moe/jj4a26.pdf), Tutorial_Assignment
-			- [Tuts-8 2022.pdf](https://files.catbox.moe/8ckhy9.pdf), Tutorial_Assignment
-			- [Tuts-9 2022.pdf](https://files.catbox.moe/51kcv6.pdf), Tutorial_Assignment
-			- [Project 2022.pdf](https://files.catbox.moe/3l071f.pdf), Project
-			- [Endsem 2021.pdf](https://files.catbox.moe/zng6c2.pdf), Paper
-			- [Midsem 2021.pdf](https://files.catbox.moe/5zrybk.pdf), Paper
-			- [Pset-1 2021.pdf](https://files.catbox.moe/fnm0lh.pdf), Practice_Problems
-			- [Pset-2 2021.pdf](https://files.catbox.moe/54d37q.pdf), Practice_Problems
-			- [Smruti R. Sarangi.pdf](https://files.catbox.moe/lisr89.pdf), Book
-			- [David Patterson & John Hennesy.pdf](https://files.catbox.moe/usgcah.pdf), Book
-			- [Andrew S. Tanenbaum.pdf](https://files.catbox.moe/n254nm.pdf), Book
-			- [Douglas Comer.pdf](https://files.catbox.moe/987lci.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/bb7n4d.pdf), Paper
-			- [Lecture 17.pdf](https://files.catbox.moe/t6qe8e.pdf), Lecture_Slides
-			- [Lecture 16.pdf](https://files.catbox.moe/i6ukft.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/p37gh5.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/z1y8s5.pdf), Lecture_Slides
-			- [Lecture 13.pdf](https://files.catbox.moe/mt049d.pdf), Lecture_Slides
-			- [Lecture 10&11.pdf](https://files.catbox.moe/5eviiq.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/e6ghsi.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/otfa9i.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/1cc7to.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/d3fmsy.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/bqgevs.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/fcilgp.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/40hjpf.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/4gutzu.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/cowcop.pdf), Lecture_Slides
-			- [Quiz-5(A,B,C) Soln 2021.pdf](https://files.catbox.moe/2u8uvx.pdf), Quizzes
-			- [Quiz-5(A,B,C) 2021.pdf](https://files.catbox.moe/r323m4.pdf), Quizzes
-			- [Quiz-4 2021.pdf](https://files.catbox.moe/59vsjz.pdf), Quizzes
-			- [Quiz-3 2021.pdf](https://files.catbox.moe/kv8rit.pdf), Quizzes
-			- [Quiz-2 2021.pdf](https://files.catbox.moe/4wj4kz.pdf), Quizzes
-			- [Quiz-1 2021.pdf](https://files.catbox.moe/5q2wp5.pdf), Quizzes
-		- Introduction-to-Sociology-and-Anthropology
-			- [Midsem 2022.pdf](https://files.catbox.moe/lc83ga.pdf), Paper
-			- [Midsem 2023.pdf](https://files.catbox.moe/b8mefm.pdf), Paper
-		- Money-and-Banking
-			- [Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition -Pearson Education Limited (2019).pdf](https://files.catbox.moe/uovude.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/shia16.pdf), Paper
-			- [Lecture 5.pdf.pdf](https://files.catbox.moe/ati3vf.pdf), Lecture_Slides
-			- [Lecture 4.pdf.pdf](https://files.catbox.moe/dz5afl.pdf), Lecture_Slides
-			- [Lecture 3.pdf.pdf](https://files.catbox.moe/y3yha7.pdf), Lecture_Slides
-			- [Lecture 2.pdf.pdf](https://files.catbox.moe/q2pu0c.pdf), Lecture_Slides
-			- [Lecture 1.pdf.pdf](https://files.catbox.moe/p6m5pg.pdf), Lecture_Slides
-		- Operating-Systems
-			- [Remzi H. Arpaci-Dussaeu.pdf](https://files.catbox.moe/sv64x0.pdf), Books_And_Misc
-			- [Ray Seyfarth.pdf](https://files.catbox.moe/7c48yw.pdf), Books_And_Misc
-			- [Linux Kernel .pdf](https://files.catbox.moe/ihwpjp.pdf), Books_And_Misc
-			- [Robert Love.pdf](https://files.catbox.moe/gliw7x.pdf), Books_And_Misc
-			- [Brian W.Kernighan.pdf](https://files.catbox.moe/26eo7m.pdf), Books_And_Misc
-			- [Micheal Kerrisk.pdf](https://files.catbox.moe/68bb15.pdf), Books_And_Misc
-			- [ Assignment 3 2022.pdf](https://files.catbox.moe/vw6wms.pdf), Assignment
-			- [Assignment 2 2022.pdf](https://files.catbox.moe/fb6njd.pdf), Assignment
-			- [Assignment 1 2022.pdf](https://files.catbox.moe/jb781j.pdf), Assignment
-			- [Assignment 0 2022.pdf](https://files.catbox.moe/b9x4c7.pdf), Assignment
-			- [Endsem 2022.pdf](https://files.catbox.moe/mauj4d.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/x3ck46.pdf), Paper
-			- [Lecture 11 A.pdf](https://files.catbox.moe/t4e97a.pdf), Lecture_Slides
-			- [Lecture 12 A.pdf](https://files.catbox.moe/2is5is.pdf), Lecture_Slides
-			- [Lecture 13 A.pdf](https://files.catbox.moe/9350eg.pdf), Lecture_Slides
-			- [Lecture 14 A.pdf](https://files.catbox.moe/xmspjy.pdf), Lecture_Slides
-			- [Lecture 15 A.pdf](https://files.catbox.moe/oyl51d.pdf), Lecture_Slides
-			- [Lecture 16 A.pdf](https://files.catbox.moe/d70ld5.pdf), Lecture_Slides
-			- [Lecture 17 A.pdf](https://files.catbox.moe/zfh3md.pdf), Lecture_Slides
-			- [Lecture 18 A.pdf](https://files.catbox.moe/po8d5o.pdf), Lecture_Slides
-			- [Lecture 19 A.pdf](https://files.catbox.moe/bvi8ms.pdf), Lecture_Slides
-			- [Lecture 20 A.pdf](https://files.catbox.moe/7eeu0v.pdf), Lecture_Slides
-			- [Lecture 8 A.pdf](https://files.catbox.moe/0q14z8.pdf), Lecture_Slides
-			- [Lecture 9 A.pdf](https://files.catbox.moe/laf04q.pdf), Lecture_Slides
-			- [Lecture 1 A.pdf](https://files.catbox.moe/rz04ph.pdf), Lecture_Slides
-			- [Lecture 2 A.pdf](https://files.catbox.moe/7i4rcx.pdf), Lecture_Slides
-			- [Lecture 3 A.pdf](https://files.catbox.moe/zl8yhe.pdf), Lecture_Slides
-			- [Lecture 4 A.pdf](https://files.catbox.moe/r4rcae.pdf), Lecture_Slides
-			- [Lecture 5 A.pdf](https://files.catbox.moe/s2wp3n.pdf), Lecture_Slides
-			- [Lecture 6 A.pdf](https://files.catbox.moe/gh2sni.pdf), Lecture_Slides
-			- [Lecture 7 A.pdf](https://files.catbox.moe/skvtg4.pdf), Lecture_Slides
-			- [Lecture 10 A.pdf](https://files.catbox.moe/n8vra1.pdf), Lecture_Slides
-			- [Tut 1.zip](https://files.catbox.moe/hy60hm.pdf), Tutorial_Assignment
-			- [Tut 2.zip](https://files.catbox.moe/shhipu.pdf), Tutorial_Assignment
-			- [Tut 4.zip](https://files.catbox.moe/6mwq8o.pdf), Tutorial_Assignment
-			- [Tut 5.zip](https://files.catbox.moe/zayyt8.pdf), Tutorial_Assignment
-			- [Tut 6.zip](https://files.catbox.moe/3ots1r.pdf), Tutorial_Assignment
-			- [Tut 7.zip](https://files.catbox.moe/zu34yu.pdf), Tutorial_Assignment
-			- [Tut 8.zip](https://files.catbox.moe/gx711x.pdf), Tutorial_Assignment
-			- [Tut 9.zip](https://files.catbox.moe/t3j179.pdf), Tutorial_Assignment
-			- [Tut 10.zip](https://files.catbox.moe/v9hi6t.pdf), Tutorial_Assignment
-			- [Tut 11.zip](https://files.catbox.moe/udwlzh.pdf), Tutorial_Assignment
-			- [Lecture 1 B.pptx](https://files.catbox.moe/at05yy.pdf), Lecture_Slides
-			- [Lecture 2 B.pptx](https://files.catbox.moe/2xuirx.pdf), Lecture_Slides
-			- [Lecture 3 B.pptx](https://files.catbox.moe/iep5j4.pdf), Lecture_Slides
-			- [Lecture 5 B.pptx](https://files.catbox.moe/bp5rxr.pdf), Lecture_Slides
-			- [Lecture 6 B.pptx](https://files.catbox.moe/f2ggek.pdf), Lecture_Slides
-			- [Lecture 7 B.pptx](https://files.catbox.moe/9dng58.pdf), Lecture_Slides
-			- [Lecture 8 B.pptx](https://files.catbox.moe/luqn3f.pdf), Lecture_Slides
-			- [Lecture 9 B.pptx](https://files.catbox.moe/8xrlc1.pdf), Lecture_Slides
-			- [Lecture 10 B.pptx](https://files.catbox.moe/4vp9nj.pdf), Lecture_Slides
-			- [Lecture 11 B.pptx](https://files.catbox.moe/ovvqa4.pdf), Lecture_Slides
-			- [Lecture 12 B.pptx](https://files.catbox.moe/n0eluf.pdf), Lecture_Slides
-			- [Lecture 13 B.pptx](https://files.catbox.moe/yty01q.pdf), Lecture_Slides
-			- [Lecture 4 B.pptx](https://files.catbox.moe/o0utr4.pdf), Lecture_Slides
-			- [Gate Smashers(OS).playlist](https://files.catbox.moe/49eezv.txt), Playlist
-			- [Operating Systems: Three Easy Pieces (OSTEP).playlist](https://files.catbox.moe/ifkaii.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/rnp55f.pdf), Paper
-			- [OS Sec-B 2023 End-sem Final.pdf](https://files.catbox.moe/wek13s.pdf), Paper
-			- [OS End-Sem 2023 Sol..playlist](https://files.catbox.moe/vt0dma.txt), Playlist
-		- Advanced-Programming
-			- [Assignment-1 2022.pdf](https://files.catbox.moe/83yha3.pdf), Tutorial_Assignment
-			- [Assignment-1 Rubric 2022.pdf](https://files.catbox.moe/9bd5bk.pdf), Tutorial_Assignment
-			- [Assignment-2 2022.pdf](https://files.catbox.moe/87qgt3.pdf), Tutorial_Assignment
-			- [Assignment-2 Rubric 2022.pdf](https://files.catbox.moe/kypult.pdf), Tutorial_Assignment
-			- [Assignment-3 2022.pdf](https://files.catbox.moe/1dm1di.pdf), Tutorial_Assignment
-			- [Assignment-3 Rubric 2022.pdf](https://files.catbox.moe/nhhkbf.pdf), Tutorial_Assignment
-			- [Lecture 1-5.pdf](https://files.catbox.moe/q3nc5i.pdf), Lecture_Slides
-			- [Lecture 6-11.pdf](https://files.catbox.moe/enrxkp.pdf), Lecture_Slides
-			- [Lecture 12-17.pdf](https://files.catbox.moe/6nu4h1.pdf), Lecture_Slides
-			- [Lecture 18-21.pdf](https://files.catbox.moe/gdjt2d.pdf), Lecture_Slides
-			- [Quiz-1 2022.pdf](https://files.catbox.moe/uhs1y2.pdf), Quizzes
-			- [Quiz-2 2022.pdf](https://files.catbox.moe/o20p7z.pdf), Quizzes
-			- [Quiz-3 2022.pdf](https://files.catbox.moe/d8ykzy.pdf), Quizzes
-			- [Quiz-4 2022.pdf](https://files.catbox.moe/70ex2d.pdf), Quizzes
-			- [Endsem 2022.pdf](https://files.catbox.moe/bw2xqh.pdf), Paper
-			- [Project 2022.pdf](https://files.catbox.moe/qhvnhm.pdf), Laboratory
-			- [Advanced Programming syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Operating Systems syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Java OOPS (KK).playlist](https://files.catbox.moe/dc6ejg.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/2p9ob5.pdf), Paper
-			- [Midsem 2022-2.pdf](https://files.catbox.moe/n6v9wt.pdf), Paper
-			- [Midsem 2022-1.pdf](https://files.catbox.moe/1wi5gc.pdf), Paper
-			- [Midsem 2022-3.pdf](https://files.catbox.moe/kg973g.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/n6wusb.pdf), Paper
-		- Multivariate-calculus-3
-			- [Lecture22.pdf](https://files.catbox.moe/0xjyhh.pdf), Assignment
-			- [Lecture21.pdf](https://files.catbox.moe/v0hnzt.pdf), Assignment
-			- [Lecture20.pdf](https://files.catbox.moe/kgyjyd.pdf), Assignment
-			- [Lecture19.pdf](https://files.catbox.moe/5y6tt6.pdf), Assignment
-			- [Lecture18.pdf](https://files.catbox.moe/0wjm2s.pdf), Assignment
-			- [Lecture17.pdf](https://files.catbox.moe/yi1nuv.pdf), Assignment
-			- [Lecture16.pdf](https://files.catbox.moe/igwjhg.pdf), Assignment
-			- [Lecture15.pdf](https://files.catbox.moe/7q9chb.pdf), Assignment
-			- [Lecture13.pdf](https://files.catbox.moe/kvzf16.pdf), Assignment
-			- [Lecture14.pdf](https://files.catbox.moe/3879m5.pdf), Assignment
-			- [Lecture12.pdf](https://files.catbox.moe/gzvcyd.pdf), Assignment
-			- [Lecture11.pdf](https://files.catbox.moe/du3bfu.pdf), Assignment
-			- [Lecture10.pdf](https://files.catbox.moe/5gfbi9.pdf), Assignment
-			- [Lecture9.pdf](https://files.catbox.moe/i1xqz2.pdf), Assignment
-			- [Lecture8.pdf](https://files.catbox.moe/bfufr2.pdf), Assignment
-			- [Lecture7.pdf](https://files.catbox.moe/t75jv3.pdf), Assignment
-			- [Lecture6.pdf](https://files.catbox.moe/rfqmri.pdf), Assignment
-			- [Lecture5.pdf](https://files.catbox.moe/le4ve9.pdf), Assignment
-			- [Lecture4.pdf](https://files.catbox.moe/lcyfx9.pdf), Assignment
-			- [Lecture3.pdf](https://files.catbox.moe/z2qd5m.pdf), Assignment
-			- [Lecture2.pdf](https://files.catbox.moe/g1u9fy.pdf), Assignment
-			- [Endsem_SecB.pdf](https://files.catbox.moe/zsyr16.pdf), Paper
-			- [Midsem Rubric_SecB.pdf](https://files.catbox.moe/2sw7wv.pdf), Paper
-			- [Erwin Kreyszig - Advanced Engineering Mathematics-John Wiley & Sons (2005).pdf](https://files.catbox.moe/7374mr.pdf), Book
-			- [Maurice D. Weir, Joel Hass, Frank R. Giordano - Thomas Calculus with Differential Equations-Addison Wesley (2010).pdf](https://files.catbox.moe/8noi17.pdf), Book
-			- [Worksheet3.pdf](https://files.catbox.moe/05z27b.pdf), Book
-			- [Worksheet 11_SecB.pdf](https://files.catbox.moe/0wzn0d.pdf), Book
-			- [Worksheet 10_SecB.pdf](https://files.catbox.moe/l8dgop.pdf), Book
-			- [Worksheet 9_SecB.pdf](https://files.catbox.moe/5g6b65.pdf), Book
-			- [Worksheet 8_SecB.pdf](https://files.catbox.moe/30dkr2.pdf), Book
-			- [Worksheet 7_SecB.pdf](https://files.catbox.moe/9h56ad.pdf), Book
-			- [Worksheet 5_SecB.pdf](https://files.catbox.moe/3cipdt.pdf), Book
-			- [Worksheet 4.pdf](https://files.catbox.moe/ika3yv.pdf), Book
-			- [Worksheet 6_SecB.pdf](https://files.catbox.moe/gk6q8e.pdf), Book
-			- [Worksheet 4 solution.pdf](https://files.catbox.moe/a83for.pdf), Book
-			- [Worksheet 3 solution.pdf](https://files.catbox.moe/66edsa.pdf), Book
-			- [Worksheet 2 solution.pdf](https://files.catbox.moe/qe7ol8.pdf), Book
-			- [Worksheet 2.pdf](https://files.catbox.moe/1ozlcb.pdf), Book
-			- [Worksheet 1 solution.pdf](https://files.catbox.moe/8a2rux.pdf), Book
-			- [Worksheet 1.pdf](https://files.catbox.moe/uuq13y.pdf), Book
-			- [Multivariate Calculus syllabus.docx](Bad file type! docx isn't allowed!), Books_And_Misc
-			- [Multivariate Calculus.playlist](https://files.catbox.moe/s9apc7.txt), Playlist
-			- [Midsem 2023.pdf](https://files.catbox.moe/zgi0vw.pdf), Paper
-			- [Endsem 2023.pdf](https://files.catbox.moe/ytzeft.pdf), Paper
-		- Number-Theory
-			- [Midsem Soln 2022[1].pdf](https://files.catbox.moe/uqiygi.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/ml3dxc.pdf), Paper
-			- [Endsem 2022.pdf](https://files.catbox.moe/7d0xna.pdf), Paper
-			- [Lecture 8.pdf](https://files.catbox.moe/ljxfbo.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/fceo6i.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/wl1er2.pdf), Lecture_Slides
-			- [Lecture 5.pdf](https://files.catbox.moe/qlexn8.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/jzkd8l.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/l5p49n.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/m38yti.pdf), Lecture_Slides
-			- [Lecture 21.pdf](https://files.catbox.moe/mqhcje.pdf), Lecture_Slides
-			- [Lecture 20.pdf](https://files.catbox.moe/2fxa04.pdf), Lecture_Slides
-			- [Lecture 19.pdf](https://files.catbox.moe/m8w60j.pdf), Lecture_Slides
-			- [Lecture 18.pdf](https://files.catbox.moe/w9phgi.pdf), Lecture_Slides
-			- [Lecture 15.pdf](https://files.catbox.moe/njjfw4.pdf), Lecture_Slides
-			- [Lecture 14.pdf](https://files.catbox.moe/euxcqz.pdf), Lecture_Slides
-			- [Lecture 12.pdf](https://files.catbox.moe/0qbqn3.pdf), Lecture_Slides
-			- [Lecture 11.pdf](https://files.catbox.moe/m9qgy1.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/xqtpbp.pdf), Lecture_Slides
-			- [Homework 2.pdf](https://files.catbox.moe/to8c7z.pdf), Assignment
-			- [Homework 1.pdf](https://files.catbox.moe/f4u1zk.pdf), Assignment
-			- [HW-1 Solutions.pdf](https://files.catbox.moe/fkyp0b.pdf), Assignment
-			- [Formula Sheet.pdf](https://files.catbox.moe/tznfau.pdf), Book
-			- [Kenneth H. Rosen - Instructor's Resource Guide to Accompany Discrete Mathematics and Its Applications, 6th Edition [Black and white] (2017).pdf](https://files.catbox.moe/tuc4xx.pdf), Books_And_Misc
-			- [Midsem 2023.pdf](https://files.catbox.moe/m08bhv.pdf), Paper
-		- Real-Analysis---1
-			- [Midsem 2022 Soln.pdf](https://files.catbox.moe/is30o1.pdf), Paper
-			- [Midsem 2022.pdf](https://files.catbox.moe/53llqu.pdf), Paper
-			- [Michael Penn-Real Analysis.playlist](https://files.catbox.moe/blbrin.txt), Playlist
-			- [2023_midsem.pdf](https://files.catbox.moe/4owcjx.pdf), Paper
-		- Social-and-Political-Philosophy
-			- [Rajeev Bhargava, Ashok Acharyha - Political Theory  An Introduction-Pearson Education (2008).pdf](https://files.catbox.moe/ipv0vy.pdf), Book
-			- [Midsem 2023.pdf](https://files.catbox.moe/fqdl0x.pdf), Paper
-		- Discrete-Mathematics
-			- [HW1.pdf](https://files.catbox.moe/n2ttfg.pdf), Other
-			- [HW3.pdf](https://files.catbox.moe/wjz33u.pdf), Other
-			- [HW4.pdf](https://files.catbox.moe/ku4glu.pdf), Other
-			- [HW5.pdf](https://files.catbox.moe/qtz1ul.pdf), Other
-			- [HW6.pdf](https://files.catbox.moe/7ygj76.pdf), Other
-			- [Class01.pptx](https://files.catbox.moe/gblynq.pdf), Lecture_Slides
-			- [Class02.pptx](https://files.catbox.moe/7wrnxb.pdf), Lecture_Slides
-			- [Class03.pptx](https://files.catbox.moe/gq3y26.pdf), Lecture_Slides
-			- [Class04.pptx](https://files.catbox.moe/av5j48.pdf), Lecture_Slides
-			- [Class05.pptx](https://files.catbox.moe/60lsjc.pdf), Lecture_Slides
-			- [Class06.pptx](https://files.catbox.moe/8n88gq.pdf), Lecture_Slides
-			- [Class07.pptx](https://files.catbox.moe/u32ww4.pdf), Lecture_Slides
-			- [Class08.pptx](https://files.catbox.moe/eju8kf.pdf), Lecture_Slides
-			- [Class09.pptx](https://files.catbox.moe/f41hg1.pdf), Lecture_Slides
-			- [Class10.pptx](https://files.catbox.moe/vjd1zi.pdf), Lecture_Slides
-			- [Class11.pptx](https://files.catbox.moe/hnykur.pdf), Lecture_Slides
-			- [Class12.pptx](https://files.catbox.moe/6vcisf.pdf), Lecture_Slides
-			- [Class13.pptx](https://files.catbox.moe/9gu6fq.pdf), Lecture_Slides
-			- [Class15.pptx](https://files.catbox.moe/cboc2a.pdf), Lecture_Slides
-			- [Class16.pptx](https://files.catbox.moe/lumix4.pdf), Lecture_Slides
-			- [Class17.pptx](https://files.catbox.moe/679mul.pdf), Lecture_Slides
-			- [Class18.pptx](https://files.catbox.moe/ekyw6v.pdf), Lecture_Slides
-			- [Class19.pptx](https://files.catbox.moe/nv0p74.pdf), Lecture_Slides
-			- [Class20.pptx](https://files.catbox.moe/pcqv6h.pdf), Lecture_Slides
-			- [Class21.pptx](https://files.catbox.moe/0nb641.pdf), Lecture_Slides
-			- [Class22.pptx](https://files.catbox.moe/o4roug.pdf), Lecture_Slides
-			- [Class23.pptx](https://files.catbox.moe/k6fokg.pdf), Lecture_Slides
-			- [Class24.pptx](https://files.catbox.moe/cbfbdl.pdf), Lecture_Slides
-			- [Class26 (1).pptx](https://files.catbox.moe/0psf1c.pdf), Lecture_Slides
-			- [Class26 (2).pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
-			- [Class26.pptx](https://files.catbox.moe/0by3gz.pdf), Lecture_Slides
-			- [MidSem Soln 2022.pdf](https://files.catbox.moe/cahif8.pdf), Paper
-			- [Pre-Endsem 2022.pdf](https://files.catbox.moe/f8namz.pdf), Paper
-			- [Assignment-1.pdf](https://files.catbox.moe/ufakfa.pdf), Assignment
-			- [Discrete Math  by Kimberly Brehm.playlist](https://files.catbox.moe/5dafuf.txt), Playlist
-			- [Discrete Maths by Neso Academy.playlist](https://files.catbox.moe/g0vn9s.txt), Playlist
-			- [HW2.pdf](https://files.catbox.moe/fnenrf.pdf), Other
-			- [Project.pdf](https://files.catbox.moe/t4tgx1.pdf), Books_And_Misc
-			- [Midsem 2023.pdf](https://files.catbox.moe/ywtg9v.pdf), Paper
-		- DBMS
-			- [Endsem 2023.pdf](https://files.catbox.moe/bapl5j.pdf), Paper
-			- [Lecture 5.pdf](https://files.catbox.moe/xx4wri.pdf), Lecture_Slides
-			- [Lecture 4.pdf](https://files.catbox.moe/qoi4iu.pdf), Lecture_Slides
-			- [Lecture 3.pdf](https://files.catbox.moe/wigl6z.pdf), Lecture_Slides
-			- [Lecture 2.pdf](https://files.catbox.moe/o4mtm0.pdf), Lecture_Slides
-			- [Lecture 1.pdf](https://files.catbox.moe/q47vo1.pdf), Lecture_Slides
-			- [Lecture 10.pdf](https://files.catbox.moe/73frc7.pdf), Lecture_Slides
-			- [Lecture 9.pdf](https://files.catbox.moe/z8ss5f.pdf), Lecture_Slides
-			- [Lecture 8.pdf](https://files.catbox.moe/sw2393.pdf), Lecture_Slides
-			- [Lecture 7.pdf](https://files.catbox.moe/74pxz4.pdf), Lecture_Slides
-			- [Lecture 6.pdf](https://files.catbox.moe/aqsbht.pdf), Lecture_Slides
-			- [Tut 1 and 2 Solution.pdf](https://files.catbox.moe/7uwnzs.pdf), Tutorial_Assignment
-			- [Tutorial 2.pdf](https://files.catbox.moe/hykto9.pdf), Tutorial_Assignment
-			- [Tutorial 1.pdf](https://files.catbox.moe/4i9ca8.pdf), Tutorial_Assignment
-			- [Tutorial 4.pdf](https://files.catbox.moe/5iw3z9.pdf), Tutorial_Assignment
-			- [Tutorial 3.pdf](https://files.catbox.moe/203mba.pdf), Tutorial_Assignment
-			- [Tutorial 4 Solution.pdf](https://files.catbox.moe/cfjhal.pdf), Tutorial_Assignment
-			- [PROJECT INFO.pdf](https://files.catbox.moe/cmtenz.pdf), Project
-		- Econometrics
-		- Analysis-and-Design-of-Algorithms
-			- [Assignment 3.pdf](https://files.catbox.moe/q5akca.pdf), Assignment
-			- [Assignment 2.pdf](https://files.catbox.moe/2qnyuu.pdf), Assignment
-			- [Assignment 1.pdf](https://files.catbox.moe/id3m0m.pdf), Assignment
-			- [MID SEM 2023 rubrics.pdf](https://files.catbox.moe/tbi34q.pdf), Paper
-			- [End Sem 2023 solution.pdf](https://files.catbox.moe/dcfy0d.pdf), Paper
-			- [lec 6.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 2 - Asymptotic.pdf](https://files.catbox.moe/6037rd.pdf), Lecture_Slides
-			- [lec 4 and 5.pdf](https://files.catbox.moe/9n2oh1.pdf), Lecture_Slides
-			- [lec 7a.pdf](https://files.catbox.moe/46qhlx.pdf), Lecture_Slides
-			- [lec 7b.pdf](https://files.catbox.moe/1nehgy.pdf), Lecture_Slides
-			- [lec 8.pdf](https://files.catbox.moe/ucpojh.pdf), Lecture_Slides
-			- [lec 14.pdf](https://files.catbox.moe/rqj9c7.pdf), Lecture_Slides
-			- [lec 13.pdf](https://files.catbox.moe/g1iu20.pdf), Lecture_Slides
-			- [lec 15.pdf](https://files.catbox.moe/0j7rua.pdf), Lecture_Slides
-			- [lec 16 ada.pdf](https://files.catbox.moe/hxfl3h.pdf), Lecture_Slides
-			- [lec 22.pdf](https://files.catbox.moe/7ld8ci.pdf), Lecture_Slides
-			- [lec 23.pdf](https://files.catbox.moe/e15z2n.pdf), Lecture_Slides
-			- [lec 24.pdf](https://files.catbox.moe/fxy4rv.pdf), Lecture_Slides
-			- [Lecture-12-Bipartite-Testing.pdf](https://files.catbox.moe/2jn759.pdf), Lecture_Slides
-			- [lec3.pdf](https://files.catbox.moe/kqt9vv.pdf), Lecture_Slides
-			- [lec1.pdf](https://files.catbox.moe/j664hi.pdf), Lecture_Slides
-			- [Quiz 1 solution.pdf](https://files.catbox.moe/bkc5l3.pdf), Quizzes
-			- [Quiz 3 Rubrics.pdf](https://files.catbox.moe/8ee8em.pdf), Quizzes
-			- [Quiz 4 Rubrics.pdf](https://files.catbox.moe/tmvpql.pdf), Quizzes
-			- [Quiz 2 set -3.pdf](https://files.catbox.moe/nmv574.pdf), Quizzes
-			- [Quiz-2 set -2 .pdf](https://files.catbox.moe/e138fg.pdf), Quizzes
-			- [Quiz-2 set -1 .pdf](https://files.catbox.moe/27xf2r.pdf), Quizzes
-			- [Tut 8.pdf](https://files.catbox.moe/1ge3kb.pdf), Tutorial_Assignment
-			- [Tut 7.pdf](https://files.catbox.moe/7dsalk.pdf), Tutorial_Assignment
-			- [Tut 2.pdf](https://files.catbox.moe/1e7f2w.pdf), Tutorial_Assignment
-			- [Tut 10.pdf](https://files.catbox.moe/d95w9f.pdf), Tutorial_Assignment
-			- [Tut 9.pdf](https://files.catbox.moe/9zmxsg.pdf), Tutorial_Assignment
-			- [Tut 1.pdf](https://files.catbox.moe/48aq3o.pdf), Tutorial_Assignment
-			- [Tut 3.pdf](https://files.catbox.moe/6hygp3.pdf), Tutorial_Assignment
-			- [Tut 4.pdf](https://files.catbox.moe/7m4i24.pdf), Tutorial_Assignment
-		- PIS
-			- [Assignment 3.pdf](https://files.catbox.moe/ptvj0a.pdf), Assignment
-			- [Assignment 4.pdf](https://files.catbox.moe/f30rrd.pdf), Assignment
-			- [PIS A2.png](https://files.catbox.moe/vssxtc.pdf), Assignment
-			- [Week 2_Assignment_1.pdf](https://files.catbox.moe/mk6jge.pdf), Assignment
-			- [Field-Guide-to-Human-Centered-Design_IDEOorg.pdf](https://files.catbox.moe/s720hm.pdf), Lecture_Slides
-			- [Prototype.pdf](https://files.catbox.moe/fup5xi.pdf), Lecture_Slides
-			- [SuriExperiencePrototyping.pdf](https://files.catbox.moe/j1um5s.pdf), Lecture_Slides
-			- [Week2.pdf](https://files.catbox.moe/6hfoi0.pdf), Lecture_Slides
-			- [Week1.pdf](https://files.catbox.moe/rpj03r.pdf), Lecture_Slides
-			- [In-class Exercise 1.png](https://files.catbox.moe/gkmitt.pdf), Paper
-			- [Mid Sem Assignment.pdf](https://files.catbox.moe/dmqcac.pdf), Paper
-			- [Report Template.docx](Bad file type! docx isn't allowed!), Paper
-		- Nation-and-her-Narratives
-			- [Engine Trouble.pdf](https://files.catbox.moe/umtjf3.pdf), Books_And_Misc
-			- [Father Returning Home .pdf](https://files.catbox.moe/lk9y3i.pdf), Books_And_Misc
-			- [Hunger.pdf](https://files.catbox.moe/gri286.pdf), Books_And_Misc
-			- [Khagam - Satyajit Ray.pdf](https://files.catbox.moe/tvlxh5.pdf), Books_And_Misc
-			- [Mahesh_ Sarat Chandra Chattopadhyay.pdf](https://files.catbox.moe/opmoee.pdf), Books_And_Misc
-			- [Mrs Sen_s.pdf](https://files.catbox.moe/5b44k4.pdf), Books_And_Misc
-			- [Raavi Paar.pdf](https://files.catbox.moe/72g2dx.pdf), Books_And_Misc
-			- [The Old Playhouse .pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Old Playhouse  (1).pdf](https://files.catbox.moe/zl7wxd.pdf), Books_And_Misc
-			- [The Project Gutenberg eBook of Stories from Tagore, by Rabindranath Tagore..pdf](https://files.catbox.moe/453qot.pdf), Books_And_Misc
-			- [Toba Tek Singh.pdf](https://files.catbox.moe/r4ls6q.pdf), Books_And_Misc
-			- [The assignment.pdf](https://files.catbox.moe/md5rrt.pdf), Assignment
-		- M4-ODE-PDE
-			- [Erwin Kreyszig.pdf](https://files.catbox.moe/wnwswi.pdf), Book
-		- Practical-Bioinformatics
-		- Theory-of-Computation
-	- Fresources-Test-Dev
-		- Fresources-Test-Subject
-			- [Dhruv Bakshi Master Resume 2.pdf](https://files.catbox.moe/l1sh1n.pdf), Book
