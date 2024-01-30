@@ -2,9 +2,10 @@ import os
 from logger import log
 
 class DataProcessor:
-    def __init__(self, api_handler, upload_handler):
+    def __init__(self, api_handler, upload_handler, hash_util):
         self.api_handler = api_handler
         self.upload_handler = upload_handler
+        self.hash_util = hash_util
         self.data = {}
         os.makedirs(self.api_handler.data_dir, exist_ok=True)
 
@@ -37,12 +38,17 @@ class DataProcessor:
                 processed_resource['url'] = resource_url
                 return processed_resource
 
+            hash_of_file = self.hash_util.get_file_hash(download_path)
+            if self.hash_util.contains(hash_of_file):
+                log(4, "Found Resource to Catbox", resource_type, resource_name)
+                return self.hash_util.get(hash_of_file)
             # Upload to Catbox
             upload_response = self.upload_handler.upload_single_file(download_path)
             log(4, "Uploaded Resource to Catbox", resource_type, resource_name, f"Catbox URL: {upload_response.get('file')}")
-            processed_resource['url'] = upload_response.get('url');
+            processed_resource['url'] = upload_response.get('file');
             # Optional: Clean up downloaded file
             os.remove(download_path)
+            self.hash_util.add(hash_of_file, processed_resource)
         return processed_resource
 
     def process_course_data(self, course_name: str, course_id: str) -> dict:

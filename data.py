@@ -1,4 +1,5 @@
 file_path = "map.json"
+hash_file_path = "hashmap.json"
 collegeIds = {
     "IGDTUW": "63066b809cbab109372b824c",
     "IIITD": "63066b809cbab109372b824d",
