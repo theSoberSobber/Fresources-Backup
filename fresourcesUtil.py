@@ -64,7 +64,7 @@ class FresourcesUtil:
         params = f'{{"0":{{"json":{{"courseId":"{course_id}"}}}}}}'
         return self.make_api_request('getResourcesByCourseId', params)
 
-    def download_resource(self, resource_url: str, download_path: str) -> None:
+    def download_resource(self, resource_url: str, download_path: str) -> bool:
         """
         Download a resource given its URL and save it to the specified path.
 
@@ -81,6 +81,8 @@ class FresourcesUtil:
             # Save content to the specified path
             with open(download_path, 'wb') as file:
                 file.write(resource_content)
+            return True
         except Exception as e:
             log(0, "Error downloading resource", resource_url)
-            raise Exception(e)
+            return False
+            # raise Exception(e)

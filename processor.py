@@ -24,22 +24,23 @@ class DataProcessor:
         :param resource_id: The ID of the resource.
         """
         processed_resource = {}
-        resource_name = self.sanitize(resource.get('name'))
+        processed_resource['name'] = resource_name = self.sanitize(resource.get('name'))
         processed_resource['type'] = resource_type = resource.get('type')
         resource_url = resource.get('url')
         log(3, "Processing Resource", resource_type, resource_name)
         
         if resource_url:
             download_path = os.path.join(self.api_handler.data_dir, resource_name)
-            self.api_handler.download_resource(resource_url, download_path)
+            if(!self.api_handler.download_resource(resource_url, download_path)):
+                processed_resource['name'] = 'URL Error'
+                processed_resource['type'] = 'URL Error'
+                processed_resource['url'] = resource_url
+                return processed_resource
 
             # Upload to Catbox
             upload_response = self.upload_handler.upload_single_file(download_path)
             log(4, "Uploaded Resource to Catbox", resource_type, resource_name, f"Catbox URL: {upload_response.get('file')}")
-
-            # Save to hash-resource set
-            resource_details = {"type": resource_type, "url": upload_response.get("file")}
-
+            processed_resource['url'] = upload_response.get('url');
             # Optional: Clean up downloaded file
             os.remove(download_path)
         return processed_resource
