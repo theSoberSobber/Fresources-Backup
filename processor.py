@@ -63,7 +63,6 @@ class DataProcessor:
         resources = course_data.get('result', {}).get('data', {}).get('json', [])
         for resource in resources:
             processed_course[resource.get('resource').get('name')] = self.process_resource(resource.get('resource'))
-            break
 
         return processed_course
 
@@ -81,7 +80,6 @@ class DataProcessor:
             course_id = course.get('id')
             course_name = self.sanitize(course.get('name'))
             processed_branch[course_name] = self.process_course_data(course_name, course_id)
-            break
 
         return processed_branch
 
@@ -100,7 +98,6 @@ class DataProcessor:
             branch_id = branch.get('id')
             branch_name = self.sanitize(branch.get('name'))
             processed_college[branch_name] = self.process_branch_data(branch_name, branch_id)
-            break
 
         return processed_college
 
@@ -112,5 +109,4 @@ class DataProcessor:
         """
         for college_name, college_id in college_ids.items():
             self.data[college_name] = self.process_college_data(self.sanitize(college_name), college_id)
-            break
         return self.data
