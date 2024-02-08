@@ -28,15 +28,14 @@ class DataProcessor:
         processed_resource['name'] = resource_name = self.sanitize(resource.get('name'))
         processed_resource['type'] = resource_type = resource.get('type')
         resource_url = resource.get('url')
+        processed_resource['original_url'] = resource_url
         log(3, "Processing Resource", resource_type, resource_name)
 
         if resource_url:
             download_path = os.path.join(self.api_handler.data_dir, resource_name)
 
             if(self.api_handler.download_resource(resource_url, download_path) == False):
-                processed_resource['name'] = 'URL Error'
-                processed_resource['type'] = 'URL Error'
-                processed_resource['url'] = resource_url
+                processed_resource['url'] = 'URL Error'
                 return processed_resource
 
             if(download_path.split(".")[-1].lower()=='docx'):
