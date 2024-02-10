@@ -1578,6 +1578,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             },
             "Chemistry": {
@@ -3395,6 +3401,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             },
             "Chemistry": {
@@ -5212,6 +5224,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             },
             "Chemistry": {
@@ -7074,6 +7092,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL7Ectyz3bMxOCfiVwb2OftmLhrDZQBXQj&feature=shared",
                     "url": "https://files.catbox.moe/4bikf0.txt"
+                },
+                "MIDSEM 2019.pdf": {
+                    "name": "MIDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0263277f4436bcd9926abf8580603593706961ceMIDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/549nxi.pdf"
                 }
             },
             "Data-Structure-&-Algorithms": {
@@ -7250,6 +7274,126 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2ba12777e16faf9d8770760abb0377d5049557a0DSA%20BY%20HOROWITZ%20AND%20SAHNI.pdf",
                     "url": "https://files.catbox.moe/qddlu6.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acd03f1322df94a2ea7c3fd10ee3c2e9b635e855ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/8kjsqk.pdf"
+                },
+                "MIDSEM 2019 (SEPT).pdf": {
+                    "name": "MIDSEM-2019-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/718d1b60d2c77681456200b350d1f6bb9dbeaa4aMIDSEM%202019%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/jvpv3o.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f7882ca1a21e0130f1f2554c5b771be65f202a10ENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/1xk8ub.pdf"
+                },
+                "Queues.pdf": {
+                    "name": "Queues.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f2459865ebd7450753f17d0399a4b9df05945fa4Queues.pdf",
+                    "url": "https://files.catbox.moe/yvo4uq.pdf"
+                },
+                "graphs final ppt.pdf": {
+                    "name": "graphs-final-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d797972ef06dff67c53b9175aba78c84dd1b6839graphs%20final%20ppt.pdf",
+                    "url": "https://files.catbox.moe/ctxm3n.pdf"
+                },
+                "Binary Tree ppt.pdf": {
+                    "name": "Binary-Tree-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e1628fe2075966544a56c4428596217fa80e400dBinary%20Tree%20ppt.pdf",
+                    "url": "https://files.catbox.moe/8ulhzv.pdf"
+                },
+                "AVL TREES.pdf": {
+                    "name": "AVL-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65c86683e251ca2feeee3f7efc78d1a8d8654ed1AVL%20TREES.pdf",
+                    "url": "https://files.catbox.moe/b779v6.pdf"
+                },
+                "LL final.pdf": {
+                    "name": "LL-final.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f690030ef5183b93b5238b229ac9dc94706891e1LL%20final.pdf",
+                    "url": "https://files.catbox.moe/f8mfgr.pdf"
+                },
+                "Doubly and circular LL.pdf": {
+                    "name": "Doubly-and-circular-LL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/455b3bc19b46765901157c7804eed1d9b0311cf2Doubly%20and%20circular%20LL.pdf",
+                    "url": "https://files.catbox.moe/mqybgl.pdf"
+                },
+                "Data Structures and Algorithm Notes.pdf": {
+                    "name": "Data-Structures-and-Algorithm-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fdc53f208085048b9ca38b18c3b4a8c1aeaec7d4Data%20Structures%20and%20Algorithm%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4vpp9o.pdf"
+                },
+                "Introduction and Arrays.pdf": {
+                    "name": "Introduction-and-Arrays.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7b86ff329d42a11572c86fe65e524a8302cbdb2Introduction%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/l5yo6b.pdf"
+                },
+                "Stacks.pdf": {
+                    "name": "Stacks.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/028e81edea245451cfcdcc813c26bab31a532ef4Stacks.pdf",
+                    "url": "https://files.catbox.moe/1stmen.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYLNykymlcPlZVvSMqRsTiO3",
+                    "url": "https://files.catbox.moe/jcibwq.txt"
+                },
+                "UNIT-4(HARRY).playlist": {
+                    "name": "UNIT-4(HARRY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLUPfVLTCq5c2SmJeiouZ53mrkL46BvmI8",
+                    "url": "https://files.catbox.moe/s9vb53.txt"
+                },
+                "UNIT-4(JENNY).playlist": {
+                    "name": "UNIT-4(JENNY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYJFcvIz2SogogI_wzGBrosM",
+                    "url": "https://files.catbox.moe/60nksg.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL2G8cXzxidYILH26CW75dhmuubLzxj9r2&si=-hy6XB2ePkZKTxTW",
+                    "url": "https://files.catbox.moe/rn5l7c.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPdonczaicFayPa2FEPOuHW",
+                    "url": "https://files.catbox.moe/nrugar.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxMlf609oAFHebsZ4cjGLJ_q",
+                    "url": "https://files.catbox.moe/c8wvo1.txt"
+                },
+                "MIDSEM 2023(SEPT).pdf": {
+                    "name": "MIDSEM-2023(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e0f9468109ccae4a90a15a9db9559d717576b51MIDSEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/9y18et.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1466aff1dc80ef61a5a91056360a344224c8d17ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/63va73.pdf"
                 }
             },
             "Electronics-Devices-&-Circuits": {
@@ -7384,6 +7528,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f02950bdafff51a2a471f44295434ead62491cecB.L.%20Theraja%20-%20Electronics.pdf",
                     "url": "https://files.catbox.moe/unzij2.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32410f056d25a81af6967db18ed1ecc80525a3e2ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/lt5buc.pdf"
                 }
             },
             "Chemistry": {
@@ -9201,6 +9351,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             },
             "Chemistry": {
@@ -11037,6 +11193,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f02950bdafff51a2a471f44295434ead62491cecB.L.%20Theraja%20-%20Electronics.pdf",
                     "url": "https://files.catbox.moe/unzij2.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32410f056d25a81af6967db18ed1ecc80525a3e2ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/lt5buc.pdf"
                 }
             },
             "Electrical-Circuit-Analysis": {},
@@ -12902,6 +13064,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL7Ectyz3bMxOCfiVwb2OftmLhrDZQBXQj&feature=shared",
                     "url": "https://files.catbox.moe/4bikf0.txt"
+                },
+                "MIDSEM 2019.pdf": {
+                    "name": "MIDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0263277f4436bcd9926abf8580603593706961ceMIDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/549nxi.pdf"
                 }
             },
             "Data-Structure-&-Algorithms": {
@@ -13078,6 +13246,126 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2ba12777e16faf9d8770760abb0377d5049557a0DSA%20BY%20HOROWITZ%20AND%20SAHNI.pdf",
                     "url": "https://files.catbox.moe/qddlu6.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acd03f1322df94a2ea7c3fd10ee3c2e9b635e855ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/8kjsqk.pdf"
+                },
+                "MIDSEM 2019 (SEPT).pdf": {
+                    "name": "MIDSEM-2019-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/718d1b60d2c77681456200b350d1f6bb9dbeaa4aMIDSEM%202019%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/jvpv3o.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f7882ca1a21e0130f1f2554c5b771be65f202a10ENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/1xk8ub.pdf"
+                },
+                "Queues.pdf": {
+                    "name": "Queues.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f2459865ebd7450753f17d0399a4b9df05945fa4Queues.pdf",
+                    "url": "https://files.catbox.moe/yvo4uq.pdf"
+                },
+                "graphs final ppt.pdf": {
+                    "name": "graphs-final-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d797972ef06dff67c53b9175aba78c84dd1b6839graphs%20final%20ppt.pdf",
+                    "url": "https://files.catbox.moe/ctxm3n.pdf"
+                },
+                "Binary Tree ppt.pdf": {
+                    "name": "Binary-Tree-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e1628fe2075966544a56c4428596217fa80e400dBinary%20Tree%20ppt.pdf",
+                    "url": "https://files.catbox.moe/8ulhzv.pdf"
+                },
+                "AVL TREES.pdf": {
+                    "name": "AVL-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65c86683e251ca2feeee3f7efc78d1a8d8654ed1AVL%20TREES.pdf",
+                    "url": "https://files.catbox.moe/b779v6.pdf"
+                },
+                "LL final.pdf": {
+                    "name": "LL-final.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f690030ef5183b93b5238b229ac9dc94706891e1LL%20final.pdf",
+                    "url": "https://files.catbox.moe/f8mfgr.pdf"
+                },
+                "Doubly and circular LL.pdf": {
+                    "name": "Doubly-and-circular-LL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/455b3bc19b46765901157c7804eed1d9b0311cf2Doubly%20and%20circular%20LL.pdf",
+                    "url": "https://files.catbox.moe/mqybgl.pdf"
+                },
+                "Data Structures and Algorithm Notes.pdf": {
+                    "name": "Data-Structures-and-Algorithm-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fdc53f208085048b9ca38b18c3b4a8c1aeaec7d4Data%20Structures%20and%20Algorithm%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4vpp9o.pdf"
+                },
+                "Introduction and Arrays.pdf": {
+                    "name": "Introduction-and-Arrays.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7b86ff329d42a11572c86fe65e524a8302cbdb2Introduction%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/l5yo6b.pdf"
+                },
+                "Stacks.pdf": {
+                    "name": "Stacks.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/028e81edea245451cfcdcc813c26bab31a532ef4Stacks.pdf",
+                    "url": "https://files.catbox.moe/1stmen.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYLNykymlcPlZVvSMqRsTiO3",
+                    "url": "https://files.catbox.moe/jcibwq.txt"
+                },
+                "UNIT-4(HARRY).playlist": {
+                    "name": "UNIT-4(HARRY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLUPfVLTCq5c2SmJeiouZ53mrkL46BvmI8",
+                    "url": "https://files.catbox.moe/s9vb53.txt"
+                },
+                "UNIT-4(JENNY).playlist": {
+                    "name": "UNIT-4(JENNY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYJFcvIz2SogogI_wzGBrosM",
+                    "url": "https://files.catbox.moe/60nksg.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL2G8cXzxidYILH26CW75dhmuubLzxj9r2&si=-hy6XB2ePkZKTxTW",
+                    "url": "https://files.catbox.moe/rn5l7c.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPdonczaicFayPa2FEPOuHW",
+                    "url": "https://files.catbox.moe/nrugar.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxMlf609oAFHebsZ4cjGLJ_q",
+                    "url": "https://files.catbox.moe/c8wvo1.txt"
+                },
+                "MIDSEM 2023(SEPT).pdf": {
+                    "name": "MIDSEM-2023(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e0f9468109ccae4a90a15a9db9559d717576b51MIDSEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/9y18et.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1466aff1dc80ef61a5a91056360a344224c8d17ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/63va73.pdf"
                 }
             },
             "Electronics-Devices-&-Circuits": {
@@ -13212,6 +13500,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f02950bdafff51a2a471f44295434ead62491cecB.L.%20Theraja%20-%20Electronics.pdf",
                     "url": "https://files.catbox.moe/unzij2.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32410f056d25a81af6967db18ed1ecc80525a3e2ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/lt5buc.pdf"
                 }
             },
             "Chemistry": {
@@ -15074,6 +15368,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL7Ectyz3bMxOCfiVwb2OftmLhrDZQBXQj&feature=shared",
                     "url": "https://files.catbox.moe/4bikf0.txt"
+                },
+                "MIDSEM 2019.pdf": {
+                    "name": "MIDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0263277f4436bcd9926abf8580603593706961ceMIDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/549nxi.pdf"
                 }
             },
             "Data-Structure-&-Algorithms": {
@@ -15250,6 +15550,126 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2ba12777e16faf9d8770760abb0377d5049557a0DSA%20BY%20HOROWITZ%20AND%20SAHNI.pdf",
                     "url": "https://files.catbox.moe/qddlu6.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acd03f1322df94a2ea7c3fd10ee3c2e9b635e855ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/8kjsqk.pdf"
+                },
+                "MIDSEM 2019 (SEPT).pdf": {
+                    "name": "MIDSEM-2019-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/718d1b60d2c77681456200b350d1f6bb9dbeaa4aMIDSEM%202019%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/jvpv3o.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f7882ca1a21e0130f1f2554c5b771be65f202a10ENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/1xk8ub.pdf"
+                },
+                "Queues.pdf": {
+                    "name": "Queues.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f2459865ebd7450753f17d0399a4b9df05945fa4Queues.pdf",
+                    "url": "https://files.catbox.moe/yvo4uq.pdf"
+                },
+                "graphs final ppt.pdf": {
+                    "name": "graphs-final-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d797972ef06dff67c53b9175aba78c84dd1b6839graphs%20final%20ppt.pdf",
+                    "url": "https://files.catbox.moe/ctxm3n.pdf"
+                },
+                "Binary Tree ppt.pdf": {
+                    "name": "Binary-Tree-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e1628fe2075966544a56c4428596217fa80e400dBinary%20Tree%20ppt.pdf",
+                    "url": "https://files.catbox.moe/8ulhzv.pdf"
+                },
+                "AVL TREES.pdf": {
+                    "name": "AVL-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65c86683e251ca2feeee3f7efc78d1a8d8654ed1AVL%20TREES.pdf",
+                    "url": "https://files.catbox.moe/b779v6.pdf"
+                },
+                "LL final.pdf": {
+                    "name": "LL-final.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f690030ef5183b93b5238b229ac9dc94706891e1LL%20final.pdf",
+                    "url": "https://files.catbox.moe/f8mfgr.pdf"
+                },
+                "Doubly and circular LL.pdf": {
+                    "name": "Doubly-and-circular-LL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/455b3bc19b46765901157c7804eed1d9b0311cf2Doubly%20and%20circular%20LL.pdf",
+                    "url": "https://files.catbox.moe/mqybgl.pdf"
+                },
+                "Data Structures and Algorithm Notes.pdf": {
+                    "name": "Data-Structures-and-Algorithm-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fdc53f208085048b9ca38b18c3b4a8c1aeaec7d4Data%20Structures%20and%20Algorithm%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4vpp9o.pdf"
+                },
+                "Introduction and Arrays.pdf": {
+                    "name": "Introduction-and-Arrays.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7b86ff329d42a11572c86fe65e524a8302cbdb2Introduction%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/l5yo6b.pdf"
+                },
+                "Stacks.pdf": {
+                    "name": "Stacks.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/028e81edea245451cfcdcc813c26bab31a532ef4Stacks.pdf",
+                    "url": "https://files.catbox.moe/1stmen.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYLNykymlcPlZVvSMqRsTiO3",
+                    "url": "https://files.catbox.moe/jcibwq.txt"
+                },
+                "UNIT-4(HARRY).playlist": {
+                    "name": "UNIT-4(HARRY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLUPfVLTCq5c2SmJeiouZ53mrkL46BvmI8",
+                    "url": "https://files.catbox.moe/s9vb53.txt"
+                },
+                "UNIT-4(JENNY).playlist": {
+                    "name": "UNIT-4(JENNY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYJFcvIz2SogogI_wzGBrosM",
+                    "url": "https://files.catbox.moe/60nksg.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL2G8cXzxidYILH26CW75dhmuubLzxj9r2&si=-hy6XB2ePkZKTxTW",
+                    "url": "https://files.catbox.moe/rn5l7c.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPdonczaicFayPa2FEPOuHW",
+                    "url": "https://files.catbox.moe/nrugar.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxMlf609oAFHebsZ4cjGLJ_q",
+                    "url": "https://files.catbox.moe/c8wvo1.txt"
+                },
+                "MIDSEM 2023(SEPT).pdf": {
+                    "name": "MIDSEM-2023(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e0f9468109ccae4a90a15a9db9559d717576b51MIDSEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/9y18et.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1466aff1dc80ef61a5a91056360a344224c8d17ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/63va73.pdf"
                 }
             },
             "Electronics-Devices-&-Circuits": {
@@ -15384,6 +15804,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f02950bdafff51a2a471f44295434ead62491cecB.L.%20Theraja%20-%20Electronics.pdf",
                     "url": "https://files.catbox.moe/unzij2.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32410f056d25a81af6967db18ed1ecc80525a3e2ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/lt5buc.pdf"
                 }
             },
             "Chemistry": {
@@ -19356,6 +19782,126 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2ba12777e16faf9d8770760abb0377d5049557a0DSA%20BY%20HOROWITZ%20AND%20SAHNI.pdf",
                     "url": "https://files.catbox.moe/qddlu6.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acd03f1322df94a2ea7c3fd10ee3c2e9b635e855ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/8kjsqk.pdf"
+                },
+                "MIDSEM 2019 (SEPT).pdf": {
+                    "name": "MIDSEM-2019-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/718d1b60d2c77681456200b350d1f6bb9dbeaa4aMIDSEM%202019%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/jvpv3o.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f7882ca1a21e0130f1f2554c5b771be65f202a10ENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/1xk8ub.pdf"
+                },
+                "Queues.pdf": {
+                    "name": "Queues.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f2459865ebd7450753f17d0399a4b9df05945fa4Queues.pdf",
+                    "url": "https://files.catbox.moe/yvo4uq.pdf"
+                },
+                "graphs final ppt.pdf": {
+                    "name": "graphs-final-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d797972ef06dff67c53b9175aba78c84dd1b6839graphs%20final%20ppt.pdf",
+                    "url": "https://files.catbox.moe/ctxm3n.pdf"
+                },
+                "Binary Tree ppt.pdf": {
+                    "name": "Binary-Tree-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e1628fe2075966544a56c4428596217fa80e400dBinary%20Tree%20ppt.pdf",
+                    "url": "https://files.catbox.moe/8ulhzv.pdf"
+                },
+                "AVL TREES.pdf": {
+                    "name": "AVL-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65c86683e251ca2feeee3f7efc78d1a8d8654ed1AVL%20TREES.pdf",
+                    "url": "https://files.catbox.moe/b779v6.pdf"
+                },
+                "LL final.pdf": {
+                    "name": "LL-final.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f690030ef5183b93b5238b229ac9dc94706891e1LL%20final.pdf",
+                    "url": "https://files.catbox.moe/f8mfgr.pdf"
+                },
+                "Doubly and circular LL.pdf": {
+                    "name": "Doubly-and-circular-LL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/455b3bc19b46765901157c7804eed1d9b0311cf2Doubly%20and%20circular%20LL.pdf",
+                    "url": "https://files.catbox.moe/mqybgl.pdf"
+                },
+                "Data Structures and Algorithm Notes.pdf": {
+                    "name": "Data-Structures-and-Algorithm-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fdc53f208085048b9ca38b18c3b4a8c1aeaec7d4Data%20Structures%20and%20Algorithm%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4vpp9o.pdf"
+                },
+                "Introduction and Arrays.pdf": {
+                    "name": "Introduction-and-Arrays.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7b86ff329d42a11572c86fe65e524a8302cbdb2Introduction%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/l5yo6b.pdf"
+                },
+                "Stacks.pdf": {
+                    "name": "Stacks.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/028e81edea245451cfcdcc813c26bab31a532ef4Stacks.pdf",
+                    "url": "https://files.catbox.moe/1stmen.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYLNykymlcPlZVvSMqRsTiO3",
+                    "url": "https://files.catbox.moe/jcibwq.txt"
+                },
+                "UNIT-4(HARRY).playlist": {
+                    "name": "UNIT-4(HARRY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLUPfVLTCq5c2SmJeiouZ53mrkL46BvmI8",
+                    "url": "https://files.catbox.moe/s9vb53.txt"
+                },
+                "UNIT-4(JENNY).playlist": {
+                    "name": "UNIT-4(JENNY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYJFcvIz2SogogI_wzGBrosM",
+                    "url": "https://files.catbox.moe/60nksg.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL2G8cXzxidYILH26CW75dhmuubLzxj9r2&si=-hy6XB2ePkZKTxTW",
+                    "url": "https://files.catbox.moe/rn5l7c.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPdonczaicFayPa2FEPOuHW",
+                    "url": "https://files.catbox.moe/nrugar.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxMlf609oAFHebsZ4cjGLJ_q",
+                    "url": "https://files.catbox.moe/c8wvo1.txt"
+                },
+                "MIDSEM 2023(SEPT).pdf": {
+                    "name": "MIDSEM-2023(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e0f9468109ccae4a90a15a9db9559d717576b51MIDSEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/9y18et.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1466aff1dc80ef61a5a91056360a344224c8d17ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/63va73.pdf"
                 }
             },
             "Discrete-Structure": {
@@ -30244,6 +30790,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             }
         },
@@ -31825,6 +32377,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             },
             "Chemistry": {
@@ -33642,6 +34200,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
                     "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbe6647d7b4be7bc996cc0b6eb6cabb73185e868ENDSEM%202018.pdf",
+                    "url": "https://files.catbox.moe/pf1d5h.pdf"
                 }
             },
             "Chemistry": {
