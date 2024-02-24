@@ -31126,6 +31126,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e4fa42c16bf77af405b8ace2576cc29a261993dwave%20properties.pdf",
                     "url": "https://files.catbox.moe/rt3r3k.pdf"
+                },
+                "Midsem 2020.pdf": {
+                    "name": "Midsem-2020.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f670f7bdc8d15f8262003a2134d5f619ba9402c3Midsem%202020.pdf",
+                    "url": "https://files.catbox.moe/hfjvm3.pdf"
                 }
             },
             "Data-Structure": {
