@@ -1204,13 +1204,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/hjuc6g.txt"
+                    "url": "https://files.catbox.moe/c3qf7z.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/68ip5a.txt"
+                    "url": "https://files.catbox.moe/0vtlzn.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -2912,7 +2912,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/9a9zte.pdf"
+                    "url": "https://files.catbox.moe/lbkiwz.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -3077,7 +3077,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/22ixt4.txt"
+                    "url": "https://files.catbox.moe/w9tv8n.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -3850,7 +3850,56 @@
             },
             "Disaster-Management": {},
             "Computer-Networks": {},
-            "Operating-Systems": {},
+            "Operating-Systems": {
+                "Abraham Silberschatz.pdf": {
+                    "name": "Abraham-Silberschatz.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/41c1f3b62fcbe3acb9e5c640b533e1b8d82c2628Abraham%20Silberschatz.pdf",
+                    "url": "https://files.catbox.moe/boa1vh.pdf"
+                },
+                "Dual-Mode operation and Timer.pdf": {
+                    "name": "Dual-Mode-operation-and-Timer.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b125745cdbb06f8425b9167189f58484e56cf993Dual-Mode%20operation%20and%20Timer.pdf",
+                    "url": "https://files.catbox.moe/zv4e2w.pdf"
+                },
+                "OS - Services.pdf": {
+                    "name": "OS---Services.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8ee500fa073fe0da45fdd0d3116d1f84e1da836cOS%20-%20Services.pdf",
+                    "url": "https://files.catbox.moe/mfvc2i.pdf"
+                },
+                "OS Structure.pdf": {
+                    "name": "OS-Structure.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8a1845da43b08827718ff36bc21c5f4f12634c5eOS%20Structure.pdf",
+                    "url": "https://files.catbox.moe/vx5iks.pdf"
+                },
+                "OS Introduction.pdf": {
+                    "name": "OS-Introduction.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6dcb9ce8b8d80427682cf89f145f7f10f66a7340OS%20Introduction.pdf",
+                    "url": "https://files.catbox.moe/jt79x8.pdf"
+                },
+                "Protection and Security.pdf": {
+                    "name": "Protection-and-Security.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/56db3335c2956fb5d474d072e7f8f98259e29c60Protection%20and%20Security.pdf",
+                    "url": "https://files.catbox.moe/y2qh7i.pdf"
+                },
+                "System Calls.pdf": {
+                    "name": "System-Calls.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7046ea7ffea6e5bd544ad61c3f284436357244ebSystem%20Calls.pdf",
+                    "url": "https://files.catbox.moe/7czhsn.pdf"
+                },
+                "Types of OS.pdf": {
+                    "name": "Types-of-OS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb49bfac2ff23480dd7a9a1a829649d0c35368fcTypes%20of%20OS.pdf",
+                    "url": "https://files.catbox.moe/nu1713.pdf"
+                }
+            },
             "Design-and-Analysis-of-Algorithms": {},
             "Optimization-Techniques-and-Decision-Making": {},
             "Optimization-Techniques-": {},
@@ -4526,13 +4575,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/jjg7xh.txt"
+                    "url": "https://files.catbox.moe/zc8sok.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/bueku5.txt"
+                    "url": "https://files.catbox.moe/xyziz0.txt"
                 }
             },
             "Programming-in-C": {
@@ -4918,7 +4967,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/66el2g.txt"
+                    "url": "https://files.catbox.moe/v14umc.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -5780,13 +5829,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/t9tks6.txt"
+                    "url": "https://files.catbox.moe/w88cnu.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/jf2kom.txt"
+                    "url": "https://files.catbox.moe/qj4l21.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -8178,7 +8227,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/8fhknw.txt"
+                    "url": "https://files.catbox.moe/2sunr9.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -8938,7 +8987,56 @@
                     "url": "https://files.catbox.moe/bobm06.pdf"
                 }
             },
-            "Operating-Systems": {},
+            "Operating-Systems": {
+                "Abraham Silberschatz.pdf": {
+                    "name": "Abraham-Silberschatz.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/41c1f3b62fcbe3acb9e5c640b533e1b8d82c2628Abraham%20Silberschatz.pdf",
+                    "url": "https://files.catbox.moe/boa1vh.pdf"
+                },
+                "Dual-Mode operation and Timer.pdf": {
+                    "name": "Dual-Mode-operation-and-Timer.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b125745cdbb06f8425b9167189f58484e56cf993Dual-Mode%20operation%20and%20Timer.pdf",
+                    "url": "https://files.catbox.moe/zv4e2w.pdf"
+                },
+                "OS - Services.pdf": {
+                    "name": "OS---Services.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8ee500fa073fe0da45fdd0d3116d1f84e1da836cOS%20-%20Services.pdf",
+                    "url": "https://files.catbox.moe/mfvc2i.pdf"
+                },
+                "OS Structure.pdf": {
+                    "name": "OS-Structure.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8a1845da43b08827718ff36bc21c5f4f12634c5eOS%20Structure.pdf",
+                    "url": "https://files.catbox.moe/vx5iks.pdf"
+                },
+                "OS Introduction.pdf": {
+                    "name": "OS-Introduction.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6dcb9ce8b8d80427682cf89f145f7f10f66a7340OS%20Introduction.pdf",
+                    "url": "https://files.catbox.moe/jt79x8.pdf"
+                },
+                "Protection and Security.pdf": {
+                    "name": "Protection-and-Security.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/56db3335c2956fb5d474d072e7f8f98259e29c60Protection%20and%20Security.pdf",
+                    "url": "https://files.catbox.moe/y2qh7i.pdf"
+                },
+                "System Calls.pdf": {
+                    "name": "System-Calls.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7046ea7ffea6e5bd544ad61c3f284436357244ebSystem%20Calls.pdf",
+                    "url": "https://files.catbox.moe/7czhsn.pdf"
+                },
+                "Types of OS.pdf": {
+                    "name": "Types-of-OS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb49bfac2ff23480dd7a9a1a829649d0c35368fcTypes%20of%20OS.pdf",
+                    "url": "https://files.catbox.moe/nu1713.pdf"
+                }
+            },
             "Design-and-Analysis-of-Algorithms": {},
             "Optimization-Techniques-": {},
             "Operation\u00a0Management": {}
@@ -9613,13 +9711,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/br6drt.txt"
+                    "url": "https://files.catbox.moe/fv2uir.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/b9ejru.txt"
+                    "url": "https://files.catbox.moe/36xsvl.txt"
                 }
             },
             "Programming-in-C": {
@@ -10005,7 +10103,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/6nr5xs.txt"
+                    "url": "https://files.catbox.moe/z6etpj.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -10867,13 +10965,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ukmn0v.txt"
+                    "url": "https://files.catbox.moe/ndn88f.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/l7etok.txt"
+                    "url": "https://files.catbox.moe/lvbg3h.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -14336,13 +14434,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/1eecca.txt"
+                    "url": "https://files.catbox.moe/n33mu8.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/suv0bc.txt"
+                    "url": "https://files.catbox.moe/7yvvrt.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -16044,7 +16142,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/3oqprz.pdf"
+                    "url": "https://files.catbox.moe/870j45.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -16142,7 +16240,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/dkku2f.txt"
+                    "url": "https://files.catbox.moe/9xm916.txt"
                 }
             },
             "DataBase-Management-System": {
@@ -16258,7 +16356,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/9rdaxf.txt"
+                    "url": "https://files.catbox.moe/tbpkrj.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -17998,7 +18096,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/w4py2s.txt"
+                    "url": "https://files.catbox.moe/h4ur7v.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -18606,13 +18704,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ra5sib.txt"
+                    "url": "https://files.catbox.moe/yk426a.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/bflyu7.txt"
+                    "url": "https://files.catbox.moe/44szqa.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -20036,7 +20134,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/2v2pu5.txt"
+                    "url": "https://files.catbox.moe/d3kstp.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -20517,19 +20615,19 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/qtjflv.txt"
+                    "url": "https://files.catbox.moe/kamnjj.txt"
                 },
                 "special type of semiconductor  device SRC.playlist": {
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/7tsjtc.txt"
+                    "url": "https://files.catbox.moe/7gmnlt.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/caeeyv.txt"
+                    "url": "https://files.catbox.moe/5xv5aq.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -21240,13 +21338,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/l2pa2h.txt"
+                    "url": "https://files.catbox.moe/kbof50.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/ysu305.txt"
+                    "url": "https://files.catbox.moe/ig6ty3.txt"
                 }
             },
             "Programming-in-C": {
@@ -21632,7 +21730,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/cx8loq.txt"
+                    "url": "https://files.catbox.moe/5z7r46.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -22494,13 +22592,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/yllmju.txt"
+                    "url": "https://files.catbox.moe/upcyvb.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/ek7a92.txt"
+                    "url": "https://files.catbox.moe/oqbyhi.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -24688,7 +24786,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/to1war.txt"
+                    "url": "https://files.catbox.moe/nol3tj.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -25168,19 +25266,19 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/b0ss5i.txt"
+                    "url": "https://files.catbox.moe/1zt7zp.txt"
                 },
                 "special type of semiconductor  device SRC.playlist": {
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/zrbr0b.txt"
+                    "url": "https://files.catbox.moe/izfm13.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/ajq3np.txt"
+                    "url": "https://files.catbox.moe/k0f1sj.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -25934,13 +26032,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/26hwj7.txt"
+                    "url": "https://files.catbox.moe/03jt45.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/inljel.txt"
+                    "url": "https://files.catbox.moe/leo24w.txt"
                 }
             },
             "Programming-in-C": {
@@ -26326,7 +26424,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/mnl6tf.txt"
+                    "url": "https://files.catbox.moe/dehlow.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -27188,13 +27286,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/o2q4vw.txt"
+                    "url": "https://files.catbox.moe/hx5nbf.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/c86udv.txt"
+                    "url": "https://files.catbox.moe/1aq54h.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -29356,7 +29454,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/9nco9e.txt"
+                    "url": "https://files.catbox.moe/stmrrb.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
