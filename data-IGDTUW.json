@@ -1204,13 +1204,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/1yx9e9.txt"
+                    "url": "https://files.catbox.moe/195qmw.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/4h4vwm.txt"
+                    "url": "https://files.catbox.moe/e2siu4.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -2912,7 +2912,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/puh7cn.pdf"
+                    "url": "https://files.catbox.moe/2hx4n5.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -3077,7 +3077,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/1zjxbg.txt"
+                    "url": "https://files.catbox.moe/aunbdr.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -3204,6 +3204,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a006b1ea802797dfbde587e5d58bbc6b9d019ae0dhruvbakshiresume.pdf",
                     "url": "https://files.catbox.moe/nmv496.pdf"
+                },
+                "Relativity Notes (HandWritten).pdf": {
+                    "name": "Relativity-Notes-(HandWritten).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
+                    "url": "https://files.catbox.moe/0j3qo4.pdf"
                 }
             },
             "Data-Structures": {
@@ -4613,13 +4619,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/9kiphb.txt"
+                    "url": "https://files.catbox.moe/ihfxjj.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/vhg6lb.txt"
+                    "url": "https://files.catbox.moe/s8glqz.txt"
                 }
             },
             "Programming-in-C": {
@@ -5005,7 +5011,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/kbz3hs.txt"
+                    "url": "https://files.catbox.moe/dq908u.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -5047,9 +5053,9 @@
             "Applied-Mathematics---2": {
                 "Complex Analysis.pdf": {
                     "name": "Complex-Analysis.pdf",
-                    "type": "Tutorial_Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
-                    "url": "https://files.catbox.moe/pctrho.pdf"
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ab9d7111055c237ffc9166874e23338dbe6d7eddComplex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/iw6qq5.pdf"
                 },
                 "Tut 1-Differential Equation.pdf": {
                     "name": "Tut-1-Differential-Equation.pdf",
@@ -5105,25 +5111,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bd7809fb067103ec7246c4d1128c529429ffee84N%20P%20Bali%209th%20edition.pdf",
                     "url": "https://files.catbox.moe/8ofcof.pdf"
                 },
-                "unit 1 differential equation.pdf": {
+                "Unit2 differential equation.pdf": {
                     "name": "unit-1-differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/14703175b33f9988488c2a078c6b0d3f5915ef18unit%201%20differential%20equation.pdf",
                     "url": "https://files.catbox.moe/psn9nv.pdf"
                 },
-                "unit 2 laplace transform.pdf": {
+                "Unit3 laplace .pdf": {
                     "name": "unit-2-laplace-transform.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c7aeae6798bf2dc6476e4ee51aca716bd5772ad9unit%202%20laplace%20transform.pdf",
                     "url": "https://files.catbox.moe/v4fn7i.pdf"
                 },
-                "unit 3 complex analysis.pdf": {
+                "Unit4 complex-part1.pdf": {
                     "name": "unit-3-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b722aabc8b1bcd6d9f673de4d498636f5319cc94unit%203%20complex%20analysis.pdf",
                     "url": "https://files.catbox.moe/auighy.pdf"
                 },
-                "unit 4 complex analysis.pdf": {
+                "Unit4 complex-part2.pdf": {
                     "name": "unit-4-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/47e2c3966486cdfc79be12d1e72c771c620f887cunit%204%20complex%20analysis.pdf",
@@ -5147,13 +5153,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/738a17dc8ba60dba8c34efec67598cbeee365267BS%20Grewal%20part%203.pdf",
                     "url": "https://files.catbox.moe/9n1e8f.pdf"
                 },
-                "formula sheet.pdf": {
+                "Formula sheet-All units.pdf": {
                     "name": "formula-sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4719c69ba8387504ad6e0a8d6cf5f7db5de8f212formula%20sheet.pdf",
                     "url": "https://files.catbox.moe/37cxuy.pdf"
                 },
-                "Differential eq.playlist": {
+                "Unit2 Differential eq.playlist": {
                     "name": "Differential-eq.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfIuZVt20v-eNZBfFLENrM1F",
@@ -5183,7 +5189,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e22918d4f143ca3d237be9f598987f4365047602Grad%2C%20Curl%2C%20Div.pdf",
                     "url": "https://files.catbox.moe/099d2v.pdf"
                 },
-                "Differential equations .pdf": {
+                "Unit2 printed .pdf": {
                     "name": "Differential-equations-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3fc25b6e79ab1ebc28ed83fb4c198ff34cdd510eDifferential%20equations%20.pdf",
@@ -5194,12 +5200,6 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
                     "url": "https://files.catbox.moe/709k0l.pdf"
-                },
-                "Vector Calculus .pdf": {
-                    "name": "Vector-Calculus-.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d07590f5efc96d79517e9f2ef6754ac68774f97Vector%20Calculus%20.pdf",
-                    "url": "https://files.catbox.moe/9246zh.pdf"
                 },
                 "Solution-Vector Calculus.pdf": {
                     "name": "Solution-Vector-Calculus.pdf",
@@ -5213,25 +5213,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
                     "url": "https://files.catbox.moe/tgfrjg.pdf"
                 },
-                "Complex Analysis.playlist": {
+                "Unit4 Complex Analysis.playlist": {
                     "name": "Complex-Analysis.playlist",
                     "type": "Playlist",
                     "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfI3sh-ho_iiTkCGsTbVh_Sw",
                     "url": "https://files.catbox.moe/c3uqzn.txt"
                 },
-                "Laplace Transformation.playlist": {
+                "Unit3 Laplace Transformation.playlist": {
                     "name": "Laplace-Transformation.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLhSp9OSVmeyIYLVvSJ8m6KvVwJs7M9QBm",
                     "url": "https://files.catbox.moe/ptnluz.txt"
                 },
-                "complex numbers cse3.pdf": {
+                "Unit4 cse3.pdf": {
                     "name": "complex-numbers-cse3.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87b8535cf7b1df7763d0c2d84355e1fe36a16fd2complex%20numbers%20cse3.pdf",
                     "url": "https://files.catbox.moe/0lgr1i.pdf"
                 },
-                "laplace transform .pdf": {
+                "Unit3 (Laplace transform) .pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
@@ -5249,53 +5249,95 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Solutions Laplace.pdf": {
+                "Unit3 Solution.pdf": {
                     "name": "Tut-3-Solutions.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Laplace Transforms).pdf": {
+                "Unit3 Laplace Transforms.pdf": {
                     "name": "Laplace-Transforms).pdf",
                     "type": "Tutorial_Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bdd1b4b2f98651521b10412a01f4f98b0446df73Laplace%20Transforms%29.pdf",
                     "url": "https://files.catbox.moe/lrtnax.pdf"
                 },
-                "Complex Answer.pdf": {
+                "Unit4 Solution.pdf": {
                     "name": "Tut-4-Solution.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a7f3a0a54e2468fc044f5cc2cf134ee2dbbc951fTut-4%20Solution.pdf",
                     "url": "https://files.catbox.moe/9qd67o.pdf"
                 },
-                "vector calculus.pdf": {
+                "Unit4 Complex Analysis.pdf": {
+                    "name": "Complex-Analysis.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/pctrho.pdf"
+                },
+                "Unit1 Vector calculus.pdf": {
                     "name": "vector-calculus.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c5240e4e8f0b8070503a1fd4748c4b3b13719652vector%20calculus.pdf",
                     "url": "https://files.catbox.moe/7m36s2.pdf"
                 },
-                "differential equation.pdf": {
+                "Unit2 Differential eqn.pdf": {
                     "name": "differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fe37208cc05857baeba29223b211de33b21dedebdifferential%20equation.pdf",
                     "url": "https://files.catbox.moe/ntolte.pdf"
                 },
-                "Formula Sheet 2.pdf": {
+                "Midsem FormulaSheet2.pdf": {
                     "name": "Formula-Sheet-2.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b124b11f23fcd70361c64571f3b711a5c8b7b83Formula%20Sheet%202.pdf",
                     "url": "https://files.catbox.moe/jelyo8.pdf"
                 },
-                "Formula Sheet.pdf": {
+                "Midsem FormulaSheet.pdf": {
                     "name": "Formula-Sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a26bc405e50751836e74029c711e422736c3ebafFormula%20Sheet.pdf",
                     "url": "https://files.catbox.moe/7d5vi0.pdf"
                 },
-                "laplace.pdf": {
+                "Unit3-Laplace.pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
                     "url": "https://files.catbox.moe/u6nvm0.pdf"
+                },
+                "Vectors-NP Bali .pdf": {
+                    "name": "Vectors-NP-Bali-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/93635edd86a91b9e879bd4c6e66a09f351013278NP%20BALI%20COMPLETE-506-562%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/6jswx7.pdf"
+                },
+                "Unit2 Solution.pdf": {
+                    "name": "Solutions-Tut-2-Differential-equation.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
+                    "url": "https://files.catbox.moe/tgfrjg.pdf"
+                },
+                "Unit2 Differential Eqn.pdf": {
+                    "name": "Unit2-Differential-Eqn.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f2b72d340d6befb6937f2e6fdfd7fab66f7eee7fDifferential%20Eqn%20Unit2.pdf",
+                    "url": "https://files.catbox.moe/lzsrp5.pdf"
+                },
+                "Unit 1 Solution.pdf": {
+                    "name": "Solution-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e93999ed5b2937e2da6caa706ae9e081303b071Solution-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/5d2836.pdf"
+                },
+                "Unit1 Vector Calc  .pdf": {
+                    "name": "Tut-1-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/709k0l.pdf"
+                },
+                "Unit1 Vector Calculus.playlist": {
+                    "name": "Unit1-Vector-Calculus.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=FfJtVvQtqTM&list=PLU6SqdYcYsfJz9FAzbgocIjlkw4NXAar-",
+                    "url": "https://files.catbox.moe/x6hwa3.txt"
                 }
             },
             "Mathematics---1": {
@@ -5867,13 +5909,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/gnm2kk.txt"
+                    "url": "https://files.catbox.moe/kytitn.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/vo1yxx.txt"
+                    "url": "https://files.catbox.moe/ovpwvh.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -8265,7 +8307,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/y3xjwh.txt"
+                    "url": "https://files.catbox.moe/9gvppg.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -8392,6 +8434,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a006b1ea802797dfbde587e5d58bbc6b9d019ae0dhruvbakshiresume.pdf",
                     "url": "https://files.catbox.moe/nmv496.pdf"
+                },
+                "Relativity Notes (HandWritten).pdf": {
+                    "name": "Relativity-Notes-(HandWritten).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
+                    "url": "https://files.catbox.moe/0j3qo4.pdf"
                 }
             },
             "Data-Structures": {
@@ -9823,13 +9871,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/bwjnvu.txt"
+                    "url": "https://files.catbox.moe/jitb1v.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/j0umsb.txt"
+                    "url": "https://files.catbox.moe/elebu8.txt"
                 }
             },
             "Programming-in-C": {
@@ -10215,7 +10263,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/mwomfx.txt"
+                    "url": "https://files.catbox.moe/19okhx.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -10257,9 +10305,9 @@
             "Applied-Mathematics---2": {
                 "Complex Analysis.pdf": {
                     "name": "Complex-Analysis.pdf",
-                    "type": "Tutorial_Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
-                    "url": "https://files.catbox.moe/pctrho.pdf"
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ab9d7111055c237ffc9166874e23338dbe6d7eddComplex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/iw6qq5.pdf"
                 },
                 "Tut 1-Differential Equation.pdf": {
                     "name": "Tut-1-Differential-Equation.pdf",
@@ -10315,25 +10363,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bd7809fb067103ec7246c4d1128c529429ffee84N%20P%20Bali%209th%20edition.pdf",
                     "url": "https://files.catbox.moe/8ofcof.pdf"
                 },
-                "unit 1 differential equation.pdf": {
+                "Unit2 differential equation.pdf": {
                     "name": "unit-1-differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/14703175b33f9988488c2a078c6b0d3f5915ef18unit%201%20differential%20equation.pdf",
                     "url": "https://files.catbox.moe/psn9nv.pdf"
                 },
-                "unit 2 laplace transform.pdf": {
+                "Unit3 laplace .pdf": {
                     "name": "unit-2-laplace-transform.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c7aeae6798bf2dc6476e4ee51aca716bd5772ad9unit%202%20laplace%20transform.pdf",
                     "url": "https://files.catbox.moe/v4fn7i.pdf"
                 },
-                "unit 3 complex analysis.pdf": {
+                "Unit4 complex-part1.pdf": {
                     "name": "unit-3-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b722aabc8b1bcd6d9f673de4d498636f5319cc94unit%203%20complex%20analysis.pdf",
                     "url": "https://files.catbox.moe/auighy.pdf"
                 },
-                "unit 4 complex analysis.pdf": {
+                "Unit4 complex-part2.pdf": {
                     "name": "unit-4-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/47e2c3966486cdfc79be12d1e72c771c620f887cunit%204%20complex%20analysis.pdf",
@@ -10357,13 +10405,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/738a17dc8ba60dba8c34efec67598cbeee365267BS%20Grewal%20part%203.pdf",
                     "url": "https://files.catbox.moe/9n1e8f.pdf"
                 },
-                "formula sheet.pdf": {
+                "Formula sheet-All units.pdf": {
                     "name": "formula-sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4719c69ba8387504ad6e0a8d6cf5f7db5de8f212formula%20sheet.pdf",
                     "url": "https://files.catbox.moe/37cxuy.pdf"
                 },
-                "Differential eq.playlist": {
+                "Unit2 Differential eq.playlist": {
                     "name": "Differential-eq.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfIuZVt20v-eNZBfFLENrM1F",
@@ -10393,7 +10441,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e22918d4f143ca3d237be9f598987f4365047602Grad%2C%20Curl%2C%20Div.pdf",
                     "url": "https://files.catbox.moe/099d2v.pdf"
                 },
-                "Differential equations .pdf": {
+                "Unit2 printed .pdf": {
                     "name": "Differential-equations-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3fc25b6e79ab1ebc28ed83fb4c198ff34cdd510eDifferential%20equations%20.pdf",
@@ -10404,12 +10452,6 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
                     "url": "https://files.catbox.moe/709k0l.pdf"
-                },
-                "Vector Calculus .pdf": {
-                    "name": "Vector-Calculus-.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d07590f5efc96d79517e9f2ef6754ac68774f97Vector%20Calculus%20.pdf",
-                    "url": "https://files.catbox.moe/9246zh.pdf"
                 },
                 "Solution-Vector Calculus.pdf": {
                     "name": "Solution-Vector-Calculus.pdf",
@@ -10423,25 +10465,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
                     "url": "https://files.catbox.moe/tgfrjg.pdf"
                 },
-                "Complex Analysis.playlist": {
+                "Unit4 Complex Analysis.playlist": {
                     "name": "Complex-Analysis.playlist",
                     "type": "Playlist",
                     "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfI3sh-ho_iiTkCGsTbVh_Sw",
                     "url": "https://files.catbox.moe/c3uqzn.txt"
                 },
-                "Laplace Transformation.playlist": {
+                "Unit3 Laplace Transformation.playlist": {
                     "name": "Laplace-Transformation.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLhSp9OSVmeyIYLVvSJ8m6KvVwJs7M9QBm",
                     "url": "https://files.catbox.moe/ptnluz.txt"
                 },
-                "complex numbers cse3.pdf": {
+                "Unit4 cse3.pdf": {
                     "name": "complex-numbers-cse3.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87b8535cf7b1df7763d0c2d84355e1fe36a16fd2complex%20numbers%20cse3.pdf",
                     "url": "https://files.catbox.moe/0lgr1i.pdf"
                 },
-                "laplace transform .pdf": {
+                "Unit3 (Laplace transform) .pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
@@ -10459,53 +10501,95 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Solutions Laplace.pdf": {
+                "Unit3 Solution.pdf": {
                     "name": "Tut-3-Solutions.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Laplace Transforms).pdf": {
+                "Unit3 Laplace Transforms.pdf": {
                     "name": "Laplace-Transforms).pdf",
                     "type": "Tutorial_Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bdd1b4b2f98651521b10412a01f4f98b0446df73Laplace%20Transforms%29.pdf",
                     "url": "https://files.catbox.moe/lrtnax.pdf"
                 },
-                "Complex Answer.pdf": {
+                "Unit4 Solution.pdf": {
                     "name": "Tut-4-Solution.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a7f3a0a54e2468fc044f5cc2cf134ee2dbbc951fTut-4%20Solution.pdf",
                     "url": "https://files.catbox.moe/9qd67o.pdf"
                 },
-                "vector calculus.pdf": {
+                "Unit4 Complex Analysis.pdf": {
+                    "name": "Complex-Analysis.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/pctrho.pdf"
+                },
+                "Unit1 Vector calculus.pdf": {
                     "name": "vector-calculus.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c5240e4e8f0b8070503a1fd4748c4b3b13719652vector%20calculus.pdf",
                     "url": "https://files.catbox.moe/7m36s2.pdf"
                 },
-                "differential equation.pdf": {
+                "Unit2 Differential eqn.pdf": {
                     "name": "differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fe37208cc05857baeba29223b211de33b21dedebdifferential%20equation.pdf",
                     "url": "https://files.catbox.moe/ntolte.pdf"
                 },
-                "Formula Sheet 2.pdf": {
+                "Midsem FormulaSheet2.pdf": {
                     "name": "Formula-Sheet-2.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b124b11f23fcd70361c64571f3b711a5c8b7b83Formula%20Sheet%202.pdf",
                     "url": "https://files.catbox.moe/jelyo8.pdf"
                 },
-                "Formula Sheet.pdf": {
+                "Midsem FormulaSheet.pdf": {
                     "name": "Formula-Sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a26bc405e50751836e74029c711e422736c3ebafFormula%20Sheet.pdf",
                     "url": "https://files.catbox.moe/7d5vi0.pdf"
                 },
-                "laplace.pdf": {
+                "Unit3-Laplace.pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
                     "url": "https://files.catbox.moe/u6nvm0.pdf"
+                },
+                "Vectors-NP Bali .pdf": {
+                    "name": "Vectors-NP-Bali-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/93635edd86a91b9e879bd4c6e66a09f351013278NP%20BALI%20COMPLETE-506-562%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/6jswx7.pdf"
+                },
+                "Unit2 Solution.pdf": {
+                    "name": "Solutions-Tut-2-Differential-equation.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
+                    "url": "https://files.catbox.moe/tgfrjg.pdf"
+                },
+                "Unit2 Differential Eqn.pdf": {
+                    "name": "Unit2-Differential-Eqn.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f2b72d340d6befb6937f2e6fdfd7fab66f7eee7fDifferential%20Eqn%20Unit2.pdf",
+                    "url": "https://files.catbox.moe/lzsrp5.pdf"
+                },
+                "Unit 1 Solution.pdf": {
+                    "name": "Solution-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e93999ed5b2937e2da6caa706ae9e081303b071Solution-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/5d2836.pdf"
+                },
+                "Unit1 Vector Calc  .pdf": {
+                    "name": "Tut-1-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/709k0l.pdf"
+                },
+                "Unit1 Vector Calculus.playlist": {
+                    "name": "Unit1-Vector-Calculus.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=FfJtVvQtqTM&list=PLU6SqdYcYsfJz9FAzbgocIjlkw4NXAar-",
+                    "url": "https://files.catbox.moe/x6hwa3.txt"
                 }
             },
             "Mathematics---1": {
@@ -11077,13 +11161,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/n3h4a5.txt"
+                    "url": "https://files.catbox.moe/q3t8xm.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/oggbxe.txt"
+                    "url": "https://files.catbox.moe/4w0t4s.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -14863,13 +14947,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/vwu7d9.txt"
+                    "url": "https://files.catbox.moe/6lufgt.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/zorhej.txt"
+                    "url": "https://files.catbox.moe/d88jbw.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -16571,7 +16655,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/gzmvbp.pdf"
+                    "url": "https://files.catbox.moe/w0ftdw.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -16669,7 +16753,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/gzln93.txt"
+                    "url": "https://files.catbox.moe/xr3iwq.txt"
                 }
             },
             "DataBase-Management-System": {
@@ -16785,7 +16869,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/f4q2ng.txt"
+                    "url": "https://files.catbox.moe/z2e3ss.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -16912,6 +16996,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a006b1ea802797dfbde587e5d58bbc6b9d019ae0dhruvbakshiresume.pdf",
                     "url": "https://files.catbox.moe/nmv496.pdf"
+                },
+                "Relativity Notes (HandWritten).pdf": {
+                    "name": "Relativity-Notes-(HandWritten).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
+                    "url": "https://files.catbox.moe/0j3qo4.pdf"
                 }
             },
             "Discrete-STructures": {
@@ -18531,7 +18621,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/umlctw.txt"
+                    "url": "https://files.catbox.moe/zz7526.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -19139,13 +19229,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/3ehq2c.txt"
+                    "url": "https://files.catbox.moe/xhksj3.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/xq8dm8.txt"
+                    "url": "https://files.catbox.moe/avlzet.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -20569,7 +20659,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/28l04m.txt"
+                    "url": "https://files.catbox.moe/x2r4eo.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -20696,6 +20786,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a006b1ea802797dfbde587e5d58bbc6b9d019ae0dhruvbakshiresume.pdf",
                     "url": "https://files.catbox.moe/nmv496.pdf"
+                },
+                "Relativity Notes (HandWritten).pdf": {
+                    "name": "Relativity-Notes-(HandWritten).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
+                    "url": "https://files.catbox.moe/0j3qo4.pdf"
                 }
             },
             "Data-Structures": {
@@ -21056,19 +21152,19 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/bzmlal.txt"
+                    "url": "https://files.catbox.moe/w9bu3k.txt"
                 },
                 "special type of semiconductor  device SRC.playlist": {
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/2ea1ex.txt"
+                    "url": "https://files.catbox.moe/yck9k7.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/4i8zim.txt"
+                    "url": "https://files.catbox.moe/scaqx6.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -21779,13 +21875,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/5hwl65.txt"
+                    "url": "https://files.catbox.moe/lmhj8f.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/elilcj.txt"
+                    "url": "https://files.catbox.moe/o1hah6.txt"
                 }
             },
             "Programming-in-C": {
@@ -22171,7 +22267,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/dngusi.txt"
+                    "url": "https://files.catbox.moe/ekt2jy.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -22213,9 +22309,9 @@
             "Applied-Mathematics---2": {
                 "Complex Analysis.pdf": {
                     "name": "Complex-Analysis.pdf",
-                    "type": "Tutorial_Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
-                    "url": "https://files.catbox.moe/pctrho.pdf"
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ab9d7111055c237ffc9166874e23338dbe6d7eddComplex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/iw6qq5.pdf"
                 },
                 "Tut 1-Differential Equation.pdf": {
                     "name": "Tut-1-Differential-Equation.pdf",
@@ -22271,25 +22367,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bd7809fb067103ec7246c4d1128c529429ffee84N%20P%20Bali%209th%20edition.pdf",
                     "url": "https://files.catbox.moe/8ofcof.pdf"
                 },
-                "unit 1 differential equation.pdf": {
+                "Unit2 differential equation.pdf": {
                     "name": "unit-1-differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/14703175b33f9988488c2a078c6b0d3f5915ef18unit%201%20differential%20equation.pdf",
                     "url": "https://files.catbox.moe/psn9nv.pdf"
                 },
-                "unit 2 laplace transform.pdf": {
+                "Unit3 laplace .pdf": {
                     "name": "unit-2-laplace-transform.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c7aeae6798bf2dc6476e4ee51aca716bd5772ad9unit%202%20laplace%20transform.pdf",
                     "url": "https://files.catbox.moe/v4fn7i.pdf"
                 },
-                "unit 3 complex analysis.pdf": {
+                "Unit4 complex-part1.pdf": {
                     "name": "unit-3-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b722aabc8b1bcd6d9f673de4d498636f5319cc94unit%203%20complex%20analysis.pdf",
                     "url": "https://files.catbox.moe/auighy.pdf"
                 },
-                "unit 4 complex analysis.pdf": {
+                "Unit4 complex-part2.pdf": {
                     "name": "unit-4-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/47e2c3966486cdfc79be12d1e72c771c620f887cunit%204%20complex%20analysis.pdf",
@@ -22313,13 +22409,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/738a17dc8ba60dba8c34efec67598cbeee365267BS%20Grewal%20part%203.pdf",
                     "url": "https://files.catbox.moe/9n1e8f.pdf"
                 },
-                "formula sheet.pdf": {
+                "Formula sheet-All units.pdf": {
                     "name": "formula-sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4719c69ba8387504ad6e0a8d6cf5f7db5de8f212formula%20sheet.pdf",
                     "url": "https://files.catbox.moe/37cxuy.pdf"
                 },
-                "Differential eq.playlist": {
+                "Unit2 Differential eq.playlist": {
                     "name": "Differential-eq.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfIuZVt20v-eNZBfFLENrM1F",
@@ -22349,7 +22445,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e22918d4f143ca3d237be9f598987f4365047602Grad%2C%20Curl%2C%20Div.pdf",
                     "url": "https://files.catbox.moe/099d2v.pdf"
                 },
-                "Differential equations .pdf": {
+                "Unit2 printed .pdf": {
                     "name": "Differential-equations-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3fc25b6e79ab1ebc28ed83fb4c198ff34cdd510eDifferential%20equations%20.pdf",
@@ -22360,12 +22456,6 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
                     "url": "https://files.catbox.moe/709k0l.pdf"
-                },
-                "Vector Calculus .pdf": {
-                    "name": "Vector-Calculus-.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d07590f5efc96d79517e9f2ef6754ac68774f97Vector%20Calculus%20.pdf",
-                    "url": "https://files.catbox.moe/9246zh.pdf"
                 },
                 "Solution-Vector Calculus.pdf": {
                     "name": "Solution-Vector-Calculus.pdf",
@@ -22379,25 +22469,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
                     "url": "https://files.catbox.moe/tgfrjg.pdf"
                 },
-                "Complex Analysis.playlist": {
+                "Unit4 Complex Analysis.playlist": {
                     "name": "Complex-Analysis.playlist",
                     "type": "Playlist",
                     "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfI3sh-ho_iiTkCGsTbVh_Sw",
                     "url": "https://files.catbox.moe/c3uqzn.txt"
                 },
-                "Laplace Transformation.playlist": {
+                "Unit3 Laplace Transformation.playlist": {
                     "name": "Laplace-Transformation.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLhSp9OSVmeyIYLVvSJ8m6KvVwJs7M9QBm",
                     "url": "https://files.catbox.moe/ptnluz.txt"
                 },
-                "complex numbers cse3.pdf": {
+                "Unit4 cse3.pdf": {
                     "name": "complex-numbers-cse3.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87b8535cf7b1df7763d0c2d84355e1fe36a16fd2complex%20numbers%20cse3.pdf",
                     "url": "https://files.catbox.moe/0lgr1i.pdf"
                 },
-                "laplace transform .pdf": {
+                "Unit3 (Laplace transform) .pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
@@ -22415,53 +22505,95 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Solutions Laplace.pdf": {
+                "Unit3 Solution.pdf": {
                     "name": "Tut-3-Solutions.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Laplace Transforms).pdf": {
+                "Unit3 Laplace Transforms.pdf": {
                     "name": "Laplace-Transforms).pdf",
                     "type": "Tutorial_Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bdd1b4b2f98651521b10412a01f4f98b0446df73Laplace%20Transforms%29.pdf",
                     "url": "https://files.catbox.moe/lrtnax.pdf"
                 },
-                "Complex Answer.pdf": {
+                "Unit4 Solution.pdf": {
                     "name": "Tut-4-Solution.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a7f3a0a54e2468fc044f5cc2cf134ee2dbbc951fTut-4%20Solution.pdf",
                     "url": "https://files.catbox.moe/9qd67o.pdf"
                 },
-                "vector calculus.pdf": {
+                "Unit4 Complex Analysis.pdf": {
+                    "name": "Complex-Analysis.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/pctrho.pdf"
+                },
+                "Unit1 Vector calculus.pdf": {
                     "name": "vector-calculus.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c5240e4e8f0b8070503a1fd4748c4b3b13719652vector%20calculus.pdf",
                     "url": "https://files.catbox.moe/7m36s2.pdf"
                 },
-                "differential equation.pdf": {
+                "Unit2 Differential eqn.pdf": {
                     "name": "differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fe37208cc05857baeba29223b211de33b21dedebdifferential%20equation.pdf",
                     "url": "https://files.catbox.moe/ntolte.pdf"
                 },
-                "Formula Sheet 2.pdf": {
+                "Midsem FormulaSheet2.pdf": {
                     "name": "Formula-Sheet-2.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b124b11f23fcd70361c64571f3b711a5c8b7b83Formula%20Sheet%202.pdf",
                     "url": "https://files.catbox.moe/jelyo8.pdf"
                 },
-                "Formula Sheet.pdf": {
+                "Midsem FormulaSheet.pdf": {
                     "name": "Formula-Sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a26bc405e50751836e74029c711e422736c3ebafFormula%20Sheet.pdf",
                     "url": "https://files.catbox.moe/7d5vi0.pdf"
                 },
-                "laplace.pdf": {
+                "Unit3-Laplace.pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
                     "url": "https://files.catbox.moe/u6nvm0.pdf"
+                },
+                "Vectors-NP Bali .pdf": {
+                    "name": "Vectors-NP-Bali-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/93635edd86a91b9e879bd4c6e66a09f351013278NP%20BALI%20COMPLETE-506-562%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/6jswx7.pdf"
+                },
+                "Unit2 Solution.pdf": {
+                    "name": "Solutions-Tut-2-Differential-equation.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
+                    "url": "https://files.catbox.moe/tgfrjg.pdf"
+                },
+                "Unit2 Differential Eqn.pdf": {
+                    "name": "Unit2-Differential-Eqn.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f2b72d340d6befb6937f2e6fdfd7fab66f7eee7fDifferential%20Eqn%20Unit2.pdf",
+                    "url": "https://files.catbox.moe/lzsrp5.pdf"
+                },
+                "Unit 1 Solution.pdf": {
+                    "name": "Solution-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e93999ed5b2937e2da6caa706ae9e081303b071Solution-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/5d2836.pdf"
+                },
+                "Unit1 Vector Calc  .pdf": {
+                    "name": "Tut-1-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/709k0l.pdf"
+                },
+                "Unit1 Vector Calculus.playlist": {
+                    "name": "Unit1-Vector-Calculus.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=FfJtVvQtqTM&list=PLU6SqdYcYsfJz9FAzbgocIjlkw4NXAar-",
+                    "url": "https://files.catbox.moe/x6hwa3.txt"
                 }
             },
             "Mathematics---1": {
@@ -23033,13 +23165,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/cao73c.txt"
+                    "url": "https://files.catbox.moe/shw3f3.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/4k6o71.txt"
+                    "url": "https://files.catbox.moe/a25xb1.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -25227,7 +25359,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/c6dfr6.txt"
+                    "url": "https://files.catbox.moe/cl6zc0.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -25354,6 +25486,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a006b1ea802797dfbde587e5d58bbc6b9d019ae0dhruvbakshiresume.pdf",
                     "url": "https://files.catbox.moe/nmv496.pdf"
+                },
+                "Relativity Notes (HandWritten).pdf": {
+                    "name": "Relativity-Notes-(HandWritten).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
+                    "url": "https://files.catbox.moe/0j3qo4.pdf"
                 }
             },
             "Data-Structures": {
@@ -25713,19 +25851,19 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/t0dz29.txt"
+                    "url": "https://files.catbox.moe/9m94kc.txt"
                 },
                 "special type of semiconductor  device SRC.playlist": {
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/df0faw.txt"
+                    "url": "https://files.catbox.moe/013dcp.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/zhja0r.txt"
+                    "url": "https://files.catbox.moe/hl9o1e.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -26529,13 +26667,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/5gmqe1.txt"
+                    "url": "https://files.catbox.moe/m4a3vz.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/o7xtnu.txt"
+                    "url": "https://files.catbox.moe/mxe0hn.txt"
                 }
             },
             "Programming-in-C": {
@@ -26921,7 +27059,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/epnaa0.txt"
+                    "url": "https://files.catbox.moe/1k7eeq.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -26963,9 +27101,9 @@
             "Applied-Mathematics---2": {
                 "Complex Analysis.pdf": {
                     "name": "Complex-Analysis.pdf",
-                    "type": "Tutorial_Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
-                    "url": "https://files.catbox.moe/pctrho.pdf"
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ab9d7111055c237ffc9166874e23338dbe6d7eddComplex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/iw6qq5.pdf"
                 },
                 "Tut 1-Differential Equation.pdf": {
                     "name": "Tut-1-Differential-Equation.pdf",
@@ -27021,25 +27159,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bd7809fb067103ec7246c4d1128c529429ffee84N%20P%20Bali%209th%20edition.pdf",
                     "url": "https://files.catbox.moe/8ofcof.pdf"
                 },
-                "unit 1 differential equation.pdf": {
+                "Unit2 differential equation.pdf": {
                     "name": "unit-1-differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/14703175b33f9988488c2a078c6b0d3f5915ef18unit%201%20differential%20equation.pdf",
                     "url": "https://files.catbox.moe/psn9nv.pdf"
                 },
-                "unit 2 laplace transform.pdf": {
+                "Unit3 laplace .pdf": {
                     "name": "unit-2-laplace-transform.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c7aeae6798bf2dc6476e4ee51aca716bd5772ad9unit%202%20laplace%20transform.pdf",
                     "url": "https://files.catbox.moe/v4fn7i.pdf"
                 },
-                "unit 3 complex analysis.pdf": {
+                "Unit4 complex-part1.pdf": {
                     "name": "unit-3-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b722aabc8b1bcd6d9f673de4d498636f5319cc94unit%203%20complex%20analysis.pdf",
                     "url": "https://files.catbox.moe/auighy.pdf"
                 },
-                "unit 4 complex analysis.pdf": {
+                "Unit4 complex-part2.pdf": {
                     "name": "unit-4-complex-analysis.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/47e2c3966486cdfc79be12d1e72c771c620f887cunit%204%20complex%20analysis.pdf",
@@ -27063,13 +27201,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/738a17dc8ba60dba8c34efec67598cbeee365267BS%20Grewal%20part%203.pdf",
                     "url": "https://files.catbox.moe/9n1e8f.pdf"
                 },
-                "formula sheet.pdf": {
+                "Formula sheet-All units.pdf": {
                     "name": "formula-sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4719c69ba8387504ad6e0a8d6cf5f7db5de8f212formula%20sheet.pdf",
                     "url": "https://files.catbox.moe/37cxuy.pdf"
                 },
-                "Differential eq.playlist": {
+                "Unit2 Differential eq.playlist": {
                     "name": "Differential-eq.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfIuZVt20v-eNZBfFLENrM1F",
@@ -27099,7 +27237,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e22918d4f143ca3d237be9f598987f4365047602Grad%2C%20Curl%2C%20Div.pdf",
                     "url": "https://files.catbox.moe/099d2v.pdf"
                 },
-                "Differential equations .pdf": {
+                "Unit2 printed .pdf": {
                     "name": "Differential-equations-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3fc25b6e79ab1ebc28ed83fb4c198ff34cdd510eDifferential%20equations%20.pdf",
@@ -27110,12 +27248,6 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
                     "url": "https://files.catbox.moe/709k0l.pdf"
-                },
-                "Vector Calculus .pdf": {
-                    "name": "Vector-Calculus-.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d07590f5efc96d79517e9f2ef6754ac68774f97Vector%20Calculus%20.pdf",
-                    "url": "https://files.catbox.moe/9246zh.pdf"
                 },
                 "Solution-Vector Calculus.pdf": {
                     "name": "Solution-Vector-Calculus.pdf",
@@ -27129,25 +27261,25 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
                     "url": "https://files.catbox.moe/tgfrjg.pdf"
                 },
-                "Complex Analysis.playlist": {
+                "Unit4 Complex Analysis.playlist": {
                     "name": "Complex-Analysis.playlist",
                     "type": "Playlist",
                     "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfI3sh-ho_iiTkCGsTbVh_Sw",
                     "url": "https://files.catbox.moe/c3uqzn.txt"
                 },
-                "Laplace Transformation.playlist": {
+                "Unit3 Laplace Transformation.playlist": {
                     "name": "Laplace-Transformation.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLhSp9OSVmeyIYLVvSJ8m6KvVwJs7M9QBm",
                     "url": "https://files.catbox.moe/ptnluz.txt"
                 },
-                "complex numbers cse3.pdf": {
+                "Unit4 cse3.pdf": {
                     "name": "complex-numbers-cse3.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87b8535cf7b1df7763d0c2d84355e1fe36a16fd2complex%20numbers%20cse3.pdf",
                     "url": "https://files.catbox.moe/0lgr1i.pdf"
                 },
-                "laplace transform .pdf": {
+                "Unit3 (Laplace transform) .pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
@@ -27165,53 +27297,95 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Solutions Laplace.pdf": {
+                "Unit3 Solution.pdf": {
                     "name": "Tut-3-Solutions.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/430cbaac2488659b17b0aa34e199c3b6950e0b96Tut-3%20Solutions.pdf",
                     "url": "https://files.catbox.moe/74xp7c.pdf"
                 },
-                "Laplace Transforms).pdf": {
+                "Unit3 Laplace Transforms.pdf": {
                     "name": "Laplace-Transforms).pdf",
                     "type": "Tutorial_Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bdd1b4b2f98651521b10412a01f4f98b0446df73Laplace%20Transforms%29.pdf",
                     "url": "https://files.catbox.moe/lrtnax.pdf"
                 },
-                "Complex Answer.pdf": {
+                "Unit4 Solution.pdf": {
                     "name": "Tut-4-Solution.pdf",
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a7f3a0a54e2468fc044f5cc2cf134ee2dbbc951fTut-4%20Solution.pdf",
                     "url": "https://files.catbox.moe/9qd67o.pdf"
                 },
-                "vector calculus.pdf": {
+                "Unit4 Complex Analysis.pdf": {
+                    "name": "Complex-Analysis.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f6226903eaba6963db045cd6ec5426db0f646892Complex%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/pctrho.pdf"
+                },
+                "Unit1 Vector calculus.pdf": {
                     "name": "vector-calculus.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c5240e4e8f0b8070503a1fd4748c4b3b13719652vector%20calculus.pdf",
                     "url": "https://files.catbox.moe/7m36s2.pdf"
                 },
-                "differential equation.pdf": {
+                "Unit2 Differential eqn.pdf": {
                     "name": "differential-equation.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fe37208cc05857baeba29223b211de33b21dedebdifferential%20equation.pdf",
                     "url": "https://files.catbox.moe/ntolte.pdf"
                 },
-                "Formula Sheet 2.pdf": {
+                "Midsem FormulaSheet2.pdf": {
                     "name": "Formula-Sheet-2.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b124b11f23fcd70361c64571f3b711a5c8b7b83Formula%20Sheet%202.pdf",
                     "url": "https://files.catbox.moe/jelyo8.pdf"
                 },
-                "Formula Sheet.pdf": {
+                "Midsem FormulaSheet.pdf": {
                     "name": "Formula-Sheet.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a26bc405e50751836e74029c711e422736c3ebafFormula%20Sheet.pdf",
                     "url": "https://files.catbox.moe/7d5vi0.pdf"
                 },
-                "laplace.pdf": {
+                "Unit3-Laplace.pdf": {
                     "name": "laplace-transform-.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db04dc2dcb6150bb2c46c29c3a12c4469f025daflaplace%20transform%20cse3.pdf",
                     "url": "https://files.catbox.moe/u6nvm0.pdf"
+                },
+                "Vectors-NP Bali .pdf": {
+                    "name": "Vectors-NP-Bali-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/93635edd86a91b9e879bd4c6e66a09f351013278NP%20BALI%20COMPLETE-506-562%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/6jswx7.pdf"
+                },
+                "Unit2 Solution.pdf": {
+                    "name": "Solutions-Tut-2-Differential-equation.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ceee97cbe3b2280c5798b8cb29bb5c8000a5647Solutions-Tut-2%20Differential%20equation.pdf",
+                    "url": "https://files.catbox.moe/tgfrjg.pdf"
+                },
+                "Unit2 Differential Eqn.pdf": {
+                    "name": "Unit2-Differential-Eqn.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f2b72d340d6befb6937f2e6fdfd7fab66f7eee7fDifferential%20Eqn%20Unit2.pdf",
+                    "url": "https://files.catbox.moe/lzsrp5.pdf"
+                },
+                "Unit 1 Solution.pdf": {
+                    "name": "Solution-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e93999ed5b2937e2da6caa706ae9e081303b071Solution-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/5d2836.pdf"
+                },
+                "Unit1 Vector Calc  .pdf": {
+                    "name": "Tut-1-Vector-Calculus.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27eac13d607c0e8fdf0f6d0c688fd408e5de02fdTut%201-Vector%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/709k0l.pdf"
+                },
+                "Unit1 Vector Calculus.playlist": {
+                    "name": "Unit1-Vector-Calculus.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=FfJtVvQtqTM&list=PLU6SqdYcYsfJz9FAzbgocIjlkw4NXAar-",
+                    "url": "https://files.catbox.moe/x6hwa3.txt"
                 }
             },
             "Mathematics---1": {
@@ -27783,13 +27957,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/r52pvo.txt"
+                    "url": "https://files.catbox.moe/dnwq44.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/jx65yo.txt"
+                    "url": "https://files.catbox.moe/o46gk4.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -29951,7 +30125,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/8ikegx.txt"
+                    "url": "https://files.catbox.moe/vfrv0f.txt"
                 },
                 "functional_dependencies.pdf": {
                     "name": "functional_dependencies.pdf",
@@ -30078,6 +30252,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a006b1ea802797dfbde587e5d58bbc6b9d019ae0dhruvbakshiresume.pdf",
                     "url": "https://files.catbox.moe/nmv496.pdf"
+                },
+                "Relativity Notes (HandWritten).pdf": {
+                    "name": "Relativity-Notes-(HandWritten).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
+                    "url": "https://files.catbox.moe/0j3qo4.pdf"
                 }
             },
             "Data-Structures": {
@@ -30429,11 +30609,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/20289e2392d12d66c2ad5df5fc3a17cae5860a34TE-UNIT1.pdf",
                     "url": "https://files.catbox.moe/7bnncc.pdf"
                 },
-                "TE-UNIT2_merged.pdf": {
-                    "name": "TE-UNIT2_merged.pdf",
+                "TE UNIT 2.pdf": {
+                    "name": "FULL-TE-UNIT-2-.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/231b0c7c99da89cb150b3982b320d8175fe7c792TE-UNIT2_merged.pdf",
-                    "url": "https://files.catbox.moe/kufxc5.pdf"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1f8bd3e66d2cc42f37636bf3cdc74f30b42930a9FULL%20TE%20UNIT%202%20.pdf",
+                    "url": "https://files.catbox.moe/k4i0ym.pdf"
                 }
             },
             "Production-Technology-2": {
