@@ -114,7 +114,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/1prmhb.txt"
+                    "url": "https://files.catbox.moe/6h3w3i.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -241,6 +241,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
                     "url": "https://files.catbox.moe/0j3qo4.pdf"
+                },
+                "CSE-ECE2022.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
+                },
+                "C mae-it midsem 2023.pdf": {
+                    "name": "C-mae-it-midsem-2023.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae4b9184a86a0bb8571fd9c4247dff637caa8f2bC%20mae-it%20midsem%202023.pdf",
+                    "url": "https://files.catbox.moe/m01nib.pdf"
                 }
             },
             "test": {},
@@ -1461,13 +1473,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ahdtk1.txt"
+                    "url": "https://files.catbox.moe/cfg9e0.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/vtg15j.txt"
+                    "url": "https://files.catbox.moe/vzofwf.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -3803,7 +3815,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/8ds94l.pdf"
+                    "url": "https://files.catbox.moe/d0r3nr.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -4112,7 +4124,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/cvr7fx.txt"
+                    "url": "https://files.catbox.moe/tu4x1c.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -4239,6 +4251,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
                     "url": "https://files.catbox.moe/0j3qo4.pdf"
+                },
+                "CSE-ECE2022.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
+                },
+                "C mae-it midsem 2023.pdf": {
+                    "name": "C-mae-it-midsem-2023.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae4b9184a86a0bb8571fd9c4247dff637caa8f2bC%20mae-it%20midsem%202023.pdf",
+                    "url": "https://files.catbox.moe/m01nib.pdf"
                 }
             },
             "Data-Structures": {
@@ -6414,7 +6438,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLDUIsFcBreclDkDKLO1AIkD4XI-UQvY8F",
                     "url": "https://files.catbox.moe/0e2vuc.txt"
                 },
-                "All UNITS Handwritten Notes.pdf": {
+                "All UNITS lecture notes.pdf": {
                     "name": "All-UNITS-Handwritten-Notes.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/37b1f2c7cdebc43c661559482017639b6860d5cdAll%20UNITS%20Handwritten%20Notes.pdf",
@@ -6504,7 +6528,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e4ac1fe4f9007083c3b78bacfdf20120c91083ddCentroid%20Derivations.pdf",
                     "url": "https://files.catbox.moe/l0w2t1.pdf"
                 },
-                "Friction+COG+Trusses notes(OK Sir).pdf": {
+                "Unit 2 + friction (OK Sir).pdf": {
                     "name": "Friction+COG+Trusses-notes(OK-Sir).pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dca755368cac35d5de82283f2e9c6d8d96479f3bFriction%2BCOG%2BTrusses%20notes%28OK%20Sir%29.pdf",
@@ -6527,6 +6551,36 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2323ae064ae8709e930339ff70c530c186065567End%20Sem%2023.pdf",
                     "url": "https://files.catbox.moe/6bkjjh.pdf"
+                },
+                "Unit 1 OK sir .pdf": {
+                    "name": "Unit-1-OK-sir-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/983192f1fc53b8a421afe4e1c0e3861fc26e06faUnit%201%20OK%20sir%20.pdf",
+                    "url": "https://files.catbox.moe/18x7zk.pdf"
+                },
+                "Truss OK sir.pdf": {
+                    "name": "Truss-OK-sir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c02da58f13b3e963463b72a009279fad1884ac3Truss%20OK%20sir.pdf",
+                    "url": "https://files.catbox.moe/afahu5.pdf"
+                },
+                "Friction OK sir  .pdf": {
+                    "name": "Friction-OK-sir--.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1009b1b4e73a7584ff48346e01c10b234adbc0c8Friction%20OK%20sir%20%20.pdf",
+                    "url": "https://files.catbox.moe/gpuhng.pdf"
+                },
+                "Centroid COG (OK sir).pdf": {
+                    "name": "Centroid-COG-(OK-sir).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c536c3c816af396181f6958ce75f98680e2efaf0Centroid%20COG%20%28OK%20sir%29.pdf",
+                    "url": "https://files.catbox.moe/o7i6g8.pdf"
+                },
+                "CSE/ECEmids2023.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
                 }
             },
             "Chemistry---1": {
@@ -6914,13 +6968,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/kbughn.txt"
+                    "url": "https://files.catbox.moe/pvqaza.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/y3k60s.txt"
+                    "url": "https://files.catbox.moe/hwceja.txt"
                 }
             },
             "Programming-in-C": {
@@ -7306,7 +7360,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/36nal4.txt"
+                    "url": "https://files.catbox.moe/ugq02y.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -7343,6 +7397,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76e6518734861261138b9bb903fdd35aba1743fEndSemDec%2723.pdf",
                     "url": "https://files.catbox.moe/kkqujl.pdf"
+                },
+                "c prog maeit sem2.pdf": {
+                    "name": "c-prog-maeit-sem2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9d557d1490b5ed55d53a745029512ca73a486e97c%20prog%20maeit%20sem2.pdf",
+                    "url": "https://files.catbox.moe/u6oukk.pdf"
                 }
             },
             "Mathematics---1": {
@@ -7914,13 +7974,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/mkkfhd.txt"
+                    "url": "https://files.catbox.moe/vvsg16.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/ty3dpd.txt"
+                    "url": "https://files.catbox.moe/o4305o.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -10572,7 +10632,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLDUIsFcBreclDkDKLO1AIkD4XI-UQvY8F",
                     "url": "https://files.catbox.moe/0e2vuc.txt"
                 },
-                "All UNITS Handwritten Notes.pdf": {
+                "All UNITS lecture notes.pdf": {
                     "name": "All-UNITS-Handwritten-Notes.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/37b1f2c7cdebc43c661559482017639b6860d5cdAll%20UNITS%20Handwritten%20Notes.pdf",
@@ -10662,7 +10722,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e4ac1fe4f9007083c3b78bacfdf20120c91083ddCentroid%20Derivations.pdf",
                     "url": "https://files.catbox.moe/l0w2t1.pdf"
                 },
-                "Friction+COG+Trusses notes(OK Sir).pdf": {
+                "Unit 2 + friction (OK Sir).pdf": {
                     "name": "Friction+COG+Trusses-notes(OK-Sir).pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dca755368cac35d5de82283f2e9c6d8d96479f3bFriction%2BCOG%2BTrusses%20notes%28OK%20Sir%29.pdf",
@@ -10685,6 +10745,36 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2323ae064ae8709e930339ff70c530c186065567End%20Sem%2023.pdf",
                     "url": "https://files.catbox.moe/6bkjjh.pdf"
+                },
+                "Unit 1 OK sir .pdf": {
+                    "name": "Unit-1-OK-sir-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/983192f1fc53b8a421afe4e1c0e3861fc26e06faUnit%201%20OK%20sir%20.pdf",
+                    "url": "https://files.catbox.moe/18x7zk.pdf"
+                },
+                "Truss OK sir.pdf": {
+                    "name": "Truss-OK-sir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c02da58f13b3e963463b72a009279fad1884ac3Truss%20OK%20sir.pdf",
+                    "url": "https://files.catbox.moe/afahu5.pdf"
+                },
+                "Friction OK sir  .pdf": {
+                    "name": "Friction-OK-sir--.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1009b1b4e73a7584ff48346e01c10b234adbc0c8Friction%20OK%20sir%20%20.pdf",
+                    "url": "https://files.catbox.moe/gpuhng.pdf"
+                },
+                "Centroid COG (OK sir).pdf": {
+                    "name": "Centroid-COG-(OK-sir).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c536c3c816af396181f6958ce75f98680e2efaf0Centroid%20COG%20%28OK%20sir%29.pdf",
+                    "url": "https://files.catbox.moe/o7i6g8.pdf"
+                },
+                "CSE/ECEmids2023.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
                 }
             },
             "Chemistry---1": {
@@ -11072,13 +11162,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/pan3ec.txt"
+                    "url": "https://files.catbox.moe/fxw8xl.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/6nbhn2.txt"
+                    "url": "https://files.catbox.moe/rxs9b1.txt"
                 }
             },
             "Programming-in-C": {
@@ -11464,7 +11554,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/nuiimi.txt"
+                    "url": "https://files.catbox.moe/thwj1j.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -11501,6 +11591,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76e6518734861261138b9bb903fdd35aba1743fEndSemDec%2723.pdf",
                     "url": "https://files.catbox.moe/kkqujl.pdf"
+                },
+                "c prog maeit sem2.pdf": {
+                    "name": "c-prog-maeit-sem2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9d557d1490b5ed55d53a745029512ca73a486e97c%20prog%20maeit%20sem2.pdf",
+                    "url": "https://files.catbox.moe/u6oukk.pdf"
                 }
             },
             "Mathematics---1": {
@@ -12072,13 +12168,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/9ejh52.txt"
+                    "url": "https://files.catbox.moe/exq84j.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/mz825n.txt"
+                    "url": "https://files.catbox.moe/5hrqwa.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -14046,7 +14142,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/pdzhwx.txt"
+                    "url": "https://files.catbox.moe/twzls6.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -14173,6 +14269,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
                     "url": "https://files.catbox.moe/0j3qo4.pdf"
+                },
+                "CSE-ECE2022.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
+                },
+                "C mae-it midsem 2023.pdf": {
+                    "name": "C-mae-it-midsem-2023.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae4b9184a86a0bb8571fd9c4247dff637caa8f2bC%20mae-it%20midsem%202023.pdf",
+                    "url": "https://files.catbox.moe/m01nib.pdf"
                 }
             },
             "Software-Eng.": {
@@ -15336,13 +15444,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/x07x82.txt"
+                    "url": "https://files.catbox.moe/s756vf.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/w7lu6o.txt"
+                    "url": "https://files.catbox.moe/pqv924.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -17034,7 +17142,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/5284av.txt"
+                    "url": "https://files.catbox.moe/os89yq.txt"
                 }
             },
             "introduction-to-Data-Science": {
@@ -17728,7 +17836,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/s0knkn.pdf"
+                    "url": "https://files.catbox.moe/wf0pmx.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -18060,7 +18168,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/scv12l.txt"
+                    "url": "https://files.catbox.moe/1yvqfk.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -18187,6 +18295,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
                     "url": "https://files.catbox.moe/0j3qo4.pdf"
+                },
+                "CSE-ECE2022.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
+                },
+                "C mae-it midsem 2023.pdf": {
+                    "name": "C-mae-it-midsem-2023.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae4b9184a86a0bb8571fd9c4247dff637caa8f2bC%20mae-it%20midsem%202023.pdf",
+                    "url": "https://files.catbox.moe/m01nib.pdf"
                 }
             },
             "Network-Analysis-and-Synthesis": {
@@ -18889,13 +19009,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/4n4pr8.txt"
+                    "url": "https://files.catbox.moe/ai0pk1.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/q2m5tz.txt"
+                    "url": "https://files.catbox.moe/ve8swq.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -19427,7 +19547,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/sojuus.txt"
+                    "url": "https://files.catbox.moe/spbqo0.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -19439,13 +19559,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/gkarw0.txt"
+                    "url": "https://files.catbox.moe/cfci04.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/sfcvii.txt"
+                    "url": "https://files.catbox.moe/ibrc04.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -20465,7 +20585,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/fcf47f.txt"
+                    "url": "https://files.catbox.moe/7drc71.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -20502,6 +20622,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76e6518734861261138b9bb903fdd35aba1743fEndSemDec%2723.pdf",
                     "url": "https://files.catbox.moe/kkqujl.pdf"
+                },
+                "c prog maeit sem2.pdf": {
+                    "name": "c-prog-maeit-sem2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9d557d1490b5ed55d53a745029512ca73a486e97c%20prog%20maeit%20sem2.pdf",
+                    "url": "https://files.catbox.moe/u6oukk.pdf"
                 }
             },
             "Probability-and-Statistics": {
@@ -21570,7 +21696,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/hcoz0w.txt"
+                    "url": "https://files.catbox.moe/rd2qwh.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -21697,6 +21823,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
                     "url": "https://files.catbox.moe/0j3qo4.pdf"
+                },
+                "CSE-ECE2022.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
+                },
+                "C mae-it midsem 2023.pdf": {
+                    "name": "C-mae-it-midsem-2023.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae4b9184a86a0bb8571fd9c4247dff637caa8f2bC%20mae-it%20midsem%202023.pdf",
+                    "url": "https://files.catbox.moe/m01nib.pdf"
                 }
             },
             "Data-Structures": {
@@ -22000,7 +22138,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/ce5uyt.txt"
+                    "url": "https://files.catbox.moe/bynjyl.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -22012,13 +22150,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/9kxuaw.txt"
+                    "url": "https://files.catbox.moe/t68oqr.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/loazf0.txt"
+                    "url": "https://files.catbox.moe/w9a45q.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -23788,7 +23926,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLDUIsFcBreclDkDKLO1AIkD4XI-UQvY8F",
                     "url": "https://files.catbox.moe/0e2vuc.txt"
                 },
-                "All UNITS Handwritten Notes.pdf": {
+                "All UNITS lecture notes.pdf": {
                     "name": "All-UNITS-Handwritten-Notes.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/37b1f2c7cdebc43c661559482017639b6860d5cdAll%20UNITS%20Handwritten%20Notes.pdf",
@@ -23878,7 +24016,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e4ac1fe4f9007083c3b78bacfdf20120c91083ddCentroid%20Derivations.pdf",
                     "url": "https://files.catbox.moe/l0w2t1.pdf"
                 },
-                "Friction+COG+Trusses notes(OK Sir).pdf": {
+                "Unit 2 + friction (OK Sir).pdf": {
                     "name": "Friction+COG+Trusses-notes(OK-Sir).pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dca755368cac35d5de82283f2e9c6d8d96479f3bFriction%2BCOG%2BTrusses%20notes%28OK%20Sir%29.pdf",
@@ -23901,6 +24039,36 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2323ae064ae8709e930339ff70c530c186065567End%20Sem%2023.pdf",
                     "url": "https://files.catbox.moe/6bkjjh.pdf"
+                },
+                "Unit 1 OK sir .pdf": {
+                    "name": "Unit-1-OK-sir-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/983192f1fc53b8a421afe4e1c0e3861fc26e06faUnit%201%20OK%20sir%20.pdf",
+                    "url": "https://files.catbox.moe/18x7zk.pdf"
+                },
+                "Truss OK sir.pdf": {
+                    "name": "Truss-OK-sir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c02da58f13b3e963463b72a009279fad1884ac3Truss%20OK%20sir.pdf",
+                    "url": "https://files.catbox.moe/afahu5.pdf"
+                },
+                "Friction OK sir  .pdf": {
+                    "name": "Friction-OK-sir--.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1009b1b4e73a7584ff48346e01c10b234adbc0c8Friction%20OK%20sir%20%20.pdf",
+                    "url": "https://files.catbox.moe/gpuhng.pdf"
+                },
+                "Centroid COG (OK sir).pdf": {
+                    "name": "Centroid-COG-(OK-sir).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c536c3c816af396181f6958ce75f98680e2efaf0Centroid%20COG%20%28OK%20sir%29.pdf",
+                    "url": "https://files.catbox.moe/o7i6g8.pdf"
+                },
+                "CSE/ECEmids2023.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
                 }
             },
             "Chemistry---1": {
@@ -24288,13 +24456,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/mpmve3.txt"
+                    "url": "https://files.catbox.moe/j5y6wj.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/tyfkoc.txt"
+                    "url": "https://files.catbox.moe/ijcxlt.txt"
                 }
             },
             "Programming-in-C": {
@@ -24680,7 +24848,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/3wxnev.txt"
+                    "url": "https://files.catbox.moe/fkba23.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -24717,6 +24885,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76e6518734861261138b9bb903fdd35aba1743fEndSemDec%2723.pdf",
                     "url": "https://files.catbox.moe/kkqujl.pdf"
+                },
+                "c prog maeit sem2.pdf": {
+                    "name": "c-prog-maeit-sem2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9d557d1490b5ed55d53a745029512ca73a486e97c%20prog%20maeit%20sem2.pdf",
+                    "url": "https://files.catbox.moe/u6oukk.pdf"
                 }
             },
             "Mathematics---1": {
@@ -25288,13 +25462,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/fd67na.txt"
+                    "url": "https://files.catbox.moe/yu4ua6.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/913l0x.txt"
+                    "url": "https://files.catbox.moe/o8nyew.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -26596,7 +26770,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/o5x4yh.txt"
+                    "url": "https://files.catbox.moe/d563mx.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -26723,6 +26897,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e431c32e1cde877b80ebcda6f0e46c7351de55d0Relativity%20Notes%20%28HandWritten%29.pdf",
                     "url": "https://files.catbox.moe/0j3qo4.pdf"
+                },
+                "CSE-ECE2022.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
+                },
+                "C mae-it midsem 2023.pdf": {
+                    "name": "C-mae-it-midsem-2023.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae4b9184a86a0bb8571fd9c4247dff637caa8f2bC%20mae-it%20midsem%202023.pdf",
+                    "url": "https://files.catbox.moe/m01nib.pdf"
                 }
             },
             "Data-Structures": {
@@ -27978,7 +28164,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLDUIsFcBreclDkDKLO1AIkD4XI-UQvY8F",
                     "url": "https://files.catbox.moe/0e2vuc.txt"
                 },
-                "All UNITS Handwritten Notes.pdf": {
+                "All UNITS lecture notes.pdf": {
                     "name": "All-UNITS-Handwritten-Notes.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/37b1f2c7cdebc43c661559482017639b6860d5cdAll%20UNITS%20Handwritten%20Notes.pdf",
@@ -28068,7 +28254,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e4ac1fe4f9007083c3b78bacfdf20120c91083ddCentroid%20Derivations.pdf",
                     "url": "https://files.catbox.moe/l0w2t1.pdf"
                 },
-                "Friction+COG+Trusses notes(OK Sir).pdf": {
+                "Unit 2 + friction (OK Sir).pdf": {
                     "name": "Friction+COG+Trusses-notes(OK-Sir).pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dca755368cac35d5de82283f2e9c6d8d96479f3bFriction%2BCOG%2BTrusses%20notes%28OK%20Sir%29.pdf",
@@ -28091,6 +28277,36 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2323ae064ae8709e930339ff70c530c186065567End%20Sem%2023.pdf",
                     "url": "https://files.catbox.moe/6bkjjh.pdf"
+                },
+                "Unit 1 OK sir .pdf": {
+                    "name": "Unit-1-OK-sir-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/983192f1fc53b8a421afe4e1c0e3861fc26e06faUnit%201%20OK%20sir%20.pdf",
+                    "url": "https://files.catbox.moe/18x7zk.pdf"
+                },
+                "Truss OK sir.pdf": {
+                    "name": "Truss-OK-sir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c02da58f13b3e963463b72a009279fad1884ac3Truss%20OK%20sir.pdf",
+                    "url": "https://files.catbox.moe/afahu5.pdf"
+                },
+                "Friction OK sir  .pdf": {
+                    "name": "Friction-OK-sir--.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1009b1b4e73a7584ff48346e01c10b234adbc0c8Friction%20OK%20sir%20%20.pdf",
+                    "url": "https://files.catbox.moe/gpuhng.pdf"
+                },
+                "Centroid COG (OK sir).pdf": {
+                    "name": "Centroid-COG-(OK-sir).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c536c3c816af396181f6958ce75f98680e2efaf0Centroid%20COG%20%28OK%20sir%29.pdf",
+                    "url": "https://files.catbox.moe/o7i6g8.pdf"
+                },
+                "CSE/ECEmids2023.pdf": {
+                    "name": "CSE-ECE2022.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dd91000a45ecfc32c5c66947495b56aa1c3841acCSE-ECE2022.pdf",
+                    "url": "https://files.catbox.moe/rhyteb.pdf"
                 }
             },
             "Chemistry---1": {
@@ -28478,13 +28694,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/t0lcbv.txt"
+                    "url": "https://files.catbox.moe/04s2dt.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/xoqa3o.txt"
+                    "url": "https://files.catbox.moe/pkdc11.txt"
                 }
             },
             "Programming-in-C": {
@@ -28870,7 +29086,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/neu885.txt"
+                    "url": "https://files.catbox.moe/a1g3u4.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -28907,6 +29123,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76e6518734861261138b9bb903fdd35aba1743fEndSemDec%2723.pdf",
                     "url": "https://files.catbox.moe/kkqujl.pdf"
+                },
+                "c prog maeit sem2.pdf": {
+                    "name": "c-prog-maeit-sem2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9d557d1490b5ed55d53a745029512ca73a486e97c%20prog%20maeit%20sem2.pdf",
+                    "url": "https://files.catbox.moe/u6oukk.pdf"
                 }
             },
             "Mathematics---1": {
@@ -29478,13 +29700,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/puy0v5.txt"
+                    "url": "https://files.catbox.moe/ru2ct8.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/vjo8wa.txt"
+                    "url": "https://files.catbox.moe/n1pug7.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
