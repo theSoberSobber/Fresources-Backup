@@ -108,7 +108,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/cm69oo.txt"
+                    "url": "https://files.catbox.moe/1s705e.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -258,13 +258,13 @@
                     "name": "png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c12fd7d15b347a6edfe392395cfcc7879deb6500png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
-                    "url": "https://files.catbox.moe/3mcjlq.png"
+                    "url": "https://files.catbox.moe/fe22p0.png"
                 },
                 "dhruv dp (1).jpg": {
                     "name": "dhruv-dp-(1).jpg",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5b67aad5c65a96c580bb85fce1a403e92222e507dhruv%20dp%20%281%29.jpg",
-                    "url": "https://files.catbox.moe/9gs822.jpg"
+                    "url": "https://files.catbox.moe/zwpxtq.jpg"
                 },
                 "MIDSEM 2024.jpg": {
                     "name": "MIDSEM-2024.jpg",
@@ -1497,13 +1497,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/8cuzpc.txt"
+                    "url": "https://files.catbox.moe/muxbxh.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/b5oo6y.txt"
+                    "url": "https://files.catbox.moe/mzs5h0.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -3243,7 +3243,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/pcp0gv.pdf"
+                    "url": "https://files.catbox.moe/eheauy.pdf"
                 }
             },
             "Object-Oriented-Programming-using-Java": {
@@ -3438,6 +3438,12 @@
                     "type": "Laboratory",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/883722f685e24ad081333e9255c276c43280dd81LAB%202%20Questions.pdf",
                     "url": "https://files.catbox.moe/bz8su3.pdf"
+                },
+                "Endsem'22.pdf": {
+                    "name": "Endsem'22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d2bfd07bad2ad12a76176d4c26dad4849566c366Endsem%2722.pdf",
+                    "url": "https://files.catbox.moe/nvvpyd.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -3675,7 +3681,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -3800,6 +3806,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Probability-and-Statistics": {
@@ -3857,7 +3875,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/35xqzy.pdf"
+                    "url": "https://files.catbox.moe/1nj6go.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -4152,7 +4170,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/8lzcu5.txt"
+                    "url": "https://files.catbox.moe/txhayn.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -4302,13 +4320,13 @@
                     "name": "png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c12fd7d15b347a6edfe392395cfcc7879deb6500png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
-                    "url": "https://files.catbox.moe/j9y0cr.png"
+                    "url": "https://files.catbox.moe/s1z6re.png"
                 },
                 "dhruv dp (1).jpg": {
                     "name": "dhruv-dp-(1).jpg",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5b67aad5c65a96c580bb85fce1a403e92222e507dhruv%20dp%20%281%29.jpg",
-                    "url": "https://files.catbox.moe/a6ndsi.jpg"
+                    "url": "https://files.catbox.moe/qy3gey.jpg"
                 },
                 "MIDSEM 2024.jpg": {
                     "name": "MIDSEM-2024.jpg",
@@ -6254,7 +6272,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -6379,6 +6397,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -7062,13 +7092,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/j1uwoe.txt"
+                    "url": "https://files.catbox.moe/6hbnr5.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/tr6wil.txt"
+                    "url": "https://files.catbox.moe/lgekg9.txt"
                 }
             },
             "Programming-in-C": {
@@ -7454,7 +7484,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/h5th6l.txt"
+                    "url": "https://files.catbox.moe/8fv1wb.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -8080,13 +8110,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/prc8nt.txt"
+                    "url": "https://files.catbox.moe/inlzyv.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/wyep0j.txt"
+                    "url": "https://files.catbox.moe/ffupqy.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -10230,7 +10260,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -10355,6 +10385,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -11340,13 +11382,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/wfgakf.txt"
+                    "url": "https://files.catbox.moe/psperg.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/zbsr5c.txt"
+                    "url": "https://files.catbox.moe/23d0o2.txt"
                 }
             },
             "Programming-in-C": {
@@ -11732,7 +11774,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/obeyfn.txt"
+                    "url": "https://files.catbox.moe/a72n4b.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -12358,13 +12400,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/k8l1vv.txt"
+                    "url": "https://files.catbox.moe/0oj7k5.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/f82rl9.txt"
+                    "url": "https://files.catbox.moe/vm1iwt.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -14355,7 +14397,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/zoshev.txt"
+                    "url": "https://files.catbox.moe/kuno7m.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -14505,13 +14547,13 @@
                     "name": "png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c12fd7d15b347a6edfe392395cfcc7879deb6500png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
-                    "url": "https://files.catbox.moe/jjps6q.png"
+                    "url": "https://files.catbox.moe/x39eih.png"
                 },
                 "dhruv dp (1).jpg": {
                     "name": "dhruv-dp-(1).jpg",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5b67aad5c65a96c580bb85fce1a403e92222e507dhruv%20dp%20%281%29.jpg",
-                    "url": "https://files.catbox.moe/28ssn9.jpg"
+                    "url": "https://files.catbox.moe/mswe2s.jpg"
                 },
                 "MIDSEM 2024.jpg": {
                     "name": "MIDSEM-2024.jpg",
@@ -15687,13 +15729,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/yvxq45.txt"
+                    "url": "https://files.catbox.moe/ucbe9f.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/kuywun.txt"
+                    "url": "https://files.catbox.moe/8drqz6.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -17397,7 +17439,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/jwezrp.txt"
+                    "url": "https://files.catbox.moe/eopmxm.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -17421,7 +17463,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/6ue3t7.pdf"
+                    "url": "https://files.catbox.moe/aqm4lw.pdf"
                 }
             },
             "introduction-to-Data-Science": {
@@ -17507,7 +17549,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/w6t4wt.pdf"
+                    "url": "https://files.catbox.moe/ka1rgd.pdf"
                 }
             },
             "Object-Oriented-Programming-using-Java": {
@@ -17702,6 +17744,12 @@
                     "type": "Laboratory",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/883722f685e24ad081333e9255c276c43280dd81LAB%202%20Questions.pdf",
                     "url": "https://files.catbox.moe/bz8su3.pdf"
+                },
+                "Endsem'22.pdf": {
+                    "name": "Endsem'22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d2bfd07bad2ad12a76176d4c26dad4849566c366Endsem%2722.pdf",
+                    "url": "https://files.catbox.moe/nvvpyd.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -17939,7 +17987,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -18064,6 +18112,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Probability-and-Statistics": {
@@ -18121,7 +18181,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/acl539.pdf"
+                    "url": "https://files.catbox.moe/24vz39.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -18447,7 +18507,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/564ag3.txt"
+                    "url": "https://files.catbox.moe/ovdyzq.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -18597,13 +18657,13 @@
                     "name": "png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c12fd7d15b347a6edfe392395cfcc7879deb6500png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
-                    "url": "https://files.catbox.moe/cfsw76.png"
+                    "url": "https://files.catbox.moe/0lle99.png"
                 },
                 "dhruv dp (1).jpg": {
                     "name": "dhruv-dp-(1).jpg",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5b67aad5c65a96c580bb85fce1a403e92222e507dhruv%20dp%20%281%29.jpg",
-                    "url": "https://files.catbox.moe/fbypci.jpg"
+                    "url": "https://files.catbox.moe/9rq2hz.jpg"
                 },
                 "MIDSEM 2024.jpg": {
                     "name": "MIDSEM-2024.jpg",
@@ -19324,13 +19384,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ex3x7n.txt"
+                    "url": "https://files.catbox.moe/zzdnwr.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/ddit33.txt"
+                    "url": "https://files.catbox.moe/osozlj.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -19868,7 +19928,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/c4przq.txt"
+                    "url": "https://files.catbox.moe/nu1m2d.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -19880,13 +19940,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/gj5kqn.txt"
+                    "url": "https://files.catbox.moe/cmq2sc.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/i1xa8y.txt"
+                    "url": "https://files.catbox.moe/f6ugvj.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -20918,7 +20978,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/o1d6w8.txt"
+                    "url": "https://files.catbox.moe/uhs8kw.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -21700,7 +21760,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -21825,6 +21885,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Digital-Electronics": {
@@ -22186,7 +22258,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/ggva34.txt"
+                    "url": "https://files.catbox.moe/avfnyg.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -22336,13 +22408,13 @@
                     "name": "png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c12fd7d15b347a6edfe392395cfcc7879deb6500png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
-                    "url": "https://files.catbox.moe/9540lg.png"
+                    "url": "https://files.catbox.moe/cz6h5m.png"
                 },
                 "dhruv dp (1).jpg": {
                     "name": "dhruv-dp-(1).jpg",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5b67aad5c65a96c580bb85fce1a403e92222e507dhruv%20dp%20%281%29.jpg",
-                    "url": "https://files.catbox.moe/lj4on3.jpg"
+                    "url": "https://files.catbox.moe/qwnd5r.jpg"
                 },
                 "MIDSEM 2024.jpg": {
                     "name": "MIDSEM-2024.jpg",
@@ -22658,7 +22730,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/yy4vmy.txt"
+                    "url": "https://files.catbox.moe/wjdalp.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -22670,13 +22742,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/9vj0eo.txt"
+                    "url": "https://files.catbox.moe/7cnv98.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/jpaxqm.txt"
+                    "url": "https://files.catbox.moe/228etg.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -24210,7 +24282,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -24335,6 +24407,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -25018,13 +25102,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/v0bax7.txt"
+                    "url": "https://files.catbox.moe/7o7q6p.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/irkq5n.txt"
+                    "url": "https://files.catbox.moe/bdh29g.txt"
                 }
             },
             "Programming-in-C": {
@@ -25410,7 +25494,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/k0zcux.txt"
+                    "url": "https://files.catbox.moe/df2yf0.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -26036,13 +26120,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/5idyij.txt"
+                    "url": "https://files.catbox.moe/635b4o.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/rhdc7a.txt"
+                    "url": "https://files.catbox.moe/nxzgjk.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -27336,7 +27420,7 @@
                     "name": "feedback-amplifier-concept.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/ji2clu.txt"
+                    "url": "https://files.catbox.moe/yq946a.txt"
                 },
                 "unit 3 .playlist": {
                     "name": "unit-3-.playlist",
@@ -27486,13 +27570,13 @@
                     "name": "png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c12fd7d15b347a6edfe392395cfcc7879deb6500png-transparent-brain-3d-model-human-brain-brain-people-human-brain-human-body-thumbnail-removebg-preview.png",
-                    "url": "https://files.catbox.moe/o8nbz9.png"
+                    "url": "https://files.catbox.moe/qaxggy.png"
                 },
                 "dhruv dp (1).jpg": {
                     "name": "dhruv-dp-(1).jpg",
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5b67aad5c65a96c580bb85fce1a403e92222e507dhruv%20dp%20%281%29.jpg",
-                    "url": "https://files.catbox.moe/8pl9bn.jpg"
+                    "url": "https://files.catbox.moe/2v94at.jpg"
                 },
                 "MIDSEM 2024.jpg": {
                     "name": "MIDSEM-2024.jpg",
@@ -28506,7 +28590,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bcecc1978dfbed7f5d01694f4adc5eab088bf747Food%20resources.pdf",
                     "url": "https://files.catbox.moe/f2qkss.pdf"
                 },
-                "Mid Sem (May 2023).pdf": {
+                "Mid Sem_AI/CSE-AI(May 2023).pdf": {
                     "name": "EVS-Mid-Term-(May-2023).pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d7cc099063ab8b5049ed95428f50f9f76999b2ceEVS%20Mid%20Term%20%28May%202023%29.pdf",
@@ -28631,6 +28715,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fac41305686ea44c11e93069c7a129e7cf0622ccITMAE_Endsem_July%27%2023.pdf",
                     "url": "https://files.catbox.moe/2cnco8.pdf"
+                },
+                "EndSem'23CSE/ECE.pdf": {
+                    "name": "EndSem'23CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d958bae9accba7c1e464b4503b715bb352408c4cEndSem%2723CSEECE.pdf",
+                    "url": "https://files.catbox.moe/s5zzox.pdf"
+                },
+                "Endsem'23_AI/CSE-AI.pdf": {
+                    "name": "Endsem'23_AI-CSE-AI.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f813c4a42696b1777ca2e6cd730a39cebb8cc1f8Endsem%2723_AICSE-AI.pdf",
+                    "url": "https://files.catbox.moe/fuyirf.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -29314,13 +29410,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/8eic24.txt"
+                    "url": "https://files.catbox.moe/ggyfr3.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/hqq6c3.txt"
+                    "url": "https://files.catbox.moe/e8jedp.txt"
                 }
             },
             "Programming-in-C": {
@@ -29706,7 +29802,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/ki0dxq.txt"
+                    "url": "https://files.catbox.moe/n0x1xw.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -30332,13 +30428,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/gqbwia.txt"
+                    "url": "https://files.catbox.moe/w5rz3s.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/gkqu9r.txt"
+                    "url": "https://files.catbox.moe/yyyhhm.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
