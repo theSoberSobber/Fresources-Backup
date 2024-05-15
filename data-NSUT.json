@@ -22494,11 +22494,17 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/05245051c85193e8134ed9e72dfe147400ba6a89engineering%20mechanics%20mid%20sem-2%202024.pdf",
                     "url": "https://files.catbox.moe/4ybvng.pdf"
                 },
-                "End sem 2024.pdf": {
+                "ESE 2024(MEEV).pdf": {
                     "name": "End-sem-2024.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f05e36e7f138f181147de1b849482a334869b98End%20sem%202024.pdf",
                     "url": "https://files.catbox.moe/puvc7z.pdf"
+                },
+                "ESE 2024(ME).pdf": {
+                    "name": "ESE-2024(ME).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/81e93d85c4c151c596e82ba2067d4ca0ff4d883cESE%202024%28ME%29.pdf",
+                    "url": "https://files.catbox.moe/64t8bg.pdf"
                 }
             },
             "Maths---2": {
@@ -22911,6 +22917,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eed029143f2087f57f0fb8e76d0c3acee061ffa1EG%20BY%20N.D%20BHATT.pdf",
                     "url": "https://files.catbox.moe/9xuq1w.pdf"
+                },
+                "ESE 2024.pdf": {
+                    "name": "ESE-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/148439de0622c118172b688a6e5d86bc8eb68305ESE%202024.pdf",
+                    "url": "https://files.catbox.moe/13vzpu.pdf"
                 }
             },
             "Engineering-Materials-&-Metallurgy": {
@@ -22955,6 +22967,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/504ff3f64490c3291db9f36cb9d0169052438e69METALLURGY%20MSE%202024.pdf",
                     "url": "https://files.catbox.moe/o36d2e.pdf"
+                },
+                "ESE 2024.pdf": {
+                    "name": "ESE-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/20441997a523a2ce6af84baa1339f97522a6b4f5ESE%202024.pdf",
+                    "url": "https://files.catbox.moe/fhnbit.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -27083,11 +27101,17 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/05245051c85193e8134ed9e72dfe147400ba6a89engineering%20mechanics%20mid%20sem-2%202024.pdf",
                     "url": "https://files.catbox.moe/4ybvng.pdf"
                 },
-                "End sem 2024.pdf": {
+                "ESE 2024(MEEV).pdf": {
                     "name": "End-sem-2024.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f05e36e7f138f181147de1b849482a334869b98End%20sem%202024.pdf",
                     "url": "https://files.catbox.moe/puvc7z.pdf"
+                },
+                "ESE 2024(ME).pdf": {
+                    "name": "ESE-2024(ME).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/81e93d85c4c151c596e82ba2067d4ca0ff4d883cESE%202024%28ME%29.pdf",
+                    "url": "https://files.catbox.moe/64t8bg.pdf"
                 }
             },
             "Chemistry": {
