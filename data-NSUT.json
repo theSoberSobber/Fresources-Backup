@@ -32667,6 +32667,248 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c8076ad7593908a8fd53a56801b55bf14d983addDATA%20STRUCTURE%20ENDSEM%202019%28MAY%29.pdf",
                     "url": "https://files.catbox.moe/bml1dg.pdf"
                 }
+            },
+            "Chemistry": {
+                "ENDSEM 2022.pdf": {
+                    "name": "ENDSEM-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a359b3460e6ab0d91a503e63bbd3b28a0eac75bENDSEM%202022.pdf",
+                    "url": "https://files.catbox.moe/4m2y4x.pdf"
+                },
+                "MIDSEM 2019.pdf": {
+                    "name": "MIDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5569fffeb4062c32af939d72e2e9b2672a97cb03MIDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/mlo5ks.pdf"
+                },
+                "MIDSEM 2022(JUNE).pdf": {
+                    "name": "MIDSEM-2022(JUNE).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1f5e189b52254b88dfe90d50ae1484c3cc6370MIDSEM%202022%28JUNE%29.pdf",
+                    "url": "https://files.catbox.moe/i7w7no.pdf"
+                },
+                "MIDSEM 2022(MARCH).pdf": {
+                    "name": "MIDSEM-2022(MARCH).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cca81c4c82dcb7969270d300d142f713e8b95c1cMIDSEM%202022%28MARCH%29.pdf",
+                    "url": "https://files.catbox.moe/g3e5q7.pdf"
+                },
+                "ENDSEM 2016.pdf": {
+                    "name": "ENDSEM-2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/850db45c672a41dcec4d9f1899bc4a6ce4015fe1ENDSEM%202016.pdf",
+                    "url": "https://files.catbox.moe/sssrsg.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0e3c7bb6f60a4943fbcd6cb725469d91a58921caENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/jpyuj9.pdf"
+                },
+                "ENDSEM 2020.pdf": {
+                    "name": "ENDSEM-2020.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/935159b85de88f7b2bb9058c7e516c010578c86cENDSEM%202020.pdf",
+                    "url": "https://files.catbox.moe/ihwog1.pdf"
+                },
+                "UNIT-1.pdf": {
+                    "name": "UNIT-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/87fabef51090d5961070793f92f0423a396c8e4bUNIT-1.pdf",
+                    "url": "https://files.catbox.moe/xbbhjn.pdf"
+                },
+                "UNIT-3.pdf": {
+                    "name": "UNIT-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/adf1f9de45b63c650263e17ca998596407e78ab1UNIT-3.pdf",
+                    "url": "https://files.catbox.moe/jawunj.pdf"
+                },
+                "UNIT-2.pdf": {
+                    "name": "UNIT-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/514457825b2593faac495c24622bf5deb2fcd8beUNIT-2.pdf",
+                    "url": "https://files.catbox.moe/1bayj4.pdf"
+                },
+                "UNIT-4(GREEN FUEL).pdf": {
+                    "name": "UNIT-4(GREEN-FUEL).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4ac857f9e22d57aef2a53866da88c8896eaaf648UNIT-4%28GREEN%20FUEL%29.pdf",
+                    "url": "https://files.catbox.moe/1vyucn.pdf"
+                },
+                "UNIT-5(PT2).pdf": {
+                    "name": "UNIT-5(PT2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/944ffcca9aefa32238ff91a5d289d5996c967279UNIT-5%28PT2%29.pdf",
+                    "url": "https://files.catbox.moe/25o4fc.pdf"
+                },
+                "UNIT-5(UV Visible).pdf": {
+                    "name": "UNIT-5(UV-Visible).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0edaa36b89b40295d3f891c4438663792eefe807UNIT-5%28UV%20Visible%29.pdf",
+                    "url": "https://files.catbox.moe/9pz3fa.pdf"
+                },
+                "WATER CHEMISTRY II.pdf": {
+                    "name": "WATER-CHEMISTRY-II.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d7e4e5c90e2610c8545976938e563b41dc9fbe57WATER%20CHEMISTRY%20II.pdf",
+                    "url": "https://files.catbox.moe/za0rr6.pdf"
+                },
+                "UNIT-5(CHROMATOGRAPHY).pdf": {
+                    "name": "UNIT-5(CHROMATOGRAPHY).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6ca8c2815a7a2cac413fc331691ec2c1b28d330bUNIT-5%28CHROMATOGRAPHY%29.pdf",
+                    "url": "https://files.catbox.moe/nhqwt8.pdf"
+                },
+                "UNIT-5(PT1).pdf": {
+                    "name": "UNIT-5(PT1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a7da0af62631d39e0eba860a690691ae4e4c71f9UNIT-5%28PT1%29.pdf",
+                    "url": "https://files.catbox.moe/5xhpkj.pdf"
+                },
+                "WATER CHEMISTRY.pdf": {
+                    "name": "WATER-CHEMISTRY.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ab9b433020ab1ed9de0f4d88a629bad6560fef6dWATER%20CHEMISTRY.pdf",
+                    "url": "https://files.catbox.moe/lz8bjb.pdf"
+                },
+                "WATER EDTA & ALKALINITY.pdf": {
+                    "name": "WATER-EDTA-&-ALKALINITY.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c1bf4505b25011096c492fb7a064abd8a34c9b2WATER%20EDTA%20%26%20ALKALINITY.pdf",
+                    "url": "https://files.catbox.moe/e4283o.pdf"
+                },
+                "NUCLEAR HAZARDS.pdf": {
+                    "name": "NUCLEAR-HAZARDS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5993a25a09733ae96446ddea44053969c21c630bNUCLEAR%20HAZARDS.pdf",
+                    "url": "https://files.catbox.moe/4xqhaj.pdf"
+                },
+                "BIOREMEDIATION.pdf": {
+                    "name": "BIOREMEDIATION.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16604304bbf575917baca234484477116926a0c3BIOREMEDIATION.pdf",
+                    "url": "https://files.catbox.moe/i0xgr0.pdf"
+                },
+                "ELECTRONIC WASTE.pdf": {
+                    "name": "ELECTRONIC-WASTE.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/09c26b0da9ab490940c750cf53645fef485e1249ELECTRONIC%20WASTE.pdf",
+                    "url": "https://files.catbox.moe/ognwrc.pdf"
+                },
+                "ALL UNIT-VISHU NOTES.pdf": {
+                    "name": "ALL-UNIT-VISHU-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c874e04a0321d717c58ff643d5af98ee39f3d09dALL%20UNIT-VISHU%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/7wm98b.pdf"
+                },
+                "UNIT-1(SHORT).pdf": {
+                    "name": "UNIT-1(SHORT).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/94746d2f180b81ac4b0907f6ee00ad63ce96c7d7UNIT-1%28SHORT%29.pdf",
+                    "url": "https://files.catbox.moe/wyfvp0.pdf"
+                },
+                "UNIT-4(PT1).pdf": {
+                    "name": "UNIT-4(PT1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/747b4f89e9fc0870c141dce7c42b52487a3a984dUNIT-4%28PT1%29.pdf",
+                    "url": "https://files.catbox.moe/z5yach.pdf"
+                },
+                "UNIT-4(PT2).pdf": {
+                    "name": "UNIT-4(PT2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/53ae6c306868323678cb66d8dc6a07136e3822a9UNIT-4%28PT2%29.pdf",
+                    "url": "https://files.catbox.moe/ls4bi3.pdf"
+                },
+                "FULE & POLYMER.pdf": {
+                    "name": "FULE-&-POLYMER.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/93e25bd70e05f8bf390009188b2e8834ce692cdaFULE%20%26%20POLYMER.pdf",
+                    "url": "https://files.catbox.moe/4j2m4u.pdf"
+                },
+                "JAIN & JAIN.pdf": {
+                    "name": "JAIN-&-JAIN.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a134e4eb0918aac042ff2752f9fa2cd15343b782JAIN%20%26%20JAIN.pdf",
+                    "url": "https://files.catbox.moe/3wnr5f.pdf"
+                },
+                "D KUMAR.pdf": {
+                    "name": "D-KUMAR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3cfc48d6ffaf093b6725bc8748b875892a39952fD%20KUMAR.pdf",
+                    "url": "https://files.catbox.moe/f7afr1.pdf"
+                },
+                "COLLEGE CHEMISTRY.pdf": {
+                    "name": "COLLEGE-CHEMISTRY.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/808573554a038f945d1a34f74f4474d1f44e25bbCOLLEGE%20CHEMISTRY.pdf",
+                    "url": "https://files.catbox.moe/mhh1ev.pdf"
+                },
+                "Quantitative Analysis Book Part 2.pdf": {
+                    "name": "Quantitative-Analysis-Book-Part-2.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/82a0a4c600ab71070a3117d0bf9f799f0c9432afQuantitative%20Analysis%20Book%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/0nmzl4.pdf"
+                },
+                "Quantitative Analysis Book Part1.pdf": {
+                    "name": "Quantitative-Analysis-Book-Part1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f2f4f9c4318def6b288174ebfa3970b155736edQuantitative%20Analysis%20Book%20Part1.pdf",
+                    "url": "https://files.catbox.moe/p6ny2g.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLEtCpM3x4BD_pYbeFa6AYqpFEDRZRaqqe",
+                    "url": "https://files.catbox.moe/5jomvs.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLjgyGylma3IHGxlf7iP6JDi73GKfc4ekB",
+                    "url": "https://files.catbox.moe/25ucld.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL-aAskflKOZB1E11xokkpq28mPYAMfK0j",
+                    "url": "https://files.catbox.moe/gmouko.txt"
+                },
+                "UNIT-4(POLYMER).playlist": {
+                    "name": "UNIT-4(POLYMER).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLiYAH68F-CTDvXZ2G5JICP91oxb1WX1d_",
+                    "url": "https://files.catbox.moe/n1m849.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLQnNyE1lxfVLaV7GIpKYfGYiHsZiTYB5u",
+                    "url": "https://files.catbox.moe/98rllk.txt"
+                },
+                "PRACTICE QUESTION.pdf": {
+                    "name": "PRACTICE-QUESTION.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b714baf8ec6eea26be63fc1dfaa87b67591c78eePRACTICE%20QUESTION.pdf",
+                    "url": "https://files.catbox.moe/dsnbzo.pdf"
+                },
+                "End Sem ( Chemistry ) - 2023.pdf": {
+                    "name": "End-Sem-(-Chemistry-)---2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/93255e5c26e284c274b52f5af98e7336fdcb0bc3End%20Sem%20%28%20Chemistry%20%29%20-%202023.pdf",
+                    "url": "https://files.catbox.moe/5yu3ao.pdf"
+                },
+                "Mid Sem ( Chemistry) -2023.pdf": {
+                    "name": "Mid-Sem-(-Chemistry)--2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1af4f10ce15a0d6b9ab94b1e2e8ff85bd69b89aeMid%20Sem%20%28%20Chemistry%29%20-2023.pdf",
+                    "url": "https://files.catbox.moe/y9zczo.pdf"
+                },
+                "UNIT-3(SHORT NOTES).pdf": {
+                    "name": "UNIT-3(SHORT-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/exf9l0.pdf"
+                }
             }
         },
         "IT": {
