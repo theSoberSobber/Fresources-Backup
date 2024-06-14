@@ -1359,13 +1359,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/6xj6pc.txt"
+                    "url": "https://files.catbox.moe/p6261v.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/xjv55c.txt"
+                    "url": "https://files.catbox.moe/jhk5qk.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -3117,7 +3117,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/5lxuc4.pdf"
+                    "url": "https://files.catbox.moe/lj5psv.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -3779,7 +3779,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/1o8e7m.pdf"
+                    "url": "https://files.catbox.moe/tk5uzv.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -3858,8 +3858,8 @@
                 "OS Introduction.pdf": {
                     "name": "OS-Introduction.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6dcb9ce8b8d80427682cf89f145f7f10f66a7340OS%20Introduction.pdf",
-                    "url": "https://files.catbox.moe/jt79x8.pdf"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a6749c2ad340b4e754c8dbffb49c19bb49af02c2OS%20Introduction.pdf",
+                    "url": "https://files.catbox.moe/p9eoyt.pdf"
                 },
                 "Protection and Security.pdf": {
                     "name": "Protection-and-Security.pdf",
@@ -3876,14 +3876,8 @@
                 "Types of OS.pdf": {
                     "name": "Types-of-OS.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb49bfac2ff23480dd7a9a1a829649d0c35368fcTypes%20of%20OS.pdf",
-                    "url": "https://files.catbox.moe/nu1713.pdf"
-                },
-                "Operating System.playlist": {
-                    "name": "Operating-System.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
-                    "url": "https://files.catbox.moe/g0yjf2.txt"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dc7bf0fb135b1eea56bd545477add45070f0f1ffTypes%20of%20OS.pdf",
+                    "url": "https://files.catbox.moe/49hx49.pdf"
                 },
                 "Access and Allocation Methods.pptx": {
                     "name": "Access-and-Allocation-Methods.pptx",
@@ -3920,9 +3914,190 @@
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84b87255f099af31e180a0bf581fff1bab9496ebUNIT%20-%202.pptx",
                     "url": "https://files.catbox.moe/d3n6r8.pptx"
+                },
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ca3d459e110690052a30f2f6073542648050a2Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/js3lop.pdf"
+                },
+                "Gate Smashers.playlist": {
+                    "name": "Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&feature=shared",
+                    "url": "https://files.catbox.moe/49eezv.txt"
+                },
+                "1. Operating System.pptx": {
+                    "name": "1.-Operating-System.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c56206024f9d92fffd3a77b50f0ff5d3bc3357d11.%20Operating%20System.pptx",
+                    "url": "https://files.catbox.moe/evubbv.pptx"
+                },
+                "2. CPU Scheduling.pdf": {
+                    "name": "2.-CPU-Scheduling.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/910e3f3ea524bd24c42905ec17a6df2d3065a2612.%20CPU%20Scheduling.pdf",
+                    "url": "https://files.catbox.moe/jcvwd9.pdf"
+                },
+                "3. UNIT - 2.pptx": {
+                    "name": "UNIT---2.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84b87255f099af31e180a0bf581fff1bab9496ebUNIT%20-%202.pptx",
+                    "url": "https://files.catbox.moe/d3n6r8.pptx"
+                },
+                "4. Device Management.pptx": {
+                    "name": "Device-Management.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8ffc4c0cc9baac2da20b178fce7618d6b1428f5Device%20Management.pptx",
+                    "url": "https://files.catbox.moe/vofd17.pptx"
+                },
+                "6. File System.pptx": {
+                    "name": "File-System.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/22324d8face79bf114b3adfa2d21c05c95cf50bfFile%20System.pptx",
+                    "url": "https://files.catbox.moe/kjsqwq.pptx"
+                },
+                "7. Presentation2.pptx": {
+                    "name": "7.-Presentation2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/604871272a00f5a84670e3799526cfb83336c6b77.%20Presentation2.pptx",
+                    "url": "https://files.catbox.moe/wkek1h.pptx"
+                },
+                "Operating system PPT1.pptx": {
+                    "name": "Operating-system-PPT1.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cc13d71da1598b3b4ecac9e68b82d1bedb8da43cOperating%20system%20PPT1.pptx",
+                    "url": "https://files.catbox.moe/yp5xqc.pptx"
+                },
+                "OS unit 1 (leave case studies).pdf": {
+                    "name": "2.-CPU-Scheduling.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/910e3f3ea524bd24c42905ec17a6df2d3065a2612.%20CPU%20Scheduling.pdf",
+                    "url": "https://files.catbox.moe/jcvwd9.pdf"
+                },
+                "Presentation1.pptx": {
+                    "name": "File-System.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/22324d8face79bf114b3adfa2d21c05c95cf50bfFile%20System.pptx",
+                    "url": "https://files.catbox.moe/kjsqwq.pptx"
+                },
+                "Presentation2.pptx": {
+                    "name": "Presentation2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/295e2db07a6f0f7c3247efd36ea1d271c3d75c70Presentation2.pptx",
+                    "url": "https://files.catbox.moe/yy4p68.pptx"
+                },
+                "Process all topic.pdf": {
+                    "name": "Process-all-topic.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/51711a5aaf144059e3503bf125e313d95514353bProcess%20all%20topic.pdf",
+                    "url": "https://files.catbox.moe/6yl5ri.pdf"
+                },
+                "UNIT_-_2[1].pptx": {
+                    "name": "UNIT_-_2[1].pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99b9290e45cbaf00687185cd8865e9682e56e2c6UNIT_-_2%5B1%5D.pptx",
+                    "url": "https://files.catbox.moe/h9rvrg.pptx"
+                },
+                "Practical File.pdf": {
+                    "name": "Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8252faf5d8a7753ff150748cf20c6f16c1487121Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/bapja1.pdf"
+                },
+                "5. Mass Storage Systems.pptx": {
+                    "name": "Mass-Storage-Systems.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5ec218bbf34e51dcb0722db242f4fb5af6898214Mass%20Storage%20Systems.pptx",
+                    "url": "https://files.catbox.moe/xg7fnd.pptx"
                 }
             },
-            "Computer-Networks": {},
+            "Computer-Networks": {
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1eb8e763085ba141cf79c87c93199151b82e8e6bMid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/jscpry.pdf"
+                },
+                "Gate Smashers.playlist": {
+                    "name": "Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&feature=shared",
+                    "url": "https://files.catbox.moe/kbzboq.txt"
+                },
+                "Practical File.pdf": {
+                    "name": "Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1ca6596cb7af11e1ba618ce77f37c0acda41ee4ePractical%20File.pdf",
+                    "url": "https://files.catbox.moe/sebr9b.pdf"
+                },
+                "A Tanenbaum (5th ed.).pdf": {
+                    "name": "A-Tanenbaum-(5th-ed.).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/453c96f3b84306fa17b0a8420b2dc06de0ff2d88A%20Tanenbaum%20%285th%20ed.%29.pdf",
+                    "url": "https://files.catbox.moe/wpyiw6.pdf"
+                },
+                "Data Communications and Networking By Behrouz A.Forouzan.pdf": {
+                    "name": "Data-Communications-and-Networking-By-Behrouz-A.Forouzan.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a738b9f6e9036c66ba0bf3673023c842d1898556Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf",
+                    "url": "https://files.catbox.moe/urfka1.pdf"
+                },
+                "Forouzan Mcgraw Hill (4th ed.).pdf": {
+                    "name": "Forouzan-Mcgraw-Hill-(4th-ed.).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ef6b3ed1b7751925130e3a53ac5017e4456a5bc6Forouzan%20Mcgraw%20Hill%20%284th%20ed.%29.pdf",
+                    "url": "https://files.catbox.moe/hqhg4f.pdf"
+                },
+                "congestion control.ppt": {
+                    "name": "congestion-control.ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fca7a366b142d7a165ab8ac9b546624372d944dfcongestion%20control.ppt",
+                    "url": "https://files.catbox.moe/r3tj56.ppt"
+                },
+                "IEEE 802.pptx": {
+                    "name": "IEEE-802.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c7cf51ab21b85b34c830f3a721d9e4d3a4d5abbIEEE%20802.pptx",
+                    "url": "https://files.catbox.moe/6u0sww.pptx"
+                },
+                "Internet protocol.ppt": {
+                    "name": "Internet-protocol.ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b43d777de263aab7de64e827e789e75bb8ea54bcInternet%20protocol.ppt",
+                    "url": "https://files.catbox.moe/eaammq.ppt"
+                },
+                "IP Address.pptx": {
+                    "name": "IP-Address.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/685a32a615e77999079a612c008bd3be7d4f415dIP%20Address.pptx",
+                    "url": "https://files.catbox.moe/cd9no2.pptx"
+                },
+                "IPheaderformat.pptx": {
+                    "name": "IPheaderformat.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ac8f237686011a58b6c555f955ba9ee31dd7328bIPheaderformat.pptx",
+                    "url": "https://files.catbox.moe/3mcbv0.pptx"
+                },
+                "subnet.ppt": {
+                    "name": "subnet.ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c74fbdbae0b8e55901ed0593c9f8ed1b0a2bc8ddsubnet.ppt",
+                    "url": "https://files.catbox.moe/a0i9rw.ppt"
+                },
+                "Transport.ppt": {
+                    "name": "Transport.ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/565cad01beb46d82c8e0c087b18065937620317aTransport.ppt",
+                    "url": "https://files.catbox.moe/kw3i9k.ppt"
+                },
+                "UDP.ppt": {
+                    "name": "UDP.ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ea45ba4690c9b554d28a9a82c13e0b43f28d75edUDP.ppt",
+                    "url": "https://files.catbox.moe/vca3zu.ppt"
+                }
+            },
             "Design-and-Analysis-of-Algorithms": {
                 "Abdul Bari.playlist": {
                     "name": "Abdul-Bari.playlist",
@@ -3941,6 +4116,24 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/85f367924287b536c08a091649032616b14920f7Unit-1%20%26%202.pdf",
                     "url": "https://files.catbox.moe/xwz7hw.pdf"
+                },
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/06acdbbbd60fbca578a20a4f5767adfacb886a33Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/1k3fuk.pdf"
+                },
+                "Gate Smashers.playlist": {
+                    "name": "Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&feature=shared",
+                    "url": "https://files.catbox.moe/hfu4aq.txt"
+                },
+                "Practical File.pdf": {
+                    "name": "Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f6458bb164ab81273bb109f0fe53cd3c5bc3ff63Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/n9sgg2.pdf"
                 }
             },
             "Optimization-Techniques-": {
@@ -3963,8 +4156,330 @@
                     "url": "https://files.catbox.moe/a6mm3m.pdf"
                 }
             },
-            "Optimization-Techniques-and-Decision-Making": {},
-            "Operation\u00a0Management": {}
+            "Optimization-Techniques-and-Decision-Making": {
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/91bc09fbb43ca5af871610ba9c417cf6d246d9a1Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/iqxvne.pdf"
+                },
+                "OTDM Practical File.pdf": {
+                    "name": "OTDM-Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/66ce938aae463ff6df9d26aafb0697c901c4c518OTDM%20Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/jf7cfy.pdf"
+                },
+                "Decision making Numericals.pdf": {
+                    "name": "Decision-making-Numericals.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/2a735c6b5022a59fdf804c5a09e30bf22e2a762dDecision%20making%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/7sexo0.pdf"
+                },
+                "Practice Questions .pdf": {
+                    "name": "Practice-Questions-.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/abc86b3392f504393c3b0d26d917e926715191afPractice%20Questions%20.pdf",
+                    "url": "https://files.catbox.moe/oifb1k.pdf"
+                },
+                "UNIT IV NUMERICALS.docx": {
+                    "name": "UNIT-IV-NUMERICALS.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98087112dab2c1b26c860132edbb8c5348a0ec59UNIT%20IV%20NUMERICALS.docx",
+                    "url": "URL Error"
+                },
+                "Assignment 1.pdf": {
+                    "name": "Assignment-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/19bb6c18d5cd29e46b4b32ac3d5e2efad00dfdceAssignment%201.pdf",
+                    "url": "https://files.catbox.moe/m3x653.pdf"
+                },
+                "Assignment 2.pdf": {
+                    "name": "Assignment-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7fcba4c07d66984a69f9a0be3a25d05e9bcf1e3cAssignment%202.pdf",
+                    "url": "https://files.catbox.moe/7mqjz2.pdf"
+                },
+                "Decision Making Book.pdf": {
+                    "name": "Decision-Making-Book.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/31b37b8ff21d28a41143bbd0393a4d011df9f4bdDecision%20Making%20Book.pdf",
+                    "url": "https://files.catbox.moe/qp8h06.pdf"
+                },
+                "Ant Colony Optimization.ppt": {
+                    "name": "Ant-Colony-Optimization.ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/94a2a7ec516becce1db757da833f78dc1e380e08Ant%20Colony%20Optimization.ppt",
+                    "url": "https://files.catbox.moe/y8v2ji.ppt"
+                },
+                "Genetic Algo 2.pdf": {
+                    "name": "Genetic-Algo-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/149b1c4916cea7a2897a7b1f4c781d2b4c18088fGenetic%20Algo%202.pdf",
+                    "url": "https://files.catbox.moe/q4nvro.pdf"
+                },
+                "Genetic Algo 4 .pdf": {
+                    "name": "Genetic-Algo-4-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8f9927b975b052161ad434e274bd4d92675c1f8aGenetic%20Algo%204%20.pdf",
+                    "url": "https://files.catbox.moe/p8dv13.pdf"
+                },
+                "Genetic Algo 5 .pdf": {
+                    "name": "Genetic-Algo-5-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a6666bdcc27b58f5319e1593b498c6bf2f073156Genetic%20Algo%205%20.pdf",
+                    "url": "https://files.catbox.moe/82zcgi.pdf"
+                },
+                "Genetic Algo 3.pdf": {
+                    "name": "Genetic-Algo-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/68fb37e0d64d06aabc85e843e728f09008f0dfc0Genetic%20Algo%203.pdf",
+                    "url": "https://files.catbox.moe/whfmvv.pdf"
+                },
+                "Genetic Algo 1.pdf": {
+                    "name": "Genetic-Algo-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e757fcb345c67fac357bf889ca1b11bd89f8dcc1Genetic%20Algo%201.pdf",
+                    "url": "https://files.catbox.moe/dh9bb1.pdf"
+                },
+                "Group Decision Making.pdf": {
+                    "name": "Group-Decision-Making.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6e09fcb9ccfd2df9f6c7035a0d036acbc43e954fGroup%20Decision%20Making.pdf",
+                    "url": "https://files.catbox.moe/06rhj9.pdf"
+                },
+                "Knapsack Problem.pdf": {
+                    "name": "Knapsack-Problem.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/01e965a7cefea8a2075862862d12a03c51e76360Knapsack%20Problem.pdf",
+                    "url": "https://files.catbox.moe/dsoghs.pdf"
+                },
+                "Multi Criteria Decision Making.docx": {
+                    "name": "Multi-Criteria-Decision-Making.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ac0cb13595c5f7eb17142eddb745658c2b61a6dMulti%20Criteria%20Decision%20Making.docx",
+                    "url": "URL Error"
+                },
+                "Multicriteria Decision Making.pdf": {
+                    "name": "Multicriteria-Decision-Making.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/706576686198068207fda437092a2cb126a8f2ffMulticriteria%20Decision%20Making.pdf",
+                    "url": "https://files.catbox.moe/l9d51j.pdf"
+                },
+                "Unit4.pdf": {
+                    "name": "Unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9cc4a8bb511984e45fa32829ec2da010c1279c6aUnit4.pdf",
+                    "url": "https://files.catbox.moe/zo1dts.pdf"
+                },
+                "Particle Swarm Optimization.pdf": {
+                    "name": "Particle-Swarm-Optimization.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a6c205796cdb74ad754ce43fb1cec2d319705fParticle%20Swarm%20Optimization.pdf",
+                    "url": "https://files.catbox.moe/91y62u.pdf"
+                },
+                "unit 4 .pdf": {
+                    "name": "unit-4-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db830f8679d91c8cc4b944738e531f395cdb86b2unit%204%20.pdf",
+                    "url": "https://files.catbox.moe/4v9qli.pdf"
+                },
+                "Unit-4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e68034f396ea0c123bc4b7900eaa36845b14960cUnit-4.pdf",
+                    "url": "https://files.catbox.moe/7js959.pdf"
+                }
+            },
+            "Operation\u00a0Management": {
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/eb63e2360bf27883ccd966acd603312b0b4702e0Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/lzytr9.pdf"
+                },
+                "EOQ NUMERICALS.docx": {
+                    "name": "EOQ-NUMERICALS.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9cc4fe0781f2d07bcaceb570a87d22daa93cc555EOQ%20NUMERICALS.docx",
+                    "url": "URL Error"
+                },
+                "NUMERICALS ON BEP-PVR-SAFETYMARGIN.docx": {
+                    "name": "NUMERICALS-ON-BEP-PVR-SAFETYMARGIN.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/25dc746dad1db1ca1f98be7b6ffc27da0524df65NUMERICALS%20ON%20BEP-PVR-SAFETYMARGIN.docx",
+                    "url": "URL Error"
+                },
+                "Productivity Numerical.docx": {
+                    "name": "Productivity-Numerical.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/97a19d39baf60915bfb51f7d99369e95c6c73e95Productivity%20Numerical.docx",
+                    "url": "URL Error"
+                },
+                "productivity Numericals.pdf": {
+                    "name": "productivity-Numericals.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/59b80386910d77b496dfb78c9824ca18e6dbb4faproductivity%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/oskq2m.pdf"
+                },
+                "MAINTENANCE PERFORMANCE and REPLACEMENT.docx": {
+                    "name": "MAINTENANCE-PERFORMANCE-and-REPLACEMENT.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/82f788b4263b8d7e5553f4e746657bea1849d64eMAINTENANCE%20PERFORMANCE%20and%20REPLACEMENT.docx",
+                    "url": "URL Error"
+                },
+                "maintenance.pdf": {
+                    "name": "maintenance.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fba66d4815b740a8ddc5765606d06465bd3f70d9maintenance.pdf",
+                    "url": "https://files.catbox.moe/8oasg9.pdf"
+                },
+                "MRP.docx": {
+                    "name": "MRP.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb9593c36fdf2dd53b150721860270b85a3b998fMRP.docx",
+                    "url": "URL Error"
+                },
+                "OM UNIT 1 AND UNIT 2 NOTES.pdf": {
+                    "name": "OM-UNIT-1-AND-UNIT-2-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b797b125b4c17fa2084b82d34596774b04fa110eOM%20UNIT%201%20AND%20UNIT%202%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/zl7dt8.pdf"
+                },
+                "OM UNIT 1.pptx": {
+                    "name": "OM-UNIT-1.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5f6a3d51407a9de1cc51e4ea3bb4d1f2cdbc4ee8OM%20UNIT%201.pptx",
+                    "url": "https://files.catbox.moe/qr7vo8.pptx"
+                },
+                "OM.pdf": {
+                    "name": "OM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e91c6033499931c6059cb09af0fb66d2110cfd35OM.pdf",
+                    "url": "https://files.catbox.moe/49j99n.pdf"
+                },
+                "OM_ Unit 3rd_April_23.pdf": {
+                    "name": "OM_-Unit-3rd_April_23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ebe69743ffe5705aaeddde15edb1aac0b3450813OM_%20Unit%203rd_April_23.pdf",
+                    "url": "https://files.catbox.moe/fleyxv.pdf"
+                },
+                "OM_1st.pdf": {
+                    "name": "OM_1st.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b50d04c6c0e3961f40ad680b433d6309fe6b9ab3OM_1st.pdf",
+                    "url": "https://files.catbox.moe/fr0zz6.pdf"
+                },
+                "OM_2nd_COMPLETE.pdf": {
+                    "name": "OM_2nd_COMPLETE.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8e17d74854e1adcdf8fe6047c31fc293c35dd256OM_2nd_COMPLETE.pdf",
+                    "url": "https://files.catbox.moe/zvwct6.pdf"
+                },
+                "OM_4rth_April_23.pdf": {
+                    "name": "OM_4rth_April_23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6bc38387e976974e23d49158e0a9e35f4beaefb5OM_4rth_April_23.pdf",
+                    "url": "https://files.catbox.moe/mxqwos.pdf"
+                },
+                "OM-DEMAND FORECASTING.pptx": {
+                    "name": "OM-DEMAND-FORECASTING.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/10c38eb81830892125c5157ad28d9b0a1a95d55cOM-DEMAND%20FORECASTING.pptx",
+                    "url": "https://files.catbox.moe/qkigi6.pptx"
+                },
+                "Assignment.pdf": {
+                    "name": "Assignment.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fa4721aaa53f347a1fb6274d97f4775392c4f3d8Assignment.pdf",
+                    "url": "https://files.catbox.moe/w0jt1o.pdf"
+                }
+            },
+            "Disaster-Management": {
+                "Disaster  management UNIT 1 13 JAN 2024.pptx": {
+                    "name": "Disaster--management-UNIT-1-13-JAN-2024.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2c2e27c6b55524e038570c0dbf5882daa76298ccDisaster%20%20management%20UNIT%201%2013%20JAN%202024.pptx",
+                    "url": "https://files.catbox.moe/ds8fge.pptx"
+                },
+                "Unit -2 DM 7 feb 2024.pdf": {
+                    "name": "Unit--2-DM-7-feb-2024.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/25dbc271d119cd41020a40de18217890884fcff1Unit%20-2%20DM%207%20feb%202024.pdf",
+                    "url": "https://files.catbox.moe/z1kdhj.pdf"
+                },
+                "End-Term (Jan 2024).pdf": {
+                    "name": "DM-PAPER.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d1177f700d5fdc80a75f05a30ba9cfbd47f810eeDM%20PAPER.pdf",
+                    "url": "https://files.catbox.moe/bobm06.pdf"
+                },
+                "Unit 3 Notes.pdf": {
+                    "name": "Unit-3-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa7f7f9aabab07d876f39f200154a7bf63372d98Unit%203%20Notes.pdf",
+                    "url": "https://files.catbox.moe/i90998.pdf"
+                },
+                "All Units.pdf": {
+                    "name": "All-Units.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/61c7d478724b83b6cf5065bfe324a4b598628298All%20Units.pdf",
+                    "url": "https://files.catbox.moe/q9p4ip.pdf"
+                },
+                "Unit-IV DM.pdf": {
+                    "name": "Unit-IV-DM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ebbd6ec0840fdec93213100bc2fff54a0e5ba506Unit-IV%20DM.pdf",
+                    "url": "https://files.catbox.moe/df2ack.pdf"
+                },
+                "Rescue Opeartions Unit IV DM.pdf": {
+                    "name": "Rescue-Opeartions-Unit-IV-DM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/abbe3d1dc3261027b0b07b01b4277c557fd1a46fRescue%20Opeartions%20Unit%20IV%20DM.pdf",
+                    "url": "https://files.catbox.moe/1rpvi8.pdf"
+                },
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a108cc1247763e4a9705bd246d0a69aa705b5f3dMid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/km9xen.pdf"
+                },
+                "Complete UNIT 1.pptx": {
+                    "name": "Disaster--management-UNIT-1-13-JAN-2024.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2c2e27c6b55524e038570c0dbf5882daa76298ccDisaster%20%20management%20UNIT%201%2013%20JAN%202024.pptx",
+                    "url": "https://files.catbox.moe/ds8fge.pptx"
+                },
+                "Complete UNIT 2.pptx": {
+                    "name": "Complete-UNIT-2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fd053d52bf260eded2a1a223aa63acaa03bd8a1cComplete%20UNIT%202.pptx",
+                    "url": "https://files.catbox.moe/lq6vqb.pptx"
+                },
+                "Complete UNIT 3.pptx": {
+                    "name": "Complete-UNIT-3.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c9a88cb7f6147ba436e25162c1f4c404f166641Complete%20UNIT%203.pptx",
+                    "url": "https://files.catbox.moe/3qgjif.pptx"
+                },
+                "Complete UNIT 4.pdf": {
+                    "name": "Unit-IV-DM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ebbd6ec0840fdec93213100bc2fff54a0e5ba506Unit-IV%20DM.pdf",
+                    "url": "https://files.catbox.moe/df2ack.pdf"
+                },
+                "DISASTER MANAGEMENT.pdf": {
+                    "name": "DISASTER-MANAGEMENT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/117a862f1555af33a670a30c1f3ae4a21e6b37cbDISASTER%20MANAGEMENT.pdf",
+                    "url": "https://files.catbox.moe/eygvtr.pdf"
+                },
+                "Rescue Opeartions.pdf": {
+                    "name": "Rescue-Opeartions-Unit-IV-DM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/abbe3d1dc3261027b0b07b01b4277c557fd1a46fRescue%20Opeartions%20Unit%20IV%20DM.pdf",
+                    "url": "https://files.catbox.moe/1rpvi8.pdf"
+                }
+            }
         },
         "CSE": {
             "DataBase-Management-System": {
@@ -6888,13 +7403,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/w27nwl.txt"
+                    "url": "https://files.catbox.moe/me1fqv.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/0nalw9.txt"
+                    "url": "https://files.catbox.moe/hz5009.txt"
                 }
             },
             "Programming-in-C": {
@@ -7280,7 +7795,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/yemua2.txt"
+                    "url": "https://files.catbox.moe/q4ead3.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -7906,13 +8421,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/5o9ytk.txt"
+                    "url": "https://files.catbox.moe/qc8z6y.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/9vm7f9.txt"
+                    "url": "https://files.catbox.moe/ezmtgv.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -8876,7 +9391,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/25dbc271d119cd41020a40de18217890884fcff1Unit%20-2%20DM%207%20feb%202024.pdf",
                     "url": "https://files.catbox.moe/z1kdhj.pdf"
                 },
-                "DM PAPER.pdf": {
+                "End-Term (Jan 2024).pdf": {
                     "name": "DM-PAPER.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d1177f700d5fdc80a75f05a30ba9cfbd47f810eeDM%20PAPER.pdf",
@@ -8906,11 +9421,47 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/abbe3d1dc3261027b0b07b01b4277c557fd1a46fRescue%20Opeartions%20Unit%20IV%20DM.pdf",
                     "url": "https://files.catbox.moe/1rpvi8.pdf"
                 },
-                "End term 2024.jpeg": {
-                    "name": "End-term-2024.jpeg",
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/83f48c6222b71fba9acc2009ebda21c67f117827End%20term%202024.jpeg",
-                    "url": "https://files.catbox.moe/cek3qq.jpeg"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a108cc1247763e4a9705bd246d0a69aa705b5f3dMid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/km9xen.pdf"
+                },
+                "Complete UNIT 1.pptx": {
+                    "name": "Disaster--management-UNIT-1-13-JAN-2024.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2c2e27c6b55524e038570c0dbf5882daa76298ccDisaster%20%20management%20UNIT%201%2013%20JAN%202024.pptx",
+                    "url": "https://files.catbox.moe/ds8fge.pptx"
+                },
+                "Complete UNIT 2.pptx": {
+                    "name": "Complete-UNIT-2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fd053d52bf260eded2a1a223aa63acaa03bd8a1cComplete%20UNIT%202.pptx",
+                    "url": "https://files.catbox.moe/lq6vqb.pptx"
+                },
+                "Complete UNIT 3.pptx": {
+                    "name": "Complete-UNIT-3.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5c9a88cb7f6147ba436e25162c1f4c404f166641Complete%20UNIT%203.pptx",
+                    "url": "https://files.catbox.moe/3qgjif.pptx"
+                },
+                "Complete UNIT 4.pdf": {
+                    "name": "Unit-IV-DM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ebbd6ec0840fdec93213100bc2fff54a0e5ba506Unit-IV%20DM.pdf",
+                    "url": "https://files.catbox.moe/df2ack.pdf"
+                },
+                "DISASTER MANAGEMENT.pdf": {
+                    "name": "DISASTER-MANAGEMENT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/117a862f1555af33a670a30c1f3ae4a21e6b37cbDISASTER%20MANAGEMENT.pdf",
+                    "url": "https://files.catbox.moe/eygvtr.pdf"
+                },
+                "Rescue Opeartions.pdf": {
+                    "name": "Rescue-Opeartions-Unit-IV-DM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/abbe3d1dc3261027b0b07b01b4277c557fd1a46fRescue%20Opeartions%20Unit%20IV%20DM.pdf",
+                    "url": "https://files.catbox.moe/1rpvi8.pdf"
                 }
             },
             "Design-and-Analysis-of-Algorithms": {
@@ -8931,6 +9482,24 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/85f367924287b536c08a091649032616b14920f7Unit-1%20%26%202.pdf",
                     "url": "https://files.catbox.moe/xwz7hw.pdf"
+                },
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/06acdbbbd60fbca578a20a4f5767adfacb886a33Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/1k3fuk.pdf"
+                },
+                "Gate Smashers.playlist": {
+                    "name": "Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&feature=shared",
+                    "url": "https://files.catbox.moe/hfu4aq.txt"
+                },
+                "Practical File.pdf": {
+                    "name": "Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f6458bb164ab81273bb109f0fe53cd3c5bc3ff63Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/n9sgg2.pdf"
                 }
             },
             "Optimization-Techniques-": {
@@ -9061,8 +9630,8 @@
                 "OS Introduction.pdf": {
                     "name": "OS-Introduction.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6dcb9ce8b8d80427682cf89f145f7f10f66a7340OS%20Introduction.pdf",
-                    "url": "https://files.catbox.moe/jt79x8.pdf"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a6749c2ad340b4e754c8dbffb49c19bb49af02c2OS%20Introduction.pdf",
+                    "url": "https://files.catbox.moe/p9eoyt.pdf"
                 },
                 "Protection and Security.pdf": {
                     "name": "Protection-and-Security.pdf",
@@ -9079,14 +9648,8 @@
                 "Types of OS.pdf": {
                     "name": "Types-of-OS.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb49bfac2ff23480dd7a9a1a829649d0c35368fcTypes%20of%20OS.pdf",
-                    "url": "https://files.catbox.moe/nu1713.pdf"
-                },
-                "Operating System.playlist": {
-                    "name": "Operating-System.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
-                    "url": "https://files.catbox.moe/g0yjf2.txt"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dc7bf0fb135b1eea56bd545477add45070f0f1ffTypes%20of%20OS.pdf",
+                    "url": "https://files.catbox.moe/49hx49.pdf"
                 },
                 "Access and Allocation Methods.pptx": {
                     "name": "Access-and-Allocation-Methods.pptx",
@@ -9123,6 +9686,102 @@
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84b87255f099af31e180a0bf581fff1bab9496ebUNIT%20-%202.pptx",
                     "url": "https://files.catbox.moe/d3n6r8.pptx"
+                },
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ca3d459e110690052a30f2f6073542648050a2Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/js3lop.pdf"
+                },
+                "Gate Smashers.playlist": {
+                    "name": "Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&feature=shared",
+                    "url": "https://files.catbox.moe/49eezv.txt"
+                },
+                "1. Operating System.pptx": {
+                    "name": "1.-Operating-System.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c56206024f9d92fffd3a77b50f0ff5d3bc3357d11.%20Operating%20System.pptx",
+                    "url": "https://files.catbox.moe/evubbv.pptx"
+                },
+                "2. CPU Scheduling.pdf": {
+                    "name": "2.-CPU-Scheduling.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/910e3f3ea524bd24c42905ec17a6df2d3065a2612.%20CPU%20Scheduling.pdf",
+                    "url": "https://files.catbox.moe/jcvwd9.pdf"
+                },
+                "3. UNIT - 2.pptx": {
+                    "name": "UNIT---2.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84b87255f099af31e180a0bf581fff1bab9496ebUNIT%20-%202.pptx",
+                    "url": "https://files.catbox.moe/d3n6r8.pptx"
+                },
+                "4. Device Management.pptx": {
+                    "name": "Device-Management.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8ffc4c0cc9baac2da20b178fce7618d6b1428f5Device%20Management.pptx",
+                    "url": "https://files.catbox.moe/vofd17.pptx"
+                },
+                "6. File System.pptx": {
+                    "name": "File-System.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/22324d8face79bf114b3adfa2d21c05c95cf50bfFile%20System.pptx",
+                    "url": "https://files.catbox.moe/kjsqwq.pptx"
+                },
+                "7. Presentation2.pptx": {
+                    "name": "7.-Presentation2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/604871272a00f5a84670e3799526cfb83336c6b77.%20Presentation2.pptx",
+                    "url": "https://files.catbox.moe/wkek1h.pptx"
+                },
+                "Operating system PPT1.pptx": {
+                    "name": "Operating-system-PPT1.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cc13d71da1598b3b4ecac9e68b82d1bedb8da43cOperating%20system%20PPT1.pptx",
+                    "url": "https://files.catbox.moe/yp5xqc.pptx"
+                },
+                "OS unit 1 (leave case studies).pdf": {
+                    "name": "2.-CPU-Scheduling.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/910e3f3ea524bd24c42905ec17a6df2d3065a2612.%20CPU%20Scheduling.pdf",
+                    "url": "https://files.catbox.moe/jcvwd9.pdf"
+                },
+                "Presentation1.pptx": {
+                    "name": "File-System.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/22324d8face79bf114b3adfa2d21c05c95cf50bfFile%20System.pptx",
+                    "url": "https://files.catbox.moe/kjsqwq.pptx"
+                },
+                "Presentation2.pptx": {
+                    "name": "Presentation2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/295e2db07a6f0f7c3247efd36ea1d271c3d75c70Presentation2.pptx",
+                    "url": "https://files.catbox.moe/yy4p68.pptx"
+                },
+                "Process all topic.pdf": {
+                    "name": "Process-all-topic.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/51711a5aaf144059e3503bf125e313d95514353bProcess%20all%20topic.pdf",
+                    "url": "https://files.catbox.moe/6yl5ri.pdf"
+                },
+                "UNIT_-_2[1].pptx": {
+                    "name": "UNIT_-_2[1].pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99b9290e45cbaf00687185cd8865e9682e56e2c6UNIT_-_2%5B1%5D.pptx",
+                    "url": "https://files.catbox.moe/h9rvrg.pptx"
+                },
+                "Practical File.pdf": {
+                    "name": "Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8252faf5d8a7753ff150748cf20c6f16c1487121Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/bapja1.pdf"
+                },
+                "5. Mass Storage Systems.pptx": {
+                    "name": "Mass-Storage-Systems.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5ec218bbf34e51dcb0722db242f4fb5af6898214Mass%20Storage%20Systems.pptx",
+                    "url": "https://files.catbox.moe/xg7fnd.pptx"
                 }
             },
             "Computer-Organization-and-Architecture": {
@@ -9367,7 +10026,110 @@
                     "url": "https://files.catbox.moe/zag7do.txt"
                 }
             },
-            "Operation\u00a0Management": {}
+            "Operation\u00a0Management": {
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/eb63e2360bf27883ccd966acd603312b0b4702e0Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/lzytr9.pdf"
+                },
+                "EOQ NUMERICALS.docx": {
+                    "name": "EOQ-NUMERICALS.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9cc4fe0781f2d07bcaceb570a87d22daa93cc555EOQ%20NUMERICALS.docx",
+                    "url": "URL Error"
+                },
+                "NUMERICALS ON BEP-PVR-SAFETYMARGIN.docx": {
+                    "name": "NUMERICALS-ON-BEP-PVR-SAFETYMARGIN.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/25dc746dad1db1ca1f98be7b6ffc27da0524df65NUMERICALS%20ON%20BEP-PVR-SAFETYMARGIN.docx",
+                    "url": "URL Error"
+                },
+                "Productivity Numerical.docx": {
+                    "name": "Productivity-Numerical.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/97a19d39baf60915bfb51f7d99369e95c6c73e95Productivity%20Numerical.docx",
+                    "url": "URL Error"
+                },
+                "productivity Numericals.pdf": {
+                    "name": "productivity-Numericals.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/59b80386910d77b496dfb78c9824ca18e6dbb4faproductivity%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/oskq2m.pdf"
+                },
+                "MAINTENANCE PERFORMANCE and REPLACEMENT.docx": {
+                    "name": "MAINTENANCE-PERFORMANCE-and-REPLACEMENT.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/82f788b4263b8d7e5553f4e746657bea1849d64eMAINTENANCE%20PERFORMANCE%20and%20REPLACEMENT.docx",
+                    "url": "URL Error"
+                },
+                "maintenance.pdf": {
+                    "name": "maintenance.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fba66d4815b740a8ddc5765606d06465bd3f70d9maintenance.pdf",
+                    "url": "https://files.catbox.moe/8oasg9.pdf"
+                },
+                "MRP.docx": {
+                    "name": "MRP.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb9593c36fdf2dd53b150721860270b85a3b998fMRP.docx",
+                    "url": "URL Error"
+                },
+                "OM UNIT 1 AND UNIT 2 NOTES.pdf": {
+                    "name": "OM-UNIT-1-AND-UNIT-2-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b797b125b4c17fa2084b82d34596774b04fa110eOM%20UNIT%201%20AND%20UNIT%202%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/zl7dt8.pdf"
+                },
+                "OM UNIT 1.pptx": {
+                    "name": "OM-UNIT-1.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5f6a3d51407a9de1cc51e4ea3bb4d1f2cdbc4ee8OM%20UNIT%201.pptx",
+                    "url": "https://files.catbox.moe/qr7vo8.pptx"
+                },
+                "OM.pdf": {
+                    "name": "OM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e91c6033499931c6059cb09af0fb66d2110cfd35OM.pdf",
+                    "url": "https://files.catbox.moe/49j99n.pdf"
+                },
+                "OM_ Unit 3rd_April_23.pdf": {
+                    "name": "OM_-Unit-3rd_April_23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ebe69743ffe5705aaeddde15edb1aac0b3450813OM_%20Unit%203rd_April_23.pdf",
+                    "url": "https://files.catbox.moe/fleyxv.pdf"
+                },
+                "OM_1st.pdf": {
+                    "name": "OM_1st.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b50d04c6c0e3961f40ad680b433d6309fe6b9ab3OM_1st.pdf",
+                    "url": "https://files.catbox.moe/fr0zz6.pdf"
+                },
+                "OM_2nd_COMPLETE.pdf": {
+                    "name": "OM_2nd_COMPLETE.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8e17d74854e1adcdf8fe6047c31fc293c35dd256OM_2nd_COMPLETE.pdf",
+                    "url": "https://files.catbox.moe/zvwct6.pdf"
+                },
+                "OM_4rth_April_23.pdf": {
+                    "name": "OM_4rth_April_23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6bc38387e976974e23d49158e0a9e35f4beaefb5OM_4rth_April_23.pdf",
+                    "url": "https://files.catbox.moe/mxqwos.pdf"
+                },
+                "OM-DEMAND FORECASTING.pptx": {
+                    "name": "OM-DEMAND-FORECASTING.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/10c38eb81830892125c5157ad28d9b0a1a95d55cOM-DEMAND%20FORECASTING.pptx",
+                    "url": "https://files.catbox.moe/qkigi6.pptx"
+                },
+                "Assignment.pdf": {
+                    "name": "Assignment.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fa4721aaa53f347a1fb6274d97f4775392c4f3d8Assignment.pdf",
+                    "url": "https://files.catbox.moe/w0jt1o.pdf"
+                }
+            }
         },
         "IT": {
             "DataBase-Management-System": {},
@@ -11238,13 +12000,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/8x0bwe.txt"
+                    "url": "https://files.catbox.moe/hpnf22.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/r4krly.txt"
+                    "url": "https://files.catbox.moe/an14fd.txt"
                 }
             },
             "Programming-in-C": {
@@ -11630,7 +12392,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/dvrxyx.txt"
+                    "url": "https://files.catbox.moe/n7db1p.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -12256,13 +13018,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/934o3c.txt"
+                    "url": "https://files.catbox.moe/fs3zej.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/g84ogd.txt"
+                    "url": "https://files.catbox.moe/6tkxa4.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -13841,8 +14603,8 @@
                 "OS Introduction.pdf": {
                     "name": "OS-Introduction.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6dcb9ce8b8d80427682cf89f145f7f10f66a7340OS%20Introduction.pdf",
-                    "url": "https://files.catbox.moe/jt79x8.pdf"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a6749c2ad340b4e754c8dbffb49c19bb49af02c2OS%20Introduction.pdf",
+                    "url": "https://files.catbox.moe/p9eoyt.pdf"
                 },
                 "Protection and Security.pdf": {
                     "name": "Protection-and-Security.pdf",
@@ -13859,14 +14621,8 @@
                 "Types of OS.pdf": {
                     "name": "Types-of-OS.pdf",
                     "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb49bfac2ff23480dd7a9a1a829649d0c35368fcTypes%20of%20OS.pdf",
-                    "url": "https://files.catbox.moe/nu1713.pdf"
-                },
-                "Operating System.playlist": {
-                    "name": "Operating-System.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
-                    "url": "https://files.catbox.moe/g0yjf2.txt"
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/dc7bf0fb135b1eea56bd545477add45070f0f1ffTypes%20of%20OS.pdf",
+                    "url": "https://files.catbox.moe/49hx49.pdf"
                 },
                 "Access and Allocation Methods.pptx": {
                     "name": "Access-and-Allocation-Methods.pptx",
@@ -13903,6 +14659,102 @@
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84b87255f099af31e180a0bf581fff1bab9496ebUNIT%20-%202.pptx",
                     "url": "https://files.catbox.moe/d3n6r8.pptx"
+                },
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ca3d459e110690052a30f2f6073542648050a2Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/js3lop.pdf"
+                },
+                "Gate Smashers.playlist": {
+                    "name": "Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&feature=shared",
+                    "url": "https://files.catbox.moe/49eezv.txt"
+                },
+                "1. Operating System.pptx": {
+                    "name": "1.-Operating-System.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c56206024f9d92fffd3a77b50f0ff5d3bc3357d11.%20Operating%20System.pptx",
+                    "url": "https://files.catbox.moe/evubbv.pptx"
+                },
+                "2. CPU Scheduling.pdf": {
+                    "name": "2.-CPU-Scheduling.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/910e3f3ea524bd24c42905ec17a6df2d3065a2612.%20CPU%20Scheduling.pdf",
+                    "url": "https://files.catbox.moe/jcvwd9.pdf"
+                },
+                "3. UNIT - 2.pptx": {
+                    "name": "UNIT---2.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84b87255f099af31e180a0bf581fff1bab9496ebUNIT%20-%202.pptx",
+                    "url": "https://files.catbox.moe/d3n6r8.pptx"
+                },
+                "4. Device Management.pptx": {
+                    "name": "Device-Management.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8ffc4c0cc9baac2da20b178fce7618d6b1428f5Device%20Management.pptx",
+                    "url": "https://files.catbox.moe/vofd17.pptx"
+                },
+                "6. File System.pptx": {
+                    "name": "File-System.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/22324d8face79bf114b3adfa2d21c05c95cf50bfFile%20System.pptx",
+                    "url": "https://files.catbox.moe/kjsqwq.pptx"
+                },
+                "7. Presentation2.pptx": {
+                    "name": "7.-Presentation2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/604871272a00f5a84670e3799526cfb83336c6b77.%20Presentation2.pptx",
+                    "url": "https://files.catbox.moe/wkek1h.pptx"
+                },
+                "Operating system PPT1.pptx": {
+                    "name": "Operating-system-PPT1.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cc13d71da1598b3b4ecac9e68b82d1bedb8da43cOperating%20system%20PPT1.pptx",
+                    "url": "https://files.catbox.moe/yp5xqc.pptx"
+                },
+                "OS unit 1 (leave case studies).pdf": {
+                    "name": "2.-CPU-Scheduling.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/910e3f3ea524bd24c42905ec17a6df2d3065a2612.%20CPU%20Scheduling.pdf",
+                    "url": "https://files.catbox.moe/jcvwd9.pdf"
+                },
+                "Presentation1.pptx": {
+                    "name": "File-System.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/22324d8face79bf114b3adfa2d21c05c95cf50bfFile%20System.pptx",
+                    "url": "https://files.catbox.moe/kjsqwq.pptx"
+                },
+                "Presentation2.pptx": {
+                    "name": "Presentation2.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/295e2db07a6f0f7c3247efd36ea1d271c3d75c70Presentation2.pptx",
+                    "url": "https://files.catbox.moe/yy4p68.pptx"
+                },
+                "Process all topic.pdf": {
+                    "name": "Process-all-topic.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/51711a5aaf144059e3503bf125e313d95514353bProcess%20all%20topic.pdf",
+                    "url": "https://files.catbox.moe/6yl5ri.pdf"
+                },
+                "UNIT_-_2[1].pptx": {
+                    "name": "UNIT_-_2[1].pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99b9290e45cbaf00687185cd8865e9682e56e2c6UNIT_-_2%5B1%5D.pptx",
+                    "url": "https://files.catbox.moe/h9rvrg.pptx"
+                },
+                "Practical File.pdf": {
+                    "name": "Practical-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8252faf5d8a7753ff150748cf20c6f16c1487121Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/bapja1.pdf"
+                },
+                "5. Mass Storage Systems.pptx": {
+                    "name": "Mass-Storage-Systems.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5ec218bbf34e51dcb0722db242f4fb5af6898214Mass%20Storage%20Systems.pptx",
+                    "url": "https://files.catbox.moe/xg7fnd.pptx"
                 }
             },
             "Computer-Organization-and-Architecture": {
@@ -14167,7 +15019,110 @@
                     "url": "https://files.catbox.moe/a6mm3m.pdf"
                 }
             },
-            "Operation\u00a0Management": {}
+            "Operation\u00a0Management": {
+                "Mid-Term (March 2024).pdf": {
+                    "name": "Mid-Term-(March-2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/eb63e2360bf27883ccd966acd603312b0b4702e0Mid-Term%20%28March%202024%29.pdf",
+                    "url": "https://files.catbox.moe/lzytr9.pdf"
+                },
+                "EOQ NUMERICALS.docx": {
+                    "name": "EOQ-NUMERICALS.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9cc4fe0781f2d07bcaceb570a87d22daa93cc555EOQ%20NUMERICALS.docx",
+                    "url": "URL Error"
+                },
+                "NUMERICALS ON BEP-PVR-SAFETYMARGIN.docx": {
+                    "name": "NUMERICALS-ON-BEP-PVR-SAFETYMARGIN.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/25dc746dad1db1ca1f98be7b6ffc27da0524df65NUMERICALS%20ON%20BEP-PVR-SAFETYMARGIN.docx",
+                    "url": "URL Error"
+                },
+                "Productivity Numerical.docx": {
+                    "name": "Productivity-Numerical.docx",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/97a19d39baf60915bfb51f7d99369e95c6c73e95Productivity%20Numerical.docx",
+                    "url": "URL Error"
+                },
+                "productivity Numericals.pdf": {
+                    "name": "productivity-Numericals.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/59b80386910d77b496dfb78c9824ca18e6dbb4faproductivity%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/oskq2m.pdf"
+                },
+                "MAINTENANCE PERFORMANCE and REPLACEMENT.docx": {
+                    "name": "MAINTENANCE-PERFORMANCE-and-REPLACEMENT.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/82f788b4263b8d7e5553f4e746657bea1849d64eMAINTENANCE%20PERFORMANCE%20and%20REPLACEMENT.docx",
+                    "url": "URL Error"
+                },
+                "maintenance.pdf": {
+                    "name": "maintenance.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fba66d4815b740a8ddc5765606d06465bd3f70d9maintenance.pdf",
+                    "url": "https://files.catbox.moe/8oasg9.pdf"
+                },
+                "MRP.docx": {
+                    "name": "MRP.docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb9593c36fdf2dd53b150721860270b85a3b998fMRP.docx",
+                    "url": "URL Error"
+                },
+                "OM UNIT 1 AND UNIT 2 NOTES.pdf": {
+                    "name": "OM-UNIT-1-AND-UNIT-2-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b797b125b4c17fa2084b82d34596774b04fa110eOM%20UNIT%201%20AND%20UNIT%202%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/zl7dt8.pdf"
+                },
+                "OM UNIT 1.pptx": {
+                    "name": "OM-UNIT-1.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5f6a3d51407a9de1cc51e4ea3bb4d1f2cdbc4ee8OM%20UNIT%201.pptx",
+                    "url": "https://files.catbox.moe/qr7vo8.pptx"
+                },
+                "OM.pdf": {
+                    "name": "OM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e91c6033499931c6059cb09af0fb66d2110cfd35OM.pdf",
+                    "url": "https://files.catbox.moe/49j99n.pdf"
+                },
+                "OM_ Unit 3rd_April_23.pdf": {
+                    "name": "OM_-Unit-3rd_April_23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ebe69743ffe5705aaeddde15edb1aac0b3450813OM_%20Unit%203rd_April_23.pdf",
+                    "url": "https://files.catbox.moe/fleyxv.pdf"
+                },
+                "OM_1st.pdf": {
+                    "name": "OM_1st.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b50d04c6c0e3961f40ad680b433d6309fe6b9ab3OM_1st.pdf",
+                    "url": "https://files.catbox.moe/fr0zz6.pdf"
+                },
+                "OM_2nd_COMPLETE.pdf": {
+                    "name": "OM_2nd_COMPLETE.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8e17d74854e1adcdf8fe6047c31fc293c35dd256OM_2nd_COMPLETE.pdf",
+                    "url": "https://files.catbox.moe/zvwct6.pdf"
+                },
+                "OM_4rth_April_23.pdf": {
+                    "name": "OM_4rth_April_23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6bc38387e976974e23d49158e0a9e35f4beaefb5OM_4rth_April_23.pdf",
+                    "url": "https://files.catbox.moe/mxqwos.pdf"
+                },
+                "OM-DEMAND FORECASTING.pptx": {
+                    "name": "OM-DEMAND-FORECASTING.pptx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/10c38eb81830892125c5157ad28d9b0a1a95d55cOM-DEMAND%20FORECASTING.pptx",
+                    "url": "https://files.catbox.moe/qkigi6.pptx"
+                },
+                "Assignment.pdf": {
+                    "name": "Assignment.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fa4721aaa53f347a1fb6274d97f4775392c4f3d8Assignment.pdf",
+                    "url": "https://files.catbox.moe/w0jt1o.pdf"
+                }
+            }
         },
         "AI-ML": {
             "DataBase-Management-System": {
@@ -15471,13 +16426,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ivur6k.txt"
+                    "url": "https://files.catbox.moe/rnthzr.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/qfgbu8.txt"
+                    "url": "https://files.catbox.moe/fg90lx.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -17193,7 +18148,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/lo6miu.txt"
+                    "url": "https://files.catbox.moe/kvvepo.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -17217,7 +18172,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/7cufwa.pdf"
+                    "url": "https://files.catbox.moe/jxzu5n.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -17309,7 +18264,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/qawnk1.pdf"
+                    "url": "https://files.catbox.moe/ij7r5r.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -17971,7 +18926,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/9ekw84.pdf"
+                    "url": "https://files.catbox.moe/hx56z2.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -19072,13 +20027,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/o5zvuk.txt"
+                    "url": "https://files.catbox.moe/2devd8.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/gi6mal.txt"
+                    "url": "https://files.catbox.moe/bmkctl.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -19628,7 +20583,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/lx7wew.txt"
+                    "url": "https://files.catbox.moe/3uojcg.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -19640,13 +20595,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/2gna08.txt"
+                    "url": "https://files.catbox.moe/2hav11.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/xw776t.txt"
+                    "url": "https://files.catbox.moe/9t9job.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -20678,7 +21633,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/yxj9yo.txt"
+                    "url": "https://files.catbox.moe/63ve5x.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -22346,7 +23301,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/wc7ow8.txt"
+                    "url": "https://files.catbox.moe/9nfpt0.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -22358,13 +23313,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/4p97wm.txt"
+                    "url": "https://files.catbox.moe/wsibbu.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/7ap2it.txt"
+                    "url": "https://files.catbox.moe/jeal0o.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -24778,13 +25733,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/w8bjux.txt"
+                    "url": "https://files.catbox.moe/9ot4hu.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/8ljceg.txt"
+                    "url": "https://files.catbox.moe/vqcbx0.txt"
                 }
             },
             "Programming-in-C": {
@@ -25170,7 +26125,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/08yihb.txt"
+                    "url": "https://files.catbox.moe/6n3795.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -25796,13 +26751,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/fria9z.txt"
+                    "url": "https://files.catbox.moe/twrfvc.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/ydfimh.txt"
+                    "url": "https://files.catbox.moe/5igas0.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -29028,13 +29983,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/d6rlf8.txt"
+                    "url": "https://files.catbox.moe/rad0o0.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/s6q1qw.txt"
+                    "url": "https://files.catbox.moe/a9yty7.txt"
                 }
             },
             "Programming-in-C": {
@@ -29420,7 +30375,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/wvklu3.txt"
+                    "url": "https://files.catbox.moe/2uym0n.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -30046,13 +31001,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/qkaec4.txt"
+                    "url": "https://files.catbox.moe/ow2g2f.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/r7aubv.txt"
+                    "url": "https://files.catbox.moe/j0chwg.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -31839,20 +32794,6 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a3d75eac5110747c2783cf7a837cd4f24371030bTE%202%20Mid%20Term%2024.pdf",
                     "url": "https://files.catbox.moe/wdx0dk.pdf"
-                }
-            },
-            "Disaster-Management": {
-                "DM mid term 2024.pdf": {
-                    "name": "DM-mid-term-2024.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/094055d3d63cf96b6082145431553ff3abb78655DM%20mid%20term%202024.pdf",
-                    "url": "https://files.catbox.moe/qwg3vv.pdf"
-                },
-                "DM End term 2024.pdf": {
-                    "name": "DM-End-term-2024.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0b9caa19b557af6e59ffd8cc143f573fa6b4512fDM%20End%20term%202024.pdf",
-                    "url": "https://files.catbox.moe/23pdli.pdf"
                 }
             }
         }
