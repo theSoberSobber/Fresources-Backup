@@ -5791,7 +5791,12 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "Operating-Systems": {},
+            "Database-Management-System": {},
+            "Design-and-Analysis-of-Algorithms": {},
+            "Computer-Architecture-&-Organization": {},
+            "Probability-&-Statistics": {}
         },
         "EIOT": {
             "EG-&-CAD": {
@@ -8215,7 +8220,12 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/5f782c5400d912b9a9da91e8c39356c5abdc33aa%20End%20sem%202024.pdf",
                     "url": "https://files.catbox.moe/ao0br6.pdf"
                 }
-            }
+            },
+            "Probability-Theory-and-Random-Process": {},
+            "Signals-and-Systems": {},
+            "Microelectronics-Circuits-and-Applications": {},
+            "Digital-Circuits-and-Systems": {},
+            "Optimizations-Principles-and-Techniques": {}
         },
         "CSDA": {
             "Electronics-&-Communication-": {
@@ -12125,7 +12135,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "Introduction-to--GST": {},
+            "DSA": {},
+            "Power-Apparatus": {},
+            "Digital-Circuits-and-Systems": {},
+            "Electronic-Instrumentation": {},
+            "Engineering-Mathematics": {}
         },
         "ECAM": {
             "English": {
@@ -25333,7 +25349,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "Biochemistry": {},
+            "Cell-Biology": {},
+            "Chemical-Engineering-Principles": {},
+            "Microbiology": {}
         },
         "MEEV": {
             "English": {
@@ -34840,7 +34860,12 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8947a1f7b283b42bd8394d695c8c6fab729f9314%20end%20sem%202024.pdf",
                     "url": "https://files.catbox.moe/rvkynu.pdf"
                 }
-            }
+            },
+            "Probability-and-Stochastic-Processes": {},
+            "Computer-System-Organization": {},
+            "Database-Management-System": {},
+            "Advance-Programming": {},
+            "Optimization-Principles-and-Techniques": {}
         },
         "ITNS": {
             "Fundamentals-of-Electrical-Engineering": {
@@ -36771,7 +36796,12 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f7db121c8820ba3c7685bf950fee15504fb635MIDSEM%202024%28JAN%29.pdf",
                     "url": "https://files.catbox.moe/kzknv1.pdf"
                 }
-            }
+            },
+            "Probability-and-Stochastic-Processes": {},
+            "Optimization-Principles-and-Techniques": {},
+            "Database-Management-System": {},
+            "Computer-System-Organization": {},
+            "Advance-programing-": {}
         }
     }
 }
