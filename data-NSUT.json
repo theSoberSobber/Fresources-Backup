@@ -5807,6 +5807,7 @@
             "Database-Management-System": {},
             "Design-and-Analysis-of-Algorithms": {},
             "Computer-Architecture-&-Organization": {},
+            "Microprocessor-and-microcontrollers-": {},
             "Probability-&-Statistics": {}
         },
         "EIOT": {
@@ -14614,7 +14615,12 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "Probability-Theory-and-Random-Process": {},
+            "Micro-electronics--": {},
+            "Signals-and-Systems": {},
+            "Mathematics-for-machine--learning-": {},
+            "Digital-Circuits-and-Systems": {}
         },
         "ECE": {
             "Maths---1": {
@@ -17038,7 +17044,12 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "Signals-and-Systems": {},
+            "Probability-Theory-and-Random-Process": {},
+            "Microelectronics-Circuits-and-Applications": {},
+            "Digital-Circuits-and-Systems": {},
+            "Mathematics-for-communication--and-signal-processing-": {}
         },
         "EE": {
             "Maths---1": {
@@ -23866,6 +23877,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/317a8d724da71884e73bd702e8ac569419edbfe5MP-1%20Notes.pdf",
                     "url": "https://files.catbox.moe/yc168l.pdf"
+                },
+                "Manufacturing Processes For Engineering - Serope Kalpakjian .pdf": {
+                    "name": "Manufacturing-Processes-For-Engineering---Serope-Kalpakjian-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bd45f69150f553ab5c2fe4825ca9c169d14d74feManufacturing%20Processes%20For%20Engineering%20-%20Serope%20Kalpakjian%20.pdf",
+                    "url": "https://files.catbox.moe/exgi32.pdf"
                 }
             },
             "Strength-of-Materials": {
@@ -23946,6 +23963,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/187ce40e7a2d3dcbf4a48cafa4d33529349863ccBhavikatti%2C%20S.%20S%20-%20Mechanics%20of%20Solids-New%20Age%20International%20Pvt%20Ltd%20Publishers%20%282010%29.pdf",
                     "url": "https://files.catbox.moe/wyktn7.pdf"
+                },
+                "STRENGTH-OF-MATERIALS- SK Mondal.pdf": {
+                    "name": "STRENGTH-OF-MATERIALS--SK-Mondal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2a3da171fef884b944074beb25ce2f76962c4949STRENGTH-OF-MATERIALS-%20SK%20Mondal.pdf",
+                    "url": "https://files.catbox.moe/1k68g4.pdf"
                 }
             },
             "Numerical-Method-and-Computation-": {
@@ -26192,7 +26215,309 @@
             "Biochemistry": {},
             "Cell-Biology": {},
             "Chemical-Engineering-Principles": {},
-            "Microbiology": {}
+            "Microbiology": {},
+            "Data-Structure-&-Algorithms": {
+                "DS HANDWRITEN NOTES.pdf": {
+                    "name": "DS-HANDWRITEN-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f232b93b7364dc5f439e0d340ed93057119809d0DS%20HANDWRITEN%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/ywpzd7.pdf"
+                },
+                "FILE ORGANIZATION AND INDEXING.pdf": {
+                    "name": "FILE-ORGANIZATION-AND-INDEXING.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fccde7433be66ab105d14986e28cf6bd06fbae4fFILE%20ORGANIZATION%20AND%20INDEXING.pdf",
+                    "url": "https://files.catbox.moe/5jhzi1.pdf"
+                },
+                "GRAPH NOTES.pdf": {
+                    "name": "GRAPH-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b3bb2c906da9f9253544d5f9cfc146884aafbaa5GRAPH%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/0odkel.pdf"
+                },
+                "GRAPH THEORY.pdf": {
+                    "name": "GRAPH-THEORY.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8ca5c6f91f4234185494e6693669da1758682543GRAPH%20THEORY.pdf",
+                    "url": "https://files.catbox.moe/cu6pze.pdf"
+                },
+                "GRAPHS.pdf": {
+                    "name": "GRAPHS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1eccfe29930801eb58cc37f020198562a2a84b97GRAPHS.pdf",
+                    "url": "https://files.catbox.moe/tzop7u.pdf"
+                },
+                "LEC 1 INTRO.pdf": {
+                    "name": "LEC-1-INTRO.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6836dea99c3129383114c04f21d01beb8adf7216LEC%201%20INTRO.pdf",
+                    "url": "https://files.catbox.moe/xn1021.pdf"
+                },
+                "LEC 2 ARRAYS.pdf": {
+                    "name": "LEC-2-ARRAYS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c90db9fb3e1cb52c426dede74b50c71dde9fecbdLEC%202%20ARRAYS.pdf",
+                    "url": "https://files.catbox.moe/8ttnx7.pdf"
+                },
+                "LEC 3 STRINGS.pdf": {
+                    "name": "LEC-3-STRINGS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a96250e66436c50d5cbdaca32177a08b93da580eLEC%203%20STRINGS.pdf",
+                    "url": "https://files.catbox.moe/ufn1lg.pdf"
+                },
+                "LEC 5 QUEUES.pdf": {
+                    "name": "LEC-5-QUEUES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1b3decedb068a3406845d286dd05e2b2fbd1e17LEC%205%20QUEUES.pdf",
+                    "url": "https://files.catbox.moe/j1zsrk.pdf"
+                },
+                "LEC 6 LINKED LIST.pdf": {
+                    "name": "LEC-6-LINKED-LIST.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6ddcddd8e23ff3b29e33dba794a2e8c5b266e88bLEC%206%20LINKED%20LIST.pdf",
+                    "url": "https://files.catbox.moe/yegp1u.pdf"
+                },
+                "LEC 7 TREES 1.pdf": {
+                    "name": "LEC-7-TREES-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/97b6592481119f76446ce64951ea5cbb081d0524LEC%207%20TREES%201.pdf",
+                    "url": "https://files.catbox.moe/ko7p98.pdf"
+                },
+                "LEC 7 TREES 2.pdf": {
+                    "name": "LEC-7-TREES-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fe79f9e484a645b7d3e67bf61265d335fc72c3d8LEC%207%20TREES%202.pdf",
+                    "url": "https://files.catbox.moe/pvvilr.pdf"
+                },
+                "LEC 8 GRAPHS.pdf": {
+                    "name": "LEC-8-GRAPHS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c92512a21c5a4c3abdc844c2573f3d25939a681dLEC%208%20GRAPHS.pdf",
+                    "url": "https://files.catbox.moe/4qiry8.pdf"
+                },
+                "LEC 9 SEARCHING AND SORTING.pdf": {
+                    "name": "LEC-9-SEARCHING-AND-SORTING.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8fb9951ed68eb4edd8093a47fb1ae444f6c9d208LEC%209%20SEARCHING%20AND%20SORTING.pdf",
+                    "url": "https://files.catbox.moe/taqr3t.pdf"
+                },
+                "LEC 10 HEAPS AND HEAP SORT.pdf": {
+                    "name": "LEC-10-HEAPS-AND-HEAP-SORT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/839fc0fbefeb9d1859037224ee9f0b64b59801a8LEC%2010%20HEAPS%20AND%20HEAP%20SORT.pdf",
+                    "url": "https://files.catbox.moe/zm2hzw.pdf"
+                },
+                "LEC 11 HASHING AND COLLISION.pdf": {
+                    "name": "LEC-11-HASHING-AND-COLLISION.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/00f8f96c3045e19d3d155ba5b72fcafa6f0707c4LEC%2011%20HASHING%20AND%20COLLISION.pdf",
+                    "url": "https://files.catbox.moe/y7m8m5.pdf"
+                },
+                "LIST.pdf": {
+                    "name": "LIST.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f5617c17b77c9957fd7c004c0e976ca6a2fbf9d3LIST.pdf",
+                    "url": "https://files.catbox.moe/27kaj7.pdf"
+                },
+                "SORTING ALGORITHMS.pdf": {
+                    "name": "SORTING-ALGORITHMS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbd04fa003ecfbf64e799d2c5d455c5c3cb859b5SORTING%20ALGORITHMS.pdf",
+                    "url": "https://files.catbox.moe/p82pt9.pdf"
+                },
+                "SPANNING TREES.pdf": {
+                    "name": "SPANNING-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ae3c70115179f0463e734eab4a6d0df17093bb8dSPANNING%20TREES.pdf",
+                    "url": "https://files.catbox.moe/uyj30c.pdf"
+                },
+                "STACKS.pdf": {
+                    "name": "STACKS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/59ec5946914f31ec332f02ca258becb50cdd2166STACKS.pdf",
+                    "url": "https://files.catbox.moe/g3e2ax.pdf"
+                },
+                "STRINGS.pdf": {
+                    "name": "STRINGS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/374cd90e560d8ff09034e79ac3f06b504de13fa2STRINGS.pdf",
+                    "url": "https://files.catbox.moe/y6pr3k.pdf"
+                },
+                "TOPOLOGICAL SORT.pdf": {
+                    "name": "TOPOLOGICAL-SORT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c4ebf5cebd68e5db5954440d1071fbc05a63a63cTOPOLOGICAL%20SORT.pdf",
+                    "url": "https://files.catbox.moe/cwf6am.pdf"
+                },
+                "DSA - CLIFFORD A. SHAFFER.pdf": {
+                    "name": "DSA---CLIFFORD-A.-SHAFFER.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/920d2d59e86662f7c03be1a3ce32dbc26ccea52bDATA%20STRUCTURES%20AND%20ALGORITHMS%20-%20CLIFFORD%20A.%20SHAFFER.pdf",
+                    "url": "https://files.catbox.moe/uaqbbm.pdf"
+                },
+                "DSA - NARASIMHA KARUMANCHI.pdf": {
+                    "name": "DS-Book-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
+                    "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "DSA C++ (YASHAVANT KANETKAR).pdf": {
+                    "name": "DSA-C++-(YASHAVANT-KANETKAR).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/524ba09a840fb024abf0753353aa1fa12f5ad002DDSA%20C%2B%2B%20%28YASHAVANT%20KANETKAR%29.pdf",
+                    "url": "https://files.catbox.moe/05ejjo.pdf"
+                },
+                "DSA C BY REEMA THAREJA.pdf": {
+                    "name": "DSA-C-BY-REEMA-THAREJA.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ecaa1319c25cec91e453ca0c03e2679988dcd326DSA%20C%20BY%20REEMA%20THAREJA.pdf",
+                    "url": "https://files.catbox.moe/gmbb82.pdf"
+                },
+                "DSA BY GILBERG FOROURZAN.pdf": {
+                    "name": "DSA-BY-GILBERG-FOROURZAN.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d5ff1ca7f9dad07972958aca9f7e97ee6d4559c1DSA%20BY%20GILBERG%20FOROURZAN.pdf",
+                    "url": "https://files.catbox.moe/udrzrr.pdf"
+                },
+                "DS WITH C - BY SCHAUM.pdf": {
+                    "name": "DSA-BY-GILBERG-FOROURZAN.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d5ff1ca7f9dad07972958aca9f7e97ee6d4559c1DSA%20BY%20GILBERG%20FOROURZAN.pdf",
+                    "url": "https://files.catbox.moe/udrzrr.pdf"
+                },
+                "DSA BY HOROWITZ AND SAHNI.pdf": {
+                    "name": "DSA-BY-HOROWITZ-AND-SAHNI.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2ba12777e16faf9d8770760abb0377d5049557a0DSA%20BY%20HOROWITZ%20AND%20SAHNI.pdf",
+                    "url": "https://files.catbox.moe/qddlu6.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acd03f1322df94a2ea7c3fd10ee3c2e9b635e855ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/8kjsqk.pdf"
+                },
+                "MIDSEM 2019 (SEPT).pdf": {
+                    "name": "MIDSEM-2019-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/718d1b60d2c77681456200b350d1f6bb9dbeaa4aMIDSEM%202019%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/jvpv3o.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f7882ca1a21e0130f1f2554c5b771be65f202a10ENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/1xk8ub.pdf"
+                },
+                "Queues.pdf": {
+                    "name": "Queues.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f2459865ebd7450753f17d0399a4b9df05945fa4Queues.pdf",
+                    "url": "https://files.catbox.moe/yvo4uq.pdf"
+                },
+                "graphs final ppt.pdf": {
+                    "name": "graphs-final-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d797972ef06dff67c53b9175aba78c84dd1b6839graphs%20final%20ppt.pdf",
+                    "url": "https://files.catbox.moe/ctxm3n.pdf"
+                },
+                "Binary Tree ppt.pdf": {
+                    "name": "Binary-Tree-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e1628fe2075966544a56c4428596217fa80e400dBinary%20Tree%20ppt.pdf",
+                    "url": "https://files.catbox.moe/8ulhzv.pdf"
+                },
+                "AVL TREES.pdf": {
+                    "name": "AVL-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65c86683e251ca2feeee3f7efc78d1a8d8654ed1AVL%20TREES.pdf",
+                    "url": "https://files.catbox.moe/b779v6.pdf"
+                },
+                "LL final.pdf": {
+                    "name": "LL-final.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f690030ef5183b93b5238b229ac9dc94706891e1LL%20final.pdf",
+                    "url": "https://files.catbox.moe/f8mfgr.pdf"
+                },
+                "Doubly and circular LL.pdf": {
+                    "name": "Doubly-and-circular-LL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/455b3bc19b46765901157c7804eed1d9b0311cf2Doubly%20and%20circular%20LL.pdf",
+                    "url": "https://files.catbox.moe/mqybgl.pdf"
+                },
+                "Data Structures and Algorithm Notes.pdf": {
+                    "name": "Data-Structures-and-Algorithm-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fdc53f208085048b9ca38b18c3b4a8c1aeaec7d4Data%20Structures%20and%20Algorithm%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4vpp9o.pdf"
+                },
+                "Introduction and Arrays.pdf": {
+                    "name": "Introduction-and-Arrays.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7b86ff329d42a11572c86fe65e524a8302cbdb2Introduction%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/l5yo6b.pdf"
+                },
+                "Stacks.pdf": {
+                    "name": "Stacks.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/028e81edea245451cfcdcc813c26bab31a532ef4Stacks.pdf",
+                    "url": "https://files.catbox.moe/1stmen.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYLNykymlcPlZVvSMqRsTiO3",
+                    "url": "https://files.catbox.moe/jcibwq.txt"
+                },
+                "UNIT-4(HARRY).playlist": {
+                    "name": "UNIT-4(HARRY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLUPfVLTCq5c2SmJeiouZ53mrkL46BvmI8",
+                    "url": "https://files.catbox.moe/s9vb53.txt"
+                },
+                "UNIT-4(JENNY).playlist": {
+                    "name": "UNIT-4(JENNY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYJFcvIz2SogogI_wzGBrosM",
+                    "url": "https://files.catbox.moe/60nksg.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL2G8cXzxidYILH26CW75dhmuubLzxj9r2&si=-hy6XB2ePkZKTxTW",
+                    "url": "https://files.catbox.moe/rn5l7c.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPdonczaicFayPa2FEPOuHW",
+                    "url": "https://files.catbox.moe/nrugar.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxMlf609oAFHebsZ4cjGLJ_q",
+                    "url": "https://files.catbox.moe/c8wvo1.txt"
+                },
+                "MIDSEM 2023(SEPT).pdf": {
+                    "name": "MIDSEM-2023(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e0f9468109ccae4a90a15a9db9559d717576b51MIDSEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/9y18et.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1466aff1dc80ef61a5a91056360a344224c8d17ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/63va73.pdf"
+                },
+                "MIDSEM 2024(FEB).pdf": {
+                    "name": "MIDSEM-2024(FEB).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
+                    "url": "https://files.catbox.moe/48oasf.pdf"
+                }
+            }
         },
         "MEEV": {
             "English": {
@@ -28340,6 +28665,429 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
+            },
+            "Fundamentals-of-Electrical-Engineering": {
+                "MIDSEM 2023 (SEPT).pdf": {
+                    "name": "MIDSEM-2023-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4b5b75db394c029017267cd73dc5950858bd2a4cMID%20SEM%202023%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/qc6z8q.pdf"
+                },
+                "BL Thareja: Vol-1.pdf": {
+                    "name": "BL-Thareja--Vol-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0fe1fd16287375fc7742835a1d7267760eb47a3cBL%20Thareja-%20A%20textbook%20of%20electrical%20technology.pdf",
+                    "url": "https://files.catbox.moe/r57jhy.pdf"
+                },
+                "Mc Graw Hill-Fundamentals of Electrical Circuits.PDF": {
+                    "name": "Mc-Graw-Hill-Fundamentals-of-Electrical-Circuits.PDF",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/73420ddf8913830d1ec5556508e8caa968a3ef47Fundamentals%20of%20Electrical%20Circuits-%20Mc%20Graw%20Hill.PDF",
+                    "url": "https://files.catbox.moe/3zos4y.pdf"
+                },
+                "UNIT-2.pdf": {
+                    "name": "UNIT-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f6842cfd56f00cf606f716a137414f4c53921339UNIT-2.pdf",
+                    "url": "https://files.catbox.moe/c9zweb.pdf"
+                },
+                "BL Thareja: Vol-2.pdf": {
+                    "name": "BL-Thareja--Vol-2.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4f882982c486e64c380db8754549d8fa5e7d4adcBL%20Thareja%20Vol-2.pdf",
+                    "url": "https://files.catbox.moe/m9f8ux.pdf"
+                },
+                "DC MACHINE(DIGITAL).pdf": {
+                    "name": "DC-MACHINE(DIGITAL).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2fa2ce21cd040fd4bc3a3adce61e2c942e7c919eDC%20motors%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/xbdrqg.pdf"
+                },
+                "Induction Motor .pdf": {
+                    "name": "Induction-Motor-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/930fe1838206e30523b0e6a7cff345c439a7a386Induction%20Motors.pdf",
+                    "url": "https://files.catbox.moe/6gxcbr.pdf"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxO6bleGibqnTlq31uGO_qVn",
+                    "url": "https://files.catbox.moe/4l4se9.txt"
+                },
+                "PEE Class Notes IT-1 Midsem.pdf": {
+                    "name": "PEE-Class-Notes-IT-1-Midsem.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4d451403c21acc9d3ddef18854a4c10621d9aa51PEE%20Class%20Notes%20IT-1%20Midsem.pdf",
+                    "url": "https://files.catbox.moe/4spzqx.pdf"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxODGd-p5J7qGntQvyvNrDEL",
+                    "url": "https://files.catbox.moe/2k7ctk.txt"
+                },
+                "FEE ALL UNITS.pdf": {
+                    "name": "FEE-ALL-UNITS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fad196385b9617bd43349be15073166a36476f6FEE%20all%20units.pdf",
+                    "url": "https://files.catbox.moe/h3qcu3.pdf"
+                },
+                "UNIT-4.playlist": {
+                    "name": "UNIT-4.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLoZc0Q6MPz9Me09xv2d5dBZLfYftxl-DX",
+                    "url": "https://files.catbox.moe/qzhceh.txt"
+                },
+                "UNIT-1.pdf": {
+                    "name": "UNIT-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a3c063697ebd2128c4bd6140bf051db579672385UNIT-1.pdf",
+                    "url": "https://files.catbox.moe/qyd6c5.pdf"
+                },
+                "UNIT-4.pdf": {
+                    "name": "UNIT-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fc975bead8c1fe203a4a8d2c79411927d873b57bUNIT-4.pdf",
+                    "url": "https://files.catbox.moe/fmwmj4.pdf"
+                },
+                "UNIT-3.pdf": {
+                    "name": "UNIT-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/09a2dc8feddb4c22d0f82f8037464dc4394dbbd7UNIT-3.pdf",
+                    "url": "https://files.catbox.moe/6fm7l8.pdf"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLm_MSClsnwm9IkUJfr8Xzi9-Ymv9o1EF8",
+                    "url": "https://files.catbox.moe/dmm3ub.txt"
+                },
+                "UNIT-5.pdf": {
+                    "name": "UNIT-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/84674141b09cbd98a87fb34801f92b3de47dda73UNIT-5.pdf",
+                    "url": "https://files.catbox.moe/1dfhjq.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLgzsL8klq6DLxfNy8vX2ADCr-iukkDfy0",
+                    "url": "https://files.catbox.moe/elzc6e.txt"
+                },
+                "UNIT-3(WITH QUESTIONS).pdf": {
+                    "name": "UNIT-3(WITH-QUESTIONS).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dffb9c418e59d47d9d4e028f899076dbbcf6fc4aUNIT-3%28WITH%20QUESTIONS%29.pdf",
+                    "url": "https://files.catbox.moe/lc4r5u.pdf"
+                },
+                "UNIT-2(3 PHASE AC).pdf": {
+                    "name": "UNIT-3(WITH-QUESTIONS).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dffb9c418e59d47d9d4e028f899076dbbcf6fc4aUNIT-3%28WITH%20QUESTIONS%29.pdf",
+                    "url": "https://files.catbox.moe/lc4r5u.pdf"
+                },
+                "UNIT-2(NETWORK ANALYSIS).pdf": {
+                    "name": "UNIT-2(NETWORK-ANALYSIS).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1a0bfe040242deff478f2f3a83ae28aa1ba3756bUNIT-2%28NETWORK%20ANALYSIS%29.pdf",
+                    "url": "https://files.catbox.moe/urbuan.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e4ee2c71a0a73a0c4a8c14286638c7c2073e47d4ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/7loj5j.pdf"
+                },
+                "Ankush, FEE notes Part-1.pdf": {
+                    "name": "Ankush,-FEE-notes-Part-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b822c42e383c06efbb4dc4133dfeed960c8be392Ankush%2C%20FEE%20notes%20Part-1.pdf",
+                    "url": "https://files.catbox.moe/0hqtc1.pdf"
+                },
+                "Mid Sem 2024 1.pdf": {
+                    "name": "Mid-Sem-2024-1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8b07293be31065e6793904d2c923df0f71084f21Mid%20Sem%202024%201.pdf",
+                    "url": "https://files.catbox.moe/stv5tk.pdf"
+                }
+            },
+            "Thermal-engineering---ll": {},
+            "Strength-of-Materials": {
+                "D. K. Singh - Strength of Materials-Springer (2020).pdf": {
+                    "name": "D.-K.-Singh---Strength-of-Materials-Springer-(2020).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6872ec0ceda63aab4d48dd3b20bf1c0750d47432D.%20K.%20Singh%20-%20Strength%20of%20Materials-Springer%20%282020%29.pdf",
+                    "url": "https://files.catbox.moe/mmtc8x.pdf"
+                },
+                "Ferdinand P. Beer, E. Russell Johnston Jr., John T. DeWolf, David F. Mazurek - Mechanics of Materials, 8th Edition (2020, McGraw-Hill) - libgen.lc.pdf": {
+                    "name": "Ferdinand-P.-Beer,-E.-Russell-Johnston-Jr.,-John-T.-DeWolf,-David-F.-Mazurek---Mechanics-of-Materials,-8th-Edition-(2020,-McGraw-Hill)---libgen.lc.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6b7d687d5f4bd843644e65c7844c5307ea458a2dFerdinand%20P.%20Beer%2C%20E.%20Russell%20Johnston%20Jr.%2C%20John%20T.%20DeWolf%2C%20David%20F.%20Mazurek%20-%20Mechanics%20of%20Materials%2C%208th%20Edition%20%282020%2C%20McGraw-Hill%29%20-%20libgen.lc.pdf",
+                    "url": "https://files.catbox.moe/do9xjp.pdf"
+                },
+                "G. H. Ryder M.A.(Cantab.), A.M.I.Mech.E. (auth.) - Strength of Materials-Macmillan Education UK (1969).pdf": {
+                    "name": "G.-H.-Ryder-M.A.(Cantab.),-A.M.I.Mech.E.-(auth.)---Strength-of-Materials-Macmillan-Education-UK-(1969).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a2e0f97f1aa6fa1cf0e801e53c143d1ea33678e4G.%20H.%20Ryder%20M.A.%28Cantab.%29%2C%20A.M.I.Mech.E.%20%28auth.%29%20-%20Strength%20of%20Materials-Macmillan%20Education%20UK%20%281969%29.pdf",
+                    "url": "https://files.catbox.moe/jqq8yj.pdf"
+                },
+                "Som(unit1).pdf": {
+                    "name": "Som(unit1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb12ed03ab04e9f0afde0a61cdc80214ecfaba52Som%28unit1%29.pdf",
+                    "url": "https://files.catbox.moe/k69mio.pdf"
+                },
+                "Som(unit2).pdf": {
+                    "name": "Som(unit2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a05ba0048ab573ea009436f74df8b47992ad77aaSom%28unit2%29.pdf",
+                    "url": "https://files.catbox.moe/ryg40t.pdf"
+                },
+                "Som(unit3&4).pdf": {
+                    "name": "Som(unit3&4).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dde857d99c770334c9a36733cc55ea5b1cf246c7Som%28unit3%264%29.pdf",
+                    "url": "https://files.catbox.moe/4dpcrz.pdf"
+                },
+                "SOM(unit5).pdf": {
+                    "name": "SOM(unit5).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/102637ce7386baccb7eb93ce67b31785c7e02e31SOM%28unit5%29.pdf",
+                    "url": "https://files.catbox.moe/qmd5yl.pdf"
+                },
+                "UNIT I_ som.pdf": {
+                    "name": "UNIT-I_-som.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1a60f65b096d9bbb928033522e8018be16dd5652UNIT%20I_%20som.pdf",
+                    "url": "https://files.catbox.moe/6wtg9o.pdf"
+                },
+                "UNIT II_som.pdf": {
+                    "name": "UNIT-II_som.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/170465441defe0c357e64f694060f2f2fca3d2e5UNIT%20II_som.pdf",
+                    "url": "https://files.catbox.moe/1k4qu7.pdf"
+                },
+                "UNIT III_ som.pdf": {
+                    "name": "UNIT-III_-som.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2d90f2b91f156023ec8c5c5ad162475dc0f1f8d4UNIT%20III_%20som.pdf",
+                    "url": "https://files.catbox.moe/3p8msg.pdf"
+                },
+                "UNIT IV_som.pdf": {
+                    "name": "UNIT-IV_som.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/17962fb62b6d145d5f659847741f722c632e0f1fUNIT%20IV_som.pdf",
+                    "url": "https://files.catbox.moe/3afgnu.pdf"
+                },
+                "UNIT V_som.pdf": {
+                    "name": "UNIT-V_som.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b0cd41d17104b8f789fea55334c300353d82eb5aUNIT%20V_som.pdf",
+                    "url": "https://files.catbox.moe/o3uai8.pdf"
+                },
+                "Bhavikatti, S. S - Mechanics of Solids-New Age International Pvt Ltd Publishers (2010).pdf": {
+                    "name": "Bhavikatti,-S.-S---Mechanics-of-Solids-New-Age-International-Pvt-Ltd-Publishers-(2010).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/187ce40e7a2d3dcbf4a48cafa4d33529349863ccBhavikatti%2C%20S.%20S%20-%20Mechanics%20of%20Solids-New%20Age%20International%20Pvt%20Ltd%20Publishers%20%282010%29.pdf",
+                    "url": "https://files.catbox.moe/wyktn7.pdf"
+                },
+                "STRENGTH-OF-MATERIALS- SK Mondal.pdf": {
+                    "name": "STRENGTH-OF-MATERIALS--SK-Mondal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2a3da171fef884b944074beb25ce2f76962c4949STRENGTH-OF-MATERIALS-%20SK%20Mondal.pdf",
+                    "url": "https://files.catbox.moe/1k68g4.pdf"
+                }
+            },
+            "Numerical-Method-and-Computation-": {
+                "NMC Unit 1,2,3 formulae.pdf": {
+                    "name": "NMC-Unit-1,2,3-formulae.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44ef2c481e110039e10c02887c78fcd7b1d2bbddNMC%20Unit%201%2C2%2C3%20formulae.pdf",
+                    "url": "https://files.catbox.moe/two1sr.pdf"
+                },
+                "NMC Unit 5 formulae.pdf": {
+                    "name": "NMC-Unit-5-formulae.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/594dc1c70d0e93f33c4a7e1f6a2110db42acbb19NMC%20Unit%205%20formulae.pdf",
+                    "url": "https://files.catbox.moe/241bpm.pdf"
+                },
+                "unit4.pdf": {
+                    "name": "unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/aa5d24ab918e56ca82006f0c4b8c3ad4817fb42funit4.pdf",
+                    "url": "https://files.catbox.moe/hkgete.pdf"
+                },
+                "TUTORIAL SHEET 1.pdf": {
+                    "name": "TUTORIAL-SHEET-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ef2f4413c50e903407a3bb9468742f6a152fb092TUTORIAL%20SHEET%201.pdf",
+                    "url": "https://files.catbox.moe/hqnhjm.pdf"
+                },
+                "S_R_K_Iyengar,_R_K_Jain_Numerical - By EasyEngineering.net (1).pdf": {
+                    "name": "S_R_K_Iyengar,_R_K_Jain_Numerical---By-EasyEngineering.net-(1).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/71bd3919888d04ab0fc8d84d2cfb16bfaa8e0899S_R_K_Iyengar%2C_R_K_Jain_Numerical%20-%20By%20EasyEngineering.net%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/u92ee7.pdf"
+                },
+                "NMC Unit 4.pdf": {
+                    "name": "NMC-Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7690ad3fd2200d04332101239329b89785cdc2d6NMC%20Unit%204.pdf",
+                    "url": "https://files.catbox.moe/ctz7hy.pdf"
+                },
+                "Unit-3 MEMTC04.pdf": {
+                    "name": "Unit-3-MEMTC04.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a57f3f727f04a4cd4efe1d7d2b3cb80b3681fdafUnit-3%20MEMTC04.pdf",
+                    "url": "https://files.catbox.moe/86d89u.pdf"
+                },
+                "unit-3 nmc suhani.pdf": {
+                    "name": "unit-3-nmc-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c4c3aebddb44cebd84a4efa037780ab215c13125unit-3%20nmc%20suhani.pdf",
+                    "url": "https://files.catbox.moe/vadecs.pdf"
+                },
+                "Unit-4 MEMTC04.pdf": {
+                    "name": "Unit-4-MEMTC04.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dcd96b3832ce8ed08b71e78bd315a5c42e0760e5Unit-4%20MEMTC04.pdf",
+                    "url": "https://files.catbox.moe/d5ob8k.pdf"
+                },
+                "unit-4 nmc class notes suhani.pdf": {
+                    "name": "unit-4-nmc-class-notes-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8f5ddad29ff30850ead0062b99bff61ae9d0db7unit-4%20nmc%20class%20notes%20suhani.pdf",
+                    "url": "https://files.catbox.moe/0j7wwv.pdf"
+                },
+                "unit-5 nmc class notes suhani.pdf": {
+                    "name": "unit-5-nmc-class-notes-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e7d90b3e729785f010595ec63558ab905d3cefd8unit-5%20nmc%20class%20notes%20suhani.pdf",
+                    "url": "https://files.catbox.moe/iaik78.pdf"
+                },
+                "Adaptive Quadrature.pdf": {
+                    "name": "Adaptive-Quadrature.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b85061063c6c467555004bd53ecd606107e14393Adaptive%20Quadrature.pdf",
+                    "url": "https://files.catbox.moe/c4k693.pdf"
+                },
+                "diksha notes.pdf": {
+                    "name": "diksha-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a465c4872407557ffe2f50448145a5f97069e88diksha%20notes.pdf",
+                    "url": "https://files.catbox.moe/axoxog.pdf"
+                },
+                "Gershgorin circle.pdf": {
+                    "name": "Gershgorin-circle.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/edcc85b18932667156d48358f7eff759b4f35db1Gershgorin%20circle.pdf",
+                    "url": "https://files.catbox.moe/2xsdbz.pdf"
+                },
+                "NMC_Rounaq Khandelwal.pdf": {
+                    "name": "NMC_Rounaq-Khandelwal.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/37f2920feb81fc34e1d7f26f3d4adb30b7cba986NMC_Rounaq%20Khandelwal.pdf",
+                    "url": "https://files.catbox.moe/d3qjzz.pdf"
+                },
+                "Optimal relaxation parameter.pdf": {
+                    "name": "Optimal-relaxation-parameter.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c62a11c2b5c0c4d588511042b0929da589ad7048Optimal%20relaxation%20parameter.pdf",
+                    "url": "https://files.catbox.moe/yo37q9.pdf"
+                },
+                "UNIT 1.pdf": {
+                    "name": "UNIT-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f52b29f96d0e8e5fc24774a4bef458034c360651UNIT%201.pdf",
+                    "url": "https://files.catbox.moe/ov3up3.pdf"
+                }
+            },
+            "Manufacturing-Processes-1": {
+                "27th Aug24 MOULDING.pdf": {
+                    "name": "27th-Aug24-MOULDING.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0c4777171fe06cc478e401caf84806d7fdff26bc27th%20Aug24%20MOULDING.pdf",
+                    "url": "https://files.catbox.moe/86sg8l.pdf"
+                },
+                "Manufacturing Unit 3-5.pdf": {
+                    "name": "Manufacturing-Unit-3-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a4ce39613d80ca26e3371efc7281ed63fdaa31bManufacturing%20Unit%203-5.pdf",
+                    "url": "https://files.catbox.moe/wb5lu5.pdf"
+                },
+                "Powder metallurgy.pdf": {
+                    "name": "Powder-metallurgy.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01cf82c9b5937b4d0a4d607c30e7fa398a99d6dfPowder%20metallurgy.pdf",
+                    "url": "https://files.catbox.moe/z25jr5.pdf"
+                },
+                "14th Aug24 Pattern.pdf": {
+                    "name": "14th-Aug24-Pattern.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/84a712410b0702d3d2bcf6b311a012d917aa6a9714th%20Aug24%20Pattern.pdf",
+                    "url": "https://files.catbox.moe/rkac52.pdf"
+                },
+                "14thAug24Casting.pdf": {
+                    "name": "14thAug24Casting.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1665a5706627bf75378e87864e0257ddef7d91f414thAug24Casting.pdf",
+                    "url": "https://files.catbox.moe/t5o65j.pdf"
+                },
+                "14thAug24MP-1 Lecure Notes.pdf": {
+                    "name": "14thAug24MP-1-Lecure-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a2c09bc8cdcf538dd8f509b5acb294dfae667bae14thAug24MP-1%20Lecure%20Notes.pdf",
+                    "url": "https://files.catbox.moe/1vvlev.pdf"
+                },
+                "manufacturingtechnology-vol-1-p-n-rao.pdf": {
+                    "name": "manufacturingtechnology-vol-1-p-n-rao.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e25d8e5e5f5f8eeb811051be3bf234622014b34manufacturingtechnology-vol-1-p-n-rao.pdf",
+                    "url": "https://files.catbox.moe/sge05t.pdf"
+                },
+                "Ferrous Material notes by SK sir.pdf": {
+                    "name": "Ferrous-Material-notes-by-SK-sir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/415906f1f58140cc9648e3b1f1339bf64b2ccf77Ferrous%20Material%20notes%20by%20SK%20sir.pdf",
+                    "url": "https://files.catbox.moe/hdllcu.pdf"
+                },
+                "Manufacturing Processes Unit 1 Notes by SK Sir.pdf": {
+                    "name": "Manufacturing-Processes-Unit-1-Notes-by-SK-Sir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c5156c3aea6489227d7502a33f079872121902fdManufacturing%20Processes%20Unit%201%20Notes%20by%20SK%20Sir.pdf",
+                    "url": "https://files.catbox.moe/hgxlb4.pdf"
+                },
+                "Manufacturing Unit 4.pdf": {
+                    "name": "Manufacturing-Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb7a7ede2e91f8d514b70be678e928c85728f76aManufacturing%20Unit%204.pdf",
+                    "url": "https://files.catbox.moe/pxa2zq.pdf"
+                },
+                "Manufacturing Unit 5.pdf": {
+                    "name": "Manufacturing-Unit-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7f9b4f7b7f70cc70269d7a7cdc8b8778ef453cf3Manufacturing%20Unit%205.pdf",
+                    "url": "https://files.catbox.moe/pas414.pdf"
+                },
+                "MP UNIT 1.pdf": {
+                    "name": "MP-UNIT-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fc803dc9bd6508bc5467e08668fd0d7821ef664aMP%20UNIT%201.pdf",
+                    "url": "https://files.catbox.moe/whnjfm.pdf"
+                },
+                "MP-1 Notes.pdf": {
+                    "name": "MP-1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/317a8d724da71884e73bd702e8ac569419edbfe5MP-1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/yc168l.pdf"
+                },
+                "Manufacturing Processes For Engineering - Serope Kalpakjian .pdf": {
+                    "name": "Manufacturing-Processes-For-Engineering---Serope-Kalpakjian-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bd45f69150f553ab5c2fe4825ca9c169d14d74feManufacturing%20Processes%20For%20Engineering%20-%20Serope%20Kalpakjian%20.pdf",
+                    "url": "https://files.catbox.moe/exgi32.pdf"
+                }
             }
         },
         "GI": {
@@ -30051,7 +30799,116 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "advance-surveying-": {},
+            "Building-material-and-construction-": {},
+            "Numerical-Method-and-Computation-": {
+                "NMC Unit 1,2,3 formulae.pdf": {
+                    "name": "NMC-Unit-1,2,3-formulae.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44ef2c481e110039e10c02887c78fcd7b1d2bbddNMC%20Unit%201%2C2%2C3%20formulae.pdf",
+                    "url": "https://files.catbox.moe/two1sr.pdf"
+                },
+                "NMC Unit 5 formulae.pdf": {
+                    "name": "NMC-Unit-5-formulae.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/594dc1c70d0e93f33c4a7e1f6a2110db42acbb19NMC%20Unit%205%20formulae.pdf",
+                    "url": "https://files.catbox.moe/241bpm.pdf"
+                },
+                "unit4.pdf": {
+                    "name": "unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/aa5d24ab918e56ca82006f0c4b8c3ad4817fb42funit4.pdf",
+                    "url": "https://files.catbox.moe/hkgete.pdf"
+                },
+                "TUTORIAL SHEET 1.pdf": {
+                    "name": "TUTORIAL-SHEET-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ef2f4413c50e903407a3bb9468742f6a152fb092TUTORIAL%20SHEET%201.pdf",
+                    "url": "https://files.catbox.moe/hqnhjm.pdf"
+                },
+                "S_R_K_Iyengar,_R_K_Jain_Numerical - By EasyEngineering.net (1).pdf": {
+                    "name": "S_R_K_Iyengar,_R_K_Jain_Numerical---By-EasyEngineering.net-(1).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/71bd3919888d04ab0fc8d84d2cfb16bfaa8e0899S_R_K_Iyengar%2C_R_K_Jain_Numerical%20-%20By%20EasyEngineering.net%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/u92ee7.pdf"
+                },
+                "NMC Unit 4.pdf": {
+                    "name": "NMC-Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7690ad3fd2200d04332101239329b89785cdc2d6NMC%20Unit%204.pdf",
+                    "url": "https://files.catbox.moe/ctz7hy.pdf"
+                },
+                "Unit-3 MEMTC04.pdf": {
+                    "name": "Unit-3-MEMTC04.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a57f3f727f04a4cd4efe1d7d2b3cb80b3681fdafUnit-3%20MEMTC04.pdf",
+                    "url": "https://files.catbox.moe/86d89u.pdf"
+                },
+                "unit-3 nmc suhani.pdf": {
+                    "name": "unit-3-nmc-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c4c3aebddb44cebd84a4efa037780ab215c13125unit-3%20nmc%20suhani.pdf",
+                    "url": "https://files.catbox.moe/vadecs.pdf"
+                },
+                "Unit-4 MEMTC04.pdf": {
+                    "name": "Unit-4-MEMTC04.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dcd96b3832ce8ed08b71e78bd315a5c42e0760e5Unit-4%20MEMTC04.pdf",
+                    "url": "https://files.catbox.moe/d5ob8k.pdf"
+                },
+                "unit-4 nmc class notes suhani.pdf": {
+                    "name": "unit-4-nmc-class-notes-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8f5ddad29ff30850ead0062b99bff61ae9d0db7unit-4%20nmc%20class%20notes%20suhani.pdf",
+                    "url": "https://files.catbox.moe/0j7wwv.pdf"
+                },
+                "unit-5 nmc class notes suhani.pdf": {
+                    "name": "unit-5-nmc-class-notes-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e7d90b3e729785f010595ec63558ab905d3cefd8unit-5%20nmc%20class%20notes%20suhani.pdf",
+                    "url": "https://files.catbox.moe/iaik78.pdf"
+                },
+                "Adaptive Quadrature.pdf": {
+                    "name": "Adaptive-Quadrature.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b85061063c6c467555004bd53ecd606107e14393Adaptive%20Quadrature.pdf",
+                    "url": "https://files.catbox.moe/c4k693.pdf"
+                },
+                "diksha notes.pdf": {
+                    "name": "diksha-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a465c4872407557ffe2f50448145a5f97069e88diksha%20notes.pdf",
+                    "url": "https://files.catbox.moe/axoxog.pdf"
+                },
+                "Gershgorin circle.pdf": {
+                    "name": "Gershgorin-circle.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/edcc85b18932667156d48358f7eff759b4f35db1Gershgorin%20circle.pdf",
+                    "url": "https://files.catbox.moe/2xsdbz.pdf"
+                },
+                "NMC_Rounaq Khandelwal.pdf": {
+                    "name": "NMC_Rounaq-Khandelwal.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/37f2920feb81fc34e1d7f26f3d4adb30b7cba986NMC_Rounaq%20Khandelwal.pdf",
+                    "url": "https://files.catbox.moe/d3qjzz.pdf"
+                },
+                "Optimal relaxation parameter.pdf": {
+                    "name": "Optimal-relaxation-parameter.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c62a11c2b5c0c4d588511042b0929da589ad7048Optimal%20relaxation%20parameter.pdf",
+                    "url": "https://files.catbox.moe/yo37q9.pdf"
+                },
+                "UNIT 1.pdf": {
+                    "name": "UNIT-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f52b29f96d0e8e5fc24774a4bef458034c360651UNIT%201.pdf",
+                    "url": "https://files.catbox.moe/ov3up3.pdf"
+                }
+            },
+            "Geographical-information-system": {},
+            "geology-and-geomorphology-": {},
+            "Signals-and-Systems": {}
         },
         "CIVIL": {
             "EG-&-CAD": {
@@ -31773,6 +32630,12 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/187ce40e7a2d3dcbf4a48cafa4d33529349863ccBhavikatti%2C%20S.%20S%20-%20Mechanics%20of%20Solids-New%20Age%20International%20Pvt%20Ltd%20Publishers%20%282010%29.pdf",
                     "url": "https://files.catbox.moe/wyktn7.pdf"
+                },
+                "STRENGTH-OF-MATERIALS- SK Mondal.pdf": {
+                    "name": "STRENGTH-OF-MATERIALS--SK-Mondal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2a3da171fef884b944074beb25ce2f76962c4949STRENGTH-OF-MATERIALS-%20SK%20Mondal.pdf",
+                    "url": "https://files.catbox.moe/1k68g4.pdf"
                 }
             },
             "Basic-Fluid-Mechanics": {},
@@ -32017,7 +32880,115 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 }
-            }
+            },
+            "Building-material-and-construction-": {},
+            "advance-surveying-": {},
+            "Structural-analysis": {},
+            "Numerical-Method-and-Computation-": {
+                "NMC Unit 1,2,3 formulae.pdf": {
+                    "name": "NMC-Unit-1,2,3-formulae.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44ef2c481e110039e10c02887c78fcd7b1d2bbddNMC%20Unit%201%2C2%2C3%20formulae.pdf",
+                    "url": "https://files.catbox.moe/two1sr.pdf"
+                },
+                "NMC Unit 5 formulae.pdf": {
+                    "name": "NMC-Unit-5-formulae.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/594dc1c70d0e93f33c4a7e1f6a2110db42acbb19NMC%20Unit%205%20formulae.pdf",
+                    "url": "https://files.catbox.moe/241bpm.pdf"
+                },
+                "unit4.pdf": {
+                    "name": "unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/aa5d24ab918e56ca82006f0c4b8c3ad4817fb42funit4.pdf",
+                    "url": "https://files.catbox.moe/hkgete.pdf"
+                },
+                "TUTORIAL SHEET 1.pdf": {
+                    "name": "TUTORIAL-SHEET-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ef2f4413c50e903407a3bb9468742f6a152fb092TUTORIAL%20SHEET%201.pdf",
+                    "url": "https://files.catbox.moe/hqnhjm.pdf"
+                },
+                "S_R_K_Iyengar,_R_K_Jain_Numerical - By EasyEngineering.net (1).pdf": {
+                    "name": "S_R_K_Iyengar,_R_K_Jain_Numerical---By-EasyEngineering.net-(1).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/71bd3919888d04ab0fc8d84d2cfb16bfaa8e0899S_R_K_Iyengar%2C_R_K_Jain_Numerical%20-%20By%20EasyEngineering.net%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/u92ee7.pdf"
+                },
+                "NMC Unit 4.pdf": {
+                    "name": "NMC-Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7690ad3fd2200d04332101239329b89785cdc2d6NMC%20Unit%204.pdf",
+                    "url": "https://files.catbox.moe/ctz7hy.pdf"
+                },
+                "Unit-3 MEMTC04.pdf": {
+                    "name": "Unit-3-MEMTC04.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a57f3f727f04a4cd4efe1d7d2b3cb80b3681fdafUnit-3%20MEMTC04.pdf",
+                    "url": "https://files.catbox.moe/86d89u.pdf"
+                },
+                "unit-3 nmc suhani.pdf": {
+                    "name": "unit-3-nmc-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c4c3aebddb44cebd84a4efa037780ab215c13125unit-3%20nmc%20suhani.pdf",
+                    "url": "https://files.catbox.moe/vadecs.pdf"
+                },
+                "Unit-4 MEMTC04.pdf": {
+                    "name": "Unit-4-MEMTC04.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dcd96b3832ce8ed08b71e78bd315a5c42e0760e5Unit-4%20MEMTC04.pdf",
+                    "url": "https://files.catbox.moe/d5ob8k.pdf"
+                },
+                "unit-4 nmc class notes suhani.pdf": {
+                    "name": "unit-4-nmc-class-notes-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8f5ddad29ff30850ead0062b99bff61ae9d0db7unit-4%20nmc%20class%20notes%20suhani.pdf",
+                    "url": "https://files.catbox.moe/0j7wwv.pdf"
+                },
+                "unit-5 nmc class notes suhani.pdf": {
+                    "name": "unit-5-nmc-class-notes-suhani.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e7d90b3e729785f010595ec63558ab905d3cefd8unit-5%20nmc%20class%20notes%20suhani.pdf",
+                    "url": "https://files.catbox.moe/iaik78.pdf"
+                },
+                "Adaptive Quadrature.pdf": {
+                    "name": "Adaptive-Quadrature.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b85061063c6c467555004bd53ecd606107e14393Adaptive%20Quadrature.pdf",
+                    "url": "https://files.catbox.moe/c4k693.pdf"
+                },
+                "diksha notes.pdf": {
+                    "name": "diksha-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a465c4872407557ffe2f50448145a5f97069e88diksha%20notes.pdf",
+                    "url": "https://files.catbox.moe/axoxog.pdf"
+                },
+                "Gershgorin circle.pdf": {
+                    "name": "Gershgorin-circle.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/edcc85b18932667156d48358f7eff759b4f35db1Gershgorin%20circle.pdf",
+                    "url": "https://files.catbox.moe/2xsdbz.pdf"
+                },
+                "NMC_Rounaq Khandelwal.pdf": {
+                    "name": "NMC_Rounaq-Khandelwal.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/37f2920feb81fc34e1d7f26f3d4adb30b7cba986NMC_Rounaq%20Khandelwal.pdf",
+                    "url": "https://files.catbox.moe/d3qjzz.pdf"
+                },
+                "Optimal relaxation parameter.pdf": {
+                    "name": "Optimal-relaxation-parameter.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c62a11c2b5c0c4d588511042b0929da589ad7048Optimal%20relaxation%20parameter.pdf",
+                    "url": "https://files.catbox.moe/yo37q9.pdf"
+                },
+                "UNIT 1.pdf": {
+                    "name": "UNIT-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f52b29f96d0e8e5fc24774a4bef458034c360651UNIT%201.pdf",
+                    "url": "https://files.catbox.moe/ov3up3.pdf"
+                }
+            },
+            "Geographical-information-system": {}
         },
         "MAC": {
             "Electronics-&-Communication-": {
