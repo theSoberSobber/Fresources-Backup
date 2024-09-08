@@ -7491,6 +7491,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
                     "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
                 }
             },
             "Network-Analysis-&-Synthesis": {
@@ -12191,7 +12227,26 @@
             "Power-Apparatus": {},
             "Digital-Circuits-and-Systems": {},
             "Electronic-Instrumentation": {},
-            "Engineering-Mathematics": {}
+            "Engineering-Mathematics": {
+                "MATH-3 UNIT-1 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-1-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2f9d386c8135651b25c51ad69b514ab8f26a27c8MATH-3%20UNIT-1%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/s2htuy.pdf"
+                },
+                "MATH-3 UNIT-2 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-2-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e75e20ea3885ac1d0d3d1e69c314c74e0cbbb8b8MATH-3%20UNIT-2%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/b54o9h.pdf"
+                },
+                "MATH-3 UNIT-3 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-3-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/315d22deea90b351278b35151766f924cd863beeMATH-3%20UNIT-3%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/e3oilk.pdf"
+                }
+            }
         },
         "ECAM": {
             "English": {
@@ -13324,6 +13379,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
                     "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
                 }
             },
             "Electronics-Devices-&-Circuits": {
@@ -16437,6 +16528,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
                     "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
                 }
             },
             "Electronics-Devices-&-Circuits": {
@@ -19204,10 +19331,116 @@
                     "url": "https://files.catbox.moe/z9izxc.pdf"
                 }
             },
-            "computational-methods-in-electrical-eng": {},
-            "Electrical-circuit-theory-and-analysis": {},
-            "Electric-machines-1": {},
-            "Engineering-Mathematics": {},
+            "computational-methods-in-electrical-eng": {
+                "CM Unit-1 ANKUSH.pdf": {
+                    "name": "CM-Unit-1-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7acc64da76f65a4cf58ea10b65354cc726d66df5CM%20Unit-1%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/wfs85b.pdf"
+                }
+            },
+            "Electrical-circuit-theory-and-analysis": {
+                "AC Fundamentals 2.pdf": {
+                    "name": "AC-Fundamentals-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4ceff9eb0e2a6bf209e6431fd14cf0c90867639aAC%20Fundamentals%202.pdf",
+                    "url": "https://files.catbox.moe/usckyx.pdf"
+                },
+                " RLC ckt_Calculation.pdf": {
+                    "name": "-RLC-ckt_Calculation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a5d493b493b4bd69d83794c8f2ca87a8c7bac861%20RLC%20ckt_Calculation.pdf",
+                    "url": "https://files.catbox.moe/3rz1ut.pdf"
+                },
+                "RLC ckts & Resonance.pdf": {
+                    "name": "RLC-ckts-&-Resonance.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea39d8c509e7b47aac43186c7ac428e8ea719eabRLC%20ckts%20%26%20Resonance.pdf",
+                    "url": "https://files.catbox.moe/ew9hcu.pdf"
+                },
+                "dot convention.pdf": {
+                    "name": "dot-convention.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/13497b2ef981faf9ee8a7beccbc811db007fff28dot%20convention.pdf",
+                    "url": "https://files.catbox.moe/7zw82k.pdf"
+                },
+                "3 Ph - circuit.pdf": {
+                    "name": "3-Ph---circuit.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7ef8ed7c161c0122e13dd9185b22deca8c3252a3%20Ph%20-%20circuit.pdf",
+                    "url": "https://files.catbox.moe/nt7zg6.pdf"
+                },
+                "states_elements.pdf": {
+                    "name": "states_elements.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a134322f07b4abcf5f54a556e9a64036201ebc26states_elements.pdf",
+                    "url": "https://files.catbox.moe/ybqq9e.pdf"
+                },
+                "1st&2nd ord diff eq.pdf": {
+                    "name": "1st&2nd-ord-diff-eq.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9957fc345876c36f4b3a2c25e34cbecaa73b7e9a1st%262nd%20ord%20diff%20eq.pdf",
+                    "url": "https://files.catbox.moe/2qhves.pdf"
+                },
+                "ECT UNIT-1 notes ANKUSH.pdf": {
+                    "name": "ECT-UNIT-1-notes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c92219671f594da1f7b4473b2cd22934ff897eeECT%20UNIT-1%20notes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/2mnoed.pdf"
+                }
+            },
+            "Electric-machines-1": {
+                "EM UNIT-1 part-1 ANKUSH.pdf": {
+                    "name": "EM-UNIT-1-part-1-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9de17d8351ba65ea288cd799f774bd6d4767f088EM%20UNIT-1%20part-1%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/g5r8i6.pdf"
+                },
+                "EM UNIT-1 part-2 ANKUSH.pdf": {
+                    "name": "EM-UNIT-1-part-2-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85392b38f1a5bfdf47b3349c10e354819e10e7c1EM%20UNIT-1%20part-2%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/vr0fqe.pdf"
+                },
+                "EM UNIT-2 ppt ANKUSH.pdf": {
+                    "name": "EM-UNIT-2-ppt-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dc26a6d0c0c70001b579bdfb52fc6ba31c787adaEM%20UNIT-2%20ppt%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/zypm2w.pdf"
+                },
+                "EM-1 UNIT-2 notes ANKUSH.pdf": {
+                    "name": "EM-1-UNIT-2-notes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5127378fed0209547520516ee401483988f9d5cfEM-1%20UNIT-2%20notes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/0zgr1w.pdf"
+                },
+                "EM UNIT-2 Assignment ANKUSH.pdf": {
+                    "name": "EM-UNIT-2-Assignment-ANKUSH.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/57e3c734bd3c9576b5ad04d3f728ec19a25f79f4EM%20UNIT-2%20Assignment%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/2usmfl.pdf"
+                }
+            },
+            "Engineering-Mathematics": {
+                "MATH-3 UNIT-1 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-1-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2f9d386c8135651b25c51ad69b514ab8f26a27c8MATH-3%20UNIT-1%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/s2htuy.pdf"
+                },
+                "MATH-3 UNIT-2 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-2-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e75e20ea3885ac1d0d3d1e69c314c74e0cbbb8b8MATH-3%20UNIT-2%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/b54o9h.pdf"
+                },
+                "MATH-3 UNIT-3 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-3-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/315d22deea90b351278b35151766f924cd863beeMATH-3%20UNIT-3%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/e3oilk.pdf"
+                }
+            },
             "Data-Structure-&-Algorithms": {
                 "DS HANDWRITEN NOTES.pdf": {
                     "name": "DS-HANDWRITEN-NOTES.pdf",
@@ -19508,6 +19741,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
                     "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
                 }
             }
         },
@@ -21440,6 +21709,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
                     "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
                 }
             },
             "Discrete-Structure": {
@@ -26516,6 +26821,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
                     "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
                 }
             }
         },
@@ -34949,7 +35290,26 @@
             "Probability-&-Statistics": {},
             "Database-Management-System": {},
             "Digital-Logic-Design": {},
-            "Engineering-Mathematics": {}
+            "Engineering-Mathematics": {
+                "MATH-3 UNIT-1 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-1-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2f9d386c8135651b25c51ad69b514ab8f26a27c8MATH-3%20UNIT-1%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/s2htuy.pdf"
+                },
+                "MATH-3 UNIT-2 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-2-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e75e20ea3885ac1d0d3d1e69c314c74e0cbbb8b8MATH-3%20UNIT-2%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/b54o9h.pdf"
+                },
+                "MATH-3 UNIT-3 ANKUSH.pdf": {
+                    "name": "MATH-3-UNIT-3-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/315d22deea90b351278b35151766f924cd863beeMATH-3%20UNIT-3%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/e3oilk.pdf"
+                }
+            }
         },
         "IT": {
             "Maths---1": {
