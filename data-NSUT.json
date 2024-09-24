@@ -1773,6 +1773,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Discrete-Structure": {
@@ -2081,13 +2129,80 @@
                     "url": "https://files.catbox.moe/5kgq6i.pdf"
                 }
             },
-            "Design-and-Analysis-of-Algorithms": {},
+            "Design-and-Analysis-of-Algorithms": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
+                    "url": "https://files.catbox.moe/a60g1w"
+                }
+            },
             "Database-Management-System": {
                 "Fundamentals_of_Database_Systems_6th_Edition-1.pdf": {
                     "name": "Fundamentals_of_Database_Systems_6th_Edition-1.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f43a13444aeb0a6c307fb696ee4ef405555c3cbcFundamentals_of_Database_Systems_6th_Edition-1.pdf",
                     "url": "https://files.catbox.moe/ov5xjp.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/aa6bcb3b0ec88d2d5b4beacd6954bbdad99cc10fIMG_20240923_090627.jpg",
+                    "url": "https://files.catbox.moe/0eztzf"
+                },
+                "PHOTO-2024-09-13-17-20-41 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a073b6d1ea6f6e7898ba08bc7313e1f5b9bce6c9PHOTO-2024-09-13-17-20-41%203.jpg",
+                    "url": "https://files.catbox.moe/v7kj2c.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-41 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ad6df80582c641303c71ff589cc280b5a34e222PHOTO-2024-09-13-17-20-41%202.jpg",
+                    "url": "https://files.catbox.moe/wlqmel.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8ef8127fced999862dd3291af83329318670a010PHOTO-2024-09-13-17-20-43.jpg",
+                    "url": "https://files.catbox.moe/de9cn7.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e4c2fdea82a95fe75da60dd2f57c60b80aaec0a6PHOTO-2024-09-13-17-20-43%203.jpg",
+                    "url": "https://files.catbox.moe/3569o1.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4427bda5d80edafdf97c31f39b3fd1e276f8556aPHOTO-2024-09-13-17-20-43%202.jpg",
+                    "url": "https://files.catbox.moe/yzo7up.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8045754fcdab4958856f532bbd98c34af0806f28PHOTO-2024-09-13-17-20-42.jpg",
+                    "url": "https://files.catbox.moe/414ibr.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d4d36007e6fdc93cf08ef53846b2c90f8cf0d9aPHOTO-2024-09-13-17-20-42%203.jpg",
+                    "url": "https://files.catbox.moe/sdvd18.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f3967574920863212b2c7cd2bb7c5ade0d907946PHOTO-2024-09-13-17-20-42%202.jpg",
+                    "url": "https://files.catbox.moe/sa0lrs.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-41.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1e086b38a2c8e28354faa3ca9aded77e08f92bPHOTO-2024-09-13-17-20-41.jpg",
+                    "url": "https://files.catbox.moe/n2m113.jpg"
                 }
             },
             "Probability-&-Statistics": {
@@ -2096,11 +2211,97 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8d7175659b6765adaf174bfe8fae072cf2b6a35FUNDAMENTAL%20OF%20MATHEMATICAL%20STATISTICS-S%20C%20GUPTA%20-%20V%20K%20KAPOOR.pdf",
                     "url": "https://files.catbox.moe/gl7kin.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16c537c0155bb3249d4f549b515aac60608d7b92IMG_20240923_092255.jpg",
+                    "url": "https://files.catbox.moe/qgypzg"
+                },
+                "PHOTO-2024-09-18-18-34-22 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32d08fd525527fdf9b9925388241ba3dbaa1cd00PHOTO-2024-09-18-18-34-22%202.jpg",
+                    "url": "https://files.catbox.moe/5g6bzr.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/adec798bb0ab44b86589874247ff62546d70b6fdPHOTO-2024-09-18-18-34-23%202.jpg",
+                    "url": "https://files.catbox.moe/ej88pg.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad9fa325ec4789a9228771f64bd95d3d3743e339PHOTO-2024-09-18-18-34-23%203.jpg",
+                    "url": "https://files.catbox.moe/7te5mx.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f2c338387912a02853e5ac1a831cbffa379175aPHOTO-2024-09-18-18-34-24%202.jpg",
+                    "url": "https://files.catbox.moe/rgn14c.jpg"
+                },
+                "PHOTO-2024-09-19-00-14-01.jpg": {
+                    "name": "PHOTO-2024-09-19-00-14-01.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fa98d64d6e46642fbe20acc745ccb4816d479813PHOTO-2024-09-19-00-14-01.jpg",
+                    "url": "https://files.catbox.moe/aj5ta9.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-25.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c148685059b731a8069add564986523bd80e1fdfPHOTO-2024-09-18-18-34-25.jpg",
+                    "url": "https://files.catbox.moe/vzc1sa.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d98022be4e2cd544702e347297210292c5374f38PHOTO-2024-09-18-18-34-24.jpg",
+                    "url": "https://files.catbox.moe/qxgva4.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 4.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-4.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ea2eed28f6e8e2c329641c4635c4da5f646e9f8PHOTO-2024-09-18-18-34-24%204.jpg",
+                    "url": "https://files.catbox.moe/knbcid.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c2d181d55d4a0725d0f4c5670c9fd7a7772c5d1PHOTO-2024-09-18-18-34-24%203.jpg",
+                    "url": "https://files.catbox.moe/4t5f2h.jpg"
+                },
+                "P&S.pdf": {
+                    "name": "P&S.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
+                    "url": "https://files.catbox.moe/nw2vc2.pdf"
                 }
             },
             "web-technology": {},
-            "Operating-Systems": {},
-            "Computer-Architecture-&-Organization": {}
+            "Operating-Systems": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7c43dad3ff3688900ac82e873874b8ae22f618DOC-20240923-WA0010..pdf",
+                    "url": "https://files.catbox.moe/29zdt8"
+                }
+            },
+            "Computer-Architecture-&-Organization": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a8a2da0fffb49642d6764eaf4c8fdebfd321b82bIMG_20240923_090236.jpg",
+                    "url": "https://files.catbox.moe/zzenxv"
+                }
+            }
         },
         "CSDS": {
             "Electronics-&-Communication-": {
@@ -3875,6 +4076,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Discrete-Structure": {
@@ -4184,15 +4433,101 @@
                 }
             },
             "Database-Management-System": {},
-            "Design-and-Analysis-of-Algorithms": {},
+            "Design-and-Analysis-of-Algorithms": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
+                    "url": "https://files.catbox.moe/a60g1w"
+                }
+            },
             "web-technology": {},
-            "Computer-Architecture-&-Organization": {},
+            "Computer-Architecture-&-Organization": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a8a2da0fffb49642d6764eaf4c8fdebfd321b82bIMG_20240923_090236.jpg",
+                    "url": "https://files.catbox.moe/zzenxv"
+                }
+            },
             "Probability-&-Statistics": {
                 "FUNDAMENTAL OF MATHEMATICAL STATISTICS-S C GUPTA - V K KAPOOR.pdf": {
                     "name": "FUNDAMENTAL-OF-MATHEMATICAL-STATISTICS-S-C-GUPTA---V-K-KAPOOR.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8d7175659b6765adaf174bfe8fae072cf2b6a35FUNDAMENTAL%20OF%20MATHEMATICAL%20STATISTICS-S%20C%20GUPTA%20-%20V%20K%20KAPOOR.pdf",
                     "url": "https://files.catbox.moe/gl7kin.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16c537c0155bb3249d4f549b515aac60608d7b92IMG_20240923_092255.jpg",
+                    "url": "https://files.catbox.moe/qgypzg"
+                },
+                "PHOTO-2024-09-18-18-34-22 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32d08fd525527fdf9b9925388241ba3dbaa1cd00PHOTO-2024-09-18-18-34-22%202.jpg",
+                    "url": "https://files.catbox.moe/5g6bzr.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/adec798bb0ab44b86589874247ff62546d70b6fdPHOTO-2024-09-18-18-34-23%202.jpg",
+                    "url": "https://files.catbox.moe/ej88pg.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad9fa325ec4789a9228771f64bd95d3d3743e339PHOTO-2024-09-18-18-34-23%203.jpg",
+                    "url": "https://files.catbox.moe/7te5mx.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f2c338387912a02853e5ac1a831cbffa379175aPHOTO-2024-09-18-18-34-24%202.jpg",
+                    "url": "https://files.catbox.moe/rgn14c.jpg"
+                },
+                "PHOTO-2024-09-19-00-14-01.jpg": {
+                    "name": "PHOTO-2024-09-19-00-14-01.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fa98d64d6e46642fbe20acc745ccb4816d479813PHOTO-2024-09-19-00-14-01.jpg",
+                    "url": "https://files.catbox.moe/aj5ta9.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-25.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c148685059b731a8069add564986523bd80e1fdfPHOTO-2024-09-18-18-34-25.jpg",
+                    "url": "https://files.catbox.moe/vzc1sa.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d98022be4e2cd544702e347297210292c5374f38PHOTO-2024-09-18-18-34-24.jpg",
+                    "url": "https://files.catbox.moe/qxgva4.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 4.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-4.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ea2eed28f6e8e2c329641c4635c4da5f646e9f8PHOTO-2024-09-18-18-34-24%204.jpg",
+                    "url": "https://files.catbox.moe/knbcid.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c2d181d55d4a0725d0f4c5670c9fd7a7772c5d1PHOTO-2024-09-18-18-34-24%203.jpg",
+                    "url": "https://files.catbox.moe/4t5f2h.jpg"
+                },
+                "P&S.pdf": {
+                    "name": "P&S.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
+                    "url": "https://files.catbox.moe/nw2vc2.pdf"
                 }
             }
         },
@@ -5989,6 +6324,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Data-Structure": {
@@ -6277,10 +6660,31 @@
                     "url": "https://files.catbox.moe/5kgq6i.pdf"
                 }
             },
-            "Operating-Systems": {},
+            "Operating-Systems": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7c43dad3ff3688900ac82e873874b8ae22f618DOC-20240923-WA0010..pdf",
+                    "url": "https://files.catbox.moe/29zdt8"
+                }
+            },
             "Database-Management-System": {},
-            "Design-and-Analysis-of-Algorithms": {},
-            "Computer-Architecture-&-Organization": {},
+            "Design-and-Analysis-of-Algorithms": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
+                    "url": "https://files.catbox.moe/a60g1w"
+                }
+            },
+            "Computer-Architecture-&-Organization": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a8a2da0fffb49642d6764eaf4c8fdebfd321b82bIMG_20240923_090236.jpg",
+                    "url": "https://files.catbox.moe/zzenxv"
+                }
+            },
             "Microprocessor-and-microcontrollers-": {},
             "Probability-&-Statistics": {
                 "FUNDAMENTAL OF MATHEMATICAL STATISTICS-S C GUPTA - V K KAPOOR.pdf": {
@@ -6288,6 +6692,78 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8d7175659b6765adaf174bfe8fae072cf2b6a35FUNDAMENTAL%20OF%20MATHEMATICAL%20STATISTICS-S%20C%20GUPTA%20-%20V%20K%20KAPOOR.pdf",
                     "url": "https://files.catbox.moe/gl7kin.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16c537c0155bb3249d4f549b515aac60608d7b92IMG_20240923_092255.jpg",
+                    "url": "https://files.catbox.moe/qgypzg"
+                },
+                "PHOTO-2024-09-18-18-34-22 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32d08fd525527fdf9b9925388241ba3dbaa1cd00PHOTO-2024-09-18-18-34-22%202.jpg",
+                    "url": "https://files.catbox.moe/5g6bzr.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/adec798bb0ab44b86589874247ff62546d70b6fdPHOTO-2024-09-18-18-34-23%202.jpg",
+                    "url": "https://files.catbox.moe/ej88pg.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad9fa325ec4789a9228771f64bd95d3d3743e339PHOTO-2024-09-18-18-34-23%203.jpg",
+                    "url": "https://files.catbox.moe/7te5mx.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f2c338387912a02853e5ac1a831cbffa379175aPHOTO-2024-09-18-18-34-24%202.jpg",
+                    "url": "https://files.catbox.moe/rgn14c.jpg"
+                },
+                "PHOTO-2024-09-19-00-14-01.jpg": {
+                    "name": "PHOTO-2024-09-19-00-14-01.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fa98d64d6e46642fbe20acc745ccb4816d479813PHOTO-2024-09-19-00-14-01.jpg",
+                    "url": "https://files.catbox.moe/aj5ta9.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-25.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c148685059b731a8069add564986523bd80e1fdfPHOTO-2024-09-18-18-34-25.jpg",
+                    "url": "https://files.catbox.moe/vzc1sa.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d98022be4e2cd544702e347297210292c5374f38PHOTO-2024-09-18-18-34-24.jpg",
+                    "url": "https://files.catbox.moe/qxgva4.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 4.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-4.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ea2eed28f6e8e2c329641c4635c4da5f646e9f8PHOTO-2024-09-18-18-34-24%204.jpg",
+                    "url": "https://files.catbox.moe/knbcid.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c2d181d55d4a0725d0f4c5670c9fd7a7772c5d1PHOTO-2024-09-18-18-34-24%203.jpg",
+                    "url": "https://files.catbox.moe/4t5f2h.jpg"
+                },
+                "P&S.pdf": {
+                    "name": "P&S.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
+                    "url": "https://files.catbox.moe/nw2vc2.pdf"
                 }
             }
         },
@@ -8774,10 +9250,121 @@
                     "url": "https://files.catbox.moe/5kgq6i.pdf"
                 }
             },
-            "Probability-Theory-and-Random-Process": {},
+            "Probability-Theory-and-Random-Process": {
+                "Ch1 Section 2.pdf": {
+                    "name": "Ch1-Section-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/00e21469366aa2a50629b8455bae903790c0fb6dCh1%20Section%202.pdf",
+                    "url": "https://files.catbox.moe/0gdmjt.pdf"
+                },
+                "Unit-4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c27d823fb91d9d23b6d69eabc40133a1256480e9Unit-4.pdf",
+                    "url": "https://files.catbox.moe/bgx42y.pdf"
+                },
+                "Unit-2.pdf": {
+                    "name": "Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e007cf5e744ecbb7d7369b3c89a1a6db4a03ae7Unit-2.pdf",
+                    "url": "https://files.catbox.moe/6243hn.pdf"
+                },
+                "Random Variables.pdf": {
+                    "name": "Random-Variables.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4c4084e607b87e88b349d93086984648fac03cf6Random%20Variables.pdf",
+                    "url": "https://files.catbox.moe/krr7ac.pdf"
+                },
+                "Unit-1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/14192f8b73605284f0f072d23bf070c98c2c95afUnit-1.pdf",
+                    "url": "https://files.catbox.moe/2iiehi.pdf"
+                },
+                "Unit-5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2b6315cd716f56130dfca36c8c91b7644c05bc1dUnit-5.pdf",
+                    "url": "https://files.catbox.moe/qb9ibl.pdf"
+                },
+                "Question Bank (Unit 4 and 5).pdf": {
+                    "name": "Question-Bank-(Unit-4-and-5).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c50ea9eca315d057af66294b51de62c92cd1f22fQuestion%20Bank%20%28Unit%204%20and%205%29.pdf",
+                    "url": "https://files.catbox.moe/jwmml3.pdf"
+                },
+                "Probability.pdf": {
+                    "name": "Probability.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8864d84e19a0759380d8c91914eeac2da9f3d0Probability.pdf",
+                    "url": "https://files.catbox.moe/uae84y.pdf"
+                },
+                "Question Bank (Unit 1 and 2) with Solutions.pdf": {
+                    "name": "Question-Bank-(Unit-1-and-2)-with-Solutions.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bc1044ce23e9ad9cadd82aaf66dd42da9f1c3245Question%20Bank%20%28Unit%201%20and%202%29%20with%20Solutions.pdf",
+                    "url": "https://files.catbox.moe/i91lgc.pdf"
+                },
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5f5a64cece7da3f698863f37a870dbad163c9836MIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/vplqxm.pdf"
+                },
+                "Random Process .pdf": {
+                    "name": "Random-Process-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ea9c086e5c06c7cf5fd1807d3727959c3ce8645Random%20Process%20.pdf",
+                    "url": "https://files.catbox.moe/h312s4.pdf"
+                },
+                "Unit-3.pdf": {
+                    "name": "Unit-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb2a03e6ae2300997d7ba143f2ee45ac7f810bd4Unit-3.pdf",
+                    "url": "https://files.catbox.moe/asqb3f.pdf"
+                },
+                "Random Variable Section 2-1.pdf": {
+                    "name": "Random-Variable-Section-2-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a80bcb1206659ba30e9249cbd4d02f37910fe14cRandom%20Variable%20Section%202-1.pdf",
+                    "url": "https://files.catbox.moe/o9ery6.pdf"
+                }
+            },
             "Optimization-Principles-and-Techniques": {},
-            "Signals-and-Systems": {},
-            "Microelectronics-Circuits-and-Applications": {},
+            "Signals-and-Systems": {
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/722lx9.pdf"
+                }
+            },
+            "Microelectronics-Circuits-and-Applications": {
+                "Sedra Smith.pdf": {
+                    "name": "Sedra-Smith.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d4d104a7053da93afa84e9dc3b68bd08b618701Sedra%20Smith.pdf",
+                    "url": "https://files.catbox.moe/dlwzfp.pdf"
+                },
+                "FEEDBACK AMPLIFIERS .pdf": {
+                    "name": "FEEDBACK-AMPLIFIERS-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6ecffdb827102e472da0a01c51793602b15faba2FEEDBACK%20AMPLIFIERS%20.pdf",
+                    "url": "https://files.catbox.moe/j5mkxg.pdf"
+                },
+                "OP AMP .pdf": {
+                    "name": "OP-AMP-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7b16c95238873c474084c877098881b592537927OP%20AMP%20.pdf",
+                    "url": "https://files.catbox.moe/tlqhc6.pdf"
+                },
+                "SMALL SIGNAL ANALYSIS.pdf": {
+                    "name": "SMALL-SIGNAL-ANALYSIS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3c23a2c0d5f9f379e73dabdad459d22660b9d28eSMALL%20SIGNAL%20ANALYSIS.pdf",
+                    "url": "https://files.catbox.moe/3mjlgb.pdf"
+                }
+            },
             "Digital-Circuits-and-Systems": {}
         },
         "CSDA": {
@@ -10573,6 +11160,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Data-Structure": {
@@ -12891,10 +13526,98 @@
                     "url": "https://files.catbox.moe/bml1dg.pdf"
                 }
             },
-            "DSA": {},
-            "Power-Apparatus": {},
-            "Digital-Circuits-and-Systems": {},
-            "Electronic-Instrumentation": {},
+            "DSA": {
+                "Anany Levitin, Introduction to the Design & Analysis of Algorithms, Pearson Education. 2003.pdf": {
+                    "name": "Anany-Levitin,-Introduction-to-the-Design-&-Analysis-of-Algorithms,-Pearson-Education.-2003.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/af77b866d9ecece4c690c94dfee3be9f3bc0cc4dAnany%20Levitin%2C%20Introduction%20to%20the%20Design%20%26%20Analysis%20of%20Algorithms%2C%20Pearson%20Education.%202003.pdf",
+                    "url": "https://files.catbox.moe/7jkfx5.pdf"
+                },
+                "PYQs.pdf": {
+                    "name": "PYQs.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9cae926c485a03b965784b5c937042a9da97b3adPYQs.pdf",
+                    "url": "https://files.catbox.moe/a8x5xr.pdf"
+                }
+            },
+            "Power-Apparatus": {
+                "MID SEM  (2024).pdf": {
+                    "name": "MID-SEM--(2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/731a1f5827cb11e7a1dea4ccd6a309a56142d3acMID%20SEM%20%20%282024%29.pdf",
+                    "url": "https://files.catbox.moe/b7mx2c.pdf"
+                }
+            },
+            "Digital-Circuits-and-Systems": {
+                "MID SEM  (2024).pdf": {
+                    "name": "MID-SEM--(2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bdc76c08c83bcfd3afef7a0f8c09b5fe8771cf16MID%20SEM%20%20%282024%29.pdf",
+                    "url": "https://files.catbox.moe/scdwhs.pdf"
+                },
+                "M. Morris Mano Digital Logic and Computer Design.pdf": {
+                    "name": "M.-Morris-Mano-Digital-Logic-and-Computer-Design.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb51a4eeba14b640511c45276cba9e39343fcd78M.%20Morris%20Mano%20Digital%20Logic%20and%20Computer%20Design.pdf",
+                    "url": "https://files.catbox.moe/lgqfu1.pdf"
+                },
+                "Mano M.M., Ciletti M.D. Digital Design_ With an Introduction to the Verilog HDL.pdf": {
+                    "name": "Mano-M.M.,-Ciletti-M.D.-Digital-Design_-With-an-Introduction-to-the-Verilog-HDL.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/502feda01941f7912427766caf4dd814f66b625fMano%20M.M.%2C%20Ciletti%20M.D.%20Digital%20Design_%20With%20an%20Introduction%20to%20the%20Verilog%20HDL.pdf",
+                    "url": "https://files.catbox.moe/yewxdt.pdf"
+                },
+                "PYQs.pdf": {
+                    "name": "PYQs.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e0e490a507d54ec71d06e490e38a857660a45ca4PYQs.pdf",
+                    "url": "https://files.catbox.moe/y95dol.pdf"
+                }
+            },
+            "Electronic-Instrumentation": {
+                "Op-amp and applications.pdf": {
+                    "name": "Op-amp-and-applications.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a127f7ef50ac419820ddfb603c65eda362f5d9b2Op-amp%20and%20applications.pdf",
+                    "url": "https://files.catbox.moe/wainsy.pdf"
+                },
+                "Operational_amplifiers.pdf": {
+                    "name": "Operational_amplifiers.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ae7ea3d8366d613799f4670c6ecd558e3d943417Operational_amplifiers.pdf",
+                    "url": "https://files.catbox.moe/hsos3g.pdf"
+                },
+                "Operational Amp.pdf": {
+                    "name": "Operational-Amp.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85bbd01465df53b4e394b63403bbd29766c3f7a2Operational%20Amp.pdf",
+                    "url": "https://files.catbox.moe/2wrdnx.pdf"
+                },
+                "MID SEM  (2024).pdf": {
+                    "name": "MID-SEM--(2024).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ff3fd5fdb229a79e2a520d502c95e235381f43b0MID%20SEM%20%20%282024%29.pdf",
+                    "url": "https://files.catbox.moe/3o3ykh.pdf"
+                },
+                "Op_Amp.pdf": {
+                    "name": "Op_Amp.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/744590a8b852497b872c7344318ccaffe97e5049Op_Amp.pdf",
+                    "url": "https://files.catbox.moe/qy0r7s.pdf"
+                },
+                "Question_Bank_1.pdf": {
+                    "name": "Question_Bank_1.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbaf03aeb3bdbea68e7aaf8cf02274f20c3e4d2bQuestion_Bank_1.pdf",
+                    "url": "https://files.catbox.moe/1uus5u.pdf"
+                },
+                "Segio Franco.pdf": {
+                    "name": "Segio-Franco.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85f20d21e3f462fd3c7103578204f5ccfcf6e15bSegio%20Franco.pdf",
+                    "url": "https://files.catbox.moe/chlp33.pdf"
+                }
+            },
             "Engineering-Mathematics": {
                 "MATH-3 UNIT-1 ANKUSH.pdf": {
                     "name": "MATH-3-UNIT-1-ANKUSH.pdf",
@@ -12919,6 +13642,54 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/761c333c9a3c98d41f72ad486bc62eca54f590e2Maths_3_midsem_sept.jpg",
                     "url": "https://files.catbox.moe/c7b4wi.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-22 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72beca79f0636ca1b57b813bf8270512ebcb2a5bPHOTO-2024-09-12-10-42-22%202.jpg",
+                    "url": "https://files.catbox.moe/nm9zq3.jpg"
+                },
+                "Engineering_Mathematics.pdf": {
+                    "name": "Engineering_Mathematics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bd211adb9e655fce8dcc9aa171a47e38f9e59de7Engineering_Mathematics.pdf",
+                    "url": "https://files.catbox.moe/pti1km.pdf"
+                },
+                "PHOTO-2024-09-12-10-42-24.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/82f5c9e8ee5bdef44edc662dd3751b225ed78544PHOTO-2024-09-12-10-42-24.jpg",
+                    "url": "https://files.catbox.moe/xko829.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-24 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6968ee087d9393476241c8f34ad77c23835ecd18PHOTO-2024-09-12-10-42-24%202.jpg",
+                    "url": "https://files.catbox.moe/9s4894.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23 3.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dfd600b4a6e15912d00c432b5246c3100e4c5753PHOTO-2024-09-12-10-42-23%203.jpg",
+                    "url": "https://files.catbox.moe/n4zez9.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0e1ae6e99a0230d033b88161e4537f0335f057dcPHOTO-2024-09-12-10-42-23%202.jpg",
+                    "url": "https://files.catbox.moe/75y8lx.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-22.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-22.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6224d2ee6706d4e9e4fdf198c0bef09e2ef43d9ePHOTO-2024-09-12-10-42-22.jpg",
+                    "url": "https://files.catbox.moe/jsljos.jpg"
                 }
             }
         },
@@ -15405,10 +16176,110 @@
                     "url": "https://files.catbox.moe/5kgq6i.pdf"
                 }
             },
-            "Probability-Theory-and-Random-Process": {},
-            "Micro-electronics--": {},
-            "Signals-and-Systems": {},
-            "Mathematics-for-machine--learning-": {},
+            "Probability-Theory-and-Random-Process": {
+                "Ch1 Section 2.pdf": {
+                    "name": "Ch1-Section-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/00e21469366aa2a50629b8455bae903790c0fb6dCh1%20Section%202.pdf",
+                    "url": "https://files.catbox.moe/0gdmjt.pdf"
+                },
+                "Unit-4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c27d823fb91d9d23b6d69eabc40133a1256480e9Unit-4.pdf",
+                    "url": "https://files.catbox.moe/bgx42y.pdf"
+                },
+                "Unit-2.pdf": {
+                    "name": "Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e007cf5e744ecbb7d7369b3c89a1a6db4a03ae7Unit-2.pdf",
+                    "url": "https://files.catbox.moe/6243hn.pdf"
+                },
+                "Random Variables.pdf": {
+                    "name": "Random-Variables.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4c4084e607b87e88b349d93086984648fac03cf6Random%20Variables.pdf",
+                    "url": "https://files.catbox.moe/krr7ac.pdf"
+                },
+                "Unit-1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/14192f8b73605284f0f072d23bf070c98c2c95afUnit-1.pdf",
+                    "url": "https://files.catbox.moe/2iiehi.pdf"
+                },
+                "Unit-5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2b6315cd716f56130dfca36c8c91b7644c05bc1dUnit-5.pdf",
+                    "url": "https://files.catbox.moe/qb9ibl.pdf"
+                },
+                "Question Bank (Unit 4 and 5).pdf": {
+                    "name": "Question-Bank-(Unit-4-and-5).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c50ea9eca315d057af66294b51de62c92cd1f22fQuestion%20Bank%20%28Unit%204%20and%205%29.pdf",
+                    "url": "https://files.catbox.moe/jwmml3.pdf"
+                },
+                "Probability.pdf": {
+                    "name": "Probability.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8864d84e19a0759380d8c91914eeac2da9f3d0Probability.pdf",
+                    "url": "https://files.catbox.moe/uae84y.pdf"
+                },
+                "Question Bank (Unit 1 and 2) with Solutions.pdf": {
+                    "name": "Question-Bank-(Unit-1-and-2)-with-Solutions.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bc1044ce23e9ad9cadd82aaf66dd42da9f1c3245Question%20Bank%20%28Unit%201%20and%202%29%20with%20Solutions.pdf",
+                    "url": "https://files.catbox.moe/i91lgc.pdf"
+                },
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5f5a64cece7da3f698863f37a870dbad163c9836MIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/vplqxm.pdf"
+                },
+                "Random Process .pdf": {
+                    "name": "Random-Process-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ea9c086e5c06c7cf5fd1807d3727959c3ce8645Random%20Process%20.pdf",
+                    "url": "https://files.catbox.moe/h312s4.pdf"
+                },
+                "Unit-3.pdf": {
+                    "name": "Unit-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb2a03e6ae2300997d7ba143f2ee45ac7f810bd4Unit-3.pdf",
+                    "url": "https://files.catbox.moe/asqb3f.pdf"
+                },
+                "Random Variable Section 2-1.pdf": {
+                    "name": "Random-Variable-Section-2-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a80bcb1206659ba30e9249cbd4d02f37910fe14cRandom%20Variable%20Section%202-1.pdf",
+                    "url": "https://files.catbox.moe/o9ery6.pdf"
+                }
+            },
+            "Micro-electronics--": {
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8adc9d8d681f54bc30c5e5f1bc59aca1dee3b431MIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/z4opa9.pdf"
+                }
+            },
+            "Signals-and-Systems": {
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/722lx9.pdf"
+                }
+            },
+            "Mathematics-for-machine--learning-": {
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bc81ffed5b2a84a01594f1589916fcd97624ec09MIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/bs4hor.pdf"
+                }
+            },
             "Digital-Circuits-and-Systems": {}
         },
         "ECE": {
@@ -17894,9 +18765,120 @@
                     "url": "https://files.catbox.moe/5kgq6i.pdf"
                 }
             },
-            "Signals-and-Systems": {},
-            "Probability-Theory-and-Random-Process": {},
-            "Microelectronics-Circuits-and-Applications": {},
+            "Signals-and-Systems": {
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/722lx9.pdf"
+                }
+            },
+            "Probability-Theory-and-Random-Process": {
+                "Ch1 Section 2.pdf": {
+                    "name": "Ch1-Section-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/00e21469366aa2a50629b8455bae903790c0fb6dCh1%20Section%202.pdf",
+                    "url": "https://files.catbox.moe/0gdmjt.pdf"
+                },
+                "Unit-4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c27d823fb91d9d23b6d69eabc40133a1256480e9Unit-4.pdf",
+                    "url": "https://files.catbox.moe/bgx42y.pdf"
+                },
+                "Unit-2.pdf": {
+                    "name": "Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e007cf5e744ecbb7d7369b3c89a1a6db4a03ae7Unit-2.pdf",
+                    "url": "https://files.catbox.moe/6243hn.pdf"
+                },
+                "Random Variables.pdf": {
+                    "name": "Random-Variables.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4c4084e607b87e88b349d93086984648fac03cf6Random%20Variables.pdf",
+                    "url": "https://files.catbox.moe/krr7ac.pdf"
+                },
+                "Unit-1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/14192f8b73605284f0f072d23bf070c98c2c95afUnit-1.pdf",
+                    "url": "https://files.catbox.moe/2iiehi.pdf"
+                },
+                "Unit-5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2b6315cd716f56130dfca36c8c91b7644c05bc1dUnit-5.pdf",
+                    "url": "https://files.catbox.moe/qb9ibl.pdf"
+                },
+                "Question Bank (Unit 4 and 5).pdf": {
+                    "name": "Question-Bank-(Unit-4-and-5).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c50ea9eca315d057af66294b51de62c92cd1f22fQuestion%20Bank%20%28Unit%204%20and%205%29.pdf",
+                    "url": "https://files.catbox.moe/jwmml3.pdf"
+                },
+                "Probability.pdf": {
+                    "name": "Probability.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8864d84e19a0759380d8c91914eeac2da9f3d0Probability.pdf",
+                    "url": "https://files.catbox.moe/uae84y.pdf"
+                },
+                "Question Bank (Unit 1 and 2) with Solutions.pdf": {
+                    "name": "Question-Bank-(Unit-1-and-2)-with-Solutions.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bc1044ce23e9ad9cadd82aaf66dd42da9f1c3245Question%20Bank%20%28Unit%201%20and%202%29%20with%20Solutions.pdf",
+                    "url": "https://files.catbox.moe/i91lgc.pdf"
+                },
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5f5a64cece7da3f698863f37a870dbad163c9836MIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/vplqxm.pdf"
+                },
+                "Random Process .pdf": {
+                    "name": "Random-Process-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ea9c086e5c06c7cf5fd1807d3727959c3ce8645Random%20Process%20.pdf",
+                    "url": "https://files.catbox.moe/h312s4.pdf"
+                },
+                "Unit-3.pdf": {
+                    "name": "Unit-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb2a03e6ae2300997d7ba143f2ee45ac7f810bd4Unit-3.pdf",
+                    "url": "https://files.catbox.moe/asqb3f.pdf"
+                },
+                "Random Variable Section 2-1.pdf": {
+                    "name": "Random-Variable-Section-2-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a80bcb1206659ba30e9249cbd4d02f37910fe14cRandom%20Variable%20Section%202-1.pdf",
+                    "url": "https://files.catbox.moe/o9ery6.pdf"
+                }
+            },
+            "Microelectronics-Circuits-and-Applications": {
+                "Sedra Smith.pdf": {
+                    "name": "Sedra-Smith.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d4d104a7053da93afa84e9dc3b68bd08b618701Sedra%20Smith.pdf",
+                    "url": "https://files.catbox.moe/dlwzfp.pdf"
+                },
+                "FEEDBACK AMPLIFIERS .pdf": {
+                    "name": "FEEDBACK-AMPLIFIERS-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6ecffdb827102e472da0a01c51793602b15faba2FEEDBACK%20AMPLIFIERS%20.pdf",
+                    "url": "https://files.catbox.moe/j5mkxg.pdf"
+                },
+                "OP AMP .pdf": {
+                    "name": "OP-AMP-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7b16c95238873c474084c877098881b592537927OP%20AMP%20.pdf",
+                    "url": "https://files.catbox.moe/tlqhc6.pdf"
+                },
+                "SMALL SIGNAL ANALYSIS.pdf": {
+                    "name": "SMALL-SIGNAL-ANALYSIS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3c23a2c0d5f9f379e73dabdad459d22660b9d28eSMALL%20SIGNAL%20ANALYSIS.pdf",
+                    "url": "https://files.catbox.moe/3mjlgb.pdf"
+                }
+            },
             "Digital-Circuits-and-Systems": {},
             "Mathematics-for-communication--and-signal-processing-": {}
         },
@@ -20197,6 +21179,54 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/761c333c9a3c98d41f72ad486bc62eca54f590e2Maths_3_midsem_sept.jpg",
                     "url": "https://files.catbox.moe/c7b4wi.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-22 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72beca79f0636ca1b57b813bf8270512ebcb2a5bPHOTO-2024-09-12-10-42-22%202.jpg",
+                    "url": "https://files.catbox.moe/nm9zq3.jpg"
+                },
+                "Engineering_Mathematics.pdf": {
+                    "name": "Engineering_Mathematics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bd211adb9e655fce8dcc9aa171a47e38f9e59de7Engineering_Mathematics.pdf",
+                    "url": "https://files.catbox.moe/pti1km.pdf"
+                },
+                "PHOTO-2024-09-12-10-42-24.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/82f5c9e8ee5bdef44edc662dd3751b225ed78544PHOTO-2024-09-12-10-42-24.jpg",
+                    "url": "https://files.catbox.moe/xko829.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-24 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6968ee087d9393476241c8f34ad77c23835ecd18PHOTO-2024-09-12-10-42-24%202.jpg",
+                    "url": "https://files.catbox.moe/9s4894.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23 3.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dfd600b4a6e15912d00c432b5246c3100e4c5753PHOTO-2024-09-12-10-42-23%203.jpg",
+                    "url": "https://files.catbox.moe/n4zez9.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0e1ae6e99a0230d033b88161e4537f0335f057dcPHOTO-2024-09-12-10-42-23%202.jpg",
+                    "url": "https://files.catbox.moe/75y8lx.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-22.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-22.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6224d2ee6706d4e9e4fdf198c0bef09e2ef43d9ePHOTO-2024-09-12-10-42-22.jpg",
+                    "url": "https://files.catbox.moe/jsljos.jpg"
                 }
             },
             "Data-Structure-&-Algorithms": {
@@ -22681,6 +23711,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Chemistry": {
@@ -32350,7 +33428,14 @@
             },
             "Geographical-information-system": {},
             "geology-and-geomorphology-": {},
-            "Signals-and-Systems": {}
+            "Signals-and-Systems": {
+                "MIDSEM-2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
+                    "url": "https://files.catbox.moe/722lx9.pdf"
+                }
+            }
         },
         "CIVIL": {
             "EG-&-CAD": {
@@ -36283,6 +37368,24 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce93aa92824ce36bc6cee199cb148a6b9a205629Schaumm%20Linear%20Algebra.pdf",
                     "url": "https://files.catbox.moe/o8btu9.pdf"
+                },
+                "PHOTO-2024-09-17-00-30-15.jpg": {
+                    "name": "PHOTO-2024-09-17-00-30-15.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/352e0d05ad58363b51baf253cddfb66678348bd9PHOTO-2024-09-17-00-30-15.jpg",
+                    "url": "https://files.catbox.moe/vu9qb4.jpg"
+                },
+                "ALA.pdf": {
+                    "name": "ALA.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d261bc48594fa17dfa9c718d4577c9ff46d776acALA.pdf",
+                    "url": "https://files.catbox.moe/vvfuys.pdf"
+                },
+                "PHOTO-2024-09-17-00-30-15 2.jpg": {
+                    "name": "PHOTO-2024-09-17-00-30-15-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/57eb2825edfdf18bfbbc421eb73ad1b9b55d1c54PHOTO-2024-09-17-00-30-15%202.jpg",
+                    "url": "https://files.catbox.moe/majrsm.jpg"
                 }
             },
             "Probability-&-Statistics": {
@@ -36291,6 +37394,78 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8d7175659b6765adaf174bfe8fae072cf2b6a35FUNDAMENTAL%20OF%20MATHEMATICAL%20STATISTICS-S%20C%20GUPTA%20-%20V%20K%20KAPOOR.pdf",
                     "url": "https://files.catbox.moe/gl7kin.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16c537c0155bb3249d4f549b515aac60608d7b92IMG_20240923_092255.jpg",
+                    "url": "https://files.catbox.moe/qgypzg"
+                },
+                "PHOTO-2024-09-18-18-34-22 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/32d08fd525527fdf9b9925388241ba3dbaa1cd00PHOTO-2024-09-18-18-34-22%202.jpg",
+                    "url": "https://files.catbox.moe/5g6bzr.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/adec798bb0ab44b86589874247ff62546d70b6fdPHOTO-2024-09-18-18-34-23%202.jpg",
+                    "url": "https://files.catbox.moe/ej88pg.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad9fa325ec4789a9228771f64bd95d3d3743e339PHOTO-2024-09-18-18-34-23%203.jpg",
+                    "url": "https://files.catbox.moe/7te5mx.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 2.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f2c338387912a02853e5ac1a831cbffa379175aPHOTO-2024-09-18-18-34-24%202.jpg",
+                    "url": "https://files.catbox.moe/rgn14c.jpg"
+                },
+                "PHOTO-2024-09-19-00-14-01.jpg": {
+                    "name": "PHOTO-2024-09-19-00-14-01.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fa98d64d6e46642fbe20acc745ccb4816d479813PHOTO-2024-09-19-00-14-01.jpg",
+                    "url": "https://files.catbox.moe/aj5ta9.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-25.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c148685059b731a8069add564986523bd80e1fdfPHOTO-2024-09-18-18-34-25.jpg",
+                    "url": "https://files.catbox.moe/vzc1sa.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d98022be4e2cd544702e347297210292c5374f38PHOTO-2024-09-18-18-34-24.jpg",
+                    "url": "https://files.catbox.moe/qxgva4.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 4.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-4.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ea2eed28f6e8e2c329641c4635c4da5f646e9f8PHOTO-2024-09-18-18-34-24%204.jpg",
+                    "url": "https://files.catbox.moe/knbcid.jpg"
+                },
+                "PHOTO-2024-09-18-18-34-24 3.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-24-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c2d181d55d4a0725d0f4c5670c9fd7a7772c5d1PHOTO-2024-09-18-18-34-24%203.jpg",
+                    "url": "https://files.catbox.moe/4t5f2h.jpg"
+                },
+                "P&S.pdf": {
+                    "name": "P&S.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
+                    "url": "https://files.catbox.moe/nw2vc2.pdf"
                 }
             },
             "Database-Management-System": {
@@ -36299,6 +37474,66 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f43a13444aeb0a6c307fb696ee4ef405555c3cbcFundamentals_of_Database_Systems_6th_Edition-1.pdf",
                     "url": "https://files.catbox.moe/ov5xjp.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/aa6bcb3b0ec88d2d5b4beacd6954bbdad99cc10fIMG_20240923_090627.jpg",
+                    "url": "https://files.catbox.moe/0eztzf"
+                },
+                "PHOTO-2024-09-13-17-20-41 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a073b6d1ea6f6e7898ba08bc7313e1f5b9bce6c9PHOTO-2024-09-13-17-20-41%203.jpg",
+                    "url": "https://files.catbox.moe/v7kj2c.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-41 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ad6df80582c641303c71ff589cc280b5a34e222PHOTO-2024-09-13-17-20-41%202.jpg",
+                    "url": "https://files.catbox.moe/wlqmel.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8ef8127fced999862dd3291af83329318670a010PHOTO-2024-09-13-17-20-43.jpg",
+                    "url": "https://files.catbox.moe/de9cn7.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e4c2fdea82a95fe75da60dd2f57c60b80aaec0a6PHOTO-2024-09-13-17-20-43%203.jpg",
+                    "url": "https://files.catbox.moe/3569o1.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4427bda5d80edafdf97c31f39b3fd1e276f8556aPHOTO-2024-09-13-17-20-43%202.jpg",
+                    "url": "https://files.catbox.moe/yzo7up.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8045754fcdab4958856f532bbd98c34af0806f28PHOTO-2024-09-13-17-20-42.jpg",
+                    "url": "https://files.catbox.moe/414ibr.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d4d36007e6fdc93cf08ef53846b2c90f8cf0d9aPHOTO-2024-09-13-17-20-42%203.jpg",
+                    "url": "https://files.catbox.moe/sdvd18.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f3967574920863212b2c7cd2bb7c5ade0d907946PHOTO-2024-09-13-17-20-42%202.jpg",
+                    "url": "https://files.catbox.moe/sa0lrs.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-41.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1e086b38a2c8e28354faa3ca9aded77e08f92bPHOTO-2024-09-13-17-20-41.jpg",
+                    "url": "https://files.catbox.moe/n2m113.jpg"
                 }
             },
             "Digital-Logic-Design": {
@@ -36427,6 +37662,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Engineering-Mathematics": {
@@ -36453,6 +37736,54 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/761c333c9a3c98d41f72ad486bc62eca54f590e2Maths_3_midsem_sept.jpg",
                     "url": "https://files.catbox.moe/c7b4wi.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-22 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-22-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72beca79f0636ca1b57b813bf8270512ebcb2a5bPHOTO-2024-09-12-10-42-22%202.jpg",
+                    "url": "https://files.catbox.moe/nm9zq3.jpg"
+                },
+                "Engineering_Mathematics.pdf": {
+                    "name": "Engineering_Mathematics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bd211adb9e655fce8dcc9aa171a47e38f9e59de7Engineering_Mathematics.pdf",
+                    "url": "https://files.catbox.moe/pti1km.pdf"
+                },
+                "PHOTO-2024-09-12-10-42-24.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-24.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/82f5c9e8ee5bdef44edc662dd3751b225ed78544PHOTO-2024-09-12-10-42-24.jpg",
+                    "url": "https://files.catbox.moe/xko829.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-24 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-24-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6968ee087d9393476241c8f34ad77c23835ecd18PHOTO-2024-09-12-10-42-24%202.jpg",
+                    "url": "https://files.catbox.moe/9s4894.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23.jpg": {
+                    "name": "PHOTO-2024-09-18-18-34-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72421be8429ceb35cb12cb22fa757b632535a1a8PHOTO-2024-09-18-18-34-23.jpg",
+                    "url": "https://files.catbox.moe/b5q8fp.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23 3.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-23-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dfd600b4a6e15912d00c432b5246c3100e4c5753PHOTO-2024-09-12-10-42-23%203.jpg",
+                    "url": "https://files.catbox.moe/n4zez9.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-23 2.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-23-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0e1ae6e99a0230d033b88161e4537f0335f057dcPHOTO-2024-09-12-10-42-23%202.jpg",
+                    "url": "https://files.catbox.moe/75y8lx.jpg"
+                },
+                "PHOTO-2024-09-12-10-42-22.jpg": {
+                    "name": "PHOTO-2024-09-12-10-42-22.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6224d2ee6706d4e9e4fdf198c0bef09e2ef43d9ePHOTO-2024-09-12-10-42-22.jpg",
+                    "url": "https://files.catbox.moe/jsljos.jpg"
                 }
             },
             "Electronics-&-Communication-": {
@@ -38075,6 +39406,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Discrete-Structure": {
@@ -40162,6 +41541,54 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b09c0aeae42ad776a9077a439ef4634876b28cb7Book%2030%20Aug%202024.pdf",
                     "url": "https://files.catbox.moe/ni2wo9.pdf"
+                },
+                "Document 70.pdf": {
+                    "name": "Document-70.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c7d6c7fdb6f3816353d0fda60c09045d687586aDocument%2070.pdf",
+                    "url": "https://files.catbox.moe/w7hwri.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-23.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-23.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0a60d47b5f7ec04cb54f5d3630b9a603b7e60ac7PHOTO-2024-09-17-18-26-23.jpg",
+                    "url": "https://files.catbox.moe/ruthb4.jpg"
+                },
+                "End Sem and Mid Sem Sem 2.pdf": {
+                    "name": "End-Sem-and-Mid-Sem-Sem-2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c5e194f34542a2961ed7cddeab4bf0c4e69f14fEnd%20Sem%20and%20Mid%20Sem%20Sem%202.pdf",
+                    "url": "https://files.catbox.moe/q2avd5.pdf"
+                },
+                "DLD End sem july 2023.pdf": {
+                    "name": "DLD-End-sem-july-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79d965b2a384ec03bb802e4b0e989b6d30210c7bDLD%20End%20sem%20july%202023.pdf",
+                    "url": "https://files.catbox.moe/hiqe5u.pdf"
+                },
+                "PHOTO-2024-09-17-18-26-33.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-33.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e58e47b40663d6ca0042112984fbc71de67a141PHOTO-2024-09-17-18-26-33.jpg",
+                    "url": "https://files.catbox.moe/4tzofm.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-31.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-31.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3ebd41621d0782795c880c057914ca0cefa223bePHOTO-2024-09-17-18-26-31.jpg",
+                    "url": "https://files.catbox.moe/4hs9h0.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-28.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-28.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80d541b17aa2e3cc32e254656c889d8df4044585PHOTO-2024-09-17-18-26-28.jpg",
+                    "url": "https://files.catbox.moe/gj34la.jpg"
+                },
+                "PHOTO-2024-09-17-18-26-25.jpg": {
+                    "name": "PHOTO-2024-09-17-18-26-25.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
+                    "url": "https://files.catbox.moe/mf560b.jpg"
                 }
             },
             "Discrete-Structure": {
@@ -40820,6 +42247,66 @@
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f43a13444aeb0a6c307fb696ee4ef405555c3cbcFundamentals_of_Database_Systems_6th_Edition-1.pdf",
                     "url": "https://files.catbox.moe/ov5xjp.pdf"
+                },
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/aa6bcb3b0ec88d2d5b4beacd6954bbdad99cc10fIMG_20240923_090627.jpg",
+                    "url": "https://files.catbox.moe/0eztzf"
+                },
+                "PHOTO-2024-09-13-17-20-41 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a073b6d1ea6f6e7898ba08bc7313e1f5b9bce6c9PHOTO-2024-09-13-17-20-41%203.jpg",
+                    "url": "https://files.catbox.moe/v7kj2c.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-41 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9ad6df80582c641303c71ff589cc280b5a34e222PHOTO-2024-09-13-17-20-41%202.jpg",
+                    "url": "https://files.catbox.moe/wlqmel.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8ef8127fced999862dd3291af83329318670a010PHOTO-2024-09-13-17-20-43.jpg",
+                    "url": "https://files.catbox.moe/de9cn7.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e4c2fdea82a95fe75da60dd2f57c60b80aaec0a6PHOTO-2024-09-13-17-20-43%203.jpg",
+                    "url": "https://files.catbox.moe/3569o1.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-43 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-43-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4427bda5d80edafdf97c31f39b3fd1e276f8556aPHOTO-2024-09-13-17-20-43%202.jpg",
+                    "url": "https://files.catbox.moe/yzo7up.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8045754fcdab4958856f532bbd98c34af0806f28PHOTO-2024-09-13-17-20-42.jpg",
+                    "url": "https://files.catbox.moe/414ibr.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42 3.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42-3.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d4d36007e6fdc93cf08ef53846b2c90f8cf0d9aPHOTO-2024-09-13-17-20-42%203.jpg",
+                    "url": "https://files.catbox.moe/sdvd18.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-42 2.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-42-2.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f3967574920863212b2c7cd2bb7c5ade0d907946PHOTO-2024-09-13-17-20-42%202.jpg",
+                    "url": "https://files.catbox.moe/sa0lrs.jpg"
+                },
+                "PHOTO-2024-09-13-17-20-41.jpg": {
+                    "name": "PHOTO-2024-09-13-17-20-41.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1e086b38a2c8e28354faa3ca9aded77e08f92bPHOTO-2024-09-13-17-20-41.jpg",
+                    "url": "https://files.catbox.moe/n2m113.jpg"
                 }
             },
             "Computer-System-Organization": {},
