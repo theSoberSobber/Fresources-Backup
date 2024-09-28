@@ -9269,6 +9269,18 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e007cf5e744ecbb7d7369b3c89a1a6db4a03ae7Unit-2.pdf",
                     "url": "https://files.catbox.moe/6243hn.pdf"
                 },
+                "Schaum's Theory and problems of probability, random variables, and random processes-McGraw-.pdf": {
+                    "name": "Schaum's-Theory-and-problems-of-probability,-random-variables,-and-random-processes-McGraw-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3eba3ed57208a622e9bc87ca16add4dcd3109233Schaum%27s%20Theory%20and%20problems%20of%20probability%2C%20random%20variables%2C%20and%20random%20processes-McGraw-.pdf",
+                    "url": "https://files.catbox.moe/sr42kp.pdf"
+                },
+                "introduction-to-probability-model.pdf": {
+                    "name": "introduction-to-probability-model.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3b96d9a7c7be61444902d1fea73ecdcee0d0f2edintroduction-to-probability-model.pdf",
+                    "url": "https://files.catbox.moe/6rmgfc.pdf"
+                },
                 "Random Variables.pdf": {
                     "name": "Random-Variables.pdf",
                     "type": "Note",
@@ -9328,15 +9340,88 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a80bcb1206659ba30e9249cbd4d02f37910fe14cRandom%20Variable%20Section%202-1.pdf",
                     "url": "https://files.catbox.moe/o9ery6.pdf"
+                },
+                "PAPOUILIS- PROBABILITY AND RANDOM VARIABLES.pdf": {
+                    "name": "PAPOUILIS--PROBABILITY-AND-RANDOM-VARIABLES.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f453de30e5c9cdeb414b05554b12ae40e29701ePAPOUILIS-%20PROBABILITY%20AND%20RANDOM%20VARIABLES.pdf",
+                    "url": "https://files.catbox.moe/hyb4la.pdf"
                 }
             },
-            "Optimization-Principles-and-Techniques": {},
+            "Optimization-Principles-and-Techniques": {
+                "HANDWRITTEN NOTES.pdf": {
+                    "name": "HANDWRITTEN-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fa4eb8d6b6e057851b4153581b7117e1767868acHANDWRITTEN%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/laarah.pdf"
+                },
+                "CLASS NOTES- 1.pdf": {
+                    "name": "CLASS-NOTES--1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e990e0813d6cb5a16e6e7447e93aebacac2515b7CLASS%20NOTES-%201.pdf",
+                    "url": "https://files.catbox.moe/yii0lh.pdf"
+                },
+                "OPERATIONS RESEARCH PRINCIPLES AND APPLICATIONS.pdf": {
+                    "name": "OPERATIONS-RESEARCH-PRINCIPLES-AND-APPLICATIONS.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1a4a829777deab163cb293cca62658b827c145cbOPERATIONS%20RESEARCH%20PRINCIPLES%20AND%20APPLICATIONS.pdf",
+                    "url": "https://files.catbox.moe/91el82.pdf"
+                },
+                "HAMDY A. TAHA - OPERATIONS RESEARCH.pdf": {
+                    "name": "HAMDY-A.-TAHA---OPERATIONS-RESEARCH.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f67de3cbc5d7c84568e170804d2232be7f062a2cHAMDY%20A.%20TAHA%20-%20OPERATIONS%20RESEARCH.pdf",
+                    "url": "https://files.catbox.moe/xfwarb.pdf"
+                },
+                "MID SEMESTER 2021.pdf": {
+                    "name": "MID-SEMESTER-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5c5c68b0dbe9804f69e6bcbcec3527f65c1b4738MID%20SEMESTER%202021.pdf",
+                    "url": "https://files.catbox.moe/emzlhq.pdf"
+                }
+            },
             "Signals-and-Systems": {
                 "MIDSEM-2024.pdf": {
                     "name": "MIDSEM-2024.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
                     "url": "https://files.catbox.moe/722lx9.pdf"
+                },
+                "TARUN RAWAT- SnS.pdf": {
+                    "name": "Signals-and-Systems-By-TKR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/558b31d6b1d7e28352c334904034b330daea881eSignals%20and%20Systems%20By%20TKR.pdf",
+                    "url": "https://files.catbox.moe/3g8kdv.pdf"
+                },
+                "MIS SEM 2021.pdf": {
+                    "name": "MIS-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01cc3fa284e479a71fa2d6ee04c4e8d3c476099bMIS%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/y77hih.pdf"
+                },
+                "Signals and Systems by Oppenheim.pdf": {
+                    "name": "Signals-and-Systems-by-Oppenheim.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/435d6e1752bcf1d100ff994ca83c7241f4ddc090Signals%20and%20Systems%20by%20Oppenheim.pdf",
+                    "url": "https://files.catbox.moe/oxhihx.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f66822ad1bfec20381ccbebf7e870948c40f3d67END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/dyvm1u.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4738b0137b9309593ff96e7060ad20a3f3466518END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/r13d7k.pdf"
+                },
+                "END SEM 2017.pdf": {
+                    "name": "END-SEM-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16ce978bf5af4087f35b23ca7a64fd07e2682ccfEND%20SEM%202017.pdf",
+                    "url": "https://files.catbox.moe/9ywlbg.pdf"
                 }
             },
             "Microelectronics-Circuits-and-Applications": {
@@ -9363,9 +9448,88 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3c23a2c0d5f9f379e73dabdad459d22660b9d28eSMALL%20SIGNAL%20ANALYSIS.pdf",
                     "url": "https://files.catbox.moe/3mjlgb.pdf"
+                },
+                "HANDWRITTEN NOTES-1.pdf": {
+                    "name": "HANDWRITTEN-NOTES-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80b7bd2e03ccf595702d4a8cf99ea54c1d4a40dbHANDWRITTEN%20NOTES-1.pdf",
+                    "url": "https://files.catbox.moe/es2z8u.pdf"
                 }
             },
-            "Digital-Circuits-and-Systems": {}
+            "Digital-Circuits-and-Systems": {
+                "A VHDL Primer - Jayaram Bhasker-1.pdf": {
+                    "name": "A-VHDL-Primer---Jayaram-Bhasker-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ddf70b918e95d5ef00cee570857b9e4aa23f8245A%20VHDL%20Primer%20-%20Jayaram%20Bhasker-1.pdf",
+                    "url": "https://files.catbox.moe/nnsjbs.pdf"
+                },
+                "MID SEM 2021.pdf": {
+                    "name": "MID-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9572cbe54b29c96408db352605bd1f3612b571e2MID%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/oepf03.pdf"
+                },
+                "MUX AND DECODER.pdf": {
+                    "name": "MUX-AND-DECODER.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/991941a120d30fabd4b9714859719367e77b5c4fMUX%20AND%20DECODER.pdf",
+                    "url": "https://files.catbox.moe/h5wcs0.pdf"
+                },
+                "Morris Mano- Digital logic Design.pdf": {
+                    "name": "Morris-Mano--Digital-logic-Design.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/763284ae0486a96346b27b11e714de6124d35edeMorris%20Mano-%20Digital%20logic%20Design.pdf",
+                    "url": "https://files.catbox.moe/7t0sug.pdf"
+                },
+                "Digital Logic And Computer Design By M. Morris Mano (2nd Edition).pdf": {
+                    "name": "Digital-Logic-And-Computer-Design-By-M.-Morris-Mano-(2nd-Edition).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0b765ff72dc372a6c70f32b293b08e92da81962bDigital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf",
+                    "url": "https://files.catbox.moe/5dmm1q.pdf"
+                },
+                "DCS HANDWRITTEN NOTES-2.pdf": {
+                    "name": "DCS-HANDWRITTEN-NOTES-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/07eda69b90424bdde6899536b9c93c6172065162DCS%20HANDWRITTEN%20NOTES-2.pdf",
+                    "url": "https://files.catbox.moe/7dpng3.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f86bc3df2783ef2986b86d559a78c0e8c8bf0612END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/g7gk0a.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8be255ea632ed9d5106cbfcdf7b8fbf84031a923END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/icbcgc.pdf"
+                },
+                "TUTORIAL SHEET 2 Solution.pdf": {
+                    "name": "TUTORIAL-SHEET-2-Solution.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c25ef2ebdfa1c549f2e5b668e23540c24cda1a8TUTORIAL%20SHEET%202%20Solution.pdf",
+                    "url": "https://files.catbox.moe/hkxdta.pdf"
+                },
+                "Tutorial Sheet 2.pdf": {
+                    "name": "Tutorial-Sheet-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65cd71f06e34b20c9a73d3df30fe234a167e34c2Tutorial%20Sheet%202.pdf",
+                    "url": "https://files.catbox.moe/j47859.pdf"
+                },
+                "TUTORIAL SHEET 1 SOLUTIONS.pdf": {
+                    "name": "TUTORIAL-SHEET-1-SOLUTIONS.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b664969f96e6c9612a160f839862e89f2d7dca9eTUTORIAL%20SHEET%201%20SOLUTIONS.pdf",
+                    "url": "https://files.catbox.moe/4qrnn6.pdf"
+                },
+                "TUTORIAL_SHEET 1.pdf": {
+                    "name": "TUTORIAL_SHEET-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b0f21359d0c66d27258ac3dd8c6bd2e5fe7fef52TUTORIAL_SHEET%201.pdf",
+                    "url": "https://files.catbox.moe/l3xth2.pdf"
+                }
+            }
         },
         "CSDA": {
             "Electronics-&-Communication-": {
@@ -16195,6 +16359,18 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e007cf5e744ecbb7d7369b3c89a1a6db4a03ae7Unit-2.pdf",
                     "url": "https://files.catbox.moe/6243hn.pdf"
                 },
+                "Schaum's Theory and problems of probability, random variables, and random processes-McGraw-.pdf": {
+                    "name": "Schaum's-Theory-and-problems-of-probability,-random-variables,-and-random-processes-McGraw-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3eba3ed57208a622e9bc87ca16add4dcd3109233Schaum%27s%20Theory%20and%20problems%20of%20probability%2C%20random%20variables%2C%20and%20random%20processes-McGraw-.pdf",
+                    "url": "https://files.catbox.moe/sr42kp.pdf"
+                },
+                "introduction-to-probability-model.pdf": {
+                    "name": "introduction-to-probability-model.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3b96d9a7c7be61444902d1fea73ecdcee0d0f2edintroduction-to-probability-model.pdf",
+                    "url": "https://files.catbox.moe/6rmgfc.pdf"
+                },
                 "Random Variables.pdf": {
                     "name": "Random-Variables.pdf",
                     "type": "Note",
@@ -16254,6 +16430,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a80bcb1206659ba30e9249cbd4d02f37910fe14cRandom%20Variable%20Section%202-1.pdf",
                     "url": "https://files.catbox.moe/o9ery6.pdf"
+                },
+                "PAPOUILIS- PROBABILITY AND RANDOM VARIABLES.pdf": {
+                    "name": "PAPOUILIS--PROBABILITY-AND-RANDOM-VARIABLES.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f453de30e5c9cdeb414b05554b12ae40e29701ePAPOUILIS-%20PROBABILITY%20AND%20RANDOM%20VARIABLES.pdf",
+                    "url": "https://files.catbox.moe/hyb4la.pdf"
                 }
             },
             "Micro-electronics--": {
@@ -16270,6 +16452,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
                     "url": "https://files.catbox.moe/722lx9.pdf"
+                },
+                "TARUN RAWAT- SnS.pdf": {
+                    "name": "Signals-and-Systems-By-TKR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/558b31d6b1d7e28352c334904034b330daea881eSignals%20and%20Systems%20By%20TKR.pdf",
+                    "url": "https://files.catbox.moe/3g8kdv.pdf"
+                },
+                "MIS SEM 2021.pdf": {
+                    "name": "MIS-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01cc3fa284e479a71fa2d6ee04c4e8d3c476099bMIS%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/y77hih.pdf"
+                },
+                "Signals and Systems by Oppenheim.pdf": {
+                    "name": "Signals-and-Systems-by-Oppenheim.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/435d6e1752bcf1d100ff994ca83c7241f4ddc090Signals%20and%20Systems%20by%20Oppenheim.pdf",
+                    "url": "https://files.catbox.moe/oxhihx.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f66822ad1bfec20381ccbebf7e870948c40f3d67END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/dyvm1u.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4738b0137b9309593ff96e7060ad20a3f3466518END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/r13d7k.pdf"
+                },
+                "END SEM 2017.pdf": {
+                    "name": "END-SEM-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16ce978bf5af4087f35b23ca7a64fd07e2682ccfEND%20SEM%202017.pdf",
+                    "url": "https://files.catbox.moe/9ywlbg.pdf"
                 }
             },
             "Mathematics-for-machine--learning-": {
@@ -16280,7 +16498,80 @@
                     "url": "https://files.catbox.moe/bs4hor.pdf"
                 }
             },
-            "Digital-Circuits-and-Systems": {}
+            "Digital-Circuits-and-Systems": {
+                "A VHDL Primer - Jayaram Bhasker-1.pdf": {
+                    "name": "A-VHDL-Primer---Jayaram-Bhasker-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ddf70b918e95d5ef00cee570857b9e4aa23f8245A%20VHDL%20Primer%20-%20Jayaram%20Bhasker-1.pdf",
+                    "url": "https://files.catbox.moe/nnsjbs.pdf"
+                },
+                "MID SEM 2021.pdf": {
+                    "name": "MID-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9572cbe54b29c96408db352605bd1f3612b571e2MID%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/oepf03.pdf"
+                },
+                "MUX AND DECODER.pdf": {
+                    "name": "MUX-AND-DECODER.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/991941a120d30fabd4b9714859719367e77b5c4fMUX%20AND%20DECODER.pdf",
+                    "url": "https://files.catbox.moe/h5wcs0.pdf"
+                },
+                "Morris Mano- Digital logic Design.pdf": {
+                    "name": "Morris-Mano--Digital-logic-Design.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/763284ae0486a96346b27b11e714de6124d35edeMorris%20Mano-%20Digital%20logic%20Design.pdf",
+                    "url": "https://files.catbox.moe/7t0sug.pdf"
+                },
+                "Digital Logic And Computer Design By M. Morris Mano (2nd Edition).pdf": {
+                    "name": "Digital-Logic-And-Computer-Design-By-M.-Morris-Mano-(2nd-Edition).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0b765ff72dc372a6c70f32b293b08e92da81962bDigital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf",
+                    "url": "https://files.catbox.moe/5dmm1q.pdf"
+                },
+                "DCS HANDWRITTEN NOTES-2.pdf": {
+                    "name": "DCS-HANDWRITTEN-NOTES-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/07eda69b90424bdde6899536b9c93c6172065162DCS%20HANDWRITTEN%20NOTES-2.pdf",
+                    "url": "https://files.catbox.moe/7dpng3.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f86bc3df2783ef2986b86d559a78c0e8c8bf0612END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/g7gk0a.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8be255ea632ed9d5106cbfcdf7b8fbf84031a923END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/icbcgc.pdf"
+                },
+                "TUTORIAL SHEET 2 Solution.pdf": {
+                    "name": "TUTORIAL-SHEET-2-Solution.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c25ef2ebdfa1c549f2e5b668e23540c24cda1a8TUTORIAL%20SHEET%202%20Solution.pdf",
+                    "url": "https://files.catbox.moe/hkxdta.pdf"
+                },
+                "Tutorial Sheet 2.pdf": {
+                    "name": "Tutorial-Sheet-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65cd71f06e34b20c9a73d3df30fe234a167e34c2Tutorial%20Sheet%202.pdf",
+                    "url": "https://files.catbox.moe/j47859.pdf"
+                },
+                "TUTORIAL SHEET 1 SOLUTIONS.pdf": {
+                    "name": "TUTORIAL-SHEET-1-SOLUTIONS.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b664969f96e6c9612a160f839862e89f2d7dca9eTUTORIAL%20SHEET%201%20SOLUTIONS.pdf",
+                    "url": "https://files.catbox.moe/4qrnn6.pdf"
+                },
+                "TUTORIAL_SHEET 1.pdf": {
+                    "name": "TUTORIAL_SHEET-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b0f21359d0c66d27258ac3dd8c6bd2e5fe7fef52TUTORIAL_SHEET%201.pdf",
+                    "url": "https://files.catbox.moe/l3xth2.pdf"
+                }
+            }
         },
         "ECE": {
             "Maths---1": {
@@ -18771,6 +19062,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
                     "url": "https://files.catbox.moe/722lx9.pdf"
+                },
+                "TARUN RAWAT- SnS.pdf": {
+                    "name": "Signals-and-Systems-By-TKR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/558b31d6b1d7e28352c334904034b330daea881eSignals%20and%20Systems%20By%20TKR.pdf",
+                    "url": "https://files.catbox.moe/3g8kdv.pdf"
+                },
+                "MIS SEM 2021.pdf": {
+                    "name": "MIS-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01cc3fa284e479a71fa2d6ee04c4e8d3c476099bMIS%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/y77hih.pdf"
+                },
+                "Signals and Systems by Oppenheim.pdf": {
+                    "name": "Signals-and-Systems-by-Oppenheim.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/435d6e1752bcf1d100ff994ca83c7241f4ddc090Signals%20and%20Systems%20by%20Oppenheim.pdf",
+                    "url": "https://files.catbox.moe/oxhihx.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f66822ad1bfec20381ccbebf7e870948c40f3d67END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/dyvm1u.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4738b0137b9309593ff96e7060ad20a3f3466518END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/r13d7k.pdf"
+                },
+                "END SEM 2017.pdf": {
+                    "name": "END-SEM-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16ce978bf5af4087f35b23ca7a64fd07e2682ccfEND%20SEM%202017.pdf",
+                    "url": "https://files.catbox.moe/9ywlbg.pdf"
                 }
             },
             "Probability-Theory-and-Random-Process": {
@@ -18791,6 +19118,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3e007cf5e744ecbb7d7369b3c89a1a6db4a03ae7Unit-2.pdf",
                     "url": "https://files.catbox.moe/6243hn.pdf"
+                },
+                "Schaum's Theory and problems of probability, random variables, and random processes-McGraw-.pdf": {
+                    "name": "Schaum's-Theory-and-problems-of-probability,-random-variables,-and-random-processes-McGraw-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3eba3ed57208a622e9bc87ca16add4dcd3109233Schaum%27s%20Theory%20and%20problems%20of%20probability%2C%20random%20variables%2C%20and%20random%20processes-McGraw-.pdf",
+                    "url": "https://files.catbox.moe/sr42kp.pdf"
+                },
+                "introduction-to-probability-model.pdf": {
+                    "name": "introduction-to-probability-model.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3b96d9a7c7be61444902d1fea73ecdcee0d0f2edintroduction-to-probability-model.pdf",
+                    "url": "https://files.catbox.moe/6rmgfc.pdf"
                 },
                 "Random Variables.pdf": {
                     "name": "Random-Variables.pdf",
@@ -18851,6 +19190,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a80bcb1206659ba30e9249cbd4d02f37910fe14cRandom%20Variable%20Section%202-1.pdf",
                     "url": "https://files.catbox.moe/o9ery6.pdf"
+                },
+                "PAPOUILIS- PROBABILITY AND RANDOM VARIABLES.pdf": {
+                    "name": "PAPOUILIS--PROBABILITY-AND-RANDOM-VARIABLES.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8f453de30e5c9cdeb414b05554b12ae40e29701ePAPOUILIS-%20PROBABILITY%20AND%20RANDOM%20VARIABLES.pdf",
+                    "url": "https://files.catbox.moe/hyb4la.pdf"
                 }
             },
             "Microelectronics-Circuits-and-Applications": {
@@ -18877,9 +19222,88 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3c23a2c0d5f9f379e73dabdad459d22660b9d28eSMALL%20SIGNAL%20ANALYSIS.pdf",
                     "url": "https://files.catbox.moe/3mjlgb.pdf"
+                },
+                "HANDWRITTEN NOTES-1.pdf": {
+                    "name": "HANDWRITTEN-NOTES-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80b7bd2e03ccf595702d4a8cf99ea54c1d4a40dbHANDWRITTEN%20NOTES-1.pdf",
+                    "url": "https://files.catbox.moe/es2z8u.pdf"
                 }
             },
-            "Digital-Circuits-and-Systems": {},
+            "Digital-Circuits-and-Systems": {
+                "A VHDL Primer - Jayaram Bhasker-1.pdf": {
+                    "name": "A-VHDL-Primer---Jayaram-Bhasker-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ddf70b918e95d5ef00cee570857b9e4aa23f8245A%20VHDL%20Primer%20-%20Jayaram%20Bhasker-1.pdf",
+                    "url": "https://files.catbox.moe/nnsjbs.pdf"
+                },
+                "MID SEM 2021.pdf": {
+                    "name": "MID-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9572cbe54b29c96408db352605bd1f3612b571e2MID%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/oepf03.pdf"
+                },
+                "MUX AND DECODER.pdf": {
+                    "name": "MUX-AND-DECODER.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/991941a120d30fabd4b9714859719367e77b5c4fMUX%20AND%20DECODER.pdf",
+                    "url": "https://files.catbox.moe/h5wcs0.pdf"
+                },
+                "Morris Mano- Digital logic Design.pdf": {
+                    "name": "Morris-Mano--Digital-logic-Design.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/763284ae0486a96346b27b11e714de6124d35edeMorris%20Mano-%20Digital%20logic%20Design.pdf",
+                    "url": "https://files.catbox.moe/7t0sug.pdf"
+                },
+                "Digital Logic And Computer Design By M. Morris Mano (2nd Edition).pdf": {
+                    "name": "Digital-Logic-And-Computer-Design-By-M.-Morris-Mano-(2nd-Edition).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0b765ff72dc372a6c70f32b293b08e92da81962bDigital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf",
+                    "url": "https://files.catbox.moe/5dmm1q.pdf"
+                },
+                "DCS HANDWRITTEN NOTES-2.pdf": {
+                    "name": "DCS-HANDWRITTEN-NOTES-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/07eda69b90424bdde6899536b9c93c6172065162DCS%20HANDWRITTEN%20NOTES-2.pdf",
+                    "url": "https://files.catbox.moe/7dpng3.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f86bc3df2783ef2986b86d559a78c0e8c8bf0612END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/g7gk0a.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8be255ea632ed9d5106cbfcdf7b8fbf84031a923END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/icbcgc.pdf"
+                },
+                "TUTORIAL SHEET 2 Solution.pdf": {
+                    "name": "TUTORIAL-SHEET-2-Solution.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c25ef2ebdfa1c549f2e5b668e23540c24cda1a8TUTORIAL%20SHEET%202%20Solution.pdf",
+                    "url": "https://files.catbox.moe/hkxdta.pdf"
+                },
+                "Tutorial Sheet 2.pdf": {
+                    "name": "Tutorial-Sheet-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65cd71f06e34b20c9a73d3df30fe234a167e34c2Tutorial%20Sheet%202.pdf",
+                    "url": "https://files.catbox.moe/j47859.pdf"
+                },
+                "TUTORIAL SHEET 1 SOLUTIONS.pdf": {
+                    "name": "TUTORIAL-SHEET-1-SOLUTIONS.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b664969f96e6c9612a160f839862e89f2d7dca9eTUTORIAL%20SHEET%201%20SOLUTIONS.pdf",
+                    "url": "https://files.catbox.moe/4qrnn6.pdf"
+                },
+                "TUTORIAL_SHEET 1.pdf": {
+                    "name": "TUTORIAL_SHEET-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b0f21359d0c66d27258ac3dd8c6bd2e5fe7fef52TUTORIAL_SHEET%201.pdf",
+                    "url": "https://files.catbox.moe/l3xth2.pdf"
+                }
+            },
             "Mathematics-for-communication--and-signal-processing-": {}
         },
         "EE": {
@@ -33434,6 +33858,42 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d0e55ba18fd3c9b2176bc6dcc19f1ebbef285a0fMIDSEM-2024.pdf",
                     "url": "https://files.catbox.moe/722lx9.pdf"
+                },
+                "TARUN RAWAT- SnS.pdf": {
+                    "name": "Signals-and-Systems-By-TKR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/558b31d6b1d7e28352c334904034b330daea881eSignals%20and%20Systems%20By%20TKR.pdf",
+                    "url": "https://files.catbox.moe/3g8kdv.pdf"
+                },
+                "MIS SEM 2021.pdf": {
+                    "name": "MIS-SEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01cc3fa284e479a71fa2d6ee04c4e8d3c476099bMIS%20SEM%202021.pdf",
+                    "url": "https://files.catbox.moe/y77hih.pdf"
+                },
+                "Signals and Systems by Oppenheim.pdf": {
+                    "name": "Signals-and-Systems-by-Oppenheim.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/435d6e1752bcf1d100ff994ca83c7241f4ddc090Signals%20and%20Systems%20by%20Oppenheim.pdf",
+                    "url": "https://files.catbox.moe/oxhihx.pdf"
+                },
+                "END SEM 2019.pdf": {
+                    "name": "END-SEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f66822ad1bfec20381ccbebf7e870948c40f3d67END%20SEM%202019.pdf",
+                    "url": "https://files.catbox.moe/dyvm1u.pdf"
+                },
+                "END SEM 2018.pdf": {
+                    "name": "END-SEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4738b0137b9309593ff96e7060ad20a3f3466518END%20SEM%202018.pdf",
+                    "url": "https://files.catbox.moe/r13d7k.pdf"
+                },
+                "END SEM 2017.pdf": {
+                    "name": "END-SEM-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/16ce978bf5af4087f35b23ca7a64fd07e2682ccfEND%20SEM%202017.pdf",
+                    "url": "https://files.catbox.moe/9ywlbg.pdf"
                 }
             }
         },
@@ -40108,7 +40568,38 @@
             "Computer-System-Organization": {},
             "Database-Management-System": {},
             "Advance-Programming": {},
-            "Optimization-Principles-and-Techniques": {}
+            "Optimization-Principles-and-Techniques": {
+                "HANDWRITTEN NOTES.pdf": {
+                    "name": "HANDWRITTEN-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fa4eb8d6b6e057851b4153581b7117e1767868acHANDWRITTEN%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/laarah.pdf"
+                },
+                "CLASS NOTES- 1.pdf": {
+                    "name": "CLASS-NOTES--1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e990e0813d6cb5a16e6e7447e93aebacac2515b7CLASS%20NOTES-%201.pdf",
+                    "url": "https://files.catbox.moe/yii0lh.pdf"
+                },
+                "OPERATIONS RESEARCH PRINCIPLES AND APPLICATIONS.pdf": {
+                    "name": "OPERATIONS-RESEARCH-PRINCIPLES-AND-APPLICATIONS.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1a4a829777deab163cb293cca62658b827c145cbOPERATIONS%20RESEARCH%20PRINCIPLES%20AND%20APPLICATIONS.pdf",
+                    "url": "https://files.catbox.moe/91el82.pdf"
+                },
+                "HAMDY A. TAHA - OPERATIONS RESEARCH.pdf": {
+                    "name": "HAMDY-A.-TAHA---OPERATIONS-RESEARCH.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f67de3cbc5d7c84568e170804d2232be7f062a2cHAMDY%20A.%20TAHA%20-%20OPERATIONS%20RESEARCH.pdf",
+                    "url": "https://files.catbox.moe/xfwarb.pdf"
+                },
+                "MID SEMESTER 2021.pdf": {
+                    "name": "MID-SEMESTER-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5c5c68b0dbe9804f69e6bcbcec3527f65c1b4738MID%20SEMESTER%202021.pdf",
+                    "url": "https://files.catbox.moe/emzlhq.pdf"
+                }
+            }
         },
         "ITNS": {
             "Fundamentals-of-Electrical-Engineering": {
