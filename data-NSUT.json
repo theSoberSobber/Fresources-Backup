@@ -9330,6 +9330,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5c5c68b0dbe9804f69e6bcbcec3527f65c1b4738MID%20SEMESTER%202021.pdf",
                     "url": "https://files.catbox.moe/emzlhq.pdf"
+                },
+                "MIDSEM 2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b6abc5ce18a8f1af4c8954ba3572781cc0215715MIDSEM%202024.pdf",
+                    "url": "https://files.catbox.moe/wg7415.pdf"
                 }
             },
             "Signals-and-Systems": {
@@ -40517,10 +40523,38 @@
                     "url": "https://files.catbox.moe/rvkynu.pdf"
                 }
             },
-            "Probability-and-Stochastic-Processes": {},
-            "Computer-System-Organization": {},
-            "Database-Management-System": {},
-            "Advance-Programming": {},
+            "Probability-and-Stochastic-Processes": {
+                "MIDSEM 2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c39694dd7c4497e0b00eb6192b5f7e5475e8765eMIDSEM%202024.pdf",
+                    "url": "https://files.catbox.moe/o1jhkg.pdf"
+                }
+            },
+            "Computer-System-Organization": {
+                "MIDSEM 2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e2aea0a494e6fe27623f9cf1950c57e3c2c11b7MIDSEM%202024.pdf",
+                    "url": "https://files.catbox.moe/9n03tv.pdf"
+                }
+            },
+            "Database-Management-System": {
+                " MIDSEM 2024.pdf": {
+                    "name": "-MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/96c0a7b0b14b7c83affc62361afcff1bc184c85a%20MIDSEM%202024.pdf",
+                    "url": "https://files.catbox.moe/jbxemg.pdf"
+                }
+            },
+            "Advance-Programming": {
+                "MIDSEM 2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/488b94c70db1d022f526fec9222a854dee2a4dfcMIDSEM%202024.pdf",
+                    "url": "https://files.catbox.moe/o6601z.pdf"
+                }
+            },
             "Optimization-Principles-and-Techniques": {
                 "HANDWRITTEN NOTES.pdf": {
                     "name": "HANDWRITTEN-NOTES.pdf",
@@ -40551,6 +40585,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5c5c68b0dbe9804f69e6bcbcec3527f65c1b4738MID%20SEMESTER%202021.pdf",
                     "url": "https://files.catbox.moe/emzlhq.pdf"
+                },
+                "MIDSEM 2024.pdf": {
+                    "name": "MIDSEM-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b6abc5ce18a8f1af4c8954ba3572781cc0215715MIDSEM%202024.pdf",
+                    "url": "https://files.catbox.moe/wg7415.pdf"
                 }
             }
         },
