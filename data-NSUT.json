@@ -1809,6 +1809,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Discrete-Structure": {
@@ -2191,6 +2197,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1e086b38a2c8e28354faa3ca9aded77e08f92bPHOTO-2024-09-13-17-20-41.jpg",
                     "url": "https://files.catbox.moe/n2m113.jpg"
+                },
+                "UNIT-1,2.playlist": {
+                    "name": "UNIT-1,2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=nSVzOyT5M8E&list=PL3R9-um41Jsw8hAUYOfNmWNjUr73H6ee0",
+                    "url": "https://files.catbox.moe/lxv2ba.txt"
                 }
             },
             "Probability-&-Statistics": {
@@ -2271,6 +2283,36 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
                     "url": "https://files.catbox.moe/nw2vc2.pdf"
+                },
+                "STATS UNIT 1 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-1-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cf1adac3b0e8a1c841c90faf49e91c369795b9b6STATS%20UNIT%201%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/wcwril.pdf"
+                },
+                "STATS UNIT 2 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-2-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e5b6be8db3103a9449c5a9cda39030cba1686726STATS%20UNIT%202%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/p7e9rf.pdf"
+                },
+                "STATS UNIT 3 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-3-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e32c6ac611d64addad7733ad7a6dbfa0911b6af9STATS%20UNIT%203%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/xcxo4x.pdf"
+                },
+                "STATS UNIT 4 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-4-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/21934099429e0b00d380df322863f08ea81c431bSTATS%20UNIT%204%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/nghir7.pdf"
+                },
+                "Prob Stats ALMOST FULL NOTES.playlist": {
+                    "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
+                    "url": "https://files.catbox.moe/6yw6m1.txt"
                 }
             },
             "web-technology": {},
@@ -4100,6 +4142,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Discrete-Structure": {
@@ -4504,6 +4552,36 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
                     "url": "https://files.catbox.moe/nw2vc2.pdf"
+                },
+                "STATS UNIT 1 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-1-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cf1adac3b0e8a1c841c90faf49e91c369795b9b6STATS%20UNIT%201%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/wcwril.pdf"
+                },
+                "STATS UNIT 2 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-2-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e5b6be8db3103a9449c5a9cda39030cba1686726STATS%20UNIT%202%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/p7e9rf.pdf"
+                },
+                "STATS UNIT 3 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-3-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e32c6ac611d64addad7733ad7a6dbfa0911b6af9STATS%20UNIT%203%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/xcxo4x.pdf"
+                },
+                "STATS UNIT 4 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-4-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/21934099429e0b00d380df322863f08ea81c431bSTATS%20UNIT%204%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/nghir7.pdf"
+                },
+                "Prob Stats ALMOST FULL NOTES.playlist": {
+                    "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
+                    "url": "https://files.catbox.moe/ec7wif.txt"
                 }
             }
         },
@@ -6336,6 +6414,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Data-Structure": {
@@ -6728,6 +6812,36 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
                     "url": "https://files.catbox.moe/nw2vc2.pdf"
+                },
+                "STATS UNIT 1 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-1-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cf1adac3b0e8a1c841c90faf49e91c369795b9b6STATS%20UNIT%201%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/wcwril.pdf"
+                },
+                "STATS UNIT 2 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-2-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e5b6be8db3103a9449c5a9cda39030cba1686726STATS%20UNIT%202%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/p7e9rf.pdf"
+                },
+                "STATS UNIT 3 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-3-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e32c6ac611d64addad7733ad7a6dbfa0911b6af9STATS%20UNIT%203%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/xcxo4x.pdf"
+                },
+                "STATS UNIT 4 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-4-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/21934099429e0b00d380df322863f08ea81c431bSTATS%20UNIT%204%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/nghir7.pdf"
+                },
+                "Prob Stats ALMOST FULL NOTES.playlist": {
+                    "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
+                    "url": "https://files.catbox.moe/ybu7w2.txt"
                 }
             }
         },
@@ -9424,6 +9538,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS&si=0Bs83w_6sXSyEz2Q",
                     "url": "https://files.catbox.moe/v0c5vi.txt"
+                },
+                "MCA LAB FILE.pdf": {
+                    "name": "MCA-LAB-FILE.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6eb844a86234abc5991d4d562c7fa14a82c6822dMCA%20LAB%20FILE.pdf",
+                    "url": "https://files.catbox.moe/yy3qp4.pdf"
                 }
             },
             "Digital-Circuits-and-Systems": {
@@ -9510,6 +9630,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLgwJf8NK-2e7nYSG31YWEUfwgAp2uIOBY&si=D0RZ59jmtF9L002y",
                     "url": "https://files.catbox.moe/udahe3.txt"
+                },
+                "DCS Lab File.pdf": {
+                    "name": "DCS-Lab-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b277346541d3911d1a55aa5ddda853d109a27cc5DCS%20Lab%20File.pdf",
+                    "url": "https://files.catbox.moe/vf7cxq.pdf"
                 }
             }
         },
@@ -11342,6 +11468,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Data-Structure": {
@@ -13759,7 +13891,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/315d22deea90b351278b35151766f924cd863beeMATH-3%20UNIT-3%20ANKUSH.pdf",
                     "url": "https://files.catbox.moe/e3oilk.pdf"
                 },
-                "Midsem-2024 Saksham.jpg": {
+                "MIDSEM 2024.jpg": {
                     "name": "Maths_3_midsem_sept.jpg",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/761c333c9a3c98d41f72ad486bc62eca54f590e2Maths_3_midsem_sept.jpg",
@@ -13812,6 +13944,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6224d2ee6706d4e9e4fdf198c0bef09e2ef43d9ePHOTO-2024-09-12-10-42-22.jpg",
                     "url": "https://files.catbox.moe/jsljos.jpg"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=CDeT2yV_CbM&list=PLU6SqdYcYsfJfRHH0K1CgNkheUKk2fBb6",
+                    "url": "https://files.catbox.moe/vzabxm.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=GLs0nXZBUYk&list=PLU6SqdYcYsfIfW2FdmomPkWDJ3vPLW1SN",
+                    "url": "https://files.catbox.moe/cbq4t0.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=h5dVk51y0kg&list=PLuf6JKNNtustwwlWNUQ6TEc-AVQ-LkODA",
+                    "url": "https://files.catbox.moe/hknd6n.txt"
                 }
             }
         },
@@ -16534,6 +16684,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLgwJf8NK-2e7nYSG31YWEUfwgAp2uIOBY&si=D0RZ59jmtF9L002y",
                     "url": "https://files.catbox.moe/udahe3.txt"
+                },
+                "DCS Lab File.pdf": {
+                    "name": "DCS-Lab-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b277346541d3911d1a55aa5ddda853d109a27cc5DCS%20Lab%20File.pdf",
+                    "url": "https://files.catbox.moe/vf7cxq.pdf"
                 }
             }
         },
@@ -19192,6 +19348,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS&si=0Bs83w_6sXSyEz2Q",
                     "url": "https://files.catbox.moe/v0c5vi.txt"
+                },
+                "MCA LAB FILE.pdf": {
+                    "name": "MCA-LAB-FILE.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6eb844a86234abc5991d4d562c7fa14a82c6822dMCA%20LAB%20FILE.pdf",
+                    "url": "https://files.catbox.moe/yy3qp4.pdf"
                 }
             },
             "Digital-Circuits-and-Systems": {
@@ -19278,6 +19440,12 @@
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PLgwJf8NK-2e7nYSG31YWEUfwgAp2uIOBY&si=D0RZ59jmtF9L002y",
                     "url": "https://files.catbox.moe/udahe3.txt"
+                },
+                "DCS Lab File.pdf": {
+                    "name": "DCS-Lab-File.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b277346541d3911d1a55aa5ddda853d109a27cc5DCS%20Lab%20File.pdf",
+                    "url": "https://files.catbox.moe/vf7cxq.pdf"
                 }
             },
             "Mathematics-for-communication--and-signal-processing-": {}
@@ -21562,7 +21730,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/315d22deea90b351278b35151766f924cd863beeMATH-3%20UNIT-3%20ANKUSH.pdf",
                     "url": "https://files.catbox.moe/e3oilk.pdf"
                 },
-                "Midsem-2024 Saksham.jpg": {
+                "MIDSEM 2024.jpg": {
                     "name": "Maths_3_midsem_sept.jpg",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/761c333c9a3c98d41f72ad486bc62eca54f590e2Maths_3_midsem_sept.jpg",
@@ -21615,6 +21783,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6224d2ee6706d4e9e4fdf198c0bef09e2ef43d9ePHOTO-2024-09-12-10-42-22.jpg",
                     "url": "https://files.catbox.moe/jsljos.jpg"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=CDeT2yV_CbM&list=PLU6SqdYcYsfJfRHH0K1CgNkheUKk2fBb6",
+                    "url": "https://files.catbox.moe/vzabxm.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=GLs0nXZBUYk&list=PLU6SqdYcYsfIfW2FdmomPkWDJ3vPLW1SN",
+                    "url": "https://files.catbox.moe/cbq4t0.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=h5dVk51y0kg&list=PLuf6JKNNtustwwlWNUQ6TEc-AVQ-LkODA",
+                    "url": "https://files.catbox.moe/hknd6n.txt"
                 }
             },
             "Data-Structure-&-Algorithms": {
@@ -24135,6 +24321,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Chemistry": {
@@ -37817,6 +38009,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/57eb2825edfdf18bfbbc421eb73ad1b9b55d1c54PHOTO-2024-09-17-00-30-15%202.jpg",
                     "url": "https://files.catbox.moe/majrsm.jpg"
+                },
+                "UNIT-1,2 .playlist": {
+                    "name": "UNIT-1,2-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=_6oRqxY6O5w&list=PLdM-WZokR4tYxOsDe1s9QSWsVQBHfemd0",
+                    "url": "https://files.catbox.moe/q3o6re.txt"
+                },
+                "Unit 1 Modern Algebra.pdf": {
+                    "name": "Unit-1-Modern-Algebra.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d9a62438119cb253bff382df8ab59ca6b8df85a9Unit%201%20Modern%20Algebra.pdf",
+                    "url": "https://files.catbox.moe/n0k1l1.pdf"
+                },
+                "UNIT 2 Linear Transformations.pdf": {
+                    "name": "UNIT-2-Linear-Transformations.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ab22e8100dc148300370af02e2d8217f3199bbacUNIT%202%20Linear%20Transformations.pdf",
+                    "url": "https://files.catbox.moe/hwyowo.pdf"
+                },
+                "ALA FULL NOTES.playlist": {
+                    "name": "ALA-FULL-NOTES.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
+                    "url": "https://files.catbox.moe/fqmo2j.txt"
                 }
             },
             "Probability-&-Statistics": {
@@ -37897,6 +38113,36 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e6c0e586a88bd92abe6298dc1986ca3ab4065342P%26S.pdf",
                     "url": "https://files.catbox.moe/nw2vc2.pdf"
+                },
+                "STATS UNIT 1 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-1-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cf1adac3b0e8a1c841c90faf49e91c369795b9b6STATS%20UNIT%201%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/wcwril.pdf"
+                },
+                "STATS UNIT 2 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-2-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e5b6be8db3103a9449c5a9cda39030cba1686726STATS%20UNIT%202%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/p7e9rf.pdf"
+                },
+                "STATS UNIT 3 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-3-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e32c6ac611d64addad7733ad7a6dbfa0911b6af9STATS%20UNIT%203%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/xcxo4x.pdf"
+                },
+                "STATS UNIT 4 (Eshmeet).pdf": {
+                    "name": "STATS-UNIT-4-(Eshmeet).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/21934099429e0b00d380df322863f08ea81c431bSTATS%20UNIT%204%20%28Eshmeet%29.pdf",
+                    "url": "https://files.catbox.moe/nghir7.pdf"
+                },
+                "Prob Stats ALMOST FULL NOTES.playlist": {
+                    "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
+                    "url": "https://files.catbox.moe/blmnm9.txt"
                 }
             },
             "Database-Management-System": {
@@ -37965,6 +38211,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1e086b38a2c8e28354faa3ca9aded77e08f92bPHOTO-2024-09-13-17-20-41.jpg",
                     "url": "https://files.catbox.moe/n2m113.jpg"
+                },
+                "UNIT-1,2.playlist": {
+                    "name": "UNIT-1,2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=nSVzOyT5M8E&list=PL3R9-um41Jsw8hAUYOfNmWNjUr73H6ee0",
+                    "url": "https://files.catbox.moe/lxv2ba.txt"
                 }
             },
             "Digital-Logic-Design": {
@@ -38141,6 +38393,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Engineering-Mathematics": {
@@ -38162,7 +38420,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/315d22deea90b351278b35151766f924cd863beeMATH-3%20UNIT-3%20ANKUSH.pdf",
                     "url": "https://files.catbox.moe/e3oilk.pdf"
                 },
-                "Midsem-2024 Saksham.jpg": {
+                "MIDSEM 2024.jpg": {
                     "name": "Maths_3_midsem_sept.jpg",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/761c333c9a3c98d41f72ad486bc62eca54f590e2Maths_3_midsem_sept.jpg",
@@ -38215,6 +38473,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6224d2ee6706d4e9e4fdf198c0bef09e2ef43d9ePHOTO-2024-09-12-10-42-22.jpg",
                     "url": "https://files.catbox.moe/jsljos.jpg"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=CDeT2yV_CbM&list=PLU6SqdYcYsfJfRHH0K1CgNkheUKk2fBb6",
+                    "url": "https://files.catbox.moe/vzabxm.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=GLs0nXZBUYk&list=PLU6SqdYcYsfIfW2FdmomPkWDJ3vPLW1SN",
+                    "url": "https://files.catbox.moe/cbq4t0.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=h5dVk51y0kg&list=PLuf6JKNNtustwwlWNUQ6TEc-AVQ-LkODA",
+                    "url": "https://files.catbox.moe/hknd6n.txt"
                 }
             },
             "Electronics-&-Communication-": {
@@ -39885,6 +40161,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Discrete-Structure": {
@@ -42073,6 +42355,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7ddb80529b3f0aff5ef284f536e56e36142431PHOTO-2024-09-17-18-26-25.jpg",
                     "url": "https://files.catbox.moe/mf560b.jpg"
+                },
+                "UNIT-1,2,3.playlist": {
+                    "name": "UNIT-1,2,3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                    "url": "https://files.catbox.moe/oxfp8p.txt"
                 }
             },
             "Discrete-Structure": {
@@ -42779,6 +43067,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e1e086b38a2c8e28354faa3ca9aded77e08f92bPHOTO-2024-09-13-17-20-41.jpg",
                     "url": "https://files.catbox.moe/n2m113.jpg"
+                },
+                "UNIT-1,2.playlist": {
+                    "name": "UNIT-1,2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=nSVzOyT5M8E&list=PL3R9-um41Jsw8hAUYOfNmWNjUr73H6ee0",
+                    "url": "https://files.catbox.moe/lxv2ba.txt"
                 }
             },
             "Computer-System-Organization": {},
