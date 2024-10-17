@@ -157,6 +157,36 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
                     "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
                 }
             },
             "test": {},
@@ -1090,6 +1120,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -1615,7 +1657,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/lwmo54.pdf"
+                    "url": "https://files.catbox.moe/64khdy.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -2221,7 +2263,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/npsr7c.pdf"
+                    "url": "https://files.catbox.moe/oam1v8.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -5001,13 +5043,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/6jyy2x.txt"
+                    "url": "https://files.catbox.moe/kl92ph.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/xuirre.txt"
+                    "url": "https://files.catbox.moe/vlyp6o.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -5216,6 +5258,36 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
                     "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
                 }
             },
             "Data-Structures": {
@@ -6622,6 +6694,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -7999,13 +8083,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/kh3uwt.txt"
+                    "url": "https://files.catbox.moe/hbcxsy.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/53yd65.txt"
+                    "url": "https://files.catbox.moe/nl5hoq.txt"
                 }
             },
             "Programming-in-C": {
@@ -8391,7 +8475,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/7gh14a.txt"
+                    "url": "https://files.catbox.moe/bgccl8.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -9017,13 +9101,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ynmlaa.txt"
+                    "url": "https://files.catbox.moe/u3r3ji.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/23um09.txt"
+                    "url": "https://files.catbox.moe/vye80k.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -11305,6 +11389,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -12682,13 +12778,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/cj1y68.txt"
+                    "url": "https://files.catbox.moe/ckfxso.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/b8nco9.txt"
+                    "url": "https://files.catbox.moe/aai5ld.txt"
                 }
             },
             "Programming-in-C": {
@@ -13074,7 +13170,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/qo67z4.txt"
+                    "url": "https://files.catbox.moe/x6lxqy.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -13700,13 +13796,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/kt08ri.txt"
+                    "url": "https://files.catbox.moe/jdny2a.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/gl2t4t.txt"
+                    "url": "https://files.catbox.moe/y5054m.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -16043,6 +16139,36 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
                     "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
                 }
             },
             "Software-Eng.": {
@@ -17206,13 +17332,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/5rzeio.txt"
+                    "url": "https://files.catbox.moe/i06q5b.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/vw0yg0.txt"
+                    "url": "https://files.catbox.moe/kllype.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -18317,6 +18443,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -18928,7 +19066,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/dcs9sj.txt"
+                    "url": "https://files.catbox.moe/w4cl4r.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -18952,7 +19090,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/2xi7d3.pdf"
+                    "url": "https://files.catbox.moe/vbrsgk.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -19044,7 +19182,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/nudu0e.pdf"
+                    "url": "https://files.catbox.moe/wvovhs.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -20101,6 +20239,36 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
                     "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
                 }
             },
             "Network-Analysis-and-Synthesis": {
@@ -20157,6 +20325,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bb58752c68a13ed30bb27eb5cd9bc38124fbb119END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/kiiebx.pdf"
+                },
+                "NAS PDF.pdf": {
+                    "name": "NAS-PDF.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ec5218017236b9d2fe7d3b7753e5713f787bff03NAS%20PDF.pdf",
+                    "url": "https://files.catbox.moe/z04mht.pdf"
+                },
+                "NAS Unit 2.pdf": {
+                    "name": "NAS-Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/922c63c19d63c88b9a58b3b815736d99cf92c0ccNAS%20Unit%202.pdf",
+                    "url": "https://files.catbox.moe/w8plmq.pdf"
                 }
             },
             "Communication-Systems": {},
@@ -20845,13 +21025,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/e3b1e7.txt"
+                    "url": "https://files.catbox.moe/7a23va.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/e6don3.txt"
+                    "url": "https://files.catbox.moe/a1sry3.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -21184,6 +21364,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "Analog-Electronics": {
@@ -21401,7 +21593,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/auyuvw.txt"
+                    "url": "https://files.catbox.moe/ut0q9k.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -21413,13 +21605,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/51s47k.txt"
+                    "url": "https://files.catbox.moe/ixhy96.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/ehzg9q.txt"
+                    "url": "https://files.catbox.moe/5e31pa.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -22451,7 +22643,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/29diq8.txt"
+                    "url": "https://files.catbox.moe/4hzlg2.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -23518,6 +23710,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/27c04a3889a5a83b060e289982cf8f18a73b622cNNAI%20notes.pdf",
                     "url": "https://files.catbox.moe/cgvplz.pdf"
+                },
+                "NNAI BAI-205 UNIT 1 (1).ppt": {
+                    "name": "NNAI-BAI-205-UNIT-1-(1).ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/60d35d006697d55a6c9f7e118a6f03cc060d68afNNAI%20BAI-205%20UNIT%201%20%281%29.ppt",
+                    "url": "https://files.catbox.moe/jeu5wc.ppt"
+                },
+                "NNAI BAI-205 UNIT2 (1).ppt": {
+                    "name": "NNAI-BAI-205-UNIT2-(1).ppt",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/94949879884420b2cafb05ab62f5645caeef0e2aNNAI%20BAI-205%20UNIT2%20%281%29.ppt",
+                    "url": "https://files.catbox.moe/t5qpsz.ppt"
                 }
             },
             "Electromagnetic-Field-Theory-": {
@@ -23840,6 +24044,36 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
                     "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
                 }
             },
             "Data-Structures": {
@@ -24143,7 +24377,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/0skytd.txt"
+                    "url": "https://files.catbox.moe/2dazw8.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -24155,13 +24389,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/cphs9a.txt"
+                    "url": "https://files.catbox.moe/4900fw.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/kd1yuv.txt"
+                    "url": "https://files.catbox.moe/3j4x71.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -24358,6 +24592,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bb58752c68a13ed30bb27eb5cd9bc38124fbb119END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/kiiebx.pdf"
+                },
+                "NAS PDF.pdf": {
+                    "name": "NAS-PDF.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ec5218017236b9d2fe7d3b7753e5713f787bff03NAS%20PDF.pdf",
+                    "url": "https://files.catbox.moe/z04mht.pdf"
+                },
+                "NAS Unit 2.pdf": {
+                    "name": "NAS-Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/922c63c19d63c88b9a58b3b815736d99cf92c0ccNAS%20Unit%202.pdf",
+                    "url": "https://files.catbox.moe/w8plmq.pdf"
                 }
             },
             "Signals-and-Systems": {
@@ -25198,6 +25444,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -26575,13 +26833,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/taac12.txt"
+                    "url": "https://files.catbox.moe/8sgozh.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+                    "url": "https://files.catbox.moe/q57a6q.txt"
                 }
             },
             "Programming-in-C": {
@@ -26967,7 +27225,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/5jselm.txt"
+                    "url": "https://files.catbox.moe/9s806m.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -27593,13 +27851,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/x1qq6x.txt"
+                    "url": "https://files.catbox.moe/06o7p2.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/e2xl7p.txt"
+                    "url": "https://files.catbox.moe/j4dvk8.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -28998,6 +29256,36 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
                     "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
                 }
             },
             "Data-Structures": {
@@ -29472,6 +29760,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7c5b04aa38d222b4be209cd480bc84c6beb2a1d4END%20SEM%20MAY%2724%20CSEECE.pdf",
                     "url": "https://files.catbox.moe/z5hz80.pdf"
+                },
+                "Sample Questions for Unit 1.pdf": {
+                    "name": "Sample-Questions-for-Unit-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/81da10b8333a6d0b1501639910af0c96d8be4a5dSample%20Questions%20for%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/z2zzud.pdf"
+                },
+                "Sample questions for Unit 3.pdf": {
+                    "name": "Sample-questions-for-Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/wsj1fa.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -30849,13 +31149,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/t82qtt.txt"
+                    "url": "https://files.catbox.moe/ljq0fc.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/jtqkls.txt"
+                    "url": "https://files.catbox.moe/jnt13l.txt"
                 }
             },
             "Programming-in-C": {
@@ -31241,7 +31541,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/0dbnrq.txt"
+                    "url": "https://files.catbox.moe/t4xcir.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -31867,13 +32167,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/lnaqbi.txt"
+                    "url": "https://files.catbox.moe/uoay6p.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/s9ci4m.txt"
+                    "url": "https://files.catbox.moe/o1ga28.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
