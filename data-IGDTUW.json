@@ -189,7 +189,14 @@
                     "url": "Bad file type! DOC isn't allowed!"
                 }
             },
-            "test": {},
+            "test": {
+                "CS mid term paper 2024.jpg": {
+                    "name": "CS-mid-term-paper-2024.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0fdf5daf954f8ad8977a5a44bcfad5ceec4e9415CS%20mid%20term%20paper.jpg",
+                    "url": "https://files.catbox.moe/rnf0ro.jpg"
+                }
+            },
             "Artificial-Intelligence": {
                 "Russell (4th edition).pdf": {
                     "name": "Russell-&-Norvig.pdf",
@@ -1132,6 +1139,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -1657,7 +1670,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/jijkxk.pdf"
+                    "url": "https://files.catbox.moe/c0r2q2.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -1939,41 +1952,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -2017,7 +2000,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -2256,6 +2239,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "IT-Workshop": {
@@ -2263,7 +2342,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/o41rkz.pdf"
+                    "url": "https://files.catbox.moe/u1p83d.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -4481,13 +4560,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -4595,13 +4674,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -4709,13 +4788,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -4763,23 +4842,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -5027,7 +5100,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -5043,13 +5116,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/zzxk4y.txt"
+                    "url": "https://files.catbox.moe/36nroz.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/un93xy.txt"
+                    "url": "https://files.catbox.moe/de2stv.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -5057,7 +5130,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -5098,6 +5171,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             }
         },
@@ -6706,6 +6785,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -7077,41 +7162,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -7155,7 +7210,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -7394,6 +7449,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -8048,50 +8199,6 @@
                     "url": "https://files.catbox.moe/zk00s9.pdf"
                 }
             },
-            "Engineering-Graphics": {
-                "LInes & Letters.pdf": {
-                    "name": "LInes-&-Letters.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5985202f51c91a78a8b0fbcb9cd58907ecd8057Introduction%20.pdf",
-                    "url": "https://files.catbox.moe/n71iyx.pdf"
-                },
-                "Measuring Instruments.pdf": {
-                    "name": "Measuring-Instruments.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/09eed913806f177248fab59d5d939a9daa7c0adcMeasuring%20Instruments.pdf",
-                    "url": "https://files.catbox.moe/ulfmpq.pdf"
-                },
-                "Projection of Lines.pdf": {
-                    "name": "Projection-of-Lines.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f56c14dd3e8b4938c5abffe77a058cd0382c6c9eProjection%20of%20Lines.pdf",
-                    "url": "https://files.catbox.moe/40hdox.pdf"
-                },
-                "Projection of Planes.pdf": {
-                    "name": "Projection-of-Planes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a8b7c805edbae7ea1b83877ff34f27f51e4a5572Projection%20of%20Planes.pdf",
-                    "url": "https://files.catbox.moe/ax83gy.pdf"
-                },
-                "N.D. Bhatt.pdf": {
-                    "name": "N.D.-Bhatt.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6a942bba2f3cf28a927254c4e7b51ce45c8c2183N.D.%20Bhatt.pdf",
-                    "url": "https://files.catbox.moe/ym3aov.pdf"
-                },
-                "Basic ED L-1.playlist": {
-                    "name": "Basic-ED-L-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/bljzvi.txt"
-                },
-                "Basic construction L-1.playlist": {
-                    "name": "Basic-construction-L-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/lfsutp.txt"
-                }
-            },
             "Programming-in-C": {
                 "C Language.pdf": {
                     "name": "C-Language.pdf",
@@ -8475,7 +8582,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/p4s2uu.txt"
+                    "url": "https://files.catbox.moe/z79w2l.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -8539,13 +8646,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -8653,13 +8760,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -8767,13 +8874,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -8821,23 +8928,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -9085,7 +9186,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -9101,13 +9202,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/q9heop.txt"
+                    "url": "https://files.catbox.moe/pbhrm2.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/wo0g2y.txt"
+                    "url": "https://files.catbox.moe/55rnzr.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -9115,7 +9216,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -9156,6 +9257,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             },
             "Physics---1": {
@@ -10894,6 +11001,56 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80084fe355daf66ff7c8aba069bd17033910cfbfClass%20Test.pdf",
                     "url": "https://files.catbox.moe/1btps0.pdf"
+                },
+                "Midsem 2024.pdf": {
+                    "name": "Midsem-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f605e8c100c6fac24e4cb1b034b607f93afc619eMidsem%202024.pdf",
+                    "url": "https://files.catbox.moe/zqfrcg.pdf"
+                }
+            },
+            "Engineering-Graphics": {
+                "LInes & Letters.pdf": {
+                    "name": "LInes-&-Letters.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5985202f51c91a78a8b0fbcb9cd58907ecd8057Introduction%20.pdf",
+                    "url": "https://files.catbox.moe/n71iyx.pdf"
+                },
+                "Measuring Instruments.pdf": {
+                    "name": "Measuring-Instruments.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/09eed913806f177248fab59d5d939a9daa7c0adcMeasuring%20Instruments.pdf",
+                    "url": "https://files.catbox.moe/ulfmpq.pdf"
+                },
+                "Projection of Lines.pdf": {
+                    "name": "Projection-of-Lines.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f56c14dd3e8b4938c5abffe77a058cd0382c6c9eProjection%20of%20Lines.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "Projection-of-Planes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a8b7c805edbae7ea1b83877ff34f27f51e4a5572Projection%20of%20Planes.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "N.D. Bhatt.pdf": {
+                    "name": "N.D.-Bhatt.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6a942bba2f3cf28a927254c4e7b51ce45c8c2183N.D.%20Bhatt.pdf",
+                    "url": "https://files.catbox.moe/ym3aov.pdf"
+                },
+                "Basic ED L-1.playlist": {
+                    "name": "Basic-ED-L-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtu.be/v2L0zUrX6ow",
+                    "url": "https://files.catbox.moe/i3t9yg.txt"
+                },
+                "Basic construction L-1.playlist": {
+                    "name": "Basic-construction-L-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtu.be/1m9DmZEa4Jw",
+                    "url": "https://files.catbox.moe/iqge70.txt"
                 }
             }
         },
@@ -11401,6 +11558,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -11464,41 +11627,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -11542,7 +11675,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -11781,6 +11914,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -12778,13 +13007,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/rgwl87.txt"
+                    "url": "https://files.catbox.moe/7xkryc.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/shjk2b.txt"
+                    "url": "https://files.catbox.moe/tb874f.txt"
                 }
             },
             "Programming-in-C": {
@@ -13170,7 +13399,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/6vgdxa.txt"
+                    "url": "https://files.catbox.moe/cctt43.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -13234,13 +13463,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -13348,13 +13577,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -13462,13 +13691,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -13516,23 +13745,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -13780,7 +14003,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -13796,13 +14019,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/5qw8r9.txt"
+                    "url": "https://files.catbox.moe/2bv56i.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/602fmw.txt"
+                    "url": "https://files.catbox.moe/oiu4me.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -13810,7 +14033,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -13851,6 +14074,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             },
             "Physics---1": {
@@ -15979,6 +16208,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80084fe355daf66ff7c8aba069bd17033910cfbfClass%20Test.pdf",
                     "url": "https://files.catbox.moe/1btps0.pdf"
+                },
+                "Midsem 2024.pdf": {
+                    "name": "Midsem-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f605e8c100c6fac24e4cb1b034b607f93afc619eMidsem%202024.pdf",
+                    "url": "https://files.catbox.moe/zqfrcg.pdf"
                 }
             }
         },
@@ -16770,13 +17005,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -16884,13 +17119,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -16998,13 +17233,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -17052,23 +17287,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -17316,7 +17545,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -17332,13 +17561,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/8kf0pb.txt"
+                    "url": "https://files.catbox.moe/4efy3d.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/g6mut5.txt"
+                    "url": "https://files.catbox.moe/ftpfh0.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -17346,7 +17575,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -17387,6 +17616,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             },
             "Physics---1": {
@@ -18455,6 +18690,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -19066,7 +19307,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/0hfrc2.txt"
+                    "url": "https://files.catbox.moe/2bl6x5.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -19090,7 +19331,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/txzwi0.pdf"
+                    "url": "https://files.catbox.moe/rynkoh.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -19182,7 +19423,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/n1sh3w.pdf"
+                    "url": "https://files.catbox.moe/6pzv33.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -19464,41 +19705,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -19542,7 +19753,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -19781,6 +19992,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "Probability-and-Statistics": {
@@ -19993,6 +20300,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80084fe355daf66ff7c8aba069bd17033910cfbfClass%20Test.pdf",
                     "url": "https://files.catbox.moe/1btps0.pdf"
+                },
+                "Midsem 2024.pdf": {
+                    "name": "Midsem-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f605e8c100c6fac24e4cb1b034b607f93afc619eMidsem%202024.pdf",
+                    "url": "https://files.catbox.moe/zqfrcg.pdf"
                 }
             }
         },
@@ -20463,13 +20776,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -20577,13 +20890,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -20691,13 +21004,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -20745,23 +21058,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -21009,7 +21316,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -21025,13 +21332,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ptptks.txt"
+                    "url": "https://files.catbox.moe/c6ewt7.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/281e5s.txt"
+                    "url": "https://files.catbox.moe/cz1fe4.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -21039,7 +21346,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -21080,6 +21387,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             },
             "Communication-Skills": {
@@ -21376,6 +21689,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "Analog-Electronics": {
@@ -21593,7 +21912,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/vm5fa0.txt"
+                    "url": "https://files.catbox.moe/bozvz7.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -21605,13 +21924,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/j9vydp.txt"
+                    "url": "https://files.catbox.moe/zjfs3h.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/ygobvo.txt"
+                    "url": "https://files.catbox.moe/95jw15.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -22643,7 +22962,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/2el5ri.txt"
+                    "url": "https://files.catbox.moe/9vwlfr.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -23263,41 +23582,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -23341,7 +23630,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -23580,6 +23869,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "Digital-Electronics": {
@@ -24377,7 +24762,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/zylfmz.txt"
+                    "url": "https://files.catbox.moe/jgwmk9.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -24389,13 +24774,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/sux7e0.txt"
+                    "url": "https://files.catbox.moe/4qhb8p.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/qw06w2.txt"
+                    "url": "https://files.catbox.moe/fnkrdl.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -25456,6 +25841,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -25827,41 +26218,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -25905,7 +26266,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -26144,6 +26505,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -26833,13 +27290,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/5rkv14.txt"
+                    "url": "https://files.catbox.moe/k93xzk.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/zbovpt.txt"
+                    "url": "https://files.catbox.moe/62wls9.txt"
                 }
             },
             "Programming-in-C": {
@@ -27225,7 +27682,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/s53i4a.txt"
+                    "url": "https://files.catbox.moe/832ao1.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -27289,13 +27746,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -27403,13 +27860,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -27517,13 +27974,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -27571,23 +28028,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -27835,7 +28286,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -27851,13 +28302,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ablt55.txt"
+                    "url": "https://files.catbox.moe/0jars6.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/9rqd2n.txt"
+                    "url": "https://files.catbox.moe/m8eq7n.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -27865,7 +28316,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -27906,6 +28357,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             },
             "Physics---1": {
@@ -29772,6 +30229,12 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99060ca435b82f4f921c12e32db74bbe182fc633Sample%20questions%20for%20Unit%203.pdf",
                     "url": "https://files.catbox.moe/wsj1fa.pdf"
+                },
+                "Midsem Oct'24.pdf": {
+                    "name": "Midsem-Oct'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
+                    "url": "https://files.catbox.moe/x0s0fd.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -30143,41 +30606,11 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d2d89d28a0d97786c38cd204c4b574f6a3b7df49Unit-3%20Numericals%20.pdf",
                     "url": "https://files.catbox.moe/iaevqn.pdf"
                 },
-                "Important Topic for Midterm.pdf": {
-                    "name": "Important-Topic-for-Midterm.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f01f5368efde0bfce977179e55d39fd336ebee97Important%20Topic%20for%20Midterm.pdf",
-                    "url": "https://files.catbox.moe/5q86qu.pdf"
-                },
                 "Dr Ranu.pdf": {
                     "name": "Dr-Ranu.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0be0d64dd13f0a0b41c7f57a0c38f81111cb7ae8Dr%20Ranu.pdf",
                     "url": "https://files.catbox.moe/nfbm0b.pdf"
-                },
-                "Unit 1 Energy Resources.pdf": {
-                    "name": "Unit-1-Energy-Resources.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df3e014cc75c53c8ec2ac9523a6986c9fab4c1e6Unit%201%20Energy%20Resources.pdf",
-                    "url": "https://files.catbox.moe/48tlhq.pdf"
-                },
-                "Unit 1 Environment Management system.pdf": {
-                    "name": "Unit-1-Environment-Management-system.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54fd1a6691aecd5b261d80810bb8eec171769fefUnit%201%20Environment%20Management%20system.pdf",
-                    "url": "https://files.catbox.moe/exg8w4.pdf"
-                },
-                "Unit 1 Natural Resources ALL.pdf": {
-                    "name": "Unit-1-Natural-Resources-ALL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1c4e79bad52398445361a5b9d82f5c07cbded1d0Unit%201%20Natural%20Resources%20ALL.pdf",
-                    "url": "https://files.catbox.moe/fmy1xf.pdf"
-                },
-                "Unit 1 Natural Resources- Impact & conservation.pdf": {
-                    "name": "Unit-1-Natural-Resources--Impact-&-conservation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b7d21062866bcc5cf117300e0ef0ba58f7340246Unit%201%20Natural%20Resources-%20Impact%20%26%20conservation.pdf",
-                    "url": "https://files.catbox.moe/5e4rcu.pdf"
                 },
                 "Unit 2 Environmental Pollution ALL.pdf": {
                     "name": "Unit-2-Environmental-Pollution-ALL.pdf",
@@ -30221,7 +30654,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5bb2626eb88a644f63147fd910c15c1b826b319Unit-3%265%20Chemical%20Toxicology%20book.pdf",
                     "url": "https://files.catbox.moe/oe2hjt.pdf"
                 },
-                "Unit-3&5 Green Tech & Chemistry.pdf": {
+                "Unit-2 Green Tech & Chemistry.pdf": {
                     "name": "Unit-3&5-Green-Tech-&-Chemistry.pdf",
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5c030e24b0f53a59711b36f7542f62cae647adcUnit-3%265%20Green%20Tech%20%26%20Chemistry.pdf",
@@ -30460,6 +30893,102 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/30c3105287fe01c2cf51acb18e016a4edc9b003aEnd%20sem%2024.pdf",
                     "url": "https://files.catbox.moe/frdhzp.pdf"
+                },
+                "Sunita Ratan Unit 1.pdf": {
+                    "name": "Sunita-Ratan-Unit-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1323bad82a3ed9fa2fdc9b0c3aea1c5b211480daSunita%20Ratan%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/ujgcfk.pdf"
+                },
+                "Unit1 Notes.pdf": {
+                    "name": "Unit1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d45a7ad072e975fd8dcec751473dc5ca362a5b25Unit1%20Notes.pdf",
+                    "url": "https://files.catbox.moe/uvh4xg.pdf"
+                },
+                "Unit1 Waste Water Treatment(2).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/98a172ca6b658fbff688275efc83f5389aaa0ea6Unit1%20Waste%20Water%20Treatment%282%29.pdf",
+                    "url": "https://files.catbox.moe/mkabbq.pdf"
+                },
+                "Unit1 Waste Water Treatment(1).pdf": {
+                    "name": "Unit1-Waste-Water-Treatment(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a4b41378a2fe3ef81b795abdfc6b16f77a1ad4bUnit1%20Waste%20Water%20Treatment%281%29.pdf",
+                    "url": "https://files.catbox.moe/fsinp7.pdf"
+                },
+                "Water pollution questions.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Air Pollution.pdf": {
+                    "name": "Unit-2---Air-Pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1199625f57fbdbeb47cb0a77aabd82017e41ea8bUnit%202%20-%20Air%20Pollution.pdf",
+                    "url": "https://files.catbox.moe/1zcmyj.pdf"
+                },
+                "Unit 2 - CO2 sequestration.pdf": {
+                    "name": "Unit-2---CO2-sequestration.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/14f882573c774806bacf473c6a3cae6872738ac0Unit%202%20-%20CO2%20sequestration.pdf",
+                    "url": "https://files.catbox.moe/tm8x4v.pdf"
+                },
+                "Unit 2 - Green Technology and Green Chemistry.pdf": {
+                    "name": "Unit-2---Green-Technology-and-Green-Chemistry.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/50e6977bff5ae8ac9aef06535a2f04391f44971bUnit%202%20-%20Green%20Technology%20and%20Green%20Chemistry.pdf",
+                    "url": "https://files.catbox.moe/7zfqhl.pdf"
+                },
+                "Unit 2 - Hazardous waste pollution.pdf": {
+                    "name": "Unit-2---Hazardous-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/9c9fdce4b5356b0286e911c49b13daa007774104Unit%202%20-%20Hazardous%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/qm30uo.pdf"
+                },
+                "Unit1,2 Numericals.pdf": {
+                    "name": "Unit1,2-Numericals.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fc78d376e5946ced195cbed33f19114c8f0842b6Unit1%2C2%20Numericals.pdf",
+                    "url": "https://files.catbox.moe/p4cmag.pdf"
+                },
+                "Unit1 Numericals.pdf": {
+                    "name": "Water-pollution-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3ffc790a7da70b40fb3a51f18ec1aba26fbcb11cWater%20pollution%20questions.pdf",
+                    "url": "https://files.catbox.moe/rbfqo9.pdf"
+                },
+                "Unit 2 - Hydrocarbon and particulates.pdf": {
+                    "name": "Unit-2---Hydrocarbon-and-particulates.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d12f175bb0e80bbca13d2a324749efb62db2732Unit%202%20-%20Hydrocarbon%20and%20particulates.pdf",
+                    "url": "https://files.catbox.moe/66fg6v.pdf"
+                },
+                "Unit 2 - solid waste pollution.pdf": {
+                    "name": "Unit-2---solid-waste-pollution.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ad74961e4d67e5f76eba643a5476f17bb3877879Unit%202%20-%20solid%20waste%20pollution.pdf",
+                    "url": "https://files.catbox.moe/j1yxkq.pdf"
+                },
+                "Unit1 Waste Water Management.pdf": {
+                    "name": "Unit1-Waste-Water-Management.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/49becddad3f628266bc2eb7e59f29657b399603aUnit1%20Waste%20Water%20Management.pdf",
+                    "url": "https://files.catbox.moe/fjgxb3.pdf"
+                },
+                "Unit1 Water Technology(2).pdf": {
+                    "name": "Unit1-Water-Technology(2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c93908b6b3b482b3950bd5c13b271daab9e9ada7Unit1%20Water%20Technology%282%29.pdf",
+                    "url": "https://files.catbox.moe/1svg4w.pdf"
+                },
+                "Unit1 Water Technology(1).pdf": {
+                    "name": "Unit1-Water-Technology(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
+                    "url": "https://files.catbox.moe/6o9wec.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -31149,13 +31678,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/z99iur.txt"
+                    "url": "https://files.catbox.moe/8drgir.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/x4zqal.txt"
+                    "url": "https://files.catbox.moe/d55cex.txt"
                 }
             },
             "Programming-in-C": {
@@ -31541,7 +32070,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/hisy6t.txt"
+                    "url": "https://files.catbox.moe/43jrwe.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -31605,13 +32134,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/94266ca0c4ebeb5b97234c84f433e5eafcc1ce94End%20Term%202015.pdf",
                     "url": "https://files.catbox.moe/6dtid5.pdf"
                 },
-                "END TERM 2013.pdf": {
+                "End Term 2013.pdf": {
                     "name": "END-TERM-2013.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9a4b90e571c790f1fcace0fd4fa240175efb806dEND%20TERM%202013.pdf",
                     "url": "https://files.catbox.moe/ttkzf1.pdf"
                 },
-                "End term2022.pdf": {
+                "End Term Apr-2022 (IT,MAE,DMAM).pdf": {
                     "name": "End-term2022.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ed85a73921ed62bb3f1da6cdfd1d66d4a516bfcEnd%20term2022.pdf",
@@ -31719,13 +32248,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/080d5076b148f6b751c70e3344fb4a5a20b5e8b2multiple%20intergral.pdf",
                     "url": "https://files.catbox.moe/u1yb6u.pdf"
                 },
-                "End Term 2021.pdf": {
+                "End Term 2021-1.pdf": {
                     "name": "End-Term-2021.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba54a1f1180a0bdb77885ae83f15d842c1e8c6ebEnd%20Term%202021.pdf",
                     "url": "https://files.catbox.moe/af9squ.pdf"
                 },
-                "End Term April2021-1.pdf": {
+                "End Term 2021-2.pdf": {
                     "name": "End-Term-April2021-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e71b54dff32bdd7786d62e4ce8210728d59c92b5End%20Term%20April2021-1.pdf",
@@ -31833,13 +32362,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7a3b32e4f433160769231e77875ade08ec64ce8eapplications%20of%20matrices.pdf",
                     "url": "https://files.catbox.moe/z76tuy.pdf"
                 },
-                "End Term 22.pdf": {
+                "End Term Apr-2022 (CSE-AI).pdf": {
                     "name": "End-Term-22.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64ca8163fa25f326715dbb978f86a5c9fb0f7a8fEnd%20Term%2022.pdf",
                     "url": "https://files.catbox.moe/ncml31.pdf"
                 },
-                "MID Term 2019-20.pdf": {
+                "Mid Term 2019-20.pdf": {
                     "name": "MID-Term-2019-20.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0577e3770cc14c8517b10a815a441a07af5f2c7bMID%20Term%202019-20.pdf",
@@ -31887,23 +32416,17 @@
                     "original_url": "https://www.youtube.com/playlist?list=PLPeqJxyK31l7fC4jfOJJhdUYD_MYl6PE4",
                     "url": "https://files.catbox.moe/sbtri8.txt"
                 },
-                "mid  cse-ece-23.pdf": {
+                "Mid Term Jan-2023 (CSE&ECE).pdf": {
                     "name": "mid--cse-ece-23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8137481997e1b6a3d963f3b9c195837245c79cc2mid%20%20cse-ece-23.pdf",
                     "url": "https://files.catbox.moe/4ag1y1.pdf"
                 },
-                "mid cse-ece jan 23 solution.pdf": {
+                "SOLUTIONS Mid term 2023.pdf": {
                     "name": "mid-cse-ece-jan-23-solution.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0573e0e6a991fbcd03907c5b3d512343ca86e41cmid%20cse-ece%2023%20solution.pdf",
                     "url": "https://files.catbox.moe/6o42vq.pdf"
-                },
-                "maths end sem 22.pdf": {
-                    "name": "maths-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/325f22d95f973ba5b9fe4ec160bb9a8542f44a35maths%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/o2uond.pdf"
                 },
                 "ERRORS IN ONE VARIABLE .pdf": {
                     "name": "ERRORS-IN-ONE-VARIABLE-.pdf",
@@ -32151,7 +32674,7 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9763800e88e97e9a26d5d09e6a9e1f1dfca88b69GeetaMaam_MatricesNotes.pdf",
                     "url": "https://files.catbox.moe/gt6byc.pdf"
                 },
-                "Maths_MidSem_Oct'23.pdf": {
+                "Mid Term Oct-2023 (CSE-AI,ECE-AI,AI&ML).pdf": {
                     "name": "Maths_MidSem_Oct'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0ffe3730def1af7871984b08de84052221c07044Maths_MidSem_Oct%2723.pdf",
@@ -32167,13 +32690,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/d3o1pi.txt"
+                    "url": "https://files.catbox.moe/kvbaqw.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/x0r2u8.txt"
+                    "url": "https://files.catbox.moe/1d6qoy.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -32181,7 +32704,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ&feature=shared",
                     "url": "https://files.catbox.moe/rd2aeh.txt"
                 },
-                "Maths_Endsem_Dec'23.pdf": {
+                "End Term 2023.pdf": {
                     "name": "Maths_Endsem_Dec'23.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ed874b4e6fdb897e7be8f7b895906410394905f5Maths_Endsem_Dec%2723.pdf",
@@ -32222,6 +32745,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d32ee4a8127923a8dc269df3f01534a6aa40b7bSwati%20mam_Unit%203_Partial%20diff.pdf",
                     "url": "https://files.catbox.moe/oslt99.pdf"
+                },
+                "Mid Term 2024.pdf": {
+                    "name": "Mid-Term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
+                    "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
             },
             "Physics---1": {
