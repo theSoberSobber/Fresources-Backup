@@ -187,6 +187,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
                     "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
                 }
             },
             "test": {
@@ -343,6 +349,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/acfb27739269b50e27fd4a9889d1e19961af53e8END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/iam904.pdf"
+                },
+                "dsa oct 2024 .pdf": {
+                    "name": "dsa-oct-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a838de73debc8bb1574c9f21767f83546871ce32dsa%20oct%202024%20.pdf",
+                    "url": "https://files.catbox.moe/g6c71s.pdf"
                 }
             },
             "Numerical-MEthods": {
@@ -1670,7 +1682,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/6ich89.pdf"
+                    "url": "https://files.catbox.moe/9fuwzj.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -2335,6 +2347,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "IT-Workshop": {
@@ -2342,7 +2366,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/z8pxkq.pdf"
+                    "url": "https://files.catbox.moe/rpz9e1.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -5194,13 +5218,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/a9wvoo.txt"
+                    "url": "https://files.catbox.moe/0owlx5.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/ziogt4.txt"
+                    "url": "https://files.catbox.moe/scc63u.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -5445,6 +5469,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
                     "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
                 }
             },
             "Data-Structures": {
@@ -5531,6 +5561,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/acfb27739269b50e27fd4a9889d1e19961af53e8END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/iam904.pdf"
+                },
+                "dsa oct 2024 .pdf": {
+                    "name": "dsa-oct-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a838de73debc8bb1574c9f21767f83546871ce32dsa%20oct%202024%20.pdf",
+                    "url": "https://files.catbox.moe/g6c71s.pdf"
                 }
             },
             "Discrete-STructures": {
@@ -7695,6 +7731,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -8732,7 +8780,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/m73qzv.txt"
+                    "url": "https://files.catbox.moe/hy7dln.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -9352,13 +9400,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ipbg6n.txt"
+                    "url": "https://files.catbox.moe/jyytgv.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/zx1h1f.txt"
+                    "url": "https://files.catbox.moe/j9j3ll.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -11200,13 +11248,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/z2seun.txt"
+                    "url": "https://files.catbox.moe/cdetd8.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/9jmjnv.txt"
+                    "url": "https://files.catbox.moe/p5qhn3.txt"
                 }
             }
         },
@@ -12166,6 +12214,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -13163,13 +13223,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/ynsiuy.txt"
+                    "url": "https://files.catbox.moe/5q3lr6.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/ykra6y.txt"
+                    "url": "https://files.catbox.moe/tyx1kz.txt"
                 }
             },
             "Programming-in-C": {
@@ -13555,7 +13615,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/m46qd1.txt"
+                    "url": "https://files.catbox.moe/thcajy.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -14175,13 +14235,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/s8kjns.txt"
+                    "url": "https://files.catbox.moe/owqcu7.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/e9fy1s.txt"
+                    "url": "https://files.catbox.moe/oruywo.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -16638,6 +16698,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
                     "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
                 }
             },
             "Software-Eng.": {
@@ -17795,13 +17861,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/e2zgpv.txt"
+                    "url": "https://files.catbox.moe/wbeiw7.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/faedsn.txt"
+                    "url": "https://files.catbox.moe/fk1pnz.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -19547,7 +19613,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/c178uz.txt"
+                    "url": "https://files.catbox.moe/f1q9m5.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -19571,7 +19637,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/yab0sf.pdf"
+                    "url": "https://files.catbox.moe/f2c40h.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -19663,7 +19729,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/ccxpe5.pdf"
+                    "url": "https://files.catbox.moe/nkdk0h.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -20328,6 +20394,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "Probability-and-Statistics": {
@@ -20634,6 +20712,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/acfb27739269b50e27fd4a9889d1e19961af53e8END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/iam904.pdf"
+                },
+                "dsa oct 2024 .pdf": {
+                    "name": "dsa-oct-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a838de73debc8bb1574c9f21767f83546871ce32dsa%20oct%202024%20.pdf",
+                    "url": "https://files.catbox.moe/g6c71s.pdf"
                 }
             },
             "DataBase-Management-System": {
@@ -20822,6 +20906,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
                     "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
                 }
             },
             "Network-Analysis-and-Synthesis": {
@@ -20890,6 +20980,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/922c63c19d63c88b9a58b3b815736d99cf92c0ccNAS%20Unit%202.pdf",
                     "url": "https://files.catbox.moe/w8plmq.pdf"
+                },
+                "NAS  oct 2024.pdf": {
+                    "name": "NAS--oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f0b16aa1a8bd8ced4fae72e216fcfd11cb63f0a8NAS%20%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/90mcya.pdf"
                 }
             },
             "Communication-Systems": {},
@@ -21572,13 +21668,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/4skhon.txt"
+                    "url": "https://files.catbox.moe/8yxkgt.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/3l3n77.txt"
+                    "url": "https://files.catbox.moe/y10zeu.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -22152,7 +22248,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/bkv57r.txt"
+                    "url": "https://files.catbox.moe/vubl2c.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -22164,13 +22260,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/a56w9m.txt"
+                    "url": "https://files.catbox.moe/nierby.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/mg4iuo.txt"
+                    "url": "https://files.catbox.moe/yiouj6.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -23274,7 +23370,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/vxb4ew.txt"
+                    "url": "https://files.catbox.moe/r4kdja.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -24277,6 +24373,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "Digital-Electronics": {
@@ -24419,6 +24527,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/94949879884420b2cafb05ab62f5645caeef0e2aNNAI%20BAI-205%20UNIT2%20%281%29.ppt",
                     "url": "https://files.catbox.moe/t5qpsz.ppt"
+                },
+                "NNAI oct 2024.pdf": {
+                    "name": "NNAI-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/84755cbc36cc5cb751b12057eea44ac1ea8bde0dNNAI%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/bm50up.pdf"
                 }
             },
             "Electromagnetic-Field-Theory-": {
@@ -24771,6 +24885,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
                     "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
                 }
             },
             "Data-Structures": {
@@ -24857,6 +24977,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/acfb27739269b50e27fd4a9889d1e19961af53e8END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/iam904.pdf"
+                },
+                "dsa oct 2024 .pdf": {
+                    "name": "dsa-oct-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a838de73debc8bb1574c9f21767f83546871ce32dsa%20oct%202024%20.pdf",
+                    "url": "https://files.catbox.moe/g6c71s.pdf"
                 }
             },
             "Analog-Electronics": {
@@ -25074,7 +25200,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/v0hiaa.txt"
+                    "url": "https://files.catbox.moe/aa9n3j.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -25086,13 +25212,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/xj1882.txt"
+                    "url": "https://files.catbox.moe/5z642w.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/audelu.txt"
+                    "url": "https://files.catbox.moe/2dinzk.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -25301,6 +25427,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/922c63c19d63c88b9a58b3b815736d99cf92c0ccNAS%20Unit%202.pdf",
                     "url": "https://files.catbox.moe/w8plmq.pdf"
+                },
+                "NAS  oct 2024.pdf": {
+                    "name": "NAS--oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f0b16aa1a8bd8ced4fae72e216fcfd11cb63f0a8NAS%20%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/90mcya.pdf"
                 }
             },
             "Signals-and-Systems": {
@@ -26985,6 +27117,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -27674,13 +27818,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/jizcei.txt"
+                    "url": "https://files.catbox.moe/l05bq4.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/7xr6df.txt"
+                    "url": "https://files.catbox.moe/gpd5wt.txt"
                 }
             },
             "Programming-in-C": {
@@ -28066,7 +28210,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/0xbidr.txt"
+                    "url": "https://files.catbox.moe/t4xwax.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -28686,13 +28830,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/gvmp40.txt"
+                    "url": "https://files.catbox.moe/sqpel8.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/3vyevl.txt"
+                    "url": "https://files.catbox.moe/dt38m6.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -30133,6 +30277,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
                     "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
                 }
             },
             "Data-Structures": {
@@ -30219,6 +30369,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/acfb27739269b50e27fd4a9889d1e19961af53e8END%20SEM%202023.pdf",
                     "url": "https://files.catbox.moe/iam904.pdf"
+                },
+                "dsa oct 2024 .pdf": {
+                    "name": "dsa-oct-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a838de73debc8bb1574c9f21767f83546871ce32dsa%20oct%202024%20.pdf",
+                    "url": "https://files.catbox.moe/g6c71s.pdf"
                 }
             },
             "Thermal-Engineering---1": {
@@ -31379,6 +31535,18 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/cf8c1948dd8cb227ffb9d6f9bf9e0aa7fa145246Unit1%20Water%20Technology%281%29.pdf",
                     "url": "https://files.catbox.moe/6o9wec.pdf"
+                },
+                "IMG-20241021-WA0071.pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
+                },
+                "Mid Sem (2024).pdf": {
+                    "name": "IMG-20241021-WA0071.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5958dd5ea4be9f1d493a628c1e42da64ad936881IMG-20241021-WA0071.pdf",
+                    "url": "https://files.catbox.moe/z2ma96.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -32068,13 +32236,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/yq0i00.txt"
+                    "url": "https://files.catbox.moe/u8fzuo.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/t2hm7r.txt"
+                    "url": "https://files.catbox.moe/7loaq2.txt"
                 }
             },
             "Programming-in-C": {
@@ -32460,7 +32628,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/5y97bf.txt"
+                    "url": "https://files.catbox.moe/gl8dqq.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -33080,13 +33248,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/1bfi1f.txt"
+                    "url": "https://files.catbox.moe/gup0pf.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/c6qicw.txt"
+                    "url": "https://files.catbox.moe/c9zbsw.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
