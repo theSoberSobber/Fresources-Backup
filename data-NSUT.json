@@ -2245,6 +2245,84 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1d214c3cfaa274d9cc3a093fcc3e3defd12685f4database_system_concepts_korth.pdf",
                     "url": "https://files.catbox.moe/kgtujv.pdf"
+                },
+                "MIS.pdf": {
+                    "name": "MIS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e58a13305f96034b4926b40613c5cca8c69a7f0MIS.pdf",
+                    "url": "https://files.catbox.moe/e2ikan.pdf"
+                },
+                "Normalization.pdf": {
+                    "name": "Normalization.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f2fd3d8d07e05a691c726a5528b0e3a5607209fNormalization.pdf",
+                    "url": "https://files.catbox.moe/07h2b9.pdf"
+                },
+                "Relational Algebra .pdf": {
+                    "name": "Relational-Algebra-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0d31e670915dc6d38c90296837da5c1f6d5db1a4Relational%20Algebra%20.pdf",
+                    "url": "https://files.catbox.moe/fakc4i.pdf"
+                },
+                "Relational Model.pdf": {
+                    "name": "Relational-Model.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d6042bf44fdd9824dee47590a6af55745f0921eeRelational%20Model.pdf",
+                    "url": "https://files.catbox.moe/fy3zp5.pdf"
+                },
+                "Transactions ppt IMS -part 1.pdf": {
+                    "name": "Transactions-ppt-IMS--part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/94322f12daa925577c738831984858e7140705abTransactions%20ppt%20IMS%20-part%201.pdf",
+                    "url": "https://files.catbox.moe/f4tj01.pdf"
+                },
+                "Transactions ppt IMS.pdf": {
+                    "name": "Transactions-ppt-IMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cd3c947ca5e15c8ff7ccde5d44303cda5372f178Transactions%20ppt%20IMS.pdf",
+                    "url": "https://files.catbox.moe/g00a48.pdf"
+                },
+                "er diagram.pdf": {
+                    "name": "er-diagram.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cdc8c911dd3271c17f18c4f25a9b27f7cc16abc6er%20diagram.pdf",
+                    "url": "https://files.catbox.moe/jxnxi0.pdf"
+                },
+                "File System Vs DBMS.pdf": {
+                    "name": "File-System-Vs-DBMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/11a12d1e23462e1b39de0a10cec648f2b7178213File%20System%20Vs%20DBMS.pdf",
+                    "url": "https://files.catbox.moe/ii76qp.pdf"
+                },
+                "Intro to DBMS Part 1.pdf": {
+                    "name": "Intro-to-DBMS-Part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c3c7cca17837e8433a7c63fd2d5698caca4d0484Intro%20to%20DBMS%20Part%201.pdf",
+                    "url": "https://files.catbox.moe/dffueh.pdf"
+                },
+                "Intro to DBMS Part 2.pdf": {
+                    "name": "Intro-to-DBMS-Part-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2409748d1cac766115b3267b4d107cca620e380aIntro%20to%20DBMS%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/1ws8lh.pdf"
+                },
+                "DBMS Complete notes.pdf": {
+                    "name": "DBMS-Complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b6735d1740e6ef6cd69d169e7959aa1a039ed3bdDBMS%20Complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/9cxf9i.pdf"
+                },
+                "Unit 1 Notes.pdf": {
+                    "name": "Unit-1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/812ab253b692fc2f8bd783888856d1115fe47ef4Unit%201%20Notes.pdf",
+                    "url": "https://files.catbox.moe/qzfd1m.pdf"
+                },
+                "Unit 2 Notes.pdf": {
+                    "name": "Unit-2-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d646434e7f1ab0da648a81ec95dcc63396ac2549Unit%202%20Notes.pdf",
+                    "url": "https://files.catbox.moe/d8r5qw.pdf"
                 }
             },
             "Probability-&-Statistics": {
@@ -2360,7 +2438,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/iugum9.txt"
+                    "url": "https://files.catbox.moe/nsm39t.txt"
                 }
             },
             "Web-Technology": {},
@@ -4683,7 +4761,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/gtz4ar.txt"
+                    "url": "https://files.catbox.moe/2dc7x2.txt"
                 }
             }
         },
@@ -6997,7 +7075,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/p50yfr.txt"
+                    "url": "https://files.catbox.moe/qs1xrt.txt"
                 }
             }
         },
@@ -12052,7 +12130,50 @@
                     "url": "https://files.catbox.moe/rf4z5d.pdf"
                 }
             },
-            "Probability-and-Stochastic-Processes": {},
+            "Probability-and-Stochastic-Processes": {
+                "schaum_probability.pdf": {
+                    "name": "schaum_probability.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1820990fc76e32011c7198580108d28018588d8cschaum_probability.pdf",
+                    "url": "https://files.catbox.moe/nnczal.pdf"
+                },
+                "PTSP PYQs 2021.pdf": {
+                    "name": "PTSP-PYQs-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed96db45537170f17521f23e427881afdd7d48d0PTSP%20PYQs%202021.pdf",
+                    "url": "https://files.catbox.moe/gogbak.pdf"
+                },
+                "PSP complete notes.pdf": {
+                    "name": "PSP-complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/25783368e23a3b59100926ed9ba31edd068071afPSP%20complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/3mrgr6.pdf"
+                },
+                "PSP 2022 ES.pdf": {
+                    "name": "PSP-2022-ES.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/e634317f48a220c4897e374e21b9343654e6d99dPSP%202022%20ES.pdf",
+                    "url": "https://files.catbox.moe/eq26g9.pdf"
+                },
+                "PSP 2022 MS.pdf": {
+                    "name": "PSP-2022-MS.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3a867436b40aa396aab368bf87fc6d1685f5dc50PSP%202022%20MS.pdf",
+                    "url": "https://files.catbox.moe/oloael.pdf"
+                },
+                "Probs_Unit-1 Practice Problems.pdf": {
+                    "name": "Probs_Unit-1-Practice-Problems.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/67d22511bb04d8986237f874e62eeb76c86757afProbs_Unit-1%20Practice%20Problems.pdf",
+                    "url": "https://files.catbox.moe/54qsrw.pdf"
+                },
+                "Probs_Unit-2 Practice Problems.pdf": {
+                    "name": "Probs_Unit-2-Practice-Problems.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/04a7e45b7e000342284f0586e8a301aa56084a4aProbs_Unit-2%20Practice%20Problems.pdf",
+                    "url": "https://files.catbox.moe/kkxprb.pdf"
+                }
+            },
             "Microprocessor-and-microcontrollers-": {},
             "Design-and-Analysis-of-Algorithms": {
                 "MIDSEM 2024.pdf": {
@@ -12140,6 +12261,84 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1d214c3cfaa274d9cc3a093fcc3e3defd12685f4database_system_concepts_korth.pdf",
                     "url": "https://files.catbox.moe/kgtujv.pdf"
+                },
+                "MIS.pdf": {
+                    "name": "MIS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e58a13305f96034b4926b40613c5cca8c69a7f0MIS.pdf",
+                    "url": "https://files.catbox.moe/e2ikan.pdf"
+                },
+                "Normalization.pdf": {
+                    "name": "Normalization.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f2fd3d8d07e05a691c726a5528b0e3a5607209fNormalization.pdf",
+                    "url": "https://files.catbox.moe/07h2b9.pdf"
+                },
+                "Relational Algebra .pdf": {
+                    "name": "Relational-Algebra-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0d31e670915dc6d38c90296837da5c1f6d5db1a4Relational%20Algebra%20.pdf",
+                    "url": "https://files.catbox.moe/fakc4i.pdf"
+                },
+                "Relational Model.pdf": {
+                    "name": "Relational-Model.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d6042bf44fdd9824dee47590a6af55745f0921eeRelational%20Model.pdf",
+                    "url": "https://files.catbox.moe/fy3zp5.pdf"
+                },
+                "Transactions ppt IMS -part 1.pdf": {
+                    "name": "Transactions-ppt-IMS--part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/94322f12daa925577c738831984858e7140705abTransactions%20ppt%20IMS%20-part%201.pdf",
+                    "url": "https://files.catbox.moe/f4tj01.pdf"
+                },
+                "Transactions ppt IMS.pdf": {
+                    "name": "Transactions-ppt-IMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cd3c947ca5e15c8ff7ccde5d44303cda5372f178Transactions%20ppt%20IMS.pdf",
+                    "url": "https://files.catbox.moe/g00a48.pdf"
+                },
+                "er diagram.pdf": {
+                    "name": "er-diagram.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cdc8c911dd3271c17f18c4f25a9b27f7cc16abc6er%20diagram.pdf",
+                    "url": "https://files.catbox.moe/jxnxi0.pdf"
+                },
+                "File System Vs DBMS.pdf": {
+                    "name": "File-System-Vs-DBMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/11a12d1e23462e1b39de0a10cec648f2b7178213File%20System%20Vs%20DBMS.pdf",
+                    "url": "https://files.catbox.moe/ii76qp.pdf"
+                },
+                "Intro to DBMS Part 1.pdf": {
+                    "name": "Intro-to-DBMS-Part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c3c7cca17837e8433a7c63fd2d5698caca4d0484Intro%20to%20DBMS%20Part%201.pdf",
+                    "url": "https://files.catbox.moe/dffueh.pdf"
+                },
+                "Intro to DBMS Part 2.pdf": {
+                    "name": "Intro-to-DBMS-Part-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2409748d1cac766115b3267b4d107cca620e380aIntro%20to%20DBMS%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/1ws8lh.pdf"
+                },
+                "DBMS Complete notes.pdf": {
+                    "name": "DBMS-Complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b6735d1740e6ef6cd69d169e7959aa1a039ed3bdDBMS%20Complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/9cxf9i.pdf"
+                },
+                "Unit 1 Notes.pdf": {
+                    "name": "Unit-1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/812ab253b692fc2f8bd783888856d1115fe47ef4Unit%201%20Notes.pdf",
+                    "url": "https://files.catbox.moe/qzfd1m.pdf"
+                },
+                "Unit 2 Notes.pdf": {
+                    "name": "Unit-2-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d646434e7f1ab0da648a81ec95dcc63396ac2549Unit%202%20Notes.pdf",
+                    "url": "https://files.catbox.moe/d8r5qw.pdf"
                 }
             },
             "Computer-Architecture-&-Organization": {
@@ -39170,7 +39369,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/6wfl83.txt"
+                    "url": "https://files.catbox.moe/2ckjfd.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -39238,7 +39437,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/hv64rc.txt"
+                    "url": "https://files.catbox.moe/cccfvz.txt"
                 }
             },
             "Database-Management-System": {
@@ -39319,6 +39518,84 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1d214c3cfaa274d9cc3a093fcc3e3defd12685f4database_system_concepts_korth.pdf",
                     "url": "https://files.catbox.moe/kgtujv.pdf"
+                },
+                "MIS.pdf": {
+                    "name": "MIS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e58a13305f96034b4926b40613c5cca8c69a7f0MIS.pdf",
+                    "url": "https://files.catbox.moe/e2ikan.pdf"
+                },
+                "Normalization.pdf": {
+                    "name": "Normalization.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f2fd3d8d07e05a691c726a5528b0e3a5607209fNormalization.pdf",
+                    "url": "https://files.catbox.moe/07h2b9.pdf"
+                },
+                "Relational Algebra .pdf": {
+                    "name": "Relational-Algebra-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0d31e670915dc6d38c90296837da5c1f6d5db1a4Relational%20Algebra%20.pdf",
+                    "url": "https://files.catbox.moe/fakc4i.pdf"
+                },
+                "Relational Model.pdf": {
+                    "name": "Relational-Model.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d6042bf44fdd9824dee47590a6af55745f0921eeRelational%20Model.pdf",
+                    "url": "https://files.catbox.moe/fy3zp5.pdf"
+                },
+                "Transactions ppt IMS -part 1.pdf": {
+                    "name": "Transactions-ppt-IMS--part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/94322f12daa925577c738831984858e7140705abTransactions%20ppt%20IMS%20-part%201.pdf",
+                    "url": "https://files.catbox.moe/f4tj01.pdf"
+                },
+                "Transactions ppt IMS.pdf": {
+                    "name": "Transactions-ppt-IMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cd3c947ca5e15c8ff7ccde5d44303cda5372f178Transactions%20ppt%20IMS.pdf",
+                    "url": "https://files.catbox.moe/g00a48.pdf"
+                },
+                "er diagram.pdf": {
+                    "name": "er-diagram.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cdc8c911dd3271c17f18c4f25a9b27f7cc16abc6er%20diagram.pdf",
+                    "url": "https://files.catbox.moe/jxnxi0.pdf"
+                },
+                "File System Vs DBMS.pdf": {
+                    "name": "File-System-Vs-DBMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/11a12d1e23462e1b39de0a10cec648f2b7178213File%20System%20Vs%20DBMS.pdf",
+                    "url": "https://files.catbox.moe/ii76qp.pdf"
+                },
+                "Intro to DBMS Part 1.pdf": {
+                    "name": "Intro-to-DBMS-Part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c3c7cca17837e8433a7c63fd2d5698caca4d0484Intro%20to%20DBMS%20Part%201.pdf",
+                    "url": "https://files.catbox.moe/dffueh.pdf"
+                },
+                "Intro to DBMS Part 2.pdf": {
+                    "name": "Intro-to-DBMS-Part-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2409748d1cac766115b3267b4d107cca620e380aIntro%20to%20DBMS%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/1ws8lh.pdf"
+                },
+                "DBMS Complete notes.pdf": {
+                    "name": "DBMS-Complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b6735d1740e6ef6cd69d169e7959aa1a039ed3bdDBMS%20Complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/9cxf9i.pdf"
+                },
+                "Unit 1 Notes.pdf": {
+                    "name": "Unit-1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/812ab253b692fc2f8bd783888856d1115fe47ef4Unit%201%20Notes.pdf",
+                    "url": "https://files.catbox.moe/qzfd1m.pdf"
+                },
+                "Unit 2 Notes.pdf": {
+                    "name": "Unit-2-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d646434e7f1ab0da648a81ec95dcc63396ac2549Unit%202%20Notes.pdf",
+                    "url": "https://files.catbox.moe/d8r5qw.pdf"
                 }
             },
             "Digital-Logic-Design": {
@@ -41955,6 +42232,48 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c39694dd7c4497e0b00eb6192b5f7e5475e8765eMIDSEM%202024.pdf",
                     "url": "https://files.catbox.moe/o1jhkg.pdf"
+                },
+                "schaum_probability.pdf": {
+                    "name": "schaum_probability.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1820990fc76e32011c7198580108d28018588d8cschaum_probability.pdf",
+                    "url": "https://files.catbox.moe/nnczal.pdf"
+                },
+                "PSP complete notes.pdf": {
+                    "name": "PSP-complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/25783368e23a3b59100926ed9ba31edd068071afPSP%20complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/3mrgr6.pdf"
+                },
+                "PTSP PYQs 2021.pdf": {
+                    "name": "PTSP-PYQs-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed96db45537170f17521f23e427881afdd7d48d0PTSP%20PYQs%202021.pdf",
+                    "url": "https://files.catbox.moe/gogbak.pdf"
+                },
+                "Probs_Unit-1 Practice Problems.pdf": {
+                    "name": "Probs_Unit-1-Practice-Problems.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/67d22511bb04d8986237f874e62eeb76c86757afProbs_Unit-1%20Practice%20Problems.pdf",
+                    "url": "https://files.catbox.moe/54qsrw.pdf"
+                },
+                "Probs_Unit-2 Practice Problems.pdf": {
+                    "name": "Probs_Unit-2-Practice-Problems.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/04a7e45b7e000342284f0586e8a301aa56084a4aProbs_Unit-2%20Practice%20Problems.pdf",
+                    "url": "https://files.catbox.moe/kkxprb.pdf"
+                },
+                "PSP 2022 ES.pdf": {
+                    "name": "PSP-2022-ES.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/e634317f48a220c4897e374e21b9343654e6d99dPSP%202022%20ES.pdf",
+                    "url": "https://files.catbox.moe/eq26g9.pdf"
+                },
+                "PSP 2022 MS.pdf": {
+                    "name": "PSP-2022-MS.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3a867436b40aa396aab368bf87fc6d1685f5dc50PSP%202022%20MS.pdf",
+                    "url": "https://files.catbox.moe/oloael.pdf"
                 }
             },
             "Computer-System-Organization": {
@@ -41963,6 +42282,48 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e2aea0a494e6fe27623f9cf1950c57e3c2c11b7MIDSEM%202024.pdf",
                     "url": "https://files.catbox.moe/9n03tv.pdf"
+                },
+                "Unit 2.pdf": {
+                    "name": "Unit-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/043240924141321354a41a9ed0653d5bd487f3f0Unit%202.pdf",
+                    "url": "https://files.catbox.moe/8mpct9.pdf"
+                },
+                "Unit 3.pdf": {
+                    "name": "Unit-3.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7addf2b75e2d0bd68a6e4a26a17be457e11f28cfUnit%203.pdf",
+                    "url": "https://files.catbox.moe/r82day.pdf"
+                },
+                "Unit 4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3c24ad85a00121b761cfd4a82acce1ff39a97d98Unit%204.pdf",
+                    "url": "https://files.catbox.moe/m0cb4s.pdf"
+                },
+                "Unit 5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9a44df7b213651d5d7122676a35b4d9fdd002814Unit%205.pdf",
+                    "url": "https://files.catbox.moe/umenb1.pdf"
+                },
+                "Unit 1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7abd82d2f7c7171f601f3d64ac5f51665e7f57ecUnit%201.pdf",
+                    "url": "https://files.catbox.moe/s6k4zk.pdf"
+                },
+                "Computer System Architecture by M. Morris Mano.pdf": {
+                    "name": "Computer-System-Architecture-by-M.-Morris-Mano.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9782664f193d03705d0e278598696a4ff9bb815dComputer%20System%20Architecture%20by%20M.%20Morris%20Mano.pdf",
+                    "url": "https://files.catbox.moe/17nnah.pdf"
+                },
+                "Morris Mano Solutions.pdf": {
+                    "name": "Morris-Mano-Solutions.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1415cc068fdc40522bbe105d397957340894d142Morris%20Mano%20Solutions.pdf",
+                    "url": "https://files.catbox.moe/j6g4rq.pdf"
                 }
             },
             "Optimization-Principles-and-Techniques": {
@@ -42015,6 +42376,84 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/96c0a7b0b14b7c83affc62361afcff1bc184c85a%20MIDSEM%202024.pdf",
                     "url": "https://files.catbox.moe/jbxemg.pdf"
+                },
+                "Unit 1 Notes.pdf": {
+                    "name": "Unit-1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/812ab253b692fc2f8bd783888856d1115fe47ef4Unit%201%20Notes.pdf",
+                    "url": "https://files.catbox.moe/qzfd1m.pdf"
+                },
+                "Unit 2 Notes.pdf": {
+                    "name": "Unit-2-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d646434e7f1ab0da648a81ec95dcc63396ac2549Unit%202%20Notes.pdf",
+                    "url": "https://files.catbox.moe/d8r5qw.pdf"
+                },
+                "DBMS Complete notes.pdf": {
+                    "name": "DBMS-Complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b6735d1740e6ef6cd69d169e7959aa1a039ed3bdDBMS%20Complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/9cxf9i.pdf"
+                },
+                "Intro to DBMS Part 1.pdf": {
+                    "name": "Intro-to-DBMS-Part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c3c7cca17837e8433a7c63fd2d5698caca4d0484Intro%20to%20DBMS%20Part%201.pdf",
+                    "url": "https://files.catbox.moe/dffueh.pdf"
+                },
+                "Intro to DBMS Part 2.pdf": {
+                    "name": "Intro-to-DBMS-Part-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2409748d1cac766115b3267b4d107cca620e380aIntro%20to%20DBMS%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/1ws8lh.pdf"
+                },
+                "MIS.pdf": {
+                    "name": "MIS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e58a13305f96034b4926b40613c5cca8c69a7f0MIS.pdf",
+                    "url": "https://files.catbox.moe/e2ikan.pdf"
+                },
+                "Normalization.pdf": {
+                    "name": "Normalization.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f2fd3d8d07e05a691c726a5528b0e3a5607209fNormalization.pdf",
+                    "url": "https://files.catbox.moe/07h2b9.pdf"
+                },
+                "Relational Algebra .pdf": {
+                    "name": "Relational-Algebra-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0d31e670915dc6d38c90296837da5c1f6d5db1a4Relational%20Algebra%20.pdf",
+                    "url": "https://files.catbox.moe/fakc4i.pdf"
+                },
+                "Relational Model.pdf": {
+                    "name": "Relational-Model.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d6042bf44fdd9824dee47590a6af55745f0921eeRelational%20Model.pdf",
+                    "url": "https://files.catbox.moe/fy3zp5.pdf"
+                },
+                "Transactions ppt IMS -part 1.pdf": {
+                    "name": "Transactions-ppt-IMS--part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/94322f12daa925577c738831984858e7140705abTransactions%20ppt%20IMS%20-part%201.pdf",
+                    "url": "https://files.catbox.moe/f4tj01.pdf"
+                },
+                "Transactions ppt IMS.pdf": {
+                    "name": "Transactions-ppt-IMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cd3c947ca5e15c8ff7ccde5d44303cda5372f178Transactions%20ppt%20IMS.pdf",
+                    "url": "https://files.catbox.moe/g00a48.pdf"
+                },
+                "er diagram.pdf": {
+                    "name": "er-diagram.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cdc8c911dd3271c17f18c4f25a9b27f7cc16abc6er%20diagram.pdf",
+                    "url": "https://files.catbox.moe/jxnxi0.pdf"
+                },
+                "File System Vs DBMS.pdf": {
+                    "name": "File-System-Vs-DBMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/11a12d1e23462e1b39de0a10cec648f2b7178213File%20System%20Vs%20DBMS.pdf",
+                    "url": "https://files.catbox.moe/ii76qp.pdf"
                 }
             },
             "Advance-Programming": {
@@ -42023,6 +42462,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/488b94c70db1d022f526fec9222a854dee2a4dfcMIDSEM%202024.pdf",
                     "url": "https://files.catbox.moe/o6601z.pdf"
+                },
+                "AP complete notes.pdf": {
+                    "name": "AP-complete-notes.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/5c5c44b847623d08e0066488df2bac76a5bd9bfbAP%20complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/70uvhe.pdf"
                 }
             }
         },
@@ -44185,8 +44630,6 @@
                     "url": "https://files.catbox.moe/8dexcu.pdf"
                 }
             },
-            "Probability-and-Stochastic-Processes": {},
-            "Optimization-Principles-and-Techniques": {},
             "Database-Management-System": {
                 "Fundamentals Of Database Systems (6th Edition)(1).pdf": {
                     "name": "Fundamentals_of_Database_Systems_6th_Edition-1.pdf",
@@ -44265,10 +44708,196 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1d214c3cfaa274d9cc3a093fcc3e3defd12685f4database_system_concepts_korth.pdf",
                     "url": "https://files.catbox.moe/kgtujv.pdf"
+                },
+                "MIS.pdf": {
+                    "name": "MIS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e58a13305f96034b4926b40613c5cca8c69a7f0MIS.pdf",
+                    "url": "https://files.catbox.moe/e2ikan.pdf"
+                },
+                "Normalization.pdf": {
+                    "name": "Normalization.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0f2fd3d8d07e05a691c726a5528b0e3a5607209fNormalization.pdf",
+                    "url": "https://files.catbox.moe/07h2b9.pdf"
+                },
+                "Relational Algebra .pdf": {
+                    "name": "Relational-Algebra-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0d31e670915dc6d38c90296837da5c1f6d5db1a4Relational%20Algebra%20.pdf",
+                    "url": "https://files.catbox.moe/fakc4i.pdf"
+                },
+                "Relational Model.pdf": {
+                    "name": "Relational-Model.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d6042bf44fdd9824dee47590a6af55745f0921eeRelational%20Model.pdf",
+                    "url": "https://files.catbox.moe/fy3zp5.pdf"
+                },
+                "Transactions ppt IMS -part 1.pdf": {
+                    "name": "Transactions-ppt-IMS--part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/94322f12daa925577c738831984858e7140705abTransactions%20ppt%20IMS%20-part%201.pdf",
+                    "url": "https://files.catbox.moe/f4tj01.pdf"
+                },
+                "Transactions ppt IMS.pdf": {
+                    "name": "Transactions-ppt-IMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cd3c947ca5e15c8ff7ccde5d44303cda5372f178Transactions%20ppt%20IMS.pdf",
+                    "url": "https://files.catbox.moe/g00a48.pdf"
+                },
+                "er diagram.pdf": {
+                    "name": "er-diagram.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cdc8c911dd3271c17f18c4f25a9b27f7cc16abc6er%20diagram.pdf",
+                    "url": "https://files.catbox.moe/jxnxi0.pdf"
+                },
+                "File System Vs DBMS.pdf": {
+                    "name": "File-System-Vs-DBMS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/11a12d1e23462e1b39de0a10cec648f2b7178213File%20System%20Vs%20DBMS.pdf",
+                    "url": "https://files.catbox.moe/ii76qp.pdf"
+                },
+                "Intro to DBMS Part 1.pdf": {
+                    "name": "Intro-to-DBMS-Part-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c3c7cca17837e8433a7c63fd2d5698caca4d0484Intro%20to%20DBMS%20Part%201.pdf",
+                    "url": "https://files.catbox.moe/dffueh.pdf"
+                },
+                "Intro to DBMS Part 2.pdf": {
+                    "name": "Intro-to-DBMS-Part-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2409748d1cac766115b3267b4d107cca620e380aIntro%20to%20DBMS%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/1ws8lh.pdf"
+                },
+                "DBMS Complete notes.pdf": {
+                    "name": "DBMS-Complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b6735d1740e6ef6cd69d169e7959aa1a039ed3bdDBMS%20Complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/9cxf9i.pdf"
+                },
+                "Unit 1 Notes.pdf": {
+                    "name": "Unit-1-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/812ab253b692fc2f8bd783888856d1115fe47ef4Unit%201%20Notes.pdf",
+                    "url": "https://files.catbox.moe/qzfd1m.pdf"
+                },
+                "Unit 2 Notes.pdf": {
+                    "name": "Unit-2-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d646434e7f1ab0da648a81ec95dcc63396ac2549Unit%202%20Notes.pdf",
+                    "url": "https://files.catbox.moe/d8r5qw.pdf"
                 }
             },
-            "Computer-System-Organization": {},
-            "Advance-programing-": {}
+            "Advance-programing-": {
+                "AP complete notes.pdf": {
+                    "name": "AP-complete-notes.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/5c5c44b847623d08e0066488df2bac76a5bd9bfbAP%20complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/70uvhe.pdf"
+                }
+            },
+            "Optimization-Principles-and-Techniques": {
+                "transportation and assignment.pdf": {
+                    "name": "transportation-and-assignment.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/94d55aeb54d18afbcf568f1098870ed23511edf4transportation%20and%20assignment.pdf",
+                    "url": "https://files.catbox.moe/7jpbbb.pdf"
+                },
+                "Unit 1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bf12bca7ec6392954b07cd954209a37d2b78809aUnit%201.pdf",
+                    "url": "https://files.catbox.moe/fu3zns.pdf"
+                },
+                "unit 2.pdf": {
+                    "name": "unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8982ca5df24dbb0d1ad7115e15c15b4a045e5a33unit%202.pdf",
+                    "url": "https://files.catbox.moe/fwecs4.pdf"
+                },
+                "simplex.pdf": {
+                    "name": "simplex.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/22dccabf5c79003232396edbef29e7aa26a03994simplex.pdf",
+                    "url": "https://files.catbox.moe/xhoyz1.pdf"
+                }
+            },
+            "Probability-and-Stochastic-Processes": {
+                "schaum_probability.pdf": {
+                    "name": "schaum_probability.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1820990fc76e32011c7198580108d28018588d8cschaum_probability.pdf",
+                    "url": "https://files.catbox.moe/nnczal.pdf"
+                },
+                "PTSP PYQs 2021.pdf": {
+                    "name": "PTSP-PYQs-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed96db45537170f17521f23e427881afdd7d48d0PTSP%20PYQs%202021.pdf",
+                    "url": "https://files.catbox.moe/gogbak.pdf"
+                },
+                "PSP complete notes.pdf": {
+                    "name": "PSP-complete-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/25783368e23a3b59100926ed9ba31edd068071afPSP%20complete%20notes.pdf",
+                    "url": "https://files.catbox.moe/3mrgr6.pdf"
+                },
+                "PSP 2022 ES.pdf": {
+                    "name": "PSP-2022-ES.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/e634317f48a220c4897e374e21b9343654e6d99dPSP%202022%20ES.pdf",
+                    "url": "https://files.catbox.moe/eq26g9.pdf"
+                },
+                "PSP 2022 MS.pdf": {
+                    "name": "PSP-2022-MS.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3a867436b40aa396aab368bf87fc6d1685f5dc50PSP%202022%20MS.pdf",
+                    "url": "https://files.catbox.moe/oloael.pdf"
+                },
+                "Probs_Unit-1 Practice Problems.pdf": {
+                    "name": "Probs_Unit-1-Practice-Problems.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/67d22511bb04d8986237f874e62eeb76c86757afProbs_Unit-1%20Practice%20Problems.pdf",
+                    "url": "https://files.catbox.moe/54qsrw.pdf"
+                },
+                "Probs_Unit-2 Practice Problems.pdf": {
+                    "name": "Probs_Unit-2-Practice-Problems.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/04a7e45b7e000342284f0586e8a301aa56084a4aProbs_Unit-2%20Practice%20Problems.pdf",
+                    "url": "https://files.catbox.moe/kkxprb.pdf"
+                }
+            },
+            "Computer-System-Organization": {
+                "Unit 3.pdf": {
+                    "name": "Unit-3.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7addf2b75e2d0bd68a6e4a26a17be457e11f28cfUnit%203.pdf",
+                    "url": "https://files.catbox.moe/r82day.pdf"
+                },
+                "Unit 4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3c24ad85a00121b761cfd4a82acce1ff39a97d98Unit%204.pdf",
+                    "url": "https://files.catbox.moe/m0cb4s.pdf"
+                },
+                "Unit 5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9a44df7b213651d5d7122676a35b4d9fdd002814Unit%205.pdf",
+                    "url": "https://files.catbox.moe/umenb1.pdf"
+                },
+                "Unit 1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7abd82d2f7c7171f601f3d64ac5f51665e7f57ecUnit%201.pdf",
+                    "url": "https://files.catbox.moe/s6k4zk.pdf"
+                },
+                "Unit 2.pdf": {
+                    "name": "Unit-2.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/043240924141321354a41a9ed0653d5bd487f3f0Unit%202.pdf",
+                    "url": "https://files.catbox.moe/8mpct9.pdf"
+                }
+            }
         }
     }
 }
