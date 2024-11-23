@@ -1157,6 +1157,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -1609,6 +1627,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99702e66243d4666cbb65a3cf17ebc7c4ec3cd28Midsem%2724%20Oct.pdf",
                     "url": "https://files.catbox.moe/a90nt9.pdf"
+                },
+                "FUNCTIONS .pdf": {
+                    "name": "FUNCTIONS-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4da01332e25fb73ed5062147f1ad2d1cff8e8e60FUNCTIONS%20.pdf",
+                    "url": "https://files.catbox.moe/fu0707.pdf"
                 }
             },
             "introduction-to-Data-Science": {
@@ -1694,7 +1718,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/hiimb7.pdf"
+                    "url": "https://files.catbox.moe/sap2ha.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -2222,12 +2246,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -2236,9 +2254,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -2377,6 +2395,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "IT-Workshop": {
@@ -2384,7 +2420,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/nxf3ys.pdf"
+                    "url": "https://files.catbox.moe/63cusq.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -3721,6 +3757,72 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f010b21c07dbcbeae8c5d170099c7ab248aedacdUNIT%204%20BJT.pdf",
                     "url": "https://files.catbox.moe/w99wk2.pdf"
+                },
+                "Zener diode as voltage regulator unit3.pdf": {
+                    "name": "Zener-diode-as-voltage-regulator-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7bf0f63e972da0d2d658120edbb6b0de1133d327Zener%20diode%20as%20voltage%20regulator%20unit3.pdf",
+                    "url": "https://files.catbox.moe/4660ok.pdf"
+                },
+                "Zener diodeunit3.pdf": {
+                    "name": "Zener-diodeunit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6ac0c4f6530df8851602d8116aa2a8891b92dc10Zener%20diodeunit3.pdf",
+                    "url": "https://files.catbox.moe/znby1n.pdf"
+                },
+                "UJT unit 4.pdf": {
+                    "name": "UJT-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/507e73e4ad0102317e98ab9ba1816a8bb99ce622UJT%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/pj47nu.pdf"
+                },
+                "Thyristor... unit4.pdf": {
+                    "name": "Thyristor...-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/714e8775e7bf571c48b991050e37578f210a13b4Thyristor...%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l4jujm.pdf"
+                },
+                "THYRISTORS unit 4.pdf": {
+                    "name": "THYRISTORS-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3d825924c3e4b5a263b2927094fe2e0602b4ec6aTHYRISTORS%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/k2suqc.pdf"
+                },
+                "SCR unit 4.pdf": {
+                    "name": "SCR-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/441b553a727e6083b91c041135addc1adb38d81dSCR%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9hsc46.pdf"
+                },
+                "BJT unit4.pdf": {
+                    "name": "BJT-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80dfc22afd575a109cf1d9f59ed25dc3de1d1919BJT%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l1ecuo.pdf"
+                },
+                "Clipper n Clamper unit3.pdf": {
+                    "name": "Clipper-n-Clamper-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8570630459cde1c7b99c32044b5f922e48da81bbClipper%20n%20Clamper%20unit3.pdf",
+                    "url": "https://files.catbox.moe/fxcbns.pdf"
+                },
+                "DIAC n TRIAC unit 4.pdf": {
+                    "name": "DIAC-n-TRIAC-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a0e455873afd290148c7c639580ce4163878164dDIAC%20n%20TRIAC%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/45x3wr.pdf"
+                },
+                "JFET n MOSFET unit 4.pdf": {
+                    "name": "JFET-n-MOSFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ac3cf302668b0f30ea5028f0d9e533ca62a00cJFET%20n%20MOSFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9wnc15.pdf"
+                },
+                "JFET unit 4.pdf": {
+                    "name": "JFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/942103bba636945e27e1a12a3d62f937cf7d8787JFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/fhsfso.pdf"
                 }
             },
             "Computer-Organization-and-Architecture": {
@@ -5248,13 +5350,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/x7t9jm.txt"
+                    "url": "https://files.catbox.moe/idwwe1.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/r7qyc8.txt"
+                    "url": "https://files.catbox.moe/3uv136.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -6717,6 +6819,72 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f010b21c07dbcbeae8c5d170099c7ab248aedacdUNIT%204%20BJT.pdf",
                     "url": "https://files.catbox.moe/w99wk2.pdf"
+                },
+                "Zener diode as voltage regulator unit3.pdf": {
+                    "name": "Zener-diode-as-voltage-regulator-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7bf0f63e972da0d2d658120edbb6b0de1133d327Zener%20diode%20as%20voltage%20regulator%20unit3.pdf",
+                    "url": "https://files.catbox.moe/4660ok.pdf"
+                },
+                "Zener diodeunit3.pdf": {
+                    "name": "Zener-diodeunit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6ac0c4f6530df8851602d8116aa2a8891b92dc10Zener%20diodeunit3.pdf",
+                    "url": "https://files.catbox.moe/znby1n.pdf"
+                },
+                "UJT unit 4.pdf": {
+                    "name": "UJT-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/507e73e4ad0102317e98ab9ba1816a8bb99ce622UJT%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/pj47nu.pdf"
+                },
+                "Thyristor... unit4.pdf": {
+                    "name": "Thyristor...-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/714e8775e7bf571c48b991050e37578f210a13b4Thyristor...%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l4jujm.pdf"
+                },
+                "THYRISTORS unit 4.pdf": {
+                    "name": "THYRISTORS-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3d825924c3e4b5a263b2927094fe2e0602b4ec6aTHYRISTORS%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/k2suqc.pdf"
+                },
+                "SCR unit 4.pdf": {
+                    "name": "SCR-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/441b553a727e6083b91c041135addc1adb38d81dSCR%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9hsc46.pdf"
+                },
+                "BJT unit4.pdf": {
+                    "name": "BJT-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80dfc22afd575a109cf1d9f59ed25dc3de1d1919BJT%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l1ecuo.pdf"
+                },
+                "Clipper n Clamper unit3.pdf": {
+                    "name": "Clipper-n-Clamper-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8570630459cde1c7b99c32044b5f922e48da81bbClipper%20n%20Clamper%20unit3.pdf",
+                    "url": "https://files.catbox.moe/fxcbns.pdf"
+                },
+                "DIAC n TRIAC unit 4.pdf": {
+                    "name": "DIAC-n-TRIAC-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a0e455873afd290148c7c639580ce4163878164dDIAC%20n%20TRIAC%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/45x3wr.pdf"
+                },
+                "JFET n MOSFET unit 4.pdf": {
+                    "name": "JFET-n-MOSFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ac3cf302668b0f30ea5028f0d9e533ca62a00cJFET%20n%20MOSFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9wnc15.pdf"
+                },
+                "JFET unit 4.pdf": {
+                    "name": "JFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/942103bba636945e27e1a12a3d62f937cf7d8787JFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/fhsfso.pdf"
                 }
             },
             "Communication-Skills": {
@@ -7019,6 +7187,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -7636,12 +7822,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -7650,9 +7830,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -7791,6 +7971,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "Engineering-Mechanics": {
@@ -8828,7 +9026,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/9hhczs.txt"
+                    "url": "https://files.catbox.moe/luvebz.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -9448,13 +9646,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/jva47g.txt"
+                    "url": "https://files.catbox.moe/l1gqms.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/liiv3q.txt"
+                    "url": "https://files.catbox.moe/efdgfp.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -11218,12 +11416,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fecec546729e3f80291f1140ee9a66bfdef1e4d4HTML.pdf",
                     "url": "https://files.catbox.moe/9v9lmh.pdf"
                 },
-                "XML.pdf": {
-                    "name": "XML.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f5ad8c07bb9b9f1834a4f604129179592e84bd25XML.pdf",
-                    "url": "https://files.catbox.moe/iew0tv.pdf"
-                },
                 "Tables in html.pdf": {
                     "name": "Tables-in-html.pdf",
                     "type": "Note",
@@ -11259,6 +11451,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f605e8c100c6fac24e4cb1b034b607f93afc619eMidsem%202024.pdf",
                     "url": "https://files.catbox.moe/zqfrcg.pdf"
+                },
+                "XML.pdf": {
+                    "name": "XML.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e0f5d7074799387caccebe2c503655c9e876800aXML.pdf",
+                    "url": "https://files.catbox.moe/0kyrzw.pdf"
+                },
+                "javascript.pdf": {
+                    "name": "javascript.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/893dd0c28fdc58e295f8232ffaf1026e5e76f06ajavascript.pdf",
+                    "url": "https://files.catbox.moe/weynma.pdf"
                 }
             },
             "Engineering-Graphics": {
@@ -11296,13 +11500,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/g3hcpe.txt"
+                    "url": "https://files.catbox.moe/ja1pcx.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/zsdfyz.txt"
+                    "url": "https://files.catbox.moe/9qjevs.txt"
                 }
             }
         },
@@ -11816,6 +12020,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -12125,12 +12347,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -12139,9 +12355,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -12280,6 +12496,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "Applied-Mathematics---2": {
@@ -13277,13 +13511,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/ohu7fd.txt"
+                    "url": "https://files.catbox.moe/vl3ohf.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/dbevkm.txt"
+                    "url": "https://files.catbox.moe/ht8jmw.txt"
                 }
             },
             "Programming-in-C": {
@@ -13669,7 +13903,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/eb4ee1.txt"
+                    "url": "https://files.catbox.moe/wu0e5e.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -14289,13 +14523,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/abcirz.txt"
+                    "url": "https://files.catbox.moe/h7v2tm.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/e1iza2.txt"
+                    "url": "https://files.catbox.moe/05rr7o.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -15852,6 +16086,72 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f010b21c07dbcbeae8c5d170099c7ab248aedacdUNIT%204%20BJT.pdf",
                     "url": "https://files.catbox.moe/w99wk2.pdf"
+                },
+                "Zener diode as voltage regulator unit3.pdf": {
+                    "name": "Zener-diode-as-voltage-regulator-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7bf0f63e972da0d2d658120edbb6b0de1133d327Zener%20diode%20as%20voltage%20regulator%20unit3.pdf",
+                    "url": "https://files.catbox.moe/4660ok.pdf"
+                },
+                "Zener diodeunit3.pdf": {
+                    "name": "Zener-diodeunit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6ac0c4f6530df8851602d8116aa2a8891b92dc10Zener%20diodeunit3.pdf",
+                    "url": "https://files.catbox.moe/znby1n.pdf"
+                },
+                "UJT unit 4.pdf": {
+                    "name": "UJT-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/507e73e4ad0102317e98ab9ba1816a8bb99ce622UJT%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/pj47nu.pdf"
+                },
+                "Thyristor... unit4.pdf": {
+                    "name": "Thyristor...-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/714e8775e7bf571c48b991050e37578f210a13b4Thyristor...%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l4jujm.pdf"
+                },
+                "THYRISTORS unit 4.pdf": {
+                    "name": "THYRISTORS-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3d825924c3e4b5a263b2927094fe2e0602b4ec6aTHYRISTORS%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/k2suqc.pdf"
+                },
+                "SCR unit 4.pdf": {
+                    "name": "SCR-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/441b553a727e6083b91c041135addc1adb38d81dSCR%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9hsc46.pdf"
+                },
+                "BJT unit4.pdf": {
+                    "name": "BJT-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80dfc22afd575a109cf1d9f59ed25dc3de1d1919BJT%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l1ecuo.pdf"
+                },
+                "Clipper n Clamper unit3.pdf": {
+                    "name": "Clipper-n-Clamper-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8570630459cde1c7b99c32044b5f922e48da81bbClipper%20n%20Clamper%20unit3.pdf",
+                    "url": "https://files.catbox.moe/fxcbns.pdf"
+                },
+                "DIAC n TRIAC unit 4.pdf": {
+                    "name": "DIAC-n-TRIAC-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a0e455873afd290148c7c639580ce4163878164dDIAC%20n%20TRIAC%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/45x3wr.pdf"
+                },
+                "JFET n MOSFET unit 4.pdf": {
+                    "name": "JFET-n-MOSFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ac3cf302668b0f30ea5028f0d9e533ca62a00cJFET%20n%20MOSFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9wnc15.pdf"
+                },
+                "JFET unit 4.pdf": {
+                    "name": "JFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/942103bba636945e27e1a12a3d62f937cf7d8787JFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/fhsfso.pdf"
                 }
             },
             "-Object-Oriented-Programming-": {
@@ -16533,12 +16833,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fecec546729e3f80291f1140ee9a66bfdef1e4d4HTML.pdf",
                     "url": "https://files.catbox.moe/9v9lmh.pdf"
                 },
-                "XML.pdf": {
-                    "name": "XML.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f5ad8c07bb9b9f1834a4f604129179592e84bd25XML.pdf",
-                    "url": "https://files.catbox.moe/iew0tv.pdf"
-                },
                 "Tables in html.pdf": {
                     "name": "Tables-in-html.pdf",
                     "type": "Note",
@@ -16574,6 +16868,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f605e8c100c6fac24e4cb1b034b607f93afc619eMidsem%202024.pdf",
                     "url": "https://files.catbox.moe/zqfrcg.pdf"
+                },
+                "XML.pdf": {
+                    "name": "XML.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e0f5d7074799387caccebe2c503655c9e876800aXML.pdf",
+                    "url": "https://files.catbox.moe/0kyrzw.pdf"
+                },
+                "javascript.pdf": {
+                    "name": "javascript.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/893dd0c28fdc58e295f8232ffaf1026e5e76f06ajavascript.pdf",
+                    "url": "https://files.catbox.moe/weynma.pdf"
                 }
             }
         },
@@ -18442,6 +18748,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -18894,6 +19218,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99702e66243d4666cbb65a3cf17ebc7c4ec3cd28Midsem%2724%20Oct.pdf",
                     "url": "https://files.catbox.moe/a90nt9.pdf"
+                },
+                "FUNCTIONS .pdf": {
+                    "name": "FUNCTIONS-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4da01332e25fb73ed5062147f1ad2d1cff8e8e60FUNCTIONS%20.pdf",
+                    "url": "https://files.catbox.moe/fu0707.pdf"
                 }
             },
             "Fundamentals-of-Data-Structures": {
@@ -18943,7 +19273,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/3731nn.txt"
+                    "url": "https://files.catbox.moe/0z86li.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -18967,7 +19297,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/bzb1gx.pdf"
+                    "url": "https://files.catbox.moe/mk1gfe.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -19059,7 +19389,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/6hfdeg.pdf"
+                    "url": "https://files.catbox.moe/z81qwe.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -19587,12 +19917,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -19601,9 +19925,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -19742,6 +20066,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "Probability-and-Statistics": {
@@ -20041,12 +20383,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fecec546729e3f80291f1140ee9a66bfdef1e4d4HTML.pdf",
                     "url": "https://files.catbox.moe/9v9lmh.pdf"
                 },
-                "XML.pdf": {
-                    "name": "XML.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f5ad8c07bb9b9f1834a4f604129179592e84bd25XML.pdf",
-                    "url": "https://files.catbox.moe/iew0tv.pdf"
-                },
                 "Tables in html.pdf": {
                     "name": "Tables-in-html.pdf",
                     "type": "Note",
@@ -20082,6 +20418,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f605e8c100c6fac24e4cb1b034b607f93afc619eMidsem%202024.pdf",
                     "url": "https://files.catbox.moe/zqfrcg.pdf"
+                },
+                "XML.pdf": {
+                    "name": "XML.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e0f5d7074799387caccebe2c503655c9e876800aXML.pdf",
+                    "url": "https://files.catbox.moe/0kyrzw.pdf"
+                },
+                "javascript.pdf": {
+                    "name": "javascript.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/893dd0c28fdc58e295f8232ffaf1026e5e76f06ajavascript.pdf",
+                    "url": "https://files.catbox.moe/weynma.pdf"
                 }
             },
             "Mathematics---1": {
@@ -20647,13 +20995,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/wbwmxi.txt"
+                    "url": "https://files.catbox.moe/2c296i.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/ka8a3r.txt"
+                    "url": "https://files.catbox.moe/2h7brh.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -21752,13 +22100,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/dg85gw.txt"
+                    "url": "https://files.catbox.moe/qx501t.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/0cvch5.txt"
+                    "url": "https://files.catbox.moe/z32eb6.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -22115,6 +22463,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "Analog-Electronics": {
@@ -22332,7 +22698,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/htwvyk.txt"
+                    "url": "https://files.catbox.moe/c8755e.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -22344,13 +22710,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/hjrpjj.txt"
+                    "url": "https://files.catbox.moe/nckmtz.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/qkkblv.txt"
+                    "url": "https://files.catbox.moe/y3z2ub.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -23081,6 +23447,72 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f010b21c07dbcbeae8c5d170099c7ab248aedacdUNIT%204%20BJT.pdf",
                     "url": "https://files.catbox.moe/w99wk2.pdf"
+                },
+                "Zener diode as voltage regulator unit3.pdf": {
+                    "name": "Zener-diode-as-voltage-regulator-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7bf0f63e972da0d2d658120edbb6b0de1133d327Zener%20diode%20as%20voltage%20regulator%20unit3.pdf",
+                    "url": "https://files.catbox.moe/4660ok.pdf"
+                },
+                "Zener diodeunit3.pdf": {
+                    "name": "Zener-diodeunit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6ac0c4f6530df8851602d8116aa2a8891b92dc10Zener%20diodeunit3.pdf",
+                    "url": "https://files.catbox.moe/znby1n.pdf"
+                },
+                "UJT unit 4.pdf": {
+                    "name": "UJT-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/507e73e4ad0102317e98ab9ba1816a8bb99ce622UJT%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/pj47nu.pdf"
+                },
+                "Thyristor... unit4.pdf": {
+                    "name": "Thyristor...-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/714e8775e7bf571c48b991050e37578f210a13b4Thyristor...%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l4jujm.pdf"
+                },
+                "THYRISTORS unit 4.pdf": {
+                    "name": "THYRISTORS-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3d825924c3e4b5a263b2927094fe2e0602b4ec6aTHYRISTORS%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/k2suqc.pdf"
+                },
+                "SCR unit 4.pdf": {
+                    "name": "SCR-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/441b553a727e6083b91c041135addc1adb38d81dSCR%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9hsc46.pdf"
+                },
+                "BJT unit4.pdf": {
+                    "name": "BJT-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80dfc22afd575a109cf1d9f59ed25dc3de1d1919BJT%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l1ecuo.pdf"
+                },
+                "Clipper n Clamper unit3.pdf": {
+                    "name": "Clipper-n-Clamper-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8570630459cde1c7b99c32044b5f922e48da81bbClipper%20n%20Clamper%20unit3.pdf",
+                    "url": "https://files.catbox.moe/fxcbns.pdf"
+                },
+                "DIAC n TRIAC unit 4.pdf": {
+                    "name": "DIAC-n-TRIAC-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a0e455873afd290148c7c639580ce4163878164dDIAC%20n%20TRIAC%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/45x3wr.pdf"
+                },
+                "JFET n MOSFET unit 4.pdf": {
+                    "name": "JFET-n-MOSFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ac3cf302668b0f30ea5028f0d9e533ca62a00cJFET%20n%20MOSFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9wnc15.pdf"
+                },
+                "JFET unit 4.pdf": {
+                    "name": "JFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/942103bba636945e27e1a12a3d62f937cf7d8787JFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/fhsfso.pdf"
                 }
             },
             "Programming-in-C": {
@@ -23466,7 +23898,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/v4bdit.txt"
+                    "url": "https://files.catbox.moe/r9d2fk.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -24035,6 +24467,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/99702e66243d4666cbb65a3cf17ebc7c4ec3cd28Midsem%2724%20Oct.pdf",
                     "url": "https://files.catbox.moe/a90nt9.pdf"
+                },
+                "FUNCTIONS .pdf": {
+                    "name": "FUNCTIONS-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4da01332e25fb73ed5062147f1ad2d1cff8e8e60FUNCTIONS%20.pdf",
+                    "url": "https://files.catbox.moe/fu0707.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -24344,12 +24782,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -24358,9 +24790,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -24499,6 +24931,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "Digital-Electronics": {
@@ -25314,7 +25764,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/f8k3od.txt"
+                    "url": "https://files.catbox.moe/wvdx9f.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -25326,13 +25776,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/c9k9ix.txt"
+                    "url": "https://files.catbox.moe/wso0mw.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/tsbbyi.txt"
+                    "url": "https://files.catbox.moe/6y5atu.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -26193,6 +26643,72 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f010b21c07dbcbeae8c5d170099c7ab248aedacdUNIT%204%20BJT.pdf",
                     "url": "https://files.catbox.moe/w99wk2.pdf"
+                },
+                "Zener diode as voltage regulator unit3.pdf": {
+                    "name": "Zener-diode-as-voltage-regulator-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7bf0f63e972da0d2d658120edbb6b0de1133d327Zener%20diode%20as%20voltage%20regulator%20unit3.pdf",
+                    "url": "https://files.catbox.moe/4660ok.pdf"
+                },
+                "Zener diodeunit3.pdf": {
+                    "name": "Zener-diodeunit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6ac0c4f6530df8851602d8116aa2a8891b92dc10Zener%20diodeunit3.pdf",
+                    "url": "https://files.catbox.moe/znby1n.pdf"
+                },
+                "UJT unit 4.pdf": {
+                    "name": "UJT-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/507e73e4ad0102317e98ab9ba1816a8bb99ce622UJT%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/pj47nu.pdf"
+                },
+                "Thyristor... unit4.pdf": {
+                    "name": "Thyristor...-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/714e8775e7bf571c48b991050e37578f210a13b4Thyristor...%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l4jujm.pdf"
+                },
+                "THYRISTORS unit 4.pdf": {
+                    "name": "THYRISTORS-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3d825924c3e4b5a263b2927094fe2e0602b4ec6aTHYRISTORS%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/k2suqc.pdf"
+                },
+                "SCR unit 4.pdf": {
+                    "name": "SCR-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/441b553a727e6083b91c041135addc1adb38d81dSCR%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9hsc46.pdf"
+                },
+                "BJT unit4.pdf": {
+                    "name": "BJT-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80dfc22afd575a109cf1d9f59ed25dc3de1d1919BJT%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l1ecuo.pdf"
+                },
+                "Clipper n Clamper unit3.pdf": {
+                    "name": "Clipper-n-Clamper-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8570630459cde1c7b99c32044b5f922e48da81bbClipper%20n%20Clamper%20unit3.pdf",
+                    "url": "https://files.catbox.moe/fxcbns.pdf"
+                },
+                "DIAC n TRIAC unit 4.pdf": {
+                    "name": "DIAC-n-TRIAC-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a0e455873afd290148c7c639580ce4163878164dDIAC%20n%20TRIAC%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/45x3wr.pdf"
+                },
+                "JFET n MOSFET unit 4.pdf": {
+                    "name": "JFET-n-MOSFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ac3cf302668b0f30ea5028f0d9e533ca62a00cJFET%20n%20MOSFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9wnc15.pdf"
+                },
+                "JFET unit 4.pdf": {
+                    "name": "JFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/942103bba636945e27e1a12a3d62f937cf7d8787JFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/fhsfso.pdf"
                 }
             },
             "Communication-Skills": {
@@ -26495,6 +27011,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -27112,12 +27646,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -27126,9 +27654,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -27267,6 +27795,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "Engineering-Mechanics": {
@@ -27956,13 +28502,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/p0d8sp.txt"
+                    "url": "https://files.catbox.moe/xegesg.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/3ibxbk.txt"
+                    "url": "https://files.catbox.moe/vb3h4x.txt"
                 }
             },
             "Programming-in-C": {
@@ -28348,7 +28894,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/24icr6.txt"
+                    "url": "https://files.catbox.moe/lnkylk.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -28968,13 +29514,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/g1bn7h.txt"
+                    "url": "https://files.catbox.moe/g0wh33.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/q5a9pk.txt"
+                    "url": "https://files.catbox.moe/utq412.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -30919,6 +31465,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0c2edb900e15c454377580429ef8ec5cbd894e01Midsem%20Oct%2724.pdf",
                     "url": "https://files.catbox.moe/x0s0fd.pdf"
+                },
+                "UNIT-2 Introduction and greetings.pdf": {
+                    "name": "UNIT-2-Introduction-and-greetings.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/de40b7db53ebdc59f142cd849c5d7cc1a3e860eaUNIT-2%20Introduction%20and%20greetings.pdf",
+                    "url": "https://files.catbox.moe/oj8pap.pdf"
+                },
+                "Unit 2 - greeting,permission.pdf": {
+                    "name": "Unit-2---greeting,permission.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1a54b6a4f3f4996682a63b5ffbd16d68dc234d20Unit%202%20-%20greeting%2Cpermission.pdf",
+                    "url": "https://files.catbox.moe/c46tsd.pdf"
+                },
+                "Group Discussion.pdf": {
+                    "name": "Group-Discussion.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d59e103ea3a7a3960e9f874021a8ebd2a485bcc2Group%20Discussion.pdf",
+                    "url": "https://files.catbox.moe/1747lf.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -31536,12 +32100,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/86a2e5033fe073838b35bffc3aafa5f4771f7496biopolymer.pdf",
                     "url": "https://files.catbox.moe/yl5ppp.pdf"
                 },
-                "polymer.pdf": {
-                    "name": "polymer.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64f42653ab8b6ce158bb466ab168fed78e56733dpolymer.pdf",
-                    "url": "https://files.catbox.moe/as5obg.pdf"
-                },
                 "biochemical.pdf": {
                     "name": "biochemical.pdf",
                     "type": "Note",
@@ -31550,9 +32108,9 @@
                 },
                 "chemical toxicology.pdf": {
                     "name": "chemical-toxicology.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/598976ace6a94305bf6dc66fe0b4fbf1ed45de93chemical%20toxicology.pdf",
-                    "url": "https://files.catbox.moe/c83d0k.pdf"
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c9abbb94638bff06f6ea9969f080a3f73b8391b7chemical%20toxicology.pdf",
+                    "url": "https://files.catbox.moe/emhh98.pdf"
                 },
                 "IT/MAE_Endsem_July' 23.pdf": {
                     "name": "IT-MAE_Endsem_July'-23.pdf",
@@ -31691,6 +32249,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d3599cd34f00c67ff72c5b5cf72da94f2a989a7620241107_185842.heic",
                     "url": "https://files.catbox.moe/r45cr3.heic"
+                },
+                "polymer.pdf": {
+                    "name": "polymer.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e24c876d9d4710522f61837303136177fa78fe6dpolymer.pdf",
+                    "url": "https://files.catbox.moe/8w0o5j.pdf"
+                },
+                "power alcohol.pdf": {
+                    "name": "power-alcohol.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b81d3a64245001d2264650f3fab49c058cdc3e53power%20alcohol.pdf",
+                    "url": "https://files.catbox.moe/i7pt7c.pdf"
+                },
+                "unit 3": {
+                    "name": "unit-3",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/77788b2705c604d2e5eec473198b84162dbd591dchemical%20toxicology1.pdf",
+                    "url": "https://files.catbox.moe/tgofq1"
                 }
             },
             "Engineering-Mechanics": {
@@ -32380,13 +32956,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/gjczjh.txt"
+                    "url": "https://files.catbox.moe/hgczx8.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/1lw2hf.txt"
+                    "url": "https://files.catbox.moe/9k4o5n.txt"
                 }
             },
             "Programming-in-C": {
@@ -32772,7 +33348,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/9h0qw4.txt"
+                    "url": "https://files.catbox.moe/yd4ufi.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -33392,13 +33968,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/yy9gjl.txt"
+                    "url": "https://files.catbox.moe/h4hdvh.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/hbt4of.txt"
+                    "url": "https://files.catbox.moe/8u2fle.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -34955,6 +35531,72 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f010b21c07dbcbeae8c5d170099c7ab248aedacdUNIT%204%20BJT.pdf",
                     "url": "https://files.catbox.moe/w99wk2.pdf"
+                },
+                "Zener diode as voltage regulator unit3.pdf": {
+                    "name": "Zener-diode-as-voltage-regulator-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7bf0f63e972da0d2d658120edbb6b0de1133d327Zener%20diode%20as%20voltage%20regulator%20unit3.pdf",
+                    "url": "https://files.catbox.moe/4660ok.pdf"
+                },
+                "Zener diodeunit3.pdf": {
+                    "name": "Zener-diodeunit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6ac0c4f6530df8851602d8116aa2a8891b92dc10Zener%20diodeunit3.pdf",
+                    "url": "https://files.catbox.moe/znby1n.pdf"
+                },
+                "UJT unit 4.pdf": {
+                    "name": "UJT-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/507e73e4ad0102317e98ab9ba1816a8bb99ce622UJT%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/pj47nu.pdf"
+                },
+                "Thyristor... unit4.pdf": {
+                    "name": "Thyristor...-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/714e8775e7bf571c48b991050e37578f210a13b4Thyristor...%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l4jujm.pdf"
+                },
+                "THYRISTORS unit 4.pdf": {
+                    "name": "THYRISTORS-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3d825924c3e4b5a263b2927094fe2e0602b4ec6aTHYRISTORS%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/k2suqc.pdf"
+                },
+                "SCR unit 4.pdf": {
+                    "name": "SCR-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/441b553a727e6083b91c041135addc1adb38d81dSCR%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9hsc46.pdf"
+                },
+                "BJT unit4.pdf": {
+                    "name": "BJT-unit4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/80dfc22afd575a109cf1d9f59ed25dc3de1d1919BJT%20unit4.pdf",
+                    "url": "https://files.catbox.moe/l1ecuo.pdf"
+                },
+                "Clipper n Clamper unit3.pdf": {
+                    "name": "Clipper-n-Clamper-unit3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8570630459cde1c7b99c32044b5f922e48da81bbClipper%20n%20Clamper%20unit3.pdf",
+                    "url": "https://files.catbox.moe/fxcbns.pdf"
+                },
+                "DIAC n TRIAC unit 4.pdf": {
+                    "name": "DIAC-n-TRIAC-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a0e455873afd290148c7c639580ce4163878164dDIAC%20n%20TRIAC%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/45x3wr.pdf"
+                },
+                "JFET n MOSFET unit 4.pdf": {
+                    "name": "JFET-n-MOSFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e2ac3cf302668b0f30ea5028f0d9e533ca62a00cJFET%20n%20MOSFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/9wnc15.pdf"
+                },
+                "JFET unit 4.pdf": {
+                    "name": "JFET-unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/942103bba636945e27e1a12a3d62f937cf7d8787JFET%20unit%204.pdf",
+                    "url": "https://files.catbox.moe/fhsfso.pdf"
                 }
             },
             "Machine-Drawing": {
