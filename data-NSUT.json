@@ -1023,6 +1023,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "English": {
@@ -2438,7 +2534,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/ogu6an.txt"
+                    "url": "https://files.catbox.moe/4kif02.txt"
                 }
             },
             "Web-Technology": {},
@@ -3494,6 +3590,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Maths---2": {
@@ -4761,7 +4953,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/vgjzfe.txt"
+                    "url": "https://files.catbox.moe/o85wfu.txt"
                 }
             }
         },
@@ -5788,6 +5980,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "English": {
@@ -7075,7 +7363,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/a2s8te.txt"
+                    "url": "https://files.catbox.moe/6le49p.txt"
                 }
             }
         },
@@ -9148,6 +9436,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Chemistry": {
@@ -10986,6 +11370,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "English": {
@@ -13678,6 +14158,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Electrical-Measurements": {
@@ -16259,6 +16835,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -18477,6 +19149,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Maths---2": {
@@ -21684,6 +22452,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -24058,6 +24922,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "English": {
@@ -26596,6 +27556,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Engineering-Mechanics": {
@@ -29965,6 +31021,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Introduction-to-Biotechnology": {},
@@ -31613,6 +32765,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -36411,6 +37659,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -38650,6 +39994,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Applied-Physics": {
@@ -39519,7 +40959,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/824jfn.txt"
+                    "url": "https://files.catbox.moe/awqcmz.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -39587,7 +41027,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/nlxlod.txt"
+                    "url": "https://files.catbox.moe/otqx49.txt"
                 }
             },
             "Database-Management-System": {
@@ -41246,6 +42686,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Chemistry": {
@@ -43650,6 +45186,102 @@
                     "type": "Project",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acf16892b9b633eac0dac3db768818870a576262CP%20practical%20file%20-%20Python.pdf",
                     "url": "https://files.catbox.moe/fbpe2g.pdf"
+                },
+                "Data Types.pdf": {
+                    "name": "Data-Types.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9614f38088136ba5cf570f9382d060445bfc180bData%20Types.pdf",
+                    "url": "https://files.catbox.moe/6skj29.pdf"
+                },
+                "Date and Times.pdf": {
+                    "name": "Date-and-Times.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4a0c7b4a95256167d469f12cc82b0a31590060f7Date%20and%20Times.pdf",
+                    "url": "https://files.catbox.moe/qg7ard.pdf"
+                },
+                "Expection handling.pdf": {
+                    "name": "Expection-handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ed8895a8733859c9ccabcf0d6c3ec34c9a4c4c23Expection%20handling.pdf",
+                    "url": "https://files.catbox.moe/ico841.pdf"
+                },
+                "File Handling.pdf": {
+                    "name": "File-Handling.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8c877cd380874f1b797cf3f5dd0e916762239d29File%20Handling.pdf",
+                    "url": "https://files.catbox.moe/99effe.pdf"
+                },
+                "Functional programming .pdf": {
+                    "name": "Functional-programming-.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/06cc19ea441b5a8b5f97d8e703c7e2950861009aFunctional%20programming%20.pdf",
+                    "url": "https://files.catbox.moe/724pyj.pdf"
+                },
+                "Functions.pdf": {
+                    "name": "Functions.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/ceb37784499a557a161243ca9db0a48ac07348e2Functions.pdf",
+                    "url": "https://files.catbox.moe/1iw6ku.pdf"
+                },
+                "Input and Output.pdf": {
+                    "name": "Input-and-Output.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/edd3823498aba5a4f369ae55be36652f6906095cInput%20and%20Output.pdf",
+                    "url": "https://files.catbox.moe/z1t63p.pdf"
+                },
+                "Introduction to Computer Programming.pdf": {
+                    "name": "Introduction-to-Computer-Programming.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9cdc6291c9dd28831951b6cbc8bd075768bd37bdIntroduction%20to%20Computer%20Programming.pdf",
+                    "url": "https://files.catbox.moe/ktmxff.pdf"
+                },
+                "Introduction to Python.pdf": {
+                    "name": "Introduction-to-Python.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/30126da3177e1138937c7ff87baff3d484cf90d5Introduction%20to%20Python.pdf",
+                    "url": "https://files.catbox.moe/wwgmpd.pdf"
+                },
+                "Loops and Control Flow.pdf": {
+                    "name": "Loops-and-Control-Flow.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/9d021d70a1576dc3477e6fedb7dd98c47623ef77Loops%20and%20Control%20Flow.pdf",
+                    "url": "https://files.catbox.moe/a5sn3w.pdf"
+                },
+                "Matplotlib.pdf": {
+                    "name": "Matplotlib.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/f6382c6a827a397cc6910150af8849f4f5284d33Matplotlib.pdf",
+                    "url": "https://files.catbox.moe/dmplil.pdf"
+                },
+                "Modules & Packages.pdf": {
+                    "name": "Modules-&-Packages.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/971f2b423100dce0556cccaac7529788e7728e00Modules%20%26%20Packages.pdf",
+                    "url": "https://files.catbox.moe/fongyk.pdf"
+                },
+                "Numpy and Arrays.pdf": {
+                    "name": "Numpy-and-Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6f4ef4f26733b6845393b2c6a3b50ce0fdbac203Numpy%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/npaq0n.pdf"
+                },
+                "OOPS.pdf": {
+                    "name": "OOPS.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d714592af2d18d052b71003693a7b50cf21ad403OOPS.pdf",
+                    "url": "https://files.catbox.moe/xulxdl.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/dc93160f882cc532dc79627aa3236a38c6110e4cOperators.pdf",
+                    "url": "https://files.catbox.moe/nonw48.pdf"
+                },
+                "Web Development.pdf": {
+                    "name": "Web-Development.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/58b4f0a7ba6354f45d5e53e8b503bb6ad5a267e7Web%20Development.pdf",
+                    "url": "https://files.catbox.moe/z88htc.pdf"
                 }
             },
             "Chemistry": {
