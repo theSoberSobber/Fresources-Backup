@@ -2534,7 +2534,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/yxoj75.txt"
+                    "url": "https://files.catbox.moe/21t0q1.txt"
                 }
             },
             "Web-Technology": {},
@@ -4953,7 +4953,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/zdl1ay.txt"
+                    "url": "https://files.catbox.moe/ij82jt.txt"
                 }
             }
         },
@@ -7363,7 +7363,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/3utpgt.txt"
+                    "url": "https://files.catbox.moe/ql1u44.txt"
                 }
             }
         },
@@ -7374,18 +7374,6 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce6a507adeb3f05ad4fb810e51b83c83aeb11d8eMID%20SEM%202023%20%28SEPT%29.pdf",
                     "url": "https://files.catbox.moe/kdqs5w.pdf"
-                },
-                "Dimensioning.pdf": {
-                    "name": "Dimensioning.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3a76e83be6868e3d45861b2f77330d53de469dedDimensioning.pdf",
-                    "url": "https://files.catbox.moe/pgauok.pdf"
-                },
-                "Curves.pdf": {
-                    "name": "Curves.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/06920251cdc97f0ec589680e9bdb0d4aadb26a6cCurves.pdf",
-                    "url": "https://files.catbox.moe/lp0d9j.pdf"
                 },
                 "EG BY N.D BHATT.pdf": {
                     "name": "EG-BY-N.D-BHATT.pdf",
@@ -7537,17 +7525,53 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/23e1dd5d52fcf0595594413ca917708c79b737d9SHEET%20NO.%207%20-%20Solutions.pdf",
                     "url": "https://files.catbox.moe/ov9kgi.pdf"
                 },
-                "UNIT 1.pdf": {
+                "Basic Theory, Conic Section and Curves.pdf": {
                     "name": "UNIT-1.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e0e0edaac7b30c49a0217fed79a2241bf5d555dUNIT%201.pdf",
                     "url": "https://files.catbox.moe/umw7ep.pdf"
                 },
-                "UNIT 2.pdf": {
+                "Orthographic Projections.pdf": {
                     "name": "UNIT-2.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/282f7b6534842fd78c07d7c9020fcb81854d5358UNIT%202.pdf",
                     "url": "https://files.catbox.moe/0pxqv5.pdf"
+                },
+                "Development of Surfaces.pdf": {
+                    "name": "Development-of-Surfaces.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b502cb14ef72153f224168610873fc9c6436ef97Development%20of%20Surfaces.pdf",
+                    "url": "https://files.catbox.moe/m96dn7.pdf"
+                },
+                "Isometric Projection.pdf": {
+                    "name": "Isometric-Projection.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8cb3f1ebf3a9c56d54134de7f29c916022a72eb2Isometric%20Projection.pdf",
+                    "url": "https://files.catbox.moe/g4k57r.pdf"
+                },
+                "Section of Solids.pdf": {
+                    "name": "Section-of-Solids.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c297bcdde4aa388a5d88bd580e35362164ad693eSection%20of%20Solids.pdf",
+                    "url": "https://files.catbox.moe/51clzt.pdf"
+                },
+                "Projection of lines.pdf": {
+                    "name": "LINE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/737433a8f4c130e0f7ad7e35fda2e418103fee4fLINE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "PLANE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e68fb93f1e900a23e3824d1a2fb7e9040679f49aPLANE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "Projection of Solids.pdf": {
+                    "name": "UNIT-3(PROJECTION-OF-SOLID).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
+                    "url": "https://files.catbox.moe/0ix10j.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -15414,18 +15438,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce6a507adeb3f05ad4fb810e51b83c83aeb11d8eMID%20SEM%202023%20%28SEPT%29.pdf",
                     "url": "https://files.catbox.moe/kdqs5w.pdf"
                 },
-                "Dimensioning.pdf": {
-                    "name": "Dimensioning.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3a76e83be6868e3d45861b2f77330d53de469dedDimensioning.pdf",
-                    "url": "https://files.catbox.moe/pgauok.pdf"
-                },
-                "Curves.pdf": {
-                    "name": "Curves.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/06920251cdc97f0ec589680e9bdb0d4aadb26a6cCurves.pdf",
-                    "url": "https://files.catbox.moe/lp0d9j.pdf"
-                },
                 "EG BY N.D BHATT.pdf": {
                     "name": "EG-BY-N.D-BHATT.pdf",
                     "type": "Book",
@@ -15576,17 +15588,53 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/23e1dd5d52fcf0595594413ca917708c79b737d9SHEET%20NO.%207%20-%20Solutions.pdf",
                     "url": "https://files.catbox.moe/ov9kgi.pdf"
                 },
-                "UNIT 1.pdf": {
+                "Basic Theory, Conic Section and Curves.pdf": {
                     "name": "UNIT-1.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e0e0edaac7b30c49a0217fed79a2241bf5d555dUNIT%201.pdf",
                     "url": "https://files.catbox.moe/umw7ep.pdf"
                 },
-                "UNIT 2.pdf": {
+                "Orthographic Projections.pdf": {
                     "name": "UNIT-2.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/282f7b6534842fd78c07d7c9020fcb81854d5358UNIT%202.pdf",
                     "url": "https://files.catbox.moe/0pxqv5.pdf"
+                },
+                "Development of Surfaces.pdf": {
+                    "name": "Development-of-Surfaces.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b502cb14ef72153f224168610873fc9c6436ef97Development%20of%20Surfaces.pdf",
+                    "url": "https://files.catbox.moe/m96dn7.pdf"
+                },
+                "Isometric Projection.pdf": {
+                    "name": "Isometric-Projection.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8cb3f1ebf3a9c56d54134de7f29c916022a72eb2Isometric%20Projection.pdf",
+                    "url": "https://files.catbox.moe/g4k57r.pdf"
+                },
+                "Section of Solids.pdf": {
+                    "name": "Section-of-Solids.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c297bcdde4aa388a5d88bd580e35362164ad693eSection%20of%20Solids.pdf",
+                    "url": "https://files.catbox.moe/51clzt.pdf"
+                },
+                "Projection of lines.pdf": {
+                    "name": "LINE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/737433a8f4c130e0f7ad7e35fda2e418103fee4fLINE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "PLANE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e68fb93f1e900a23e3824d1a2fb7e9040679f49aPLANE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "Projection of Solids.pdf": {
+                    "name": "UNIT-3(PROJECTION-OF-SOLID).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
+                    "url": "https://files.catbox.moe/0ix10j.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -18594,18 +18642,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce6a507adeb3f05ad4fb810e51b83c83aeb11d8eMID%20SEM%202023%20%28SEPT%29.pdf",
                     "url": "https://files.catbox.moe/kdqs5w.pdf"
                 },
-                "Dimensioning.pdf": {
-                    "name": "Dimensioning.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3a76e83be6868e3d45861b2f77330d53de469dedDimensioning.pdf",
-                    "url": "https://files.catbox.moe/pgauok.pdf"
-                },
-                "Curves.pdf": {
-                    "name": "Curves.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/06920251cdc97f0ec589680e9bdb0d4aadb26a6cCurves.pdf",
-                    "url": "https://files.catbox.moe/lp0d9j.pdf"
-                },
                 "EG BY N.D BHATT.pdf": {
                     "name": "EG-BY-N.D-BHATT.pdf",
                     "type": "Book",
@@ -18756,17 +18792,53 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/23e1dd5d52fcf0595594413ca917708c79b737d9SHEET%20NO.%207%20-%20Solutions.pdf",
                     "url": "https://files.catbox.moe/ov9kgi.pdf"
                 },
-                "UNIT 1.pdf": {
+                "Basic Theory, Conic Section and Curves.pdf": {
                     "name": "UNIT-1.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e0e0edaac7b30c49a0217fed79a2241bf5d555dUNIT%201.pdf",
                     "url": "https://files.catbox.moe/umw7ep.pdf"
                 },
-                "UNIT 2.pdf": {
+                "Orthographic Projections.pdf": {
                     "name": "UNIT-2.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/282f7b6534842fd78c07d7c9020fcb81854d5358UNIT%202.pdf",
                     "url": "https://files.catbox.moe/0pxqv5.pdf"
+                },
+                "Development of Surfaces.pdf": {
+                    "name": "Development-of-Surfaces.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b502cb14ef72153f224168610873fc9c6436ef97Development%20of%20Surfaces.pdf",
+                    "url": "https://files.catbox.moe/m96dn7.pdf"
+                },
+                "Isometric Projection.pdf": {
+                    "name": "Isometric-Projection.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8cb3f1ebf3a9c56d54134de7f29c916022a72eb2Isometric%20Projection.pdf",
+                    "url": "https://files.catbox.moe/g4k57r.pdf"
+                },
+                "Section of Solids.pdf": {
+                    "name": "Section-of-Solids.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c297bcdde4aa388a5d88bd580e35362164ad693eSection%20of%20Solids.pdf",
+                    "url": "https://files.catbox.moe/51clzt.pdf"
+                },
+                "Projection of lines.pdf": {
+                    "name": "LINE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/737433a8f4c130e0f7ad7e35fda2e418103fee4fLINE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "PLANE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e68fb93f1e900a23e3824d1a2fb7e9040679f49aPLANE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "Projection of Solids.pdf": {
+                    "name": "UNIT-3(PROJECTION-OF-SOLID).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
+                    "url": "https://files.catbox.moe/0ix10j.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -29523,18 +29595,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce6a507adeb3f05ad4fb810e51b83c83aeb11d8eMID%20SEM%202023%20%28SEPT%29.pdf",
                     "url": "https://files.catbox.moe/kdqs5w.pdf"
                 },
-                "Dimensioning.pdf": {
-                    "name": "Dimensioning.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3a76e83be6868e3d45861b2f77330d53de469dedDimensioning.pdf",
-                    "url": "https://files.catbox.moe/pgauok.pdf"
-                },
-                "Curves.pdf": {
-                    "name": "Curves.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/06920251cdc97f0ec589680e9bdb0d4aadb26a6cCurves.pdf",
-                    "url": "https://files.catbox.moe/lp0d9j.pdf"
-                },
                 "EG BY N.D BHATT.pdf": {
                     "name": "EG-BY-N.D-BHATT.pdf",
                     "type": "Book",
@@ -29685,17 +29745,53 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/23e1dd5d52fcf0595594413ca917708c79b737d9SHEET%20NO.%207%20-%20Solutions.pdf",
                     "url": "https://files.catbox.moe/ov9kgi.pdf"
                 },
-                "UNIT 1.pdf": {
+                "Basic Theory, Conic Section and Curves.pdf": {
                     "name": "UNIT-1.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e0e0edaac7b30c49a0217fed79a2241bf5d555dUNIT%201.pdf",
                     "url": "https://files.catbox.moe/umw7ep.pdf"
                 },
-                "UNIT 2.pdf": {
+                "Orthographic Projections.pdf": {
                     "name": "UNIT-2.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/282f7b6534842fd78c07d7c9020fcb81854d5358UNIT%202.pdf",
                     "url": "https://files.catbox.moe/0pxqv5.pdf"
+                },
+                "Development of Surfaces.pdf": {
+                    "name": "Development-of-Surfaces.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b502cb14ef72153f224168610873fc9c6436ef97Development%20of%20Surfaces.pdf",
+                    "url": "https://files.catbox.moe/m96dn7.pdf"
+                },
+                "Isometric Projection.pdf": {
+                    "name": "Isometric-Projection.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8cb3f1ebf3a9c56d54134de7f29c916022a72eb2Isometric%20Projection.pdf",
+                    "url": "https://files.catbox.moe/g4k57r.pdf"
+                },
+                "Section of Solids.pdf": {
+                    "name": "Section-of-Solids.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c297bcdde4aa388a5d88bd580e35362164ad693eSection%20of%20Solids.pdf",
+                    "url": "https://files.catbox.moe/51clzt.pdf"
+                },
+                "Projection of lines.pdf": {
+                    "name": "LINE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/737433a8f4c130e0f7ad7e35fda2e418103fee4fLINE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "PLANE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e68fb93f1e900a23e3824d1a2fb7e9040679f49aPLANE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "Projection of Solids.pdf": {
+                    "name": "UNIT-3(PROJECTION-OF-SOLID).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
+                    "url": "https://files.catbox.moe/0ix10j.pdf"
                 }
             },
             "Maths---1": {
@@ -34809,18 +34905,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce6a507adeb3f05ad4fb810e51b83c83aeb11d8eMID%20SEM%202023%20%28SEPT%29.pdf",
                     "url": "https://files.catbox.moe/kdqs5w.pdf"
                 },
-                "Dimensioning.pdf": {
-                    "name": "Dimensioning.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3a76e83be6868e3d45861b2f77330d53de469dedDimensioning.pdf",
-                    "url": "https://files.catbox.moe/pgauok.pdf"
-                },
-                "Curves.pdf": {
-                    "name": "Curves.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/06920251cdc97f0ec589680e9bdb0d4aadb26a6cCurves.pdf",
-                    "url": "https://files.catbox.moe/lp0d9j.pdf"
-                },
                 "EG BY N.D BHATT.pdf": {
                     "name": "EG-BY-N.D-BHATT.pdf",
                     "type": "Book",
@@ -34971,17 +35055,53 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/23e1dd5d52fcf0595594413ca917708c79b737d9SHEET%20NO.%207%20-%20Solutions.pdf",
                     "url": "https://files.catbox.moe/ov9kgi.pdf"
                 },
-                "UNIT 1.pdf": {
+                "Basic Theory, Conic Section and Curves.pdf": {
                     "name": "UNIT-1.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e0e0edaac7b30c49a0217fed79a2241bf5d555dUNIT%201.pdf",
                     "url": "https://files.catbox.moe/umw7ep.pdf"
                 },
-                "UNIT 2.pdf": {
+                "Orthographic Projections.pdf": {
                     "name": "UNIT-2.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/282f7b6534842fd78c07d7c9020fcb81854d5358UNIT%202.pdf",
                     "url": "https://files.catbox.moe/0pxqv5.pdf"
+                },
+                "Development of Surfaces.pdf": {
+                    "name": "Development-of-Surfaces.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b502cb14ef72153f224168610873fc9c6436ef97Development%20of%20Surfaces.pdf",
+                    "url": "https://files.catbox.moe/m96dn7.pdf"
+                },
+                "Isometric Projection.pdf": {
+                    "name": "Isometric-Projection.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8cb3f1ebf3a9c56d54134de7f29c916022a72eb2Isometric%20Projection.pdf",
+                    "url": "https://files.catbox.moe/g4k57r.pdf"
+                },
+                "Section of Solids.pdf": {
+                    "name": "Section-of-Solids.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c297bcdde4aa388a5d88bd580e35362164ad693eSection%20of%20Solids.pdf",
+                    "url": "https://files.catbox.moe/51clzt.pdf"
+                },
+                "Projection of lines.pdf": {
+                    "name": "LINE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/737433a8f4c130e0f7ad7e35fda2e418103fee4fLINE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "PLANE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e68fb93f1e900a23e3824d1a2fb7e9040679f49aPLANE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "Projection of Solids.pdf": {
+                    "name": "UNIT-3(PROJECTION-OF-SOLID).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
+                    "url": "https://files.catbox.moe/0ix10j.pdf"
                 }
             },
             "Maths---1": {
@@ -36643,18 +36763,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce6a507adeb3f05ad4fb810e51b83c83aeb11d8eMID%20SEM%202023%20%28SEPT%29.pdf",
                     "url": "https://files.catbox.moe/kdqs5w.pdf"
                 },
-                "Dimensioning.pdf": {
-                    "name": "Dimensioning.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3a76e83be6868e3d45861b2f77330d53de469dedDimensioning.pdf",
-                    "url": "https://files.catbox.moe/pgauok.pdf"
-                },
-                "Curves.pdf": {
-                    "name": "Curves.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/06920251cdc97f0ec589680e9bdb0d4aadb26a6cCurves.pdf",
-                    "url": "https://files.catbox.moe/lp0d9j.pdf"
-                },
                 "EG BY N.D BHATT.pdf": {
                     "name": "EG-BY-N.D-BHATT.pdf",
                     "type": "Book",
@@ -36805,17 +36913,53 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/23e1dd5d52fcf0595594413ca917708c79b737d9SHEET%20NO.%207%20-%20Solutions.pdf",
                     "url": "https://files.catbox.moe/ov9kgi.pdf"
                 },
-                "UNIT 1.pdf": {
+                "Basic Theory, Conic Section and Curves.pdf": {
                     "name": "UNIT-1.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0e0e0edaac7b30c49a0217fed79a2241bf5d555dUNIT%201.pdf",
                     "url": "https://files.catbox.moe/umw7ep.pdf"
                 },
-                "UNIT 2.pdf": {
+                "Orthographic Projections.pdf": {
                     "name": "UNIT-2.pdf",
                     "type": "Lecture_Slides",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/282f7b6534842fd78c07d7c9020fcb81854d5358UNIT%202.pdf",
                     "url": "https://files.catbox.moe/0pxqv5.pdf"
+                },
+                "Development of Surfaces.pdf": {
+                    "name": "Development-of-Surfaces.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b502cb14ef72153f224168610873fc9c6436ef97Development%20of%20Surfaces.pdf",
+                    "url": "https://files.catbox.moe/m96dn7.pdf"
+                },
+                "Isometric Projection.pdf": {
+                    "name": "Isometric-Projection.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8cb3f1ebf3a9c56d54134de7f29c916022a72eb2Isometric%20Projection.pdf",
+                    "url": "https://files.catbox.moe/g4k57r.pdf"
+                },
+                "Section of Solids.pdf": {
+                    "name": "Section-of-Solids.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c297bcdde4aa388a5d88bd580e35362164ad693eSection%20of%20Solids.pdf",
+                    "url": "https://files.catbox.moe/51clzt.pdf"
+                },
+                "Projection of lines.pdf": {
+                    "name": "LINE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/737433a8f4c130e0f7ad7e35fda2e418103fee4fLINE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/40hdox.pdf"
+                },
+                "Projection of Planes.pdf": {
+                    "name": "PLANE-PROJECTION-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e68fb93f1e900a23e3824d1a2fb7e9040679f49aPLANE%20PROJECTION%20.pdf",
+                    "url": "https://files.catbox.moe/ax83gy.pdf"
+                },
+                "Projection of Solids.pdf": {
+                    "name": "UNIT-3(PROJECTION-OF-SOLID).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
+                    "url": "https://files.catbox.moe/0ix10j.pdf"
                 }
             },
             "Maths---1": {
@@ -41031,7 +41175,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/kkfw15.txt"
+                    "url": "https://files.catbox.moe/w8d1ax.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -41099,7 +41243,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/3b7rt0.txt"
+                    "url": "https://files.catbox.moe/d5jdap.txt"
                 }
             },
             "Database-Management-System": {
