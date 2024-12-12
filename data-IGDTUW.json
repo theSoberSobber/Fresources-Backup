@@ -205,6 +205,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
                     "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
                 }
             },
             "test": {
@@ -1199,6 +1211,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -1742,7 +1760,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/mws1wb.pdf"
+                    "url": "https://files.catbox.moe/64vaun.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -2444,7 +2462,7 @@
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/i9obx0.pdf"
+                    "url": "https://files.catbox.moe/qmvlix.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -5380,13 +5398,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/2palr8.txt"
+                    "url": "https://files.catbox.moe/tsbuvb.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/wninpb.txt"
+                    "url": "https://files.catbox.moe/1jp6zk.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -5649,6 +5667,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
                     "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
                 }
             },
             "Data-Structures": {
@@ -7259,6 +7289,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -9080,7 +9116,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/bzv79n.txt"
+                    "url": "https://files.catbox.moe/shhfx9.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -9700,13 +9736,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/rgol0g.txt"
+                    "url": "https://files.catbox.moe/7asqmh.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/htaark.txt"
+                    "url": "https://files.catbox.moe/6cwxca.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -11554,13 +11590,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/4ue4e5.txt"
+                    "url": "https://files.catbox.moe/kaha8h.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/tgwysl.txt"
+                    "url": "https://files.catbox.moe/jmhqfc.txt"
                 }
             }
         },
@@ -12104,6 +12140,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -13577,13 +13619,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/0bu73o.txt"
+                    "url": "https://files.catbox.moe/cxsbrs.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/nu28sn.txt"
+                    "url": "https://files.catbox.moe/mabxbl.txt"
                 }
             },
             "Programming-in-C": {
@@ -13969,7 +14011,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/depwnm.txt"
+                    "url": "https://files.catbox.moe/6t248t.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -14589,13 +14631,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/thiqxe.txt"
+                    "url": "https://files.catbox.moe/k5sypm.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/hy7hhw.txt"
+                    "url": "https://files.catbox.moe/vxnoox.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -17154,6 +17196,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
                     "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
                 }
             },
             "Software-Eng.": {
@@ -18856,6 +18910,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "Programming-With-Python": {
@@ -19363,7 +19423,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/qq9210.txt"
+                    "url": "https://files.catbox.moe/avlgy5.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -19387,7 +19447,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/wdz44j.pdf"
+                    "url": "https://files.catbox.moe/oaueky.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -19479,7 +19539,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/fye3or.pdf"
+                    "url": "https://files.catbox.moe/2omzx2.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -21091,13 +21151,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ij52nc.txt"
+                    "url": "https://files.catbox.moe/fs59q1.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/wai11t.txt"
+                    "url": "https://files.catbox.moe/r0tlat.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -21452,6 +21512,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
                     "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
                 }
             },
             "Network-Analysis-and-Synthesis": {
@@ -22208,13 +22280,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/9wu8h2.txt"
+                    "url": "https://files.catbox.moe/q1qpa9.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/pj61wt.txt"
+                    "url": "https://files.catbox.moe/f1r6zj.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -22601,6 +22673,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "Analog-Electronics": {
@@ -22818,7 +22896,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/yj02uo.txt"
+                    "url": "https://files.catbox.moe/g5hstt.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -22830,13 +22908,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/vvx9w7.txt"
+                    "url": "https://files.catbox.moe/p1p48j.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/0mdubj.txt"
+                    "url": "https://files.catbox.moe/5sl619.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -24018,7 +24096,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/25mlcn.txt"
+                    "url": "https://files.catbox.moe/4jie23.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -25593,6 +25671,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
                     "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
                 }
             },
             "Data-Structures": {
@@ -25902,7 +25992,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/25ani1.txt"
+                    "url": "https://files.catbox.moe/tbphnd.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -25914,13 +26004,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/eehu16.txt"
+                    "url": "https://files.catbox.moe/rq3h05.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/b7kqds.txt"
+                    "url": "https://files.catbox.moe/gbkp31.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -27179,6 +27269,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -28652,13 +28748,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/5jaa03.txt"
+                    "url": "https://files.catbox.moe/u377be.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/73evan.txt"
+                    "url": "https://files.catbox.moe/bjj4iv.txt"
                 }
             },
             "Programming-in-C": {
@@ -29044,7 +29140,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/lxwt0z.txt"
+                    "url": "https://files.catbox.moe/5lvu83.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -29664,13 +29760,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/44e3ey.txt"
+                    "url": "https://files.catbox.moe/nq8iol.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/vvehkv.txt"
+                    "url": "https://files.catbox.moe/n5aca8.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -31129,6 +31225,18 @@
                     "type": "Assignment",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
                     "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
                 }
             },
             "Data-Structures": {
@@ -31657,6 +31765,12 @@
                     "type": "Note",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/23a81f7c964717359d5c01c27f4ea3bb230ebfd8unit4.pdf",
                     "url": "https://files.catbox.moe/un0y05.pdf"
+                },
+                "practice questions.pdf": {
+                    "name": "practice-questions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/649bb39a9d8afbd6db948de506f9b566ed227f1apractice%20questions.pdf",
+                    "url": "https://files.catbox.moe/kmezqx.pdf"
                 }
             },
             "Applied-Mathematics---2": {
@@ -33130,13 +33244,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/xnd491.txt"
+                    "url": "https://files.catbox.moe/a95orw.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/4iy3tt.txt"
+                    "url": "https://files.catbox.moe/xi4xbk.txt"
                 }
             },
             "Programming-in-C": {
@@ -33522,7 +33636,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/mdhtyj.txt"
+                    "url": "https://files.catbox.moe/fyamat.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -34142,13 +34256,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/8227f6.txt"
+                    "url": "https://files.catbox.moe/n1ok8q.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/un2hef.txt"
+                    "url": "https://files.catbox.moe/aipyyl.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
