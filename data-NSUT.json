@@ -181,6 +181,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -474,23 +486,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Maths---1": {
@@ -1136,7 +1148,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/954vod.txt"
+                    "url": "https://files.catbox.moe/7916jm.txt"
                 }
             },
             "English": {
@@ -2576,7 +2588,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/n2tjt5.txt"
+                    "url": "https://files.catbox.moe/cgn7ps.txt"
                 }
             },
             "Web-Technology": {},
@@ -2790,6 +2802,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Quantum-Physics": {
@@ -2913,23 +2937,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -3745,7 +3769,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/oo4u0q.txt"
+                    "url": "https://files.catbox.moe/qbk0ri.txt"
                 }
             },
             "Maths---2": {
@@ -5037,7 +5061,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/cj6qpn.txt"
+                    "url": "https://files.catbox.moe/i23m98.txt"
                 }
             }
         },
@@ -5489,23 +5513,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Electronics-&-Communication-": {
@@ -5688,6 +5712,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -6177,7 +6213,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/nzng4a.txt"
+                    "url": "https://files.catbox.moe/ay6sgt.txt"
                 }
             },
             "English": {
@@ -7489,7 +7525,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/u9qm4u.txt"
+                    "url": "https://files.catbox.moe/f0vs74.txt"
                 }
             }
         },
@@ -9735,7 +9771,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/j6xowh.txt"
+                    "url": "https://files.catbox.moe/3zwuse.txt"
                 }
             },
             "Chemistry": {
@@ -10179,12 +10215,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
                 },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
-                },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
                     "type": "Playlist",
@@ -10349,7 +10379,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/1qw8g7.txt"
+                    "url": "https://files.catbox.moe/cluzo6.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -10470,7 +10500,7 @@
                     "url": "https://files.catbox.moe/od9gun.pdf"
                 }
             },
-            "DCS": {
+            "Digital-Circuits-System": {
                 "A VHDL Primer - Jayaram Bhasker-1.pdf": {
                     "name": "A-VHDL-Primer---Jayaram-Bhasker-1.pdf",
                     "type": "Book",
@@ -10738,6 +10768,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -11031,23 +11073,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Maths---1": {
@@ -11693,7 +11735,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/sbhxyf.txt"
+                    "url": "https://files.catbox.moe/adq0r4.txt"
                 }
             },
             "English": {
@@ -14481,7 +14523,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/vxu5s6.txt"
+                    "url": "https://files.catbox.moe/zsnoyy.txt"
                 }
             },
             "Electrical-Measurements": {
@@ -15215,20 +15257,6 @@
                     "url": "https://files.catbox.moe/b7mx2c.pdf"
                 }
             },
-            "DSA": {
-                "Anany Levitin, Introduction to the Design & Analysis of Algorithms, Pearson Education. 2003.pdf": {
-                    "name": "Anany-Levitin,-Introduction-to-the-Design-&-Analysis-of-Algorithms,-Pearson-Education.-2003.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/af77b866d9ecece4c690c94dfee3be9f3bc0cc4dAnany%20Levitin%2C%20Introduction%20to%20the%20Design%20%26%20Analysis%20of%20Algorithms%2C%20Pearson%20Education.%202003.pdf",
-                    "url": "https://files.catbox.moe/7jkfx5.pdf"
-                },
-                "PYQs.pdf": {
-                    "name": "PYQs.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9cae926c485a03b965784b5c937042a9da97b3adPYQs.pdf",
-                    "url": "https://files.catbox.moe/a8x5xr.pdf"
-                }
-            },
             "Digital-Circuits-and-Systems": {
                 "MID SEM  (2024).pdf": {
                     "name": "MID-SEM--(2024).pdf",
@@ -15407,6 +15435,356 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/fb094f6d07c84cf8e654c0706eebe146848bddadEndsem%202024.pdf",
                     "url": "https://files.catbox.moe/fdx1l8.pdf"
+                }
+            },
+            "Data-Structure-&-Algorithms": {
+                "DS HANDWRITEN NOTES.pdf": {
+                    "name": "DS-HANDWRITEN-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f232b93b7364dc5f439e0d340ed93057119809d0DS%20HANDWRITEN%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/ywpzd7.pdf"
+                },
+                "FILE ORGANIZATION AND INDEXING.pdf": {
+                    "name": "FILE-ORGANIZATION-AND-INDEXING.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fccde7433be66ab105d14986e28cf6bd06fbae4fFILE%20ORGANIZATION%20AND%20INDEXING.pdf",
+                    "url": "https://files.catbox.moe/5jhzi1.pdf"
+                },
+                "GRAPH NOTES.pdf": {
+                    "name": "GRAPH-NOTES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b3bb2c906da9f9253544d5f9cfc146884aafbaa5GRAPH%20NOTES.pdf",
+                    "url": "https://files.catbox.moe/0odkel.pdf"
+                },
+                "GRAPH THEORY.pdf": {
+                    "name": "GRAPH-THEORY.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8ca5c6f91f4234185494e6693669da1758682543GRAPH%20THEORY.pdf",
+                    "url": "https://files.catbox.moe/cu6pze.pdf"
+                },
+                "GRAPHS.pdf": {
+                    "name": "GRAPHS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1eccfe29930801eb58cc37f020198562a2a84b97GRAPHS.pdf",
+                    "url": "https://files.catbox.moe/tzop7u.pdf"
+                },
+                "LEC 1 INTRO.pdf": {
+                    "name": "LEC-1-INTRO.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6836dea99c3129383114c04f21d01beb8adf7216LEC%201%20INTRO.pdf",
+                    "url": "https://files.catbox.moe/xn1021.pdf"
+                },
+                "LEC 2 ARRAYS.pdf": {
+                    "name": "LEC-2-ARRAYS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c90db9fb3e1cb52c426dede74b50c71dde9fecbdLEC%202%20ARRAYS.pdf",
+                    "url": "https://files.catbox.moe/8ttnx7.pdf"
+                },
+                "LEC 3 STRINGS.pdf": {
+                    "name": "LEC-3-STRINGS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a96250e66436c50d5cbdaca32177a08b93da580eLEC%203%20STRINGS.pdf",
+                    "url": "https://files.catbox.moe/ufn1lg.pdf"
+                },
+                "LEC 5 QUEUES.pdf": {
+                    "name": "LEC-5-QUEUES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1b3decedb068a3406845d286dd05e2b2fbd1e17LEC%205%20QUEUES.pdf",
+                    "url": "https://files.catbox.moe/j1zsrk.pdf"
+                },
+                "LEC 6 LINKED LIST.pdf": {
+                    "name": "LEC-6-LINKED-LIST.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6ddcddd8e23ff3b29e33dba794a2e8c5b266e88bLEC%206%20LINKED%20LIST.pdf",
+                    "url": "https://files.catbox.moe/yegp1u.pdf"
+                },
+                "LEC 7 TREES 1.pdf": {
+                    "name": "LEC-7-TREES-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/97b6592481119f76446ce64951ea5cbb081d0524LEC%207%20TREES%201.pdf",
+                    "url": "https://files.catbox.moe/ko7p98.pdf"
+                },
+                "LEC 7 TREES 2.pdf": {
+                    "name": "LEC-7-TREES-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fe79f9e484a645b7d3e67bf61265d335fc72c3d8LEC%207%20TREES%202.pdf",
+                    "url": "https://files.catbox.moe/pvvilr.pdf"
+                },
+                "LEC 8 GRAPHS.pdf": {
+                    "name": "LEC-8-GRAPHS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c92512a21c5a4c3abdc844c2573f3d25939a681dLEC%208%20GRAPHS.pdf",
+                    "url": "https://files.catbox.moe/4qiry8.pdf"
+                },
+                "LEC 9 SEARCHING AND SORTING.pdf": {
+                    "name": "LEC-9-SEARCHING-AND-SORTING.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8fb9951ed68eb4edd8093a47fb1ae444f6c9d208LEC%209%20SEARCHING%20AND%20SORTING.pdf",
+                    "url": "https://files.catbox.moe/taqr3t.pdf"
+                },
+                "LEC 10 HEAPS AND HEAP SORT.pdf": {
+                    "name": "LEC-10-HEAPS-AND-HEAP-SORT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/839fc0fbefeb9d1859037224ee9f0b64b59801a8LEC%2010%20HEAPS%20AND%20HEAP%20SORT.pdf",
+                    "url": "https://files.catbox.moe/zm2hzw.pdf"
+                },
+                "LEC 11 HASHING AND COLLISION.pdf": {
+                    "name": "LEC-11-HASHING-AND-COLLISION.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/00f8f96c3045e19d3d155ba5b72fcafa6f0707c4LEC%2011%20HASHING%20AND%20COLLISION.pdf",
+                    "url": "https://files.catbox.moe/y7m8m5.pdf"
+                },
+                "LIST.pdf": {
+                    "name": "LIST.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f5617c17b77c9957fd7c004c0e976ca6a2fbf9d3LIST.pdf",
+                    "url": "https://files.catbox.moe/27kaj7.pdf"
+                },
+                "SORTING ALGORITHMS.pdf": {
+                    "name": "SORTING-ALGORITHMS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cbd04fa003ecfbf64e799d2c5d455c5c3cb859b5SORTING%20ALGORITHMS.pdf",
+                    "url": "https://files.catbox.moe/p82pt9.pdf"
+                },
+                "SPANNING TREES.pdf": {
+                    "name": "SPANNING-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ae3c70115179f0463e734eab4a6d0df17093bb8dSPANNING%20TREES.pdf",
+                    "url": "https://files.catbox.moe/uyj30c.pdf"
+                },
+                "STACKS.pdf": {
+                    "name": "STACKS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/59ec5946914f31ec332f02ca258becb50cdd2166STACKS.pdf",
+                    "url": "https://files.catbox.moe/g3e2ax.pdf"
+                },
+                "STRINGS.pdf": {
+                    "name": "STRINGS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/374cd90e560d8ff09034e79ac3f06b504de13fa2STRINGS.pdf",
+                    "url": "https://files.catbox.moe/y6pr3k.pdf"
+                },
+                "TOPOLOGICAL SORT.pdf": {
+                    "name": "TOPOLOGICAL-SORT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c4ebf5cebd68e5db5954440d1071fbc05a63a63cTOPOLOGICAL%20SORT.pdf",
+                    "url": "https://files.catbox.moe/cwf6am.pdf"
+                },
+                "DSA - CLIFFORD A. SHAFFER.pdf": {
+                    "name": "DSA---CLIFFORD-A.-SHAFFER.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/920d2d59e86662f7c03be1a3ce32dbc26ccea52bDATA%20STRUCTURES%20AND%20ALGORITHMS%20-%20CLIFFORD%20A.%20SHAFFER.pdf",
+                    "url": "https://files.catbox.moe/uaqbbm.pdf"
+                },
+                "DSA - NARASIMHA KARUMANCHI.pdf": {
+                    "name": "DS-Book-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eac947a0e131c727183559afa5f586aa15701ce4DS%20Book%201.pdf",
+                    "url": "https://files.catbox.moe/lvvggk.pdf"
+                },
+                "DSA C++ (YASHAVANT KANETKAR).pdf": {
+                    "name": "DSA-C++-(YASHAVANT-KANETKAR).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/524ba09a840fb024abf0753353aa1fa12f5ad002DDSA%20C%2B%2B%20%28YASHAVANT%20KANETKAR%29.pdf",
+                    "url": "https://files.catbox.moe/05ejjo.pdf"
+                },
+                "DSA C BY REEMA THAREJA.pdf": {
+                    "name": "DSA-C-BY-REEMA-THAREJA.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ecaa1319c25cec91e453ca0c03e2679988dcd326DSA%20C%20BY%20REEMA%20THAREJA.pdf",
+                    "url": "https://files.catbox.moe/gmbb82.pdf"
+                },
+                "DSA BY GILBERG FOROURZAN.pdf": {
+                    "name": "DSA-BY-GILBERG-FOROURZAN.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d5ff1ca7f9dad07972958aca9f7e97ee6d4559c1DSA%20BY%20GILBERG%20FOROURZAN.pdf",
+                    "url": "https://files.catbox.moe/udrzrr.pdf"
+                },
+                "DS WITH C - BY SCHAUM.pdf": {
+                    "name": "DSA-BY-GILBERG-FOROURZAN.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d5ff1ca7f9dad07972958aca9f7e97ee6d4559c1DSA%20BY%20GILBERG%20FOROURZAN.pdf",
+                    "url": "https://files.catbox.moe/udrzrr.pdf"
+                },
+                "DSA BY HOROWITZ AND SAHNI.pdf": {
+                    "name": "DSA-BY-HOROWITZ-AND-SAHNI.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2ba12777e16faf9d8770760abb0377d5049557a0DSA%20BY%20HOROWITZ%20AND%20SAHNI.pdf",
+                    "url": "https://files.catbox.moe/qddlu6.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/acd03f1322df94a2ea7c3fd10ee3c2e9b635e855ENDSEM%202019.pdf",
+                    "url": "https://files.catbox.moe/8kjsqk.pdf"
+                },
+                "MIDSEM 2019 (SEPT).pdf": {
+                    "name": "MIDSEM-2019-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/718d1b60d2c77681456200b350d1f6bb9dbeaa4aMIDSEM%202019%20%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/jvpv3o.pdf"
+                },
+                "ENDSEM 2019(DEC).pdf": {
+                    "name": "ENDSEM-2019(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f7882ca1a21e0130f1f2554c5b771be65f202a10ENDSEM%202019%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/1xk8ub.pdf"
+                },
+                "Queues.pdf": {
+                    "name": "Queues.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f2459865ebd7450753f17d0399a4b9df05945fa4Queues.pdf",
+                    "url": "https://files.catbox.moe/yvo4uq.pdf"
+                },
+                "graphs final ppt.pdf": {
+                    "name": "graphs-final-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d797972ef06dff67c53b9175aba78c84dd1b6839graphs%20final%20ppt.pdf",
+                    "url": "https://files.catbox.moe/ctxm3n.pdf"
+                },
+                "Binary Tree ppt.pdf": {
+                    "name": "Binary-Tree-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e1628fe2075966544a56c4428596217fa80e400dBinary%20Tree%20ppt.pdf",
+                    "url": "https://files.catbox.moe/8ulhzv.pdf"
+                },
+                "AVL TREES.pdf": {
+                    "name": "AVL-TREES.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/65c86683e251ca2feeee3f7efc78d1a8d8654ed1AVL%20TREES.pdf",
+                    "url": "https://files.catbox.moe/b779v6.pdf"
+                },
+                "LL final.pdf": {
+                    "name": "LL-final.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f690030ef5183b93b5238b229ac9dc94706891e1LL%20final.pdf",
+                    "url": "https://files.catbox.moe/f8mfgr.pdf"
+                },
+                "Doubly and circular LL.pdf": {
+                    "name": "Doubly-and-circular-LL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/455b3bc19b46765901157c7804eed1d9b0311cf2Doubly%20and%20circular%20LL.pdf",
+                    "url": "https://files.catbox.moe/mqybgl.pdf"
+                },
+                "Data Structures and Algorithm Notes.pdf": {
+                    "name": "Data-Structures-and-Algorithm-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fdc53f208085048b9ca38b18c3b4a8c1aeaec7d4Data%20Structures%20and%20Algorithm%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4vpp9o.pdf"
+                },
+                "Introduction and Arrays.pdf": {
+                    "name": "Introduction-and-Arrays.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c7b86ff329d42a11572c86fe65e524a8302cbdb2Introduction%20and%20Arrays.pdf",
+                    "url": "https://files.catbox.moe/l5yo6b.pdf"
+                },
+                "Stacks.pdf": {
+                    "name": "Stacks.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/028e81edea245451cfcdcc813c26bab31a532ef4Stacks.pdf",
+                    "url": "https://files.catbox.moe/1stmen.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYLNykymlcPlZVvSMqRsTiO3",
+                    "url": "https://files.catbox.moe/jcibwq.txt"
+                },
+                "UNIT-4(HARRY).playlist": {
+                    "name": "UNIT-4(HARRY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLUPfVLTCq5c2SmJeiouZ53mrkL46BvmI8",
+                    "url": "https://files.catbox.moe/s9vb53.txt"
+                },
+                "UNIT-4(JENNY).playlist": {
+                    "name": "UNIT-4(JENNY).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL2G8cXzxidYJFcvIz2SogogI_wzGBrosM",
+                    "url": "https://files.catbox.moe/60nksg.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL2G8cXzxidYILH26CW75dhmuubLzxj9r2&si=-hy6XB2ePkZKTxTW",
+                    "url": "https://files.catbox.moe/rn5l7c.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPdonczaicFayPa2FEPOuHW",
+                    "url": "https://files.catbox.moe/nrugar.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxMlf609oAFHebsZ4cjGLJ_q",
+                    "url": "https://files.catbox.moe/c8wvo1.txt"
+                },
+                "MIDSEM 2023(SEPT).pdf": {
+                    "name": "MIDSEM-2023(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e0f9468109ccae4a90a15a9db9559d717576b51MIDSEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/9y18et.pdf"
+                },
+                "ENDSEM 2023(DEC).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d1466aff1dc80ef61a5a91056360a344224c8d17ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/63va73.pdf"
+                },
+                "MIDSEM 2024(FEB).pdf": {
+                    "name": "MIDSEM-2024(FEB).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de7ad5f9d1b4e61ec370354e87475775aa79a1daMIDSEM%202024%28FEB%29.pdf",
+                    "url": "https://files.catbox.moe/48oasf.pdf"
+                },
+                "DSA Datatypes ANKUSH.pdf": {
+                    "name": "DSA-Datatypes-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/842267bd203a672401baab442eb519925df5e363DSA%20Datatypes%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c72az5.pdf"
+                },
+                "DSA circularlinkedlist ANKUSH.pdf": {
+                    "name": "DSA-circularlinkedlist-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d264879df5abae3042dc67ec96c9f9a14f20f3bDSA%20circularlinkedlist%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fjz45u.pdf"
+                },
+                "DSA linked list ANKUSH.pdf": {
+                    "name": "DSA-linked-list-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2922216f7e8773167ca1df470981e1a0aec75a17DSA%20linked%20list%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/tfh8gg.pdf"
+                },
+                "DSA stack and queue ANKUSH.pdf": {
+                    "name": "DSA-stack-and-queue-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb149eed4164a392d9a5fc292fdf1d7ce5ddb016DSA%20stack%20and%20queue%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/c1juoy.pdf"
+                },
+                "DSA arrays ANKUSH.pdf": {
+                    "name": "DSA-arrays-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/85240829e5c51df5d0560a44fcf150f962364778DSA%20arrays%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/8jnsft.pdf"
+                },
+                "DSA datastructures ANKUSH.pdf": {
+                    "name": "DSA-datastructures-ANKUSH.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cc8462adf157e1c202f301f0fb22f8cca3bc798bDSA%20datastructures%20ANKUSH.pdf",
+                    "url": "https://files.catbox.moe/fx0i7p.pdf"
+                },
+                "Midsem-2024 .jpg": {
+                    "name": "DSA_MIDSEM_2024(sept).jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/917e1734e8bddf3cf9cd7039555cb05e9bc5c354DSA_MIDSEM_2024%28sept%29.jpg",
+                    "url": "https://files.catbox.moe/1n3kza.jpg"
+                },
+                "Endsem 2024.pdf": {
+                    "name": "Endsem-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/90d05feaff448ac95f0ef181dcea5d287e804c86Endsem%202024.pdf",
+                    "url": "https://files.catbox.moe/ww1dy9.pdf"
                 }
             }
         },
@@ -17248,7 +17626,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/4zeqip.txt"
+                    "url": "https://files.catbox.moe/3le8xk.txt"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -17419,12 +17797,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
-                },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
                 },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
@@ -18281,7 +18653,7 @@
                     "url": "https://files.catbox.moe/csoi3r.txt"
                 }
             },
-            "DCS": {
+            "Digital-Circuits-System": {
                 "A VHDL Primer - Jayaram Bhasker-1.pdf": {
                     "name": "A-VHDL-Primer---Jayaram-Bhasker-1.pdf",
                     "type": "Book",
@@ -19262,12 +19634,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
                 },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
-                },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
                     "type": "Playlist",
@@ -19616,7 +19982,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/u9rxyr.txt"
+                    "url": "https://files.catbox.moe/327vq3.txt"
                 }
             },
             "Maths---2": {
@@ -21305,7 +21671,7 @@
                     "url": "https://files.catbox.moe/od9gun.pdf"
                 }
             },
-            "DCS": {
+            "Digital-Circuits-System": {
                 "A VHDL Primer - Jayaram Bhasker-1.pdf": {
                     "name": "A-VHDL-Primer---Jayaram-Bhasker-1.pdf",
                     "type": "Book",
@@ -22913,7 +23279,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/4s5kjz.txt"
+                    "url": "https://files.catbox.moe/e15xg7.txt"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -23490,7 +23856,7 @@
                     "url": "https://files.catbox.moe/rvkynu.pdf"
                 }
             },
-            "Analog-&-Digital-Electronics": {
+            "Basic-Analog-&-Digital-Electronics": {
                 " Unit-4 Digital Electronics.pdf": {
                     "name": "-Unit-4-Digital-Electronics.pdf",
                     "type": "Note",
@@ -23533,13 +23899,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6cfb266b379ef272b1dc83a2e7ebc1d01caeecd3BJT%20MOSFET.pdf",
                     "url": "https://files.catbox.moe/aqtsep.pdf"
                 },
-                "MIDSEM 2023.pdf": {
+                "MIDSEM 2023 (Sept).pdf": {
                     "name": "MIDSEM-2023.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/177b8e66ba807a64e2540f727078a7bf8980f1e3basics%20of%20analog.pdf",
                     "url": "https://files.catbox.moe/juhn5c.pdf"
                 },
-                "Unit-2 opamp.playlist": {
+                "Unit-2 Op Amp.playlist": {
                     "name": "Unit-2-opamp.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL0cYrGIaWOlIsJE6njjnOIbUhMUSnkbZ0&si=aAj8r-EWDk_WIjE0",
@@ -23557,7 +23923,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=IOFdDrv6R6dbxDya",
                     "url": "https://files.catbox.moe/j4e5wc.txt"
                 },
-                "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf": {
+                "ROBERT L. & LEWIS EDC.pdf": {
                     "name": "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cd5506d274d483d27812f9fa0b75cbf9f0176a8cElectronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
@@ -23580,12 +23946,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d96d6e05d178d787c3d010f3b2204f5f682303cdprogramming%208085%20uP.pdf",
                     "url": "https://files.catbox.moe/dozah4.pdf"
-                },
-                "ENDSEM 2022.jpg": {
-                    "name": "end-sem-2022.jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e141ed28ba6be8d233dddc1a50a6e1117974ec0end%20sem.jpg",
-                    "url": "https://files.catbox.moe/s0exuo.pdf"
                 },
                 "Unit-2 opamp.pdf": {
                     "name": "OP-AMP-2.pdf",
@@ -23653,13 +24013,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLAKTibcH1qibtvV2cHVv3wta3uOdkQXaX&si=xAdJFWJFWXC9HmwT",
                     "url": "https://files.catbox.moe/xgzvio.txt"
                 },
-                "ENDSEM 2023.pdf": {
-                    "name": "endsem-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb3f4bb3e1dc7abb50b46a2d065434ab596312e2endsem%202023.pdf",
-                    "url": "https://files.catbox.moe/zasb7x.pdf"
-                },
-                "MIDSEM 2024 1.pdf": {
+                "MIDSEM 2024 (Feb).pdf": {
                     "name": "Mid-Sem-2024-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2369f417f2d5791a9b7dd44ee45c01c230598fcaMid%20Sem%202024%201.pdf",
@@ -24767,23 +25121,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -25136,6 +25490,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Computer-Programming": {
@@ -25455,7 +25821,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/ipz7ii.txt"
+                    "url": "https://files.catbox.moe/cf1taz.txt"
                 }
             },
             "English": {
@@ -27100,7 +27466,7 @@
                     "url": "https://files.catbox.moe/znlxhj.jpg"
                 }
             },
-            "Analog-&-Digital-Electronics": {
+            "Basic-Analog-&-Digital-Electronics": {
                 " Unit-4 Digital Electronics.pdf": {
                     "name": "-Unit-4-Digital-Electronics.pdf",
                     "type": "Note",
@@ -27143,13 +27509,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6cfb266b379ef272b1dc83a2e7ebc1d01caeecd3BJT%20MOSFET.pdf",
                     "url": "https://files.catbox.moe/aqtsep.pdf"
                 },
-                "MIDSEM 2023.pdf": {
+                "MIDSEM 2023 (Sept).pdf": {
                     "name": "MIDSEM-2023.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/177b8e66ba807a64e2540f727078a7bf8980f1e3basics%20of%20analog.pdf",
                     "url": "https://files.catbox.moe/juhn5c.pdf"
                 },
-                "Unit-2 opamp.playlist": {
+                "Unit-2 Op Amp.playlist": {
                     "name": "Unit-2-opamp.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL0cYrGIaWOlIsJE6njjnOIbUhMUSnkbZ0&si=aAj8r-EWDk_WIjE0",
@@ -27167,7 +27533,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=IOFdDrv6R6dbxDya",
                     "url": "https://files.catbox.moe/j4e5wc.txt"
                 },
-                "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf": {
+                "ROBERT L. & LEWIS EDC.pdf": {
                     "name": "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cd5506d274d483d27812f9fa0b75cbf9f0176a8cElectronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
@@ -27190,12 +27556,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d96d6e05d178d787c3d010f3b2204f5f682303cdprogramming%208085%20uP.pdf",
                     "url": "https://files.catbox.moe/dozah4.pdf"
-                },
-                "ENDSEM 2022.jpg": {
-                    "name": "end-sem-2022.jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e141ed28ba6be8d233dddc1a50a6e1117974ec0end%20sem.jpg",
-                    "url": "https://files.catbox.moe/s0exuo.pdf"
                 },
                 "Unit-2 opamp.pdf": {
                     "name": "OP-AMP-2.pdf",
@@ -27263,13 +27623,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLAKTibcH1qibtvV2cHVv3wta3uOdkQXaX&si=xAdJFWJFWXC9HmwT",
                     "url": "https://files.catbox.moe/xgzvio.txt"
                 },
-                "ENDSEM 2023.pdf": {
-                    "name": "endsem-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb3f4bb3e1dc7abb50b46a2d065434ab596312e2endsem%202023.pdf",
-                    "url": "https://files.catbox.moe/zasb7x.pdf"
-                },
-                "MIDSEM 2024 1.pdf": {
+                "MIDSEM 2024 (Feb).pdf": {
                     "name": "Mid-Sem-2024-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2369f417f2d5791a9b7dd44ee45c01c230598fcaMid%20Sem%202024%201.pdf",
@@ -28149,7 +28503,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/caccli.txt"
+                    "url": "https://files.catbox.moe/i5uzb0.txt"
                 }
             },
             "Engineering-Mechanics": {
@@ -28922,12 +29276,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
-                },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
                 },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
@@ -30024,6 +30372,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "EG-&-CAD": {
@@ -31361,12 +31721,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
                 },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
-                },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
                     "type": "Playlist",
@@ -31716,7 +32070,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/1no5oj.txt"
+                    "url": "https://files.catbox.moe/bioop9.txt"
                 }
             },
             "Introduction-to-Biotechnology": {},
@@ -32573,7 +32927,7 @@
                     "url": "https://files.catbox.moe/bh78hw.pdf"
                 }
             },
-            "Analog-&-Digital-Electronics": {
+            "Basic-Analog-&-Digital-Electronics": {
                 " Unit-4 Digital Electronics.pdf": {
                     "name": "-Unit-4-Digital-Electronics.pdf",
                     "type": "Note",
@@ -32616,13 +32970,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6cfb266b379ef272b1dc83a2e7ebc1d01caeecd3BJT%20MOSFET.pdf",
                     "url": "https://files.catbox.moe/aqtsep.pdf"
                 },
-                "MIDSEM 2023.pdf": {
+                "MIDSEM 2023 (Sept).pdf": {
                     "name": "MIDSEM-2023.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/177b8e66ba807a64e2540f727078a7bf8980f1e3basics%20of%20analog.pdf",
                     "url": "https://files.catbox.moe/juhn5c.pdf"
                 },
-                "Unit-2 opamp.playlist": {
+                "Unit-2 Op Amp.playlist": {
                     "name": "Unit-2-opamp.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL0cYrGIaWOlIsJE6njjnOIbUhMUSnkbZ0&si=aAj8r-EWDk_WIjE0",
@@ -32640,7 +32994,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=IOFdDrv6R6dbxDya",
                     "url": "https://files.catbox.moe/j4e5wc.txt"
                 },
-                "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf": {
+                "ROBERT L. & LEWIS EDC.pdf": {
                     "name": "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cd5506d274d483d27812f9fa0b75cbf9f0176a8cElectronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
@@ -32663,12 +33017,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d96d6e05d178d787c3d010f3b2204f5f682303cdprogramming%208085%20uP.pdf",
                     "url": "https://files.catbox.moe/dozah4.pdf"
-                },
-                "ENDSEM 2022.jpg": {
-                    "name": "end-sem-2022.jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e141ed28ba6be8d233dddc1a50a6e1117974ec0end%20sem.jpg",
-                    "url": "https://files.catbox.moe/s0exuo.pdf"
                 },
                 "Unit-2 opamp.pdf": {
                     "name": "OP-AMP-2.pdf",
@@ -32736,13 +33084,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLAKTibcH1qibtvV2cHVv3wta3uOdkQXaX&si=xAdJFWJFWXC9HmwT",
                     "url": "https://files.catbox.moe/xgzvio.txt"
                 },
-                "ENDSEM 2023.pdf": {
-                    "name": "endsem-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb3f4bb3e1dc7abb50b46a2d065434ab596312e2endsem%202023.pdf",
-                    "url": "https://files.catbox.moe/zasb7x.pdf"
-                },
-                "MIDSEM 2024 1.pdf": {
+                "MIDSEM 2024 (Feb).pdf": {
                     "name": "Mid-Sem-2024-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2369f417f2d5791a9b7dd44ee45c01c230598fcaMid%20Sem%202024%201.pdf",
@@ -32753,332 +33095,6 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6c2e4059b9cc7b329c195257747f1ddc2db013b0Midsem%20%20Sep%2024.pdf",
                     "url": "https://files.catbox.moe/585oon.pdf"
-                }
-            },
-            "Maths---1": {
-                "ENDSEM 2018.pdf": {
-                    "name": "ENDSEM-2018.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c9a84357b12da93d30caab9f6a1e61ac7c520d01Endsem%202018.pdf",
-                    "url": "https://files.catbox.moe/84oop3.pdf"
-                },
-                "ENDSEM 2019.pdf": {
-                    "name": "ENDSEM-2019.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bc1b1140fa32981725d6392373db443eb09dba08Endsem%202019.pdf",
-                    "url": "https://files.catbox.moe/ctccnz.pdf"
-                },
-                "ENDSEM 2021.pdf": {
-                    "name": "ENDSEM-2021.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea704a0dbdcb5afd6c3fac79c3c861ed4fc209b5Endsem%202021.pdf",
-                    "url": "https://files.catbox.moe/ywjjz9.pdf"
-                },
-                "ENDSEM 2022.pdf": {
-                    "name": "ENDSEM-2022.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/725369c63ce942e6912de3b36dbfd8117ce6ba0fEndsem%202022.pdf",
-                    "url": "https://files.catbox.moe/vemot3.pdf"
-                },
-                "MIDSEM 2017.pdf": {
-                    "name": "MIDSEM-2017.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb704661a19d4e628cf28af2b937a9ec0bf4d68dMidsem%202017.pdf",
-                    "url": "https://files.catbox.moe/u9tx4y.pdf"
-                },
-                "MIDSEM 2018.pdf": {
-                    "name": "MIDSEM-2018.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c0f8f9db1ab09a53ff294e2fde9a271a59b021eMidsem%202018.pdf",
-                    "url": "https://files.catbox.moe/ynbrqy.pdf"
-                },
-                "MIDSEM 2019.pdf": {
-                    "name": "MIDSEM-2019.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2cfdd37e4c8904824b24479ea7519a6e0ffce74aMidsem%202019.pdf",
-                    "url": "https://files.catbox.moe/ifbmu3.pdf"
-                },
-                "MIDSEM 2020.pdf": {
-                    "name": "MIDSEM-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/420d9183764f36a5545ced256e3761c97914b81cMidsem%202020.pdf",
-                    "url": "https://files.catbox.moe/e491bt.pdf"
-                },
-                "MIDSEM 2022.pdf": {
-                    "name": "MIDSEM-2022.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dd5ae1228d13e2c47b5fff37a66c70fdc581034bMidsem%202022.pdf",
-                    "url": "https://files.catbox.moe/r18iwg.pdf"
-                },
-                "Unit-1.pdf": {
-                    "name": "Unit-1.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6b488ed9157a696003daaa3af16cd02fde3f690cUnit%201.pdf",
-                    "url": "https://files.catbox.moe/leqhcw.pdf"
-                },
-                "Unit-3 & 4.pdf": {
-                    "name": "Unit-3-&-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6cc516e27df363389238cdb6b4f871bcb75f16e9Unit%203%20%26%204.pdf",
-                    "url": "https://files.catbox.moe/zkp529.pdf"
-                },
-                "Unit-3 Formulas.pdf": {
-                    "name": "Unit-3-Formulas.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f4638ea231bc168a4e34358509649c87d17c88d2Unit%203%20Formulas.pdf",
-                    "url": "https://files.catbox.moe/rp1y9h.pdf"
-                },
-                "Unit-5.pdf": {
-                    "name": "Unit-5.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/02a0ed1bd330d1a0e6411ff0b4c837deac248155Unit%205.pdf",
-                    "url": "https://files.catbox.moe/hip1ha.pdf"
-                },
-                "Unit-2.pdf": {
-                    "name": "Unit-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01ecf941548c0eb7c17326703b6e007bef98a972Unit%202.pdf",
-                    "url": "https://files.catbox.moe/rxet1i.pdf"
-                },
-                "THOMAS CALCULUS.pdf": {
-                    "name": "THOMAS-CALCULUS.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/156272bf28995b2f1f07cd60ec06e0364609f2f3Thomas%20Calculus.pdf",
-                    "url": "https://files.catbox.moe/koxd5n.pdf"
-                },
-                "BS GREWAL-1.pdf": {
-                    "name": "BS-GREWAL-1.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/12835efd46900ef45e5bd9d1e7c23e80cc53bdf4BS%20Grewal%20Part%201.pdf",
-                    "url": "https://files.catbox.moe/2nqbxt.pdf"
-                },
-                "BS GREWAL-2.pdf": {
-                    "name": "BS-GREWAL-2.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c2c98f98d43f094d1b058c4fdfdfcc05964573abBS%20Grewal%20Part%202.pdf",
-                    "url": "https://files.catbox.moe/9ulkwb.pdf"
-                },
-                "BS GREWAL-3.pdf": {
-                    "name": "BS-GREWAL-3.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/998113d171e21bcf7af947c8125b8d5489a7ebfbBS%20Grewal%20Part%203.pdf",
-                    "url": "https://files.catbox.moe/k8lxvc.pdf"
-                },
-                "BS GREWAL-4.pdf": {
-                    "name": "BS-GREWAL-4.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d660f7d6d9a0cef748bf0cf5a7b9b2902ad66305BS%20Grewal%20Part%204.pdf",
-                    "url": "https://files.catbox.moe/zdz9pn.pdf"
-                },
-                "BS GREWAL-5.pdf": {
-                    "name": "BS-GREWAL-5.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/97e27f568f653cbbecc00c022518b210134fe3abBS%20Grewal%20Part%205.pdf",
-                    "url": "https://files.catbox.moe/pv8h1y.pdf"
-                },
-                "BS GREWAL-6.pdf": {
-                    "name": "BS-GREWAL-6.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1f6000f77806d9a8191eda576a87629cc94f2f9BS%20Grewal%20Part%206.pdf",
-                    "url": "https://files.catbox.moe/vpmvtp.pdf"
-                },
-                "Assignment - Unit 1.pdf": {
-                    "name": "UNIT-1-(HYPERBOLIC-FUNCTION).pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3af65086197cf6f1c22c9a4e1437d33735be32c4Hyperbolic%20Function.pdf",
-                    "url": "https://files.catbox.moe/xdzva5.pdf"
-                },
-                "Assignment: Unit-5.pdf": {
-                    "name": "ASSIGNMENT--UNIT-5.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8e9ab22641ffb6b137e4f5c6169230f319a1bef6Sequence%20%26%20Series.pdf",
-                    "url": "https://files.catbox.moe/53a9ke.pdf"
-                },
-                "Assignment: Infinite Series.pdf": {
-                    "name": "INFINITE-SERIES.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52ba571d9bce964e909f075a40f46e65c60eae63Infinite%20Series.pdf",
-                    "url": "https://files.catbox.moe/n8awvx.pdf"
-                },
-                "JAGGI MATHUR.pdf": {
-                    "name": "JAGGI-MATHUR.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5958e045b44ca899fe6db7fd198de317f33e99e0Jaggi%20Mathur.pdf",
-                    "url": "https://files.catbox.moe/p79b7r.pdf"
-                },
-                "JAGGI MATHUR-SOLUTIONS.pdf": {
-                    "name": "JAGGI-MATHUR-SOLUTIONS.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/abfb648aa4ee0a70e99b78ebf99ae2cd8fb5d6ffJaggi%20Mathur%20Solutions.pdf",
-                    "url": "https://files.catbox.moe/eiqf3d.pdf"
-                },
-                "Unit-1 HANDWRITTEN NOTES (A).pdf": {
-                    "name": "UNIT-1-HANDWRITTEN-NOTES-(A).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fcd27f40df867e248f09a1649d7b0e3749d8304bUNIT%201%20HANDWRITTEN%20NOTES%20%28A%29.pdf",
-                    "url": "https://files.catbox.moe/jq2ik5.pdf"
-                },
-                "Unit-1 HANDWRITTEN NOTES (B).pdf": {
-                    "name": "UNIT-1-HANDWRITTEN-NOTES-(B).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d5337457fa81d479ff25604d6caf70099bfc728UNIT%201%20HANDWRITTEN%20NOTES%20%28B%29.pdf",
-                    "url": "https://files.catbox.moe/hb1gpt.pdf"
-                },
-                "ENDSEM 2016.pdf": {
-                    "name": "ENDSEM-2016.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a8a83e91e6393769c76eb89d69000846c97b69amaths%20endsem%202016.pdf",
-                    "url": "https://files.catbox.moe/ynu0q4.pdf"
-                },
-                "MIDSEM 2016.pdf": {
-                    "name": "MIDSEM-2016.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/87c39d85a64abc37d64f7a4eac7822ba9810587aMid%20Sem%202016.pdf",
-                    "url": "https://files.catbox.moe/i2jxq7.pdf"
-                },
-                "Integration Formulaes.pdf": {
-                    "name": "integration-formulaes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2b31a2d95a2e41b9f3465c9ad5408b5d78a69b85integration%20formulaes.pdf",
-                    "url": "https://files.catbox.moe/plz38d.pdf"
-                },
-                "Maths Cheat Sheet.pdf": {
-                    "name": "Maths-Cheat-Sheet.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/24a6d7b6379ed60773c15451da10fa7139d77d58Maths%20Cheat%20Sheet.pdf",
-                    "url": "https://files.catbox.moe/o4k9u6.pdf"
-                },
-                "Maths 1st sem Vishu.pdf": {
-                    "name": "Maths-1st-sem-Vishu.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c5b4569c36a9cfef322bb58164a01cf6a7987e3Maths%201st%20sem%20Vishu.pdf",
-                    "url": "https://files.catbox.moe/eawhzs.pdf"
-                },
-                "Maths Cheat Sheet .pdf": {
-                    "name": "Maths-Cheat-Sheet.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/24a6d7b6379ed60773c15451da10fa7139d77d58Maths%20Cheat%20Sheet.pdf",
-                    "url": "https://files.catbox.moe/o4k9u6.pdf"
-                },
-                "ENDSEM 2023 (March).pdf": {
-                    "name": "ENDSEM-2023-(March).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/26abc3e745efce2d439f9f924df6d8e6948fc4e0End%20Sem%20%28%20Maths%20-1%29%20-%202023.pdf",
-                    "url": "https://files.catbox.moe/d8imfb.pdf"
-                },
-                "MIDSEM 2023 (Jan).pdf": {
-                    "name": "MIDSEM-2023-(Jan).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/04127166e01d113e5e612d7c5d76609c1410c1feMID%20SEM%202023%28JAN%29.pdf",
-                    "url": "https://files.catbox.moe/j3935c.pdf"
-                },
-                "Tutorial Sheet - 1.pdf": {
-                    "name": "TUTSHEET-UNIT-1.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/14736936ee818a63c9e6333199f9082959462b35TUTSHEETUNIT-1.pdf",
-                    "url": "https://files.catbox.moe/477k3q.pdf"
-                },
-                "Tutorial Sheet-3.pdf": {
-                    "name": "TUTSHEET-UNIT-2.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7fda48f0b0a4111db3762d3ced9936309d526a06TUTSHEETUNIT-2.pdf",
-                    "url": "https://files.catbox.moe/awccr3.pdf"
-                },
-                "Tutorial Sheet-6.pdf": {
-                    "name": "TUTSHEET-UNIT-4.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d5efe910e21ebab24de609e223f246976305251bTUTSHEETUNIT-4.pdf",
-                    "url": "https://files.catbox.moe/abt81z.pdf"
-                },
-                "ERWIN KREYSZIG.pdf": {
-                    "name": "ERWIN-KREYSZIG.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/558ac7bd719f3310f03f4212fbf658cfcb2b697dERWIN%20KREYSZIG.pdf",
-                    "url": "https://files.catbox.moe/9lwg7e.pdf"
-                },
-                "UNIT-3.playlist": {
-                    "name": "UNIT-3.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLOnVZ1RkURcekS1OiAzCF0hCxhhsaF4H9&si=4SeO-ag_ZFou6Odr",
-                    "url": "https://files.catbox.moe/d6murr.txt"
-                },
-                "Maths Notes (excluding mclaurin and taylor class pdf on gc).pdf": {
-                    "name": "Maths-notes-till-11-09-23-(excluding-mclaurin-and-taylor-class-pdf-on-gc).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ba2660d9132507c55a958df996deba5ac4e2e5d8Maths%20notes%20till%2011-09-23%20%28excluding%20mclaurin%20and%20taylor%20class%20pdf%20on%20gc%29.pdf",
-                    "url": "https://files.catbox.moe/d7g8de.pdf"
-                },
-                "Tutorial Sheet - 7.pdf": {
-                    "name": "Tutsheet7.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/646b104532301258c0e138cf0a07ea369f0db757Tutsheet7.pdf",
-                    "url": "https://files.catbox.moe/6b8xym.pdf"
-                },
-                "Tutorial Sheet-4.pdf": {
-                    "name": "tutsheet4.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/48fee9368f4a4e81e212b7adc1a72d06f6b4b013tutsheet4.pdf",
-                    "url": "https://files.catbox.moe/a87d63.pdf"
-                },
-                "MIDSEM 2023 (Sept).pdf": {
-                    "name": "MIDSEM-2023-(Sept).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b9d58194395efd8a64aea970163b88ddc27dcfaaMID%20SEM%202023%28%20Sept%29.pdf",
-                    "url": "https://files.catbox.moe/n3d0gi.pdf"
-                },
-                "ENDSEM 2023 (Nov).pdf": {
-                    "name": "ENDSEM-2023-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/05719c636b48ba53e847d852062c820059f4e84aENDSEM%202023%28NOV%29.pdf",
-                    "url": "https://files.catbox.moe/domqmb.pdf"
-                },
-                "UNIT-5.playlist": {
-                    "name": "UNIT-5.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfJqbZvQECrwnlQrp4fg6isX",
-                    "url": "https://files.catbox.moe/nwhn89.txt"
-                },
-                "UNIT-4.playlist": {
-                    "name": "UNIT-4.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLhSp9OSVmeyLwtQbXv7VRXgoueSFaJGB4",
-                    "url": "https://files.catbox.moe/t88i1q.txt"
-                },
-                "UNIT-1.playlist": {
-                    "name": "UNIT-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ",
-                    "url": "https://files.catbox.moe/8s346q.txt"
-                },
-                "UNIT-2.playlist": {
-                    "name": "unit-2.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=pfN1_rrEEuw&list=PLhSp9OSVmeyIVQpCt2kwsC1dNVl1GwlVn",
-                    "url": "https://files.catbox.moe/83fzfb.txt"
-                },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/876c7f5a2abbc83fb74ac7df364c5347a378f274Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/922k1y.pdf"
-                },
-                "Hyperbolic Functions.playlist": {
-                    "name": "Hyerbolic-and-Inverse-Hyperbolic",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLwzySzWF2dN1iGPniJ9VRqTYw9WLXAMYw&si=v8LZmFAUDCCTGfhT",
-                    "url": "https://files.catbox.moe/0s5q9t"
-                },
-                "Tutorial Sheet-2.pdf": {
-                    "name": "Tutorial-Sheet-2.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4727c8e5d0424254822f674327d916010efe38bbTutorial%20Sheet-2.pdf",
-                    "url": "https://files.catbox.moe/mxi17t.pdf"
-                },
-                "ENDSEM 2017.jpg": {
-                    "name": "ENDSEM-2017.jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c2e17fa6e5a9f4c8d9bbf64192c528c03c49fe88ENDSEM_2017.jpg",
-                    "url": "https://files.catbox.moe/845aie.jpg"
                 }
             },
             "Basic-Civil-Engineering": {
@@ -33496,213 +33512,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/yiobcg.txt"
-                }
-            },
-            "Oscillations,-Waves-and-Optics": {
-                "MIDSEM 2023 (Sept).pdf": {
-                    "name": "MID-SEM-2023-(SEPT).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de875b70e69b584037a7d08b691696ff0921ad77MID%20SEM%202023%28SEPT%29.pdf",
-                    "url": "https://files.catbox.moe/934r53.pdf"
-                },
-                "UNIT-2 (Wave).pdf": {
-                    "name": "Unit-02-(Wave).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/db2c8ae616637b28d0dd24abcf35ac323a0df1a7Unit-02%20%28Wave%29.pdf",
-                    "url": "https://files.catbox.moe/bipj64.pdf"
-                },
-                "UNIT-2 (Acoustic Waves).pdf": {
-                    "name": "Unit-02(Acoustic-Waves).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8c83e408dbaa3d5096f9961da319b4d8c4d5ba4dUnit-02%28Acoustic%20Waves%29.pdf",
-                    "url": "https://files.catbox.moe/wqmce1.pdf"
-                },
-                "UNIT-1 (Forced Oscillations).pdf": {
-                    "name": "Unit-01(Forced-Oscillations).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/220420a99ccd8261684ee78b960db6b3866306e9Unit-01%28Forced%20Oscillations%29.pdf",
-                    "url": "https://files.catbox.moe/3iinaz.pdf"
-                },
-                "UNIT-1 (Damped Oscillations).pdf": {
-                    "name": "Unit-01(Damped-Oscillations).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce557f65e601109792b8efad8ca275fe0d900d43Unit-01%28Damped%20Oscillations%29.pdf",
-                    "url": "https://files.catbox.moe/y9q9xn.pdf"
-                },
-                "H K MALIK: ENGINEERING PHYSICS.pdf": {
-                    "name": "H-K-MALIK--ENGINEERING-PHYSICS.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/03231aed4d2bfe78078d13323302a8017efa2b9aH%20K%20Malik%20Engineering%20Physics.pdf",
-                    "url": "https://files.catbox.moe/b34k0k.pdf"
-                },
-                "AJOY GHATAK- OPTICS.pdf": {
-                    "name": "AJOY-GHATAK--OPTICS.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cfce0ff93174e8a5b8e5ecf9228e0572c83a7bf0AJOY%20GHATAK-%20OPTICS.pdf",
-                    "url": "https://files.catbox.moe/8m2osr.pdf"
-                },
-                "DS MATHUR.pdf": {
-                    "name": "DS-MATHUR.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/410b05b1d8de15fea137667a36ec9750f4e2b59dDS%20Mathur.pdf",
-                    "url": "https://files.catbox.moe/62qfrn.pdf"
-                },
-                "UNIT-1.playlist": {
-                    "name": "UNIT-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPqQAJK5R6iGmRjX7U21mDg",
-                    "url": "https://files.catbox.moe/vylo3s.txt"
-                },
-                "UNIT-4.playlist": {
-                    "name": "UNIT-4.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PL5zwY2E7i60XzRPOrKzvSzjvxnyK6jQB3",
-                    "url": "https://files.catbox.moe/qi0ayq.txt"
-                },
-                "UNIT-3.playlist": {
-                    "name": "UNIT-3.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLU0SZIJ1umnkSHtOidNcWIegDQlbapIjF",
-                    "url": "https://files.catbox.moe/07mbub.txt"
-                },
-                "UNIT-5.playlist": {
-                    "name": "UNIT-5.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLAPKGqvQGg6o8SJVVeZ3zdqaj37vdwR9j",
-                    "url": "https://files.catbox.moe/vlw7uh.txt"
-                },
-                "UNIT-2 by Bindas Physics.playlist": {
-                    "name": "UNIT-2.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLo0z5T1-vb4xcwFi0pUvjbDag-LoiBdTb",
-                    "url": "https://files.catbox.moe/x9u0pl.txt"
-                },
-                "UNIT-5 (DIGITAL).pdf": {
-                    "name": "UNIT-5(DIGITAL).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e4e94e8286ae36f77352b68e29f6cd9e14a8831UNIT-5%28DIGITAL%29.pdf",
-                    "url": "https://files.catbox.moe/p1rhdz.pdf"
-                },
-                "UNIT-3 (POLARIZATION).pdf": {
-                    "name": "UNIT-3(POLARIZATION).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/db65ee552bb9b472141b13f6d2ab5603e35c1e34UNIT-3%28POLARIZATION%29.pdf",
-                    "url": "https://files.catbox.moe/weynlk.pdf"
-                },
-                "UNIT-3 (OPTICAL INSTRUMENT).pdf": {
-                    "name": "UNIT-3(OPTICAL-INSTRUMENT).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f5aadfc2848fe8fb35e5dbab6609a0ba3fd3e57dUNIT-3%28OPTICAL%20INSTRUMENT%29.pdf",
-                    "url": "https://files.catbox.moe/cq6zo8.pdf"
-                },
-                "UNIT-4.pdf": {
-                    "name": "UNIT-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9c6da9bfd95319beee3b8fa18359cb45b3325e2eUNIT-4.pdf",
-                    "url": "https://files.catbox.moe/9owcgo.pdf"
-                },
-                "UNIT-3 (INTERFERENCE).pdf": {
-                    "name": "UNIT-3(INTERFERENCE).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0f342a3c0fc1324288b1415572a55324975802faUNIT-3%28INTERFERENCE%29.pdf",
-                    "url": "https://files.catbox.moe/mopxjn.pdf"
-                },
-                "UNIT-3 (DIFFRACTION).pdf": {
-                    "name": "UNIT-3(DIFFRACTION).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bf2c98238fe0758f13c565074db02e16366ef16fUNIT-3%28DIFFRACTION%29.pdf",
-                    "url": "https://files.catbox.moe/fhd0c8.pdf"
-                },
-                "UNIT-4 (SHORT NOTES).pdf": {
-                    "name": "UNIT-4(SHORT-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/633fdbb21c4a1e0e8df793df3842a8c0d857b638UNIT-4%28SHORT%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/u2demw.pdf"
-                },
-                "UNIT-1 (SHORT NOTES).pdf": {
-                    "name": "UNIT-1(SHORT-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e241eb3d9b2993ad2c7e562e0479839e84266e2UNIT-1%28SHORT%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/dqze0v.pdf"
-                },
-                "UNIT-2 (VISHU NOTES).pdf": {
-                    "name": "UNIT-2(VISHU-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80de84fc11b26a88cf776baaebf07523455bb9c1UNIT-2%28VISHU%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/kxaadv.pdf"
-                },
-                "UNIT-3 (VISHU NOTES).pdf": {
-                    "name": "UNIT-3(VISHU-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0300deecf2dc75f4d2d38fdf3290c04fb481149eUNIT-3%28VISHU%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/ji0h1w.pdf"
-                },
-                "UNIT-4 (VISHU NOTES).pdf": {
-                    "name": "UNIT-4(VISHU-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/30caa6be186cfb15c61236fdc50bb379d56c3ceaUNIT-4%28VISHU%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/qmzro8.pdf"
-                },
-                "UNIT-5 (VISHU NOTES).pdf": {
-                    "name": "UNIT-5(VISHU-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6b59f32b4ea5eaece0356ef37c3a1e3dc719a2a0UNIT-5%28VISHU%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/rqtz7y.pdf"
-                },
-                "UNIT-1 (VISHU NOTES).pdf": {
-                    "name": "UNIT-1(VISHU-NOTES).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/936b865175acaba6c7fd17b6175463d51155f5bfUNIT-1%28VISHU%20NOTES%29.pdf",
-                    "url": "https://files.catbox.moe/itf2pt.pdf"
-                },
-                "ENDSEM 2023 (Dec).pdf": {
-                    "name": "ENDSEM-2023(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8db58ccc3e516bd2980cd27122ece54077aa9378ENDSEM%202023%28DEC%29.pdf",
-                    "url": "https://files.catbox.moe/wla1mt.pdf"
-                },
-                "UNIT-1,2.pdf": {
-                    "name": "Unit-1,2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
-                    "url": "https://files.catbox.moe/7aghac.pdf"
-                },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
-                },
-                "UNIT-2 by Infinity Physics.playlist": {
-                    "name": "OWO-Unit-2.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLSWDszNFa1Q3D66sah3KyZavKKhn8X8Tx&si=m48LtVMQgesomTXy",
-                    "url": "https://files.catbox.moe/k9zj5j.txt"
-                },
-                "MIDSEM 2024 (Feb).pdf": {
-                    "name": "OWO-MSE-2024.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/95a29a6cd319c3d0b6f113dd5190979439292621OWO%20MSE%202024.pdf",
-                    "url": "https://files.catbox.moe/lfrlkt.pdf"
-                },
-                " ENDSEM 2024 (Apr).pdf": {
-                    "name": "-End-sem-2024.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/5f782c5400d912b9a9da91e8c39356c5abdc33aa%20End%20sem%202024.pdf",
-                    "url": "https://files.catbox.moe/ao0br6.pdf"
-                },
-                "AK Jha.pdf": {
-                    "name": "AK-Jha.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/696277b787801f9cd2194b15b929ca648a5ce6f1AK%20Jha.pdf",
-                    "url": "https://files.catbox.moe/vi8i3b.pdf"
-                },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "MIDSEM-2024-(Sept).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2234a02403e7f952d87a2d9cad0c74b0c7fd08cbMIDSEM%202024%20%28Sept%29.pdf",
-                    "url": "https://files.catbox.moe/xhsgg0.pdf"
+                    "url": "https://files.catbox.moe/4r4eo9.txt"
                 }
             },
             "Thermal-Engineering---1": {
@@ -35223,6 +35033,532 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/5114957cd33b2d9ef033b042b0df375cc44ea4ffUNIT4%20HANDWRITTEN.pdf",
                     "url": "https://files.catbox.moe/0sw6wp.pdf"
                 }
+            },
+            "Maths---1": {
+                "ENDSEM 2018.pdf": {
+                    "name": "ENDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c9a84357b12da93d30caab9f6a1e61ac7c520d01Endsem%202018.pdf",
+                    "url": "https://files.catbox.moe/84oop3.pdf"
+                },
+                "ENDSEM 2019.pdf": {
+                    "name": "ENDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bc1b1140fa32981725d6392373db443eb09dba08Endsem%202019.pdf",
+                    "url": "https://files.catbox.moe/ctccnz.pdf"
+                },
+                "ENDSEM 2021.pdf": {
+                    "name": "ENDSEM-2021.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea704a0dbdcb5afd6c3fac79c3c861ed4fc209b5Endsem%202021.pdf",
+                    "url": "https://files.catbox.moe/ywjjz9.pdf"
+                },
+                "ENDSEM 2022.pdf": {
+                    "name": "ENDSEM-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/725369c63ce942e6912de3b36dbfd8117ce6ba0fEndsem%202022.pdf",
+                    "url": "https://files.catbox.moe/vemot3.pdf"
+                },
+                "MIDSEM 2017.pdf": {
+                    "name": "MIDSEM-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bb704661a19d4e628cf28af2b937a9ec0bf4d68dMidsem%202017.pdf",
+                    "url": "https://files.catbox.moe/u9tx4y.pdf"
+                },
+                "MIDSEM 2018.pdf": {
+                    "name": "MIDSEM-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2c0f8f9db1ab09a53ff294e2fde9a271a59b021eMidsem%202018.pdf",
+                    "url": "https://files.catbox.moe/ynbrqy.pdf"
+                },
+                "MIDSEM 2019.pdf": {
+                    "name": "MIDSEM-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2cfdd37e4c8904824b24479ea7519a6e0ffce74aMidsem%202019.pdf",
+                    "url": "https://files.catbox.moe/ifbmu3.pdf"
+                },
+                "MIDSEM 2020.pdf": {
+                    "name": "MIDSEM-2020.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/420d9183764f36a5545ced256e3761c97914b81cMidsem%202020.pdf",
+                    "url": "https://files.catbox.moe/e491bt.pdf"
+                },
+                "MIDSEM 2022.pdf": {
+                    "name": "MIDSEM-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dd5ae1228d13e2c47b5fff37a66c70fdc581034bMidsem%202022.pdf",
+                    "url": "https://files.catbox.moe/r18iwg.pdf"
+                },
+                "Unit-1.pdf": {
+                    "name": "Unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6b488ed9157a696003daaa3af16cd02fde3f690cUnit%201.pdf",
+                    "url": "https://files.catbox.moe/leqhcw.pdf"
+                },
+                "Unit-3 & 4.pdf": {
+                    "name": "Unit-3-&-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6cc516e27df363389238cdb6b4f871bcb75f16e9Unit%203%20%26%204.pdf",
+                    "url": "https://files.catbox.moe/zkp529.pdf"
+                },
+                "Unit-3 Formulas.pdf": {
+                    "name": "Unit-3-Formulas.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f4638ea231bc168a4e34358509649c87d17c88d2Unit%203%20Formulas.pdf",
+                    "url": "https://files.catbox.moe/rp1y9h.pdf"
+                },
+                "Unit-5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/02a0ed1bd330d1a0e6411ff0b4c837deac248155Unit%205.pdf",
+                    "url": "https://files.catbox.moe/hip1ha.pdf"
+                },
+                "Unit-2.pdf": {
+                    "name": "Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/01ecf941548c0eb7c17326703b6e007bef98a972Unit%202.pdf",
+                    "url": "https://files.catbox.moe/rxet1i.pdf"
+                },
+                "THOMAS CALCULUS.pdf": {
+                    "name": "THOMAS-CALCULUS.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/156272bf28995b2f1f07cd60ec06e0364609f2f3Thomas%20Calculus.pdf",
+                    "url": "https://files.catbox.moe/koxd5n.pdf"
+                },
+                "BS GREWAL-1.pdf": {
+                    "name": "BS-GREWAL-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/12835efd46900ef45e5bd9d1e7c23e80cc53bdf4BS%20Grewal%20Part%201.pdf",
+                    "url": "https://files.catbox.moe/2nqbxt.pdf"
+                },
+                "BS GREWAL-2.pdf": {
+                    "name": "BS-GREWAL-2.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c2c98f98d43f094d1b058c4fdfdfcc05964573abBS%20Grewal%20Part%202.pdf",
+                    "url": "https://files.catbox.moe/9ulkwb.pdf"
+                },
+                "BS GREWAL-3.pdf": {
+                    "name": "BS-GREWAL-3.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/998113d171e21bcf7af947c8125b8d5489a7ebfbBS%20Grewal%20Part%203.pdf",
+                    "url": "https://files.catbox.moe/k8lxvc.pdf"
+                },
+                "BS GREWAL-4.pdf": {
+                    "name": "BS-GREWAL-4.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d660f7d6d9a0cef748bf0cf5a7b9b2902ad66305BS%20Grewal%20Part%204.pdf",
+                    "url": "https://files.catbox.moe/zdz9pn.pdf"
+                },
+                "BS GREWAL-5.pdf": {
+                    "name": "BS-GREWAL-5.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/97e27f568f653cbbecc00c022518b210134fe3abBS%20Grewal%20Part%205.pdf",
+                    "url": "https://files.catbox.moe/pv8h1y.pdf"
+                },
+                "BS GREWAL-6.pdf": {
+                    "name": "BS-GREWAL-6.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1f6000f77806d9a8191eda576a87629cc94f2f9BS%20Grewal%20Part%206.pdf",
+                    "url": "https://files.catbox.moe/vpmvtp.pdf"
+                },
+                "Assignment - Unit 1.pdf": {
+                    "name": "UNIT-1-(HYPERBOLIC-FUNCTION).pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3af65086197cf6f1c22c9a4e1437d33735be32c4Hyperbolic%20Function.pdf",
+                    "url": "https://files.catbox.moe/xdzva5.pdf"
+                },
+                "Assignment: Unit-5.pdf": {
+                    "name": "ASSIGNMENT--UNIT-5.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8e9ab22641ffb6b137e4f5c6169230f319a1bef6Sequence%20%26%20Series.pdf",
+                    "url": "https://files.catbox.moe/53a9ke.pdf"
+                },
+                "Assignment: Infinite Series.pdf": {
+                    "name": "INFINITE-SERIES.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52ba571d9bce964e909f075a40f46e65c60eae63Infinite%20Series.pdf",
+                    "url": "https://files.catbox.moe/n8awvx.pdf"
+                },
+                "JAGGI MATHUR.pdf": {
+                    "name": "JAGGI-MATHUR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5958e045b44ca899fe6db7fd198de317f33e99e0Jaggi%20Mathur.pdf",
+                    "url": "https://files.catbox.moe/p79b7r.pdf"
+                },
+                "JAGGI MATHUR-SOLUTIONS.pdf": {
+                    "name": "JAGGI-MATHUR-SOLUTIONS.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/abfb648aa4ee0a70e99b78ebf99ae2cd8fb5d6ffJaggi%20Mathur%20Solutions.pdf",
+                    "url": "https://files.catbox.moe/eiqf3d.pdf"
+                },
+                "Unit-1 HANDWRITTEN NOTES (A).pdf": {
+                    "name": "UNIT-1-HANDWRITTEN-NOTES-(A).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fcd27f40df867e248f09a1649d7b0e3749d8304bUNIT%201%20HANDWRITTEN%20NOTES%20%28A%29.pdf",
+                    "url": "https://files.catbox.moe/jq2ik5.pdf"
+                },
+                "Unit-1 HANDWRITTEN NOTES (B).pdf": {
+                    "name": "UNIT-1-HANDWRITTEN-NOTES-(B).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9d5337457fa81d479ff25604d6caf70099bfc728UNIT%201%20HANDWRITTEN%20NOTES%20%28B%29.pdf",
+                    "url": "https://files.catbox.moe/hb1gpt.pdf"
+                },
+                "ENDSEM 2016.pdf": {
+                    "name": "ENDSEM-2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a8a83e91e6393769c76eb89d69000846c97b69amaths%20endsem%202016.pdf",
+                    "url": "https://files.catbox.moe/ynu0q4.pdf"
+                },
+                "MIDSEM 2016.pdf": {
+                    "name": "MIDSEM-2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/87c39d85a64abc37d64f7a4eac7822ba9810587aMid%20Sem%202016.pdf",
+                    "url": "https://files.catbox.moe/i2jxq7.pdf"
+                },
+                "Integration Formulaes.pdf": {
+                    "name": "integration-formulaes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2b31a2d95a2e41b9f3465c9ad5408b5d78a69b85integration%20formulaes.pdf",
+                    "url": "https://files.catbox.moe/plz38d.pdf"
+                },
+                "Maths Cheat Sheet.pdf": {
+                    "name": "Maths-Cheat-Sheet.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/24a6d7b6379ed60773c15451da10fa7139d77d58Maths%20Cheat%20Sheet.pdf",
+                    "url": "https://files.catbox.moe/o4k9u6.pdf"
+                },
+                "Maths 1st sem Vishu.pdf": {
+                    "name": "Maths-1st-sem-Vishu.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c5b4569c36a9cfef322bb58164a01cf6a7987e3Maths%201st%20sem%20Vishu.pdf",
+                    "url": "https://files.catbox.moe/eawhzs.pdf"
+                },
+                "Maths Cheat Sheet .pdf": {
+                    "name": "Maths-Cheat-Sheet.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/24a6d7b6379ed60773c15451da10fa7139d77d58Maths%20Cheat%20Sheet.pdf",
+                    "url": "https://files.catbox.moe/o4k9u6.pdf"
+                },
+                "ENDSEM 2023 (March).pdf": {
+                    "name": "ENDSEM-2023-(March).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/26abc3e745efce2d439f9f924df6d8e6948fc4e0End%20Sem%20%28%20Maths%20-1%29%20-%202023.pdf",
+                    "url": "https://files.catbox.moe/d8imfb.pdf"
+                },
+                "MIDSEM 2023 (Jan).pdf": {
+                    "name": "MIDSEM-2023-(Jan).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/04127166e01d113e5e612d7c5d76609c1410c1feMID%20SEM%202023%28JAN%29.pdf",
+                    "url": "https://files.catbox.moe/j3935c.pdf"
+                },
+                "Tutorial Sheet - 1.pdf": {
+                    "name": "TUTSHEET-UNIT-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/14736936ee818a63c9e6333199f9082959462b35TUTSHEETUNIT-1.pdf",
+                    "url": "https://files.catbox.moe/477k3q.pdf"
+                },
+                "Tutorial Sheet-3.pdf": {
+                    "name": "TUTSHEET-UNIT-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7fda48f0b0a4111db3762d3ced9936309d526a06TUTSHEETUNIT-2.pdf",
+                    "url": "https://files.catbox.moe/awccr3.pdf"
+                },
+                "Tutorial Sheet-6.pdf": {
+                    "name": "TUTSHEET-UNIT-4.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d5efe910e21ebab24de609e223f246976305251bTUTSHEETUNIT-4.pdf",
+                    "url": "https://files.catbox.moe/abt81z.pdf"
+                },
+                "ERWIN KREYSZIG.pdf": {
+                    "name": "ERWIN-KREYSZIG.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/558ac7bd719f3310f03f4212fbf658cfcb2b697dERWIN%20KREYSZIG.pdf",
+                    "url": "https://files.catbox.moe/9lwg7e.pdf"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLOnVZ1RkURcekS1OiAzCF0hCxhhsaF4H9&si=4SeO-ag_ZFou6Odr",
+                    "url": "https://files.catbox.moe/d6murr.txt"
+                },
+                "Maths Notes (excluding mclaurin and taylor class pdf on gc).pdf": {
+                    "name": "Maths-notes-till-11-09-23-(excluding-mclaurin-and-taylor-class-pdf-on-gc).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ba2660d9132507c55a958df996deba5ac4e2e5d8Maths%20notes%20till%2011-09-23%20%28excluding%20mclaurin%20and%20taylor%20class%20pdf%20on%20gc%29.pdf",
+                    "url": "https://files.catbox.moe/d7g8de.pdf"
+                },
+                "Tutorial Sheet - 7.pdf": {
+                    "name": "Tutsheet7.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/646b104532301258c0e138cf0a07ea369f0db757Tutsheet7.pdf",
+                    "url": "https://files.catbox.moe/6b8xym.pdf"
+                },
+                "Tutorial Sheet-4.pdf": {
+                    "name": "tutsheet4.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/48fee9368f4a4e81e212b7adc1a72d06f6b4b013tutsheet4.pdf",
+                    "url": "https://files.catbox.moe/a87d63.pdf"
+                },
+                "MIDSEM 2023 (Sept).pdf": {
+                    "name": "MIDSEM-2023-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b9d58194395efd8a64aea970163b88ddc27dcfaaMID%20SEM%202023%28%20Sept%29.pdf",
+                    "url": "https://files.catbox.moe/n3d0gi.pdf"
+                },
+                "ENDSEM 2023 (Nov).pdf": {
+                    "name": "ENDSEM-2023-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/05719c636b48ba53e847d852062c820059f4e84aENDSEM%202023%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/domqmb.pdf"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfJqbZvQECrwnlQrp4fg6isX",
+                    "url": "https://files.catbox.moe/nwhn89.txt"
+                },
+                "UNIT-4.playlist": {
+                    "name": "UNIT-4.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLhSp9OSVmeyLwtQbXv7VRXgoueSFaJGB4",
+                    "url": "https://files.catbox.moe/t88i1q.txt"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLLAU6Hxi0C_TnrZeqgbJMJ",
+                    "url": "https://files.catbox.moe/8s346q.txt"
+                },
+                "UNIT-2.playlist": {
+                    "name": "unit-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=pfN1_rrEEuw&list=PLhSp9OSVmeyIVQpCt2kwsC1dNVl1GwlVn",
+                    "url": "https://files.catbox.moe/83fzfb.txt"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "Midsem-Sep-24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/876c7f5a2abbc83fb74ac7df364c5347a378f274Midsem%20Sep%2024.pdf",
+                    "url": "https://files.catbox.moe/922k1y.pdf"
+                },
+                "Hyperbolic Functions.playlist": {
+                    "name": "Hyerbolic-and-Inverse-Hyperbolic",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLwzySzWF2dN1iGPniJ9VRqTYw9WLXAMYw&si=v8LZmFAUDCCTGfhT",
+                    "url": "https://files.catbox.moe/0s5q9t"
+                },
+                "Tutorial Sheet-2.pdf": {
+                    "name": "Tutorial-Sheet-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4727c8e5d0424254822f674327d916010efe38bbTutorial%20Sheet-2.pdf",
+                    "url": "https://files.catbox.moe/mxi17t.pdf"
+                },
+                "ENDSEM 2017.jpg": {
+                    "name": "ENDSEM-2017.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c2e17fa6e5a9f4c8d9bbf64192c528c03c49fe88ENDSEM_2017.jpg",
+                    "url": "https://files.catbox.moe/845aie.jpg"
+                }
+            },
+            "Oscillations,-Waves-and-Optics": {
+                "MIDSEM 2023 (Sept).pdf": {
+                    "name": "MID-SEM-2023-(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/de875b70e69b584037a7d08b691696ff0921ad77MID%20SEM%202023%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/934r53.pdf"
+                },
+                "UNIT-2 (Wave).pdf": {
+                    "name": "Unit-02-(Wave).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/db2c8ae616637b28d0dd24abcf35ac323a0df1a7Unit-02%20%28Wave%29.pdf",
+                    "url": "https://files.catbox.moe/bipj64.pdf"
+                },
+                "UNIT-2 (Acoustic Waves).pdf": {
+                    "name": "Unit-02(Acoustic-Waves).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8c83e408dbaa3d5096f9961da319b4d8c4d5ba4dUnit-02%28Acoustic%20Waves%29.pdf",
+                    "url": "https://files.catbox.moe/wqmce1.pdf"
+                },
+                "UNIT-1 (Forced Oscillations).pdf": {
+                    "name": "Unit-01(Forced-Oscillations).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/220420a99ccd8261684ee78b960db6b3866306e9Unit-01%28Forced%20Oscillations%29.pdf",
+                    "url": "https://files.catbox.moe/3iinaz.pdf"
+                },
+                "UNIT-1 (Damped Oscillations).pdf": {
+                    "name": "Unit-01(Damped-Oscillations).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce557f65e601109792b8efad8ca275fe0d900d43Unit-01%28Damped%20Oscillations%29.pdf",
+                    "url": "https://files.catbox.moe/y9q9xn.pdf"
+                },
+                "H K MALIK: ENGINEERING PHYSICS.pdf": {
+                    "name": "H-K-MALIK--ENGINEERING-PHYSICS.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/03231aed4d2bfe78078d13323302a8017efa2b9aH%20K%20Malik%20Engineering%20Physics.pdf",
+                    "url": "https://files.catbox.moe/b34k0k.pdf"
+                },
+                "AJOY GHATAK- OPTICS.pdf": {
+                    "name": "AJOY-GHATAK--OPTICS.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cfce0ff93174e8a5b8e5ecf9228e0572c83a7bf0AJOY%20GHATAK-%20OPTICS.pdf",
+                    "url": "https://files.catbox.moe/8m2osr.pdf"
+                },
+                "DS MATHUR.pdf": {
+                    "name": "DS-MATHUR.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/410b05b1d8de15fea137667a36ec9750f4e2b59dDS%20Mathur.pdf",
+                    "url": "https://files.catbox.moe/62qfrn.pdf"
+                },
+                "UNIT-1.playlist": {
+                    "name": "UNIT-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL7Ectyz3bMxPqQAJK5R6iGmRjX7U21mDg",
+                    "url": "https://files.catbox.moe/vylo3s.txt"
+                },
+                "UNIT-4.playlist": {
+                    "name": "UNIT-4.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PL5zwY2E7i60XzRPOrKzvSzjvxnyK6jQB3",
+                    "url": "https://files.catbox.moe/qi0ayq.txt"
+                },
+                "UNIT-3.playlist": {
+                    "name": "UNIT-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLU0SZIJ1umnkSHtOidNcWIegDQlbapIjF",
+                    "url": "https://files.catbox.moe/07mbub.txt"
+                },
+                "UNIT-5.playlist": {
+                    "name": "UNIT-5.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLAPKGqvQGg6o8SJVVeZ3zdqaj37vdwR9j",
+                    "url": "https://files.catbox.moe/vlw7uh.txt"
+                },
+                "UNIT-2 by Bindas Physics.playlist": {
+                    "name": "UNIT-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLo0z5T1-vb4xcwFi0pUvjbDag-LoiBdTb",
+                    "url": "https://files.catbox.moe/x9u0pl.txt"
+                },
+                "UNIT-5 (DIGITAL).pdf": {
+                    "name": "UNIT-5(DIGITAL).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e4e94e8286ae36f77352b68e29f6cd9e14a8831UNIT-5%28DIGITAL%29.pdf",
+                    "url": "https://files.catbox.moe/p1rhdz.pdf"
+                },
+                "UNIT-3 (POLARIZATION).pdf": {
+                    "name": "UNIT-3(POLARIZATION).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/db65ee552bb9b472141b13f6d2ab5603e35c1e34UNIT-3%28POLARIZATION%29.pdf",
+                    "url": "https://files.catbox.moe/weynlk.pdf"
+                },
+                "UNIT-3 (OPTICAL INSTRUMENT).pdf": {
+                    "name": "UNIT-3(OPTICAL-INSTRUMENT).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f5aadfc2848fe8fb35e5dbab6609a0ba3fd3e57dUNIT-3%28OPTICAL%20INSTRUMENT%29.pdf",
+                    "url": "https://files.catbox.moe/cq6zo8.pdf"
+                },
+                "UNIT-4.pdf": {
+                    "name": "UNIT-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9c6da9bfd95319beee3b8fa18359cb45b3325e2eUNIT-4.pdf",
+                    "url": "https://files.catbox.moe/9owcgo.pdf"
+                },
+                "UNIT-3 (INTERFERENCE).pdf": {
+                    "name": "UNIT-3(INTERFERENCE).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0f342a3c0fc1324288b1415572a55324975802faUNIT-3%28INTERFERENCE%29.pdf",
+                    "url": "https://files.catbox.moe/mopxjn.pdf"
+                },
+                "UNIT-3 (DIFFRACTION).pdf": {
+                    "name": "UNIT-3(DIFFRACTION).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/bf2c98238fe0758f13c565074db02e16366ef16fUNIT-3%28DIFFRACTION%29.pdf",
+                    "url": "https://files.catbox.moe/fhd0c8.pdf"
+                },
+                "UNIT-4 (SHORT NOTES).pdf": {
+                    "name": "UNIT-4(SHORT-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/633fdbb21c4a1e0e8df793df3842a8c0d857b638UNIT-4%28SHORT%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/u2demw.pdf"
+                },
+                "UNIT-1 (SHORT NOTES).pdf": {
+                    "name": "UNIT-1(SHORT-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2e241eb3d9b2993ad2c7e562e0479839e84266e2UNIT-1%28SHORT%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/dqze0v.pdf"
+                },
+                "UNIT-2 (VISHU NOTES).pdf": {
+                    "name": "UNIT-2(VISHU-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/80de84fc11b26a88cf776baaebf07523455bb9c1UNIT-2%28VISHU%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/kxaadv.pdf"
+                },
+                "UNIT-3 (VISHU NOTES).pdf": {
+                    "name": "UNIT-3(VISHU-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0300deecf2dc75f4d2d38fdf3290c04fb481149eUNIT-3%28VISHU%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/ji0h1w.pdf"
+                },
+                "UNIT-4 (VISHU NOTES).pdf": {
+                    "name": "UNIT-4(VISHU-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/30caa6be186cfb15c61236fdc50bb379d56c3ceaUNIT-4%28VISHU%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/qmzro8.pdf"
+                },
+                "UNIT-5 (VISHU NOTES).pdf": {
+                    "name": "UNIT-5(VISHU-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6b59f32b4ea5eaece0356ef37c3a1e3dc719a2a0UNIT-5%28VISHU%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/rqtz7y.pdf"
+                },
+                "UNIT-1 (VISHU NOTES).pdf": {
+                    "name": "UNIT-1(VISHU-NOTES).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/936b865175acaba6c7fd17b6175463d51155f5bfUNIT-1%28VISHU%20NOTES%29.pdf",
+                    "url": "https://files.catbox.moe/itf2pt.pdf"
+                },
+                "ENDSEM 2023 (Dec).pdf": {
+                    "name": "ENDSEM-2023(DEC).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8db58ccc3e516bd2980cd27122ece54077aa9378ENDSEM%202023%28DEC%29.pdf",
+                    "url": "https://files.catbox.moe/wla1mt.pdf"
+                },
+                "UNIT-1,2.pdf": {
+                    "name": "Unit-1,2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
+                    "url": "https://files.catbox.moe/7aghac.pdf"
+                },
+                "UNIT-2 by Infinity Physics.playlist": {
+                    "name": "OWO-Unit-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLSWDszNFa1Q3D66sah3KyZavKKhn8X8Tx&si=m48LtVMQgesomTXy",
+                    "url": "https://files.catbox.moe/k9zj5j.txt"
+                },
+                "MIDSEM 2024 (Feb).pdf": {
+                    "name": "OWO-MSE-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/95a29a6cd319c3d0b6f113dd5190979439292621OWO%20MSE%202024.pdf",
+                    "url": "https://files.catbox.moe/lfrlkt.pdf"
+                },
+                " ENDSEM 2024 (Apr).pdf": {
+                    "name": "-End-sem-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/5f782c5400d912b9a9da91e8c39356c5abdc33aa%20End%20sem%202024.pdf",
+                    "url": "https://files.catbox.moe/ao0br6.pdf"
+                },
+                "AK Jha.pdf": {
+                    "name": "AK-Jha.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/696277b787801f9cd2194b15b929ca648a5ce6f1AK%20Jha.pdf",
+                    "url": "https://files.catbox.moe/vi8i3b.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2234a02403e7f952d87a2d9cad0c74b0c7fd08cbMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/xhsgg0.pdf"
+                }
             }
         },
         "GI": {
@@ -35394,12 +35730,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
-                },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
                 },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
@@ -35970,7 +36300,7 @@
                     "url": "https://files.catbox.moe/845aie.jpg"
                 }
             },
-            "Analog-&-Digital-Electronics": {
+            "Basic-Analog-&-Digital-Electronics": {
                 " Unit-4 Digital Electronics.pdf": {
                     "name": "-Unit-4-Digital-Electronics.pdf",
                     "type": "Note",
@@ -36013,13 +36343,13 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6cfb266b379ef272b1dc83a2e7ebc1d01caeecd3BJT%20MOSFET.pdf",
                     "url": "https://files.catbox.moe/aqtsep.pdf"
                 },
-                "MIDSEM 2023.pdf": {
+                "MIDSEM 2023 (Sept).pdf": {
                     "name": "MIDSEM-2023.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/177b8e66ba807a64e2540f727078a7bf8980f1e3basics%20of%20analog.pdf",
                     "url": "https://files.catbox.moe/juhn5c.pdf"
                 },
-                "Unit-2 opamp.playlist": {
+                "Unit-2 Op Amp.playlist": {
                     "name": "Unit-2-opamp.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtube.com/playlist?list=PL0cYrGIaWOlIsJE6njjnOIbUhMUSnkbZ0&si=aAj8r-EWDk_WIjE0",
@@ -36037,7 +36367,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=IOFdDrv6R6dbxDya",
                     "url": "https://files.catbox.moe/j4e5wc.txt"
                 },
-                "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf": {
+                "ROBERT L. & LEWIS EDC.pdf": {
                     "name": "Electronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
                     "type": "Book",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/cd5506d274d483d27812f9fa0b75cbf9f0176a8cElectronic-Devices-and-Circuit-Theory-11th-Edition-Ebook.pdf",
@@ -36060,12 +36390,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d96d6e05d178d787c3d010f3b2204f5f682303cdprogramming%208085%20uP.pdf",
                     "url": "https://files.catbox.moe/dozah4.pdf"
-                },
-                "ENDSEM 2022.jpg": {
-                    "name": "end-sem-2022.jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6e141ed28ba6be8d233dddc1a50a6e1117974ec0end%20sem.jpg",
-                    "url": "https://files.catbox.moe/s0exuo.pdf"
                 },
                 "Unit-2 opamp.pdf": {
                     "name": "OP-AMP-2.pdf",
@@ -36133,13 +36457,7 @@
                     "original_url": "https://youtube.com/playlist?list=PLAKTibcH1qibtvV2cHVv3wta3uOdkQXaX&si=xAdJFWJFWXC9HmwT",
                     "url": "https://files.catbox.moe/xgzvio.txt"
                 },
-                "ENDSEM 2023.pdf": {
-                    "name": "endsem-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/eb3f4bb3e1dc7abb50b46a2d065434ab596312e2endsem%202023.pdf",
-                    "url": "https://files.catbox.moe/zasb7x.pdf"
-                },
-                "MIDSEM 2024 1.pdf": {
+                "MIDSEM 2024 (Feb).pdf": {
                     "name": "Mid-Sem-2024-1.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2369f417f2d5791a9b7dd44ee45c01c230598fcaMid%20Sem%202024%201.pdf",
@@ -38558,7 +38876,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/eadqg3.txt"
+                    "url": "https://files.catbox.moe/2uoxb8.txt"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -38729,12 +39047,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3acaefb6284e81e2ae96988aa9e28591f0a412f1Unit-1%2C2.pdf",
                     "url": "https://files.catbox.moe/7aghac.pdf"
-                },
-                "MIDSEM 2023 (May).pdf": {
-                    "name": "Mid-Sem-(-Physics-May-)-2023.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ce9c215b6ab545417f181106242e192b40fcdcbbMid%20Sem%20%28%20Physics%20May%20%29-2023.pdf",
-                    "url": "https://files.catbox.moe/6gb41f.pdf"
                 },
                 "UNIT-2 by Infinity Physics.playlist": {
                     "name": "OWO-Unit-2.playlist",
@@ -40581,23 +40893,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Computer-Programming": {
@@ -40917,7 +41229,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/34jnkn.txt"
+                    "url": "https://files.catbox.moe/3sxfq7.txt"
                 }
             },
             "Applied-Physics": {
@@ -41823,7 +42135,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/mzgao3.txt"
+                    "url": "https://files.catbox.moe/i7i2bh.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -41891,7 +42203,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/gylnlk.txt"
+                    "url": "https://files.catbox.moe/kijbxt.txt"
                 }
             },
             "Database-Management-System": {
@@ -42512,6 +42824,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             }
         },
@@ -43022,6 +43346,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Quantum-Physics": {
@@ -43145,23 +43481,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -43651,7 +43987,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/fx9vss.txt"
+                    "url": "https://files.catbox.moe/6mt0z9.txt"
                 }
             },
             "Chemistry": {
@@ -44883,7 +45219,7 @@
                     "name": "complete-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1Kv-6CcUgWOri7IqhhebfcdLtCQocbVq3",
-                    "url": "https://files.catbox.moe/kjtv2z.txt"
+                    "url": "https://files.catbox.moe/y4sm68.txt"
                 }
             },
             "Computer-System-Organization": {
@@ -44939,7 +45275,7 @@
                     "name": "complete-cso-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1B7nDZeEfP_x_8nkFCuzKihPnaWA9GasS",
-                    "url": "https://files.catbox.moe/pfdgs8.txt"
+                    "url": "https://files.catbox.moe/f6mdk6.txt"
                 },
                 "cso playlist all units .playlist": {
                     "name": "cso-playlist-all-units-.playlist",
@@ -44995,7 +45331,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/68mm0t.txt"
+                    "url": "https://files.catbox.moe/nv1ste.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -45486,6 +45822,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/e66f405862c7a42f52ecd8e97a5ccf24301fa29cEND%20SEM%20Summer%202024.pdf",
                     "url": "https://files.catbox.moe/n59n7t.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bd34dd088156fe3f4699d99bcffcfab4b3c0497dMIDSEM%202024%20%28Sept%29.pdf",
+                    "url": "https://files.catbox.moe/x2cykn.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/98435a53e7b59775fd915eff3352a8f170e3022eENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/k393rh.pdf"
                 }
             },
             "Quantum-Physics": {
@@ -45609,23 +45957,23 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/52941ce2173c982de7913d78b50f02b61909f46bquantum%20physics%20unit%205.pdf",
                     "url": "https://files.catbox.moe/17j0mj.pdf"
                 },
-                "ENDSEM 2023 (July).pdf": {
-                    "name": "End-Sem(July)-2023-Physics.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/15eb0de1bc3eb365cf47d437bccd3dbebaf8c161End%20Sem%28July%29%202023%20Physics.pdf",
-                    "url": "https://files.catbox.moe/7g4lyp.pdf"
-                },
-                "MIDSEM 2020 (Feb).pdf": {
-                    "name": "Physics-Mid-sem-2020.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a0a400b0e42a5d4ba5b5523c6bce2016681896e7Physics%20Mid%20sem%202020.pdf",
-                    "url": "https://files.catbox.moe/g0jyp5.pdf"
-                },
                 "MIDSEM 2024 (Feb).pdf": {
                     "name": "Feb-2024-Midsem.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/286180ec83884ddd7f17e45d7a41f05ef2c4b683Feb%202024%20Midsem.pdf",
                     "url": "https://files.catbox.moe/7bqmfp.pdf"
+                },
+                "MIDSEM 2024 (Sept).pdf": {
+                    "name": "MIDSEM-2024-(Sept).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/40267220963361cf929873c5f04bc106c203ed51ENDSEM%202024%20%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/a2gbh9.pdf"
+                },
+                "ENDSEM 2024 (Nov).pdf": {
+                    "name": "ENDSEM-2024-(Nov).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/69d94d4807ef64a6090d5cd6e36980fe16a850ddENDSEM%202024%28Nov%29.pdf",
+                    "url": "https://files.catbox.moe/0ki0h0.pdf"
                 }
             },
             "Maths---1": {
@@ -46271,7 +46619,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/8r2lxr.txt"
+                    "url": "https://files.catbox.moe/iaz7e0.txt"
                 }
             },
             "Chemistry": {
