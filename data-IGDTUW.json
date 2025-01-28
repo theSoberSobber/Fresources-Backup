@@ -1856,7 +1856,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/27rmip.pdf"
+                    "url": "https://files.catbox.moe/c99eet.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -2075,6 +2075,116 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/24ca6bfdc1b9d67b523d9c5a172fceb32d843483OOPJ%20Endsem%20%28May%2724%29.pdf",
                     "url": "https://files.catbox.moe/5sroiy.pdf"
+                }
+            },
+            "IT-Workshop": {
+                "Cheat Sheet R.pdf": {
+                    "name": "Cheat-Sheet-R.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
+                    "url": "https://files.catbox.moe/twoc5x.pdf"
+                },
+                "Assignment 7.pdf": {
+                    "name": "Assignment-7.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e1697e40ca20482655c9ceb3525c21c29045f3e9Assignment%207.pdf",
+                    "url": "https://files.catbox.moe/n7uk4a.pdf"
+                },
+                "Assignment 6.pdf": {
+                    "name": "Assignment-6.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3fa2a71cf01b62c66da236b5181937c4152cd047Assignment%206.pdf",
+                    "url": "https://files.catbox.moe/vogyv7.pdf"
+                },
+                "Assignment 5.pdf": {
+                    "name": "Assignment-5.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3e65af3bf90c71cdcac6aebe47ff81860afa7743Assignment%205.pdf",
+                    "url": "https://files.catbox.moe/5kv00g.pdf"
+                },
+                "Assignment 4.pdf": {
+                    "name": "Assignment-4.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/02ab6479d63ca4becc8ecdee0e959f18d62315bbAssignment%204.pdf",
+                    "url": "https://files.catbox.moe/0znft3.pdf"
+                },
+                "Assignment 3.pdf": {
+                    "name": "Assignment-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/847df64f71c35a55e3acebbcce811aadf4f6b065Assignment%203.pdf",
+                    "url": "https://files.catbox.moe/xhjxxl.pdf"
+                },
+                "Assignment 2.pdf": {
+                    "name": "Assignment-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/227bdce0435ac28c8beb9e43d2ef32a977758f69Assignment%202.pdf",
+                    "url": "https://files.catbox.moe/fgdl7q.pdf"
+                },
+                "Assignment 1.pdf": {
+                    "name": "Assignment-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/51f5deb6cae3f3dd5aadd2a7c538b2a7db03bd61Assignment%201.pdf",
+                    "url": "https://files.catbox.moe/838jud.pdf"
+                },
+                "R language notes.pdf": {
+                    "name": "R-language-notes.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/28f5124f91352343f4d26a2148e3149c8c95a018R%20language%20notes.pdf",
+                    "url": "https://files.catbox.moe/edlz8o.pdf"
+                },
+                "UNIT 1 + UNIT 2.pdf": {
+                    "name": "UNIT-1-+-UNIT-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1d7b5b7deb31cc6d8fab493e44934b949fdfeb51UNIT%201%20%2B%20UNIT%202.pdf",
+                    "url": "https://files.catbox.moe/hh6jn8.pdf"
+                },
+                "UNIT 2 .pdf": {
+                    "name": "UNIT-2-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/43a912823b579469babab26d0235f1f31b14b2e0UNIT%202%20.pdf",
+                    "url": "https://files.catbox.moe/ctawg9.pdf"
+                },
+                "Mid-Term (Oct'24).pdf": {
+                    "name": "Mid-Term-(Oct'24).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3cf9009029b0bec684d61a0802517dbe302be3aaMid-Term%20%28Oct%2724%29.pdf",
+                    "url": "https://files.catbox.moe/4f6a61.pdf"
+                },
+                "Data Cleaning and Processing.pdf": {
+                    "name": "Data-Cleaning-and-Processing.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0f0dea6226585d086838075d1555dfc0f2ba5832Data%20Cleaning%20and%20Processing.pdf",
+                    "url": "https://files.catbox.moe/5k2y30.pdf"
+                },
+                "R_\u2013_Charts_and_Graphs.pdf": {
+                    "name": "R_\u2013_Charts_and_Graphs.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d966fc40e61b76fb8b34a5e88fcb1ac3c91cc3aR_%E2%80%93_Charts_and_Graphs.pdf",
+                    "url": "https://files.catbox.moe/j246v5.pdf"
+                },
+                "Summarise Function.pdf": {
+                    "name": "Summarise-Function.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fcc1e60ee323e639106300cb17e59ea5c19baa35Summarise%20Function.pdf",
+                    "url": "https://files.catbox.moe/glsp9h.pdf"
+                },
+                "Theory Sample Question.pdf": {
+                    "name": "Theory-Sample-Question.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/68e3b276a1fcbeb25e5524f3ec828278b0abc188Theory%20Sample%20Question.pdf",
+                    "url": "https://files.catbox.moe/hfcdl1.pdf"
+                },
+                "Unit_3.pdf": {
+                    "name": "Unit_3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/12bb96d238ade9e89e6c7f0d5bb12aa75146b6c9Unit_3.pdf",
+                    "url": "https://files.catbox.moe/i88amm.pdf"
+                },
+                "Endsem'24.pdf": {
+                    "name": "Endsem'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb4ae5237c0152aa389c1a628cb099473f3dcfd9Endsem%2724.pdf",
+                    "url": "https://files.catbox.moe/yp0mtl.pdf"
                 }
             },
             "EnVironmental-Science": {
@@ -2557,116 +2667,6 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/b123cbbfd4ece1683377d09fc25b470cf67cbb8eEVS%20sem1%20endsem.pdf",
                     "url": "https://files.catbox.moe/snaz00.pdf"
-                }
-            },
-            "IT-Workshop": {
-                "Cheat Sheet R.pdf": {
-                    "name": "Cheat-Sheet-R.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/jdaspj.pdf"
-                },
-                "Assignment 7.pdf": {
-                    "name": "Assignment-7.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e1697e40ca20482655c9ceb3525c21c29045f3e9Assignment%207.pdf",
-                    "url": "https://files.catbox.moe/n7uk4a.pdf"
-                },
-                "Assignment 6.pdf": {
-                    "name": "Assignment-6.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3fa2a71cf01b62c66da236b5181937c4152cd047Assignment%206.pdf",
-                    "url": "https://files.catbox.moe/vogyv7.pdf"
-                },
-                "Assignment 5.pdf": {
-                    "name": "Assignment-5.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3e65af3bf90c71cdcac6aebe47ff81860afa7743Assignment%205.pdf",
-                    "url": "https://files.catbox.moe/5kv00g.pdf"
-                },
-                "Assignment 4.pdf": {
-                    "name": "Assignment-4.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/02ab6479d63ca4becc8ecdee0e959f18d62315bbAssignment%204.pdf",
-                    "url": "https://files.catbox.moe/0znft3.pdf"
-                },
-                "Assignment 3.pdf": {
-                    "name": "Assignment-3.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/847df64f71c35a55e3acebbcce811aadf4f6b065Assignment%203.pdf",
-                    "url": "https://files.catbox.moe/xhjxxl.pdf"
-                },
-                "Assignment 2.pdf": {
-                    "name": "Assignment-2.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/227bdce0435ac28c8beb9e43d2ef32a977758f69Assignment%202.pdf",
-                    "url": "https://files.catbox.moe/fgdl7q.pdf"
-                },
-                "Assignment 1.pdf": {
-                    "name": "Assignment-1.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/51f5deb6cae3f3dd5aadd2a7c538b2a7db03bd61Assignment%201.pdf",
-                    "url": "https://files.catbox.moe/838jud.pdf"
-                },
-                "R language notes.pdf": {
-                    "name": "R-language-notes.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/28f5124f91352343f4d26a2148e3149c8c95a018R%20language%20notes.pdf",
-                    "url": "https://files.catbox.moe/edlz8o.pdf"
-                },
-                "UNIT 1 + UNIT 2.pdf": {
-                    "name": "UNIT-1-+-UNIT-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1d7b5b7deb31cc6d8fab493e44934b949fdfeb51UNIT%201%20%2B%20UNIT%202.pdf",
-                    "url": "https://files.catbox.moe/hh6jn8.pdf"
-                },
-                "UNIT 2 .pdf": {
-                    "name": "UNIT-2-.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/43a912823b579469babab26d0235f1f31b14b2e0UNIT%202%20.pdf",
-                    "url": "https://files.catbox.moe/ctawg9.pdf"
-                },
-                "Mid-Term (Oct'24).pdf": {
-                    "name": "Mid-Term-(Oct'24).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3cf9009029b0bec684d61a0802517dbe302be3aaMid-Term%20%28Oct%2724%29.pdf",
-                    "url": "https://files.catbox.moe/4f6a61.pdf"
-                },
-                "Data Cleaning and Processing.pdf": {
-                    "name": "Data-Cleaning-and-Processing.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/0f0dea6226585d086838075d1555dfc0f2ba5832Data%20Cleaning%20and%20Processing.pdf",
-                    "url": "https://files.catbox.moe/5k2y30.pdf"
-                },
-                "R_\u2013_Charts_and_Graphs.pdf": {
-                    "name": "R_\u2013_Charts_and_Graphs.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/5d966fc40e61b76fb8b34a5e88fcb1ac3c91cc3aR_%E2%80%93_Charts_and_Graphs.pdf",
-                    "url": "https://files.catbox.moe/j246v5.pdf"
-                },
-                "Summarise Function.pdf": {
-                    "name": "Summarise-Function.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fcc1e60ee323e639106300cb17e59ea5c19baa35Summarise%20Function.pdf",
-                    "url": "https://files.catbox.moe/glsp9h.pdf"
-                },
-                "Theory Sample Question.pdf": {
-                    "name": "Theory-Sample-Question.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/68e3b276a1fcbeb25e5524f3ec828278b0abc188Theory%20Sample%20Question.pdf",
-                    "url": "https://files.catbox.moe/hfcdl1.pdf"
-                },
-                "Unit_3.pdf": {
-                    "name": "Unit_3.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/12bb96d238ade9e89e6c7f0d5bb12aa75146b6c9Unit_3.pdf",
-                    "url": "https://files.catbox.moe/i88amm.pdf"
-                },
-                "Endsem'24.pdf": {
-                    "name": "Endsem'24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb4ae5237c0152aa389c1a628cb099473f3dcfd9Endsem%2724.pdf",
-                    "url": "https://files.catbox.moe/yp0mtl.pdf"
                 }
             },
             "Operating-Systems": {
@@ -5524,13 +5524,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/3n8e8l.txt"
+                    "url": "https://files.catbox.moe/575ba2.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/fxoxhr.txt"
+                    "url": "https://files.catbox.moe/dd5npg.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -8575,356 +8575,6 @@
                     "url": "https://files.catbox.moe/1ye1zf.pdf"
                 }
             },
-            "Chemistry---1": {
-                "EM-UNIT 1.pdf": {
-                    "name": "EM-UNIT-1.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/97aae9dc4693b88150a85f2cb02ff3caf344ef53Unit-1.pdf",
-                    "url": "https://files.catbox.moe/n084sk.pdf"
-                },
-                "EM-UNIT 2.pdf": {
-                    "name": "EM-UNIT-2.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/23ea8edc879a295f5ea4cd2a0c2d90cc7128fecaUnit-2.pdf",
-                    "url": "https://files.catbox.moe/m2bycu.pdf"
-                },
-                "Jain-Jain.pdf": {
-                    "name": "Jain-Jain.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8ba9906892e6251de1a7167d24e20e566480d87eJain-Jain.pdf",
-                    "url": "https://files.catbox.moe/3wnr5f.pdf"
-                },
-                "Sunita Rattan.pdf": {
-                    "name": "Sunita-Rattan.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e8f9ae4d7f8e22277940b793ee616e89fb065a0dSunita%20Rattan.pdf",
-                    "url": "https://files.catbox.moe/2sfr1i.pdf"
-                },
-                "Water tech handwritten.pdf": {
-                    "name": "Water-tech-handwritten.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d6585fb26af62e46b25c8fc97f745b7896669e02Water%20Technology-1.pdf",
-                    "url": "https://files.catbox.moe/zcjirj.pdf"
-                },
-                "Water tech ppt.pdf": {
-                    "name": "Water-tech-ppt.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7cd6424468c5033fbf5ae698817f5eea75606e9fWater%20Technology-2.pdf",
-                    "url": "https://files.catbox.moe/c4yywi.pdf"
-                },
-                "Catalysis handwritten 1.pdf": {
-                    "name": "Catalysis-handwritten-1.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9eb73f96adc2c5223d809096bbf3795a0d0a2f50Catalysis-1.pdf",
-                    "url": "https://files.catbox.moe/m3003u.pdf"
-                },
-                "Catalysis handwritten 2.pdf": {
-                    "name": "Catalysis-handwritten-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e65c27d3233dd9d5a6f0833e00ca3e5bc2c5d6cCatalysis-2.pdf",
-                    "url": "https://files.catbox.moe/ialvjm.pdf"
-                },
-                "Catalysis ppt.pdf": {
-                    "name": "Catalysis-ppt.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f5518271810ca5a76b80285210a8c9b877944ab9Catalysis-3.pdf",
-                    "url": "https://files.catbox.moe/hqqlge.pdf"
-                },
-                "Phase rule handwritten.pdf": {
-                    "name": "Phase-rule-handwritten.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d31d481ab8dd590362aae7ed809b8acf77908e37Phase%20Rule-1.pdf",
-                    "url": "https://files.catbox.moe/d8ydoq.pdf"
-                },
-                "Phase rule ppt.pdf": {
-                    "name": "Phase-rule-ppt.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69b1375713a9d0c7cd0c420d9e8d5140e5ac081aPhase%20Rule-2.pdf",
-                    "url": "https://files.catbox.moe/5guxs3.pdf"
-                },
-                "Spectroscopy handwritten.pdf": {
-                    "name": "Spectroscopy-handwritten.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c6360ed082fbb7ebd983d52a1b01320b31545146Spectroscopy-1.pdf",
-                    "url": "https://files.catbox.moe/ldwkz1.pdf"
-                },
-                "Spectroscopy ppt.pdf": {
-                    "name": "Spectroscopy-ppt.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d52a94b7f072a08af95f6753c2486cd12c7caa40Spectroscopy-2.pdf",
-                    "url": "https://files.catbox.moe/co11kv.pdf"
-                },
-                "Thermal Analysis handwritten.pdf": {
-                    "name": "Thermal-Analysis-handwritten.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/426e1099bbf511dd6a8b3e830f7aa083cc629787Thermal%20Analysis-1.pdf",
-                    "url": "https://files.catbox.moe/lkavg3.pdf"
-                },
-                "Thermal Analysis ppt.pdf": {
-                    "name": "Thermal-Analysis-ppt.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/226ae3ffbe7d5745f4f3d5e8adda4baa0aaa58a5Thermal%20Analysis-2.pdf",
-                    "url": "https://files.catbox.moe/0u0wg3.pdf"
-                },
-                "Unit-3.pdf": {
-                    "name": "Unit-3.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87dfae1e4abe898de84270136d03126f3b3e9cddUnit-3.pdf",
-                    "url": "https://files.catbox.moe/hzffsq.pdf"
-                },
-                "Unit-4.pdf": {
-                    "name": "Unit-4.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fd4fea1d79ab4a2e3485931d4de493020b31b7bdUnit-4.pdf",
-                    "url": "https://files.catbox.moe/uqnb81.pdf"
-                },
-                "Unit-5.pdf": {
-                    "name": "Unit-5.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c5d8a337cf85540e91f42c23bd1e5690c4977fd3Unit-5.pdf",
-                    "url": "https://files.catbox.moe/1e1bgx.pdf"
-                },
-                "Numerical-Water tech.pdf": {
-                    "name": "Numerical-Water-tech.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f7cf245fe7cba8042ff02c3d8ba5b615f1b8744fNumerical-Water%20tech.pdf",
-                    "url": "https://files.catbox.moe/7dtozf.pdf"
-                },
-                "Solution-Water tech.pdf": {
-                    "name": "Solution-Water-tech.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e223f36483745ce60cde23054893094d6b938c37Solution-Water%20tech.pdf",
-                    "url": "https://files.catbox.moe/uk78sb.pdf"
-                },
-                "File-1.pdf": {
-                    "name": "File-1.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/48417ea26ba16de6b02aa05ee2cd741bb8b9eaf9File-1.pdf",
-                    "url": "https://files.catbox.moe/v3nvd1.pdf"
-                },
-                "File-2.pdf": {
-                    "name": "File-2.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a24315a378e08b0a4f1edf05f40efc945f26e8f5File-2.pdf",
-                    "url": "https://files.catbox.moe/ckuqnu.pdf"
-                },
-                "Minor-2 2016.pdf": {
-                    "name": "Minor-2-2016.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/da29c6a13471b9acac42a3651bc1b057b96ff98aMinor-2%202016.pdf",
-                    "url": "https://files.catbox.moe/jtkuce.pdf"
-                },
-                "Minor-2 2014.pdf": {
-                    "name": "Minor-2-2014.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6617d0354db285d95da7175acad10ee83a8a3afeMinor-2%202014.pdf",
-                    "url": "https://files.catbox.moe/xet8aq.pdf"
-                },
-                "Minor-1 2019.pdf": {
-                    "name": "Minor-1-2019.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5a84ad4a14e7037c61e91a77664d79489d74b554Minor-1%202019.pdf",
-                    "url": "https://files.catbox.moe/8012oa.pdf"
-                },
-                "Minor-1 2018.pdf": {
-                    "name": "Minor-1-2018.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/720e0ec3c090a046dff6ecacb78533bcd91fd524Minor-1%202018.pdf",
-                    "url": "https://files.catbox.moe/0ot2ex.pdf"
-                },
-                "Minor-1 2015.pdf": {
-                    "name": "Minor-1-2015.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/65970b159f3f50f00b2534196d9fdff2ac37c7a0Minor-1%202015.pdf",
-                    "url": "https://files.catbox.moe/q0yvrq.pdf"
-                },
-                "End Sem 2022.pdf": {
-                    "name": "End-Sem-2022.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/24cfc1fd115171dfd5d6c7f9dd45310786c79699End%20Term%202022.pdf",
-                    "url": "https://files.catbox.moe/3vyrhq.pdf"
-                },
-                "End Sem 2017.pdf": {
-                    "name": "End-Sem-2017.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a7c1de672f64259d926bd3dbca8d23ac11167b2bEnd%20Term%202017.pdf",
-                    "url": "https://files.catbox.moe/ne65p5.pdf"
-                },
-                "End Sem 2016.pdf": {
-                    "name": "End-Sem-2016.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b6d37ef0fb581260de5cfffcba65fa159137dc2aEnd%20Term%202016.pdf",
-                    "url": "https://files.catbox.moe/1zxqpe.pdf"
-                },
-                "End Sem 2015.pdf": {
-                    "name": "End-Sem-2015.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/803556e2792b42586e2ef29c1c360893772b070cEnd%20Term%202015.pdf",
-                    "url": "https://files.catbox.moe/qx0e8x.pdf"
-                },
-                "End Sem 2022 CSE/ECE.pdf": {
-                    "name": "End-Sem-2022-CSE-ECE.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ac61ee645c547245b7eb56b20a906054d667636End%20Term%202022%20CSEECE.pdf",
-                    "url": "https://files.catbox.moe/uvguqo.pdf"
-                },
-                "WATER TECHNOLOGY THEORY.playlist": {
-                    "name": "WATER-TECHNOLOGY-THEORY.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXNz40tJtLnJNhHgX6omAuM",
-                    "url": "https://files.catbox.moe/99u5bk.txt"
-                },
-                "WATER TECHNOLOGY NUMERICALS.playlist": {
-                    "name": "WATER-TECHNOLOGY-NUMERICALS.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXvybIdaQBW1oTSCpMI8KjT",
-                    "url": "https://files.catbox.moe/vicf0e.txt"
-                },
-                "lab manual.pdf": {
-                    "name": "lab-manual.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/711ec7fb28d43a9a4269d8d8de8a758d9cec3259lab%20manual.pdf",
-                    "url": "https://files.catbox.moe/icht0i.pdf"
-                },
-                "catalysis unit 2 sunita rattan .pdf": {
-                    "name": "catalysis-unit-2-sunita-rattan-.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/40c016f6b1f77c8393c3d1ab5aab9d401ae1c815catalysis%20unit%202%20sunita%20rattan%20.pdf",
-                    "url": "https://files.catbox.moe/cokw7p.pdf"
-                },
-                "water technology ch1 sunita rattan .pdf": {
-                    "name": "water-technology-ch1-sunita-rattan-.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5f28729bf355bd22192620801743c93bf16e893water%20technology%20ch1%20sunita%20rattan%20.pdf",
-                    "url": "https://files.catbox.moe/3gu247.pdf"
-                },
-                "Catalyst & Phase rule.playlist": {
-                    "name": "Catalyst-&-Phase-rule.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXlAAwmWnCwMvnZrFMjdNvM",
-                    "url": "https://files.catbox.moe/pxiszd.txt"
-                },
-                "MIDSEM Sample Paper.jpeg": {
-                    "name": "MIDSEM-Sample-Paper.jpeg",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/93d33cdc9ab5aa73c173c4dd1a602f51a0dc29b1MIDSEM%20Sample%20Paper.jpeg",
-                    "url": "https://files.catbox.moe/f4dyko.jpeg"
-                },
-                "Water systems.pdf": {
-                    "name": "Water-systems.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0136408b29ca4b2ad17d412b99c7a568b8867620Water%20systems.pdf",
-                    "url": "https://files.catbox.moe/e3tlmu.pdf"
-                },
-                "Quest Bank: Unit 1 and 2.pdf": {
-                    "name": "Quest-Bank--Unit-1-and-2.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/88638020d0949b030ef7be51220321076668c1c0Quest%20Bank%20Unit%201%20and%202.pdf",
-                    "url": "https://files.catbox.moe/v0t10j.pdf"
-                },
-                "Numericals-water technology.pdf": {
-                    "name": "Numericals-water-technology.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/896e8b440d64a0e02532f24c4ba285eb6138bdb5Numericals-water%20technology.pdf",
-                    "url": "https://files.catbox.moe/gxpjxb.pdf"
-                },
-                "mid cse-ece-23.pdf": {
-                    "name": "mid-cse-ece-23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e6adb983f603326d964ac8568c5a888d76e80bbamid%20cse-ece-23.pdf",
-                    "url": "https://files.catbox.moe/nkrjwa.pdf"
-                },
-                "chem end sem 22.pdf": {
-                    "name": "chem-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/70ac5afac4edae178690840fca1a1c82a09ecd5dchem%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/gepagc.pdf"
-                },
-                "Thermal Analysis.pdf": {
-                    "name": "Thermal-Analysis.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/56bd6367100e0da3f7b9ab46f0cf0864031ac0a1Thermal%20Analysis.pdf",
-                    "url": "https://files.catbox.moe/i7399u.pdf"
-                },
-                "Composite Material.pdf": {
-                    "name": "Composite-Material.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c475863c3e801002646395fd57251f76600162a1Composite%20Material.pdf",
-                    "url": "https://files.catbox.moe/e0pep7.pdf"
-                },
-                "viva questions.pdf": {
-                    "name": "viva-questions.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/459509b105f459457ae3725333ab393b131c604fviva%20questions.pdf",
-                    "url": "https://files.catbox.moe/z7sdbj.pdf"
-                },
-                "NANOCHEMISTRY-2022-23.pdf": {
-                    "name": "NANOCHEMISTRY-2022-23.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/218f33814265cfb4818ff91acb6a451d36901f3bNANOCHEMISTRY-2022-23.pdf",
-                    "url": "https://files.catbox.moe/j0ihgf.pdf"
-                },
-                "Composite Materials.pdf": {
-                    "name": "Composite-Materials.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d6781911cb93b9e0f9c1e4d94f5216c66d62ee9Composite%20Materials.pdf",
-                    "url": "https://files.catbox.moe/j7po8y.pdf"
-                },
-                "TGA DTA.pdf": {
-                    "name": "TGA-DTA.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8f000e2072d1637dbb2c322d0da0c1565108b6d3TGA%20DTA.pdf",
-                    "url": "https://files.catbox.moe/ru4a3t.pdf"
-                },
-                "nano chemistry.pdf": {
-                    "name": "nano-chemistry.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b858d3f13748bb9f515641e56fe70e4f9a3b12fdnano%20chemistry.pdf",
-                    "url": "https://files.catbox.moe/8bywc3.pdf"
-                },
-                "composite materials.pdf": {
-                    "name": "composite-materials.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/661ffcef7b5a15016677503d750f5a07360bc92ecomposite%20materials.pdf",
-                    "url": "https://files.catbox.moe/hc3up9.pdf"
-                },
-                "DO,BOD,COD.pdf": {
-                    "name": "DO,BOD,COD.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e513ed71d2f205590cd2f1d334864ff5a10e8cb2DO%2CBOD%2CCOD.pdf",
-                    "url": "https://files.catbox.moe/ah7r5r.pdf"
-                },
-                "nanotechnology.playlist": {
-                    "name": "nanotechnology.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEWQ7qIYHvdql_UzSWwiud02",
-                    "url": "https://files.catbox.moe/ywfzrd.txt"
-                },
-                "composites.playlist": {
-                    "name": "composites.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEVp48ZWtdzv1nf7KyLw1FWb",
-                    "url": "https://files.catbox.moe/p9w8we.txt"
-                },
-                " Unit 1 (Water Technology).playlist": {
-                    "name": "-Unit-1-(Water-Technology).playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=XCZakSI-M0I&list=PLLf6O8XdGj03gLo6znlqJbMzgIgt8tSU1",
-                    "url": "https://files.catbox.moe/f9s3zk.txt"
-                },
-                "Water assignment.pdf": {
-                    "name": "Water-assignment.pdf",
-                    "type": "Tutorial_Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e00e2e87fa5c3bfc0c92e0517af424371a6ff182Water%20assignment.pdf",
-                    "url": "https://files.catbox.moe/tbwwup.pdf"
-                },
-                "chem mid sem solutions (1) (1).pdf": {
-                    "name": "chem-mid-sem-solutions-(1)-(1).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/83787ea86fe34ed54e655122db5d7aa3df544856chem%20mid%20sem%20solutions%20%281%29%20%281%29.pdf",
-                    "url": "https://files.catbox.moe/zk00s9.pdf"
-                }
-            },
             "Programming-with-C": {
                 "C Language.pdf": {
                     "name": "C-Language.pdf",
@@ -9308,7 +8958,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/z6zawf.txt"
+                    "url": "https://files.catbox.moe/3ugtab.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -9964,13 +9614,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/6pjvc9.txt"
+                    "url": "https://files.catbox.moe/rgfux3.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/2zjy9h.txt"
+                    "url": "https://files.catbox.moe/is6kug.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -10951,6 +10601,356 @@
                     "url": "https://files.catbox.moe/aweaug.pdf"
                 }
             },
+            "Chemistry---1": {
+                "EM-UNIT 1.pdf": {
+                    "name": "EM-UNIT-1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/97aae9dc4693b88150a85f2cb02ff3caf344ef53Unit-1.pdf",
+                    "url": "https://files.catbox.moe/n084sk.pdf"
+                },
+                "EM-UNIT 2.pdf": {
+                    "name": "EM-UNIT-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/23ea8edc879a295f5ea4cd2a0c2d90cc7128fecaUnit-2.pdf",
+                    "url": "https://files.catbox.moe/m2bycu.pdf"
+                },
+                "Jain-Jain.pdf": {
+                    "name": "Jain-Jain.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8ba9906892e6251de1a7167d24e20e566480d87eJain-Jain.pdf",
+                    "url": "https://files.catbox.moe/3wnr5f.pdf"
+                },
+                "Sunita Rattan.pdf": {
+                    "name": "Sunita-Rattan.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e8f9ae4d7f8e22277940b793ee616e89fb065a0dSunita%20Rattan.pdf",
+                    "url": "https://files.catbox.moe/2sfr1i.pdf"
+                },
+                "Water tech handwritten.pdf": {
+                    "name": "Water-tech-handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d6585fb26af62e46b25c8fc97f745b7896669e02Water%20Technology-1.pdf",
+                    "url": "https://files.catbox.moe/zcjirj.pdf"
+                },
+                "Water tech ppt.pdf": {
+                    "name": "Water-tech-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7cd6424468c5033fbf5ae698817f5eea75606e9fWater%20Technology-2.pdf",
+                    "url": "https://files.catbox.moe/c4yywi.pdf"
+                },
+                "Catalysis handwritten 1.pdf": {
+                    "name": "Catalysis-handwritten-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9eb73f96adc2c5223d809096bbf3795a0d0a2f50Catalysis-1.pdf",
+                    "url": "https://files.catbox.moe/m3003u.pdf"
+                },
+                "Catalysis handwritten 2.pdf": {
+                    "name": "Catalysis-handwritten-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e65c27d3233dd9d5a6f0833e00ca3e5bc2c5d6cCatalysis-2.pdf",
+                    "url": "https://files.catbox.moe/ialvjm.pdf"
+                },
+                "Catalysis ppt.pdf": {
+                    "name": "Catalysis-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f5518271810ca5a76b80285210a8c9b877944ab9Catalysis-3.pdf",
+                    "url": "https://files.catbox.moe/hqqlge.pdf"
+                },
+                "Phase rule handwritten.pdf": {
+                    "name": "Phase-rule-handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d31d481ab8dd590362aae7ed809b8acf77908e37Phase%20Rule-1.pdf",
+                    "url": "https://files.catbox.moe/d8ydoq.pdf"
+                },
+                "Phase rule ppt.pdf": {
+                    "name": "Phase-rule-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69b1375713a9d0c7cd0c420d9e8d5140e5ac081aPhase%20Rule-2.pdf",
+                    "url": "https://files.catbox.moe/5guxs3.pdf"
+                },
+                "Spectroscopy handwritten.pdf": {
+                    "name": "Spectroscopy-handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c6360ed082fbb7ebd983d52a1b01320b31545146Spectroscopy-1.pdf",
+                    "url": "https://files.catbox.moe/ldwkz1.pdf"
+                },
+                "Spectroscopy ppt.pdf": {
+                    "name": "Spectroscopy-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d52a94b7f072a08af95f6753c2486cd12c7caa40Spectroscopy-2.pdf",
+                    "url": "https://files.catbox.moe/co11kv.pdf"
+                },
+                "Thermal Analysis handwritten.pdf": {
+                    "name": "Thermal-Analysis-handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/426e1099bbf511dd6a8b3e830f7aa083cc629787Thermal%20Analysis-1.pdf",
+                    "url": "https://files.catbox.moe/lkavg3.pdf"
+                },
+                "Thermal Analysis ppt.pdf": {
+                    "name": "Thermal-Analysis-ppt.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/226ae3ffbe7d5745f4f3d5e8adda4baa0aaa58a5Thermal%20Analysis-2.pdf",
+                    "url": "https://files.catbox.moe/0u0wg3.pdf"
+                },
+                "Unit-3.pdf": {
+                    "name": "Unit-3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87dfae1e4abe898de84270136d03126f3b3e9cddUnit-3.pdf",
+                    "url": "https://files.catbox.moe/hzffsq.pdf"
+                },
+                "Unit-4.pdf": {
+                    "name": "Unit-4.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fd4fea1d79ab4a2e3485931d4de493020b31b7bdUnit-4.pdf",
+                    "url": "https://files.catbox.moe/uqnb81.pdf"
+                },
+                "Unit-5.pdf": {
+                    "name": "Unit-5.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c5d8a337cf85540e91f42c23bd1e5690c4977fd3Unit-5.pdf",
+                    "url": "https://files.catbox.moe/1e1bgx.pdf"
+                },
+                "Numerical-Water tech.pdf": {
+                    "name": "Numerical-Water-tech.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f7cf245fe7cba8042ff02c3d8ba5b615f1b8744fNumerical-Water%20tech.pdf",
+                    "url": "https://files.catbox.moe/7dtozf.pdf"
+                },
+                "Solution-Water tech.pdf": {
+                    "name": "Solution-Water-tech.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e223f36483745ce60cde23054893094d6b938c37Solution-Water%20tech.pdf",
+                    "url": "https://files.catbox.moe/uk78sb.pdf"
+                },
+                "File-1.pdf": {
+                    "name": "File-1.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/48417ea26ba16de6b02aa05ee2cd741bb8b9eaf9File-1.pdf",
+                    "url": "https://files.catbox.moe/v3nvd1.pdf"
+                },
+                "File-2.pdf": {
+                    "name": "File-2.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a24315a378e08b0a4f1edf05f40efc945f26e8f5File-2.pdf",
+                    "url": "https://files.catbox.moe/ckuqnu.pdf"
+                },
+                "Minor-2 2016.pdf": {
+                    "name": "Minor-2-2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/da29c6a13471b9acac42a3651bc1b057b96ff98aMinor-2%202016.pdf",
+                    "url": "https://files.catbox.moe/jtkuce.pdf"
+                },
+                "Minor-2 2014.pdf": {
+                    "name": "Minor-2-2014.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6617d0354db285d95da7175acad10ee83a8a3afeMinor-2%202014.pdf",
+                    "url": "https://files.catbox.moe/xet8aq.pdf"
+                },
+                "Minor-1 2019.pdf": {
+                    "name": "Minor-1-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5a84ad4a14e7037c61e91a77664d79489d74b554Minor-1%202019.pdf",
+                    "url": "https://files.catbox.moe/8012oa.pdf"
+                },
+                "Minor-1 2018.pdf": {
+                    "name": "Minor-1-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/720e0ec3c090a046dff6ecacb78533bcd91fd524Minor-1%202018.pdf",
+                    "url": "https://files.catbox.moe/0ot2ex.pdf"
+                },
+                "Minor-1 2015.pdf": {
+                    "name": "Minor-1-2015.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/65970b159f3f50f00b2534196d9fdff2ac37c7a0Minor-1%202015.pdf",
+                    "url": "https://files.catbox.moe/q0yvrq.pdf"
+                },
+                "End Sem 2022.pdf": {
+                    "name": "End-Sem-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/24cfc1fd115171dfd5d6c7f9dd45310786c79699End%20Term%202022.pdf",
+                    "url": "https://files.catbox.moe/3vyrhq.pdf"
+                },
+                "End Sem 2017.pdf": {
+                    "name": "End-Sem-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a7c1de672f64259d926bd3dbca8d23ac11167b2bEnd%20Term%202017.pdf",
+                    "url": "https://files.catbox.moe/ne65p5.pdf"
+                },
+                "End Sem 2016.pdf": {
+                    "name": "End-Sem-2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b6d37ef0fb581260de5cfffcba65fa159137dc2aEnd%20Term%202016.pdf",
+                    "url": "https://files.catbox.moe/1zxqpe.pdf"
+                },
+                "End Sem 2015.pdf": {
+                    "name": "End-Sem-2015.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/803556e2792b42586e2ef29c1c360893772b070cEnd%20Term%202015.pdf",
+                    "url": "https://files.catbox.moe/qx0e8x.pdf"
+                },
+                "End Sem 2022 CSE/ECE.pdf": {
+                    "name": "End-Sem-2022-CSE-ECE.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7ac61ee645c547245b7eb56b20a906054d667636End%20Term%202022%20CSEECE.pdf",
+                    "url": "https://files.catbox.moe/uvguqo.pdf"
+                },
+                "WATER TECHNOLOGY THEORY.playlist": {
+                    "name": "WATER-TECHNOLOGY-THEORY.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXNz40tJtLnJNhHgX6omAuM",
+                    "url": "https://files.catbox.moe/99u5bk.txt"
+                },
+                "WATER TECHNOLOGY NUMERICALS.playlist": {
+                    "name": "WATER-TECHNOLOGY-NUMERICALS.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXvybIdaQBW1oTSCpMI8KjT",
+                    "url": "https://files.catbox.moe/vicf0e.txt"
+                },
+                "lab manual.pdf": {
+                    "name": "lab-manual.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/711ec7fb28d43a9a4269d8d8de8a758d9cec3259lab%20manual.pdf",
+                    "url": "https://files.catbox.moe/icht0i.pdf"
+                },
+                "catalysis unit 2 sunita rattan .pdf": {
+                    "name": "catalysis-unit-2-sunita-rattan-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/40c016f6b1f77c8393c3d1ab5aab9d401ae1c815catalysis%20unit%202%20sunita%20rattan%20.pdf",
+                    "url": "https://files.catbox.moe/cokw7p.pdf"
+                },
+                "water technology ch1 sunita rattan .pdf": {
+                    "name": "water-technology-ch1-sunita-rattan-.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5f28729bf355bd22192620801743c93bf16e893water%20technology%20ch1%20sunita%20rattan%20.pdf",
+                    "url": "https://files.catbox.moe/3gu247.pdf"
+                },
+                "Catalyst & Phase rule.playlist": {
+                    "name": "Catalyst-&-Phase-rule.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXlAAwmWnCwMvnZrFMjdNvM",
+                    "url": "https://files.catbox.moe/pxiszd.txt"
+                },
+                "MIDSEM Sample Paper.jpeg": {
+                    "name": "MIDSEM-Sample-Paper.jpeg",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/93d33cdc9ab5aa73c173c4dd1a602f51a0dc29b1MIDSEM%20Sample%20Paper.jpeg",
+                    "url": "https://files.catbox.moe/f4dyko.jpeg"
+                },
+                "Water systems.pdf": {
+                    "name": "Water-systems.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0136408b29ca4b2ad17d412b99c7a568b8867620Water%20systems.pdf",
+                    "url": "https://files.catbox.moe/e3tlmu.pdf"
+                },
+                "Quest Bank: Unit 1 and 2.pdf": {
+                    "name": "Quest-Bank--Unit-1-and-2.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/88638020d0949b030ef7be51220321076668c1c0Quest%20Bank%20Unit%201%20and%202.pdf",
+                    "url": "https://files.catbox.moe/v0t10j.pdf"
+                },
+                "Numericals-water technology.pdf": {
+                    "name": "Numericals-water-technology.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/896e8b440d64a0e02532f24c4ba285eb6138bdb5Numericals-water%20technology.pdf",
+                    "url": "https://files.catbox.moe/gxpjxb.pdf"
+                },
+                "mid cse-ece-23.pdf": {
+                    "name": "mid-cse-ece-23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e6adb983f603326d964ac8568c5a888d76e80bbamid%20cse-ece-23.pdf",
+                    "url": "https://files.catbox.moe/nkrjwa.pdf"
+                },
+                "chem end sem 22.pdf": {
+                    "name": "chem-end-sem-22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/70ac5afac4edae178690840fca1a1c82a09ecd5dchem%20end%20sem%2022.pdf",
+                    "url": "https://files.catbox.moe/gepagc.pdf"
+                },
+                "Thermal Analysis.pdf": {
+                    "name": "Thermal-Analysis.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/56bd6367100e0da3f7b9ab46f0cf0864031ac0a1Thermal%20Analysis.pdf",
+                    "url": "https://files.catbox.moe/i7399u.pdf"
+                },
+                "Composite Material.pdf": {
+                    "name": "Composite-Material.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c475863c3e801002646395fd57251f76600162a1Composite%20Material.pdf",
+                    "url": "https://files.catbox.moe/e0pep7.pdf"
+                },
+                "viva questions.pdf": {
+                    "name": "viva-questions.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/459509b105f459457ae3725333ab393b131c604fviva%20questions.pdf",
+                    "url": "https://files.catbox.moe/z7sdbj.pdf"
+                },
+                "NANOCHEMISTRY-2022-23.pdf": {
+                    "name": "NANOCHEMISTRY-2022-23.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/218f33814265cfb4818ff91acb6a451d36901f3bNANOCHEMISTRY-2022-23.pdf",
+                    "url": "https://files.catbox.moe/j0ihgf.pdf"
+                },
+                "Composite Materials.pdf": {
+                    "name": "Composite-Materials.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d6781911cb93b9e0f9c1e4d94f5216c66d62ee9Composite%20Materials.pdf",
+                    "url": "https://files.catbox.moe/j7po8y.pdf"
+                },
+                "TGA DTA.pdf": {
+                    "name": "TGA-DTA.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8f000e2072d1637dbb2c322d0da0c1565108b6d3TGA%20DTA.pdf",
+                    "url": "https://files.catbox.moe/ru4a3t.pdf"
+                },
+                "nano chemistry.pdf": {
+                    "name": "nano-chemistry.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b858d3f13748bb9f515641e56fe70e4f9a3b12fdnano%20chemistry.pdf",
+                    "url": "https://files.catbox.moe/8bywc3.pdf"
+                },
+                "composite materials.pdf": {
+                    "name": "composite-materials.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/661ffcef7b5a15016677503d750f5a07360bc92ecomposite%20materials.pdf",
+                    "url": "https://files.catbox.moe/hc3up9.pdf"
+                },
+                "DO,BOD,COD.pdf": {
+                    "name": "DO,BOD,COD.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e513ed71d2f205590cd2f1d334864ff5a10e8cb2DO%2CBOD%2CCOD.pdf",
+                    "url": "https://files.catbox.moe/ah7r5r.pdf"
+                },
+                "nanotechnology.playlist": {
+                    "name": "nanotechnology.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEWQ7qIYHvdql_UzSWwiud02",
+                    "url": "https://files.catbox.moe/ywfzrd.txt"
+                },
+                "composites.playlist": {
+                    "name": "composites.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEVp48ZWtdzv1nf7KyLw1FWb",
+                    "url": "https://files.catbox.moe/p9w8we.txt"
+                },
+                " Unit 1 (Water Technology).playlist": {
+                    "name": "-Unit-1-(Water-Technology).playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=XCZakSI-M0I&list=PLLf6O8XdGj03gLo6znlqJbMzgIgt8tSU1",
+                    "url": "https://files.catbox.moe/f9s3zk.txt"
+                },
+                "Water assignment.pdf": {
+                    "name": "Water-assignment.pdf",
+                    "type": "Tutorial_Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e00e2e87fa5c3bfc0c92e0517af424371a6ff182Water%20assignment.pdf",
+                    "url": "https://files.catbox.moe/tbwwup.pdf"
+                },
+                "chem mid sem solutions (1) (1).pdf": {
+                    "name": "chem-mid-sem-solutions-(1)-(1).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/83787ea86fe34ed54e655122db5d7aa3df544856chem%20mid%20sem%20solutions%20%281%29%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/zk00s9.pdf"
+                }
+            },
             "Design-and-Analysis-of-Algorithms": {
                 "Abdul Bari.playlist": {
                     "name": "Abdul-Bari.playlist",
@@ -11866,13 +11866,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/rc1r1q.txt"
+                    "url": "https://files.catbox.moe/3h4f6m.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/hu9gzc.txt"
+                    "url": "https://files.catbox.moe/0cnyk8.txt"
                 }
             },
             "introduction-to-Data-Science": {
@@ -11958,7 +11958,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/eel5ct.pdf"
+                    "url": "https://files.catbox.moe/rtahyv.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -13999,13 +13999,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/gz3eo1.txt"
+                    "url": "https://files.catbox.moe/xxtzis.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/idch62.txt"
+                    "url": "https://files.catbox.moe/8rd9op.txt"
                 }
             },
             "Programming-with-C": {
@@ -14391,7 +14391,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/dd4sam.txt"
+                    "url": "https://files.catbox.moe/68k8i8.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -15047,13 +15047,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/6dfkbt.txt"
+                    "url": "https://files.catbox.moe/e8d4ol.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/rgpdpx.txt"
+                    "url": "https://files.catbox.moe/snzvhm.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -18314,790 +18314,6 @@
                     "url": "https://files.catbox.moe/geczj8.pdf"
                 }
             },
-            "Physics---1": {
-                "TUT classical mech.pdf": {
-                    "name": "TUT-classical-mech.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f664de6c0ecdc982dc79c4f0cf67f6cd860823d0%28Classic%20Mechanics%29%20Tutorial%20sheet%201.pdf",
-                    "url": "https://files.catbox.moe/fzu4jl.pdf"
-                },
-                "TUT optics soln.pdf": {
-                    "name": "TUT-optics-soln.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e0a5df7fcbbea3224a129809b4f5f92b2ca037d%28Optics%29%20Tutorial%20Sheet%20Solution.pdf",
-                    "url": "https://files.catbox.moe/fx7d8v.pdf"
-                },
-                "TUT-2 classical mech.pdf": {
-                    "name": "TUT-2-classical-mech.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a0208e92a4aeb454a33003e2e74225411266c0a9%28Oscillatory%29%20Tutorial%20Sheet%201.pdf",
-                    "url": "https://files.catbox.moe/83csem.pdf"
-                },
-                "SHM Solved Examples.pdf": {
-                    "name": "SHM-Solved-Examples.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/35c835d576feb6449128d587af0c21e5736d2594SHM%20Solved%20Examples.pdf",
-                    "url": "https://files.catbox.moe/xxai5r.pdf"
-                },
-                "HK MALIK.pdf": {
-                    "name": "HK-MALIK.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1b2a47bab8c593f4fffef4aed38a45a0c758bf0bHK%20MALIK.pdf",
-                    "url": "https://files.catbox.moe/70r4o1.pdf"
-                },
-                "AK JHA Vol 2.pdf": {
-                    "name": "AK-JHA-Vol-2.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8f7f990608bd0bcd7696f8da0c1350739f7cf141AK%20JHA%20Vol%202.pdf",
-                    "url": "https://files.catbox.moe/bypy9x.pdf"
-                },
-                "Central Force.pdf": {
-                    "name": "Central-Force.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a5e05f9af20647990e45487dc0422c1801492448Central%20Force.pdf",
-                    "url": "https://files.catbox.moe/nbilfy.pdf"
-                },
-                "Central Forces(h/w).pdf": {
-                    "name": "Central-Forces(h-w).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8a8cc2594feb93cc8e8b14eb68aa878b66e9b3ca%28Central%20Forces%29Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/iducsc.pdf"
-                },
-                "Classical Mechanics.pdf": {
-                    "name": "Classical-Mechanics.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a6c9b143952ef2748fb3f10580e7ab7291f0a2a2Classical%20Mechanics.pdf",
-                    "url": "https://files.catbox.moe/u4rk96.pdf"
-                },
-                "Lect-1(unit2).pdf": {
-                    "name": "Lect-1(unit2).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/04d0eacfbd2d5d6dc0dfb749d12e2ae6578b48e6%20%28Oscillations%29%20Lecture-1.pdf",
-                    "url": "https://files.catbox.moe/9wkwig.pdf"
-                },
-                "Oscillation.pdf": {
-                    "name": "Oscillation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0e05b9e7811179dbb71f5d52c84c2733679a98b8%28Oscillation%29%20Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/ezhehx.pdf"
-                },
-                "Digital notes-unit2.pdf": {
-                    "name": "Digital-notes-unit2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0083d6617df28ecc81de5c72be1d424db960bfc0Waves%20%26%20Oscillations%20notes.pdf",
-                    "url": "https://files.catbox.moe/rructi.pdf"
-                },
-                "End Term 2013.pdf": {
-                    "name": "End-Term-2013.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/331d316d696dc87937f927cb65b755cd69fc8d2bEnd%20Term%202013.pdf",
-                    "url": "https://files.catbox.moe/if65o3.pdf"
-                },
-                "End Term 2015.pdf": {
-                    "name": "End-Term-2015.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/119e9e344eebfff572b053a06f8aacd99175065dEnd%20Term%202015.pdf",
-                    "url": "https://files.catbox.moe/mgfkwi.pdf"
-                },
-                "End Term(IT_MAE_DMAM) April 2022.pdf": {
-                    "name": "End-Term(IT_MAE_DMAM)-April-2022.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/61aa534285f6a4b2ae06b6723097c7336ee4b518End%20Term%28IT_MAE_DMAM%29%20April%202022.pdf",
-                    "url": "https://files.catbox.moe/1rerjo.pdf"
-                },
-                "End Term (CSE/ECE) August 2022.pdf": {
-                    "name": "End-Term-(CSE-ECE)-August-2022.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f825e9a0986fc197240265bf35c9ec50852770b9End%20Term%20%28CSEECE%29%20August%202022.pdf",
-                    "url": "https://files.catbox.moe/5oj3sw.pdf"
-                },
-                "Minor-2 Nov2014.pdf": {
-                    "name": "Minor-2-Nov2014.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b8fd9c3faeefe121b66ab13d1b9808c7bb7aa54Minor-2%20Nov2014.pdf",
-                    "url": "https://files.catbox.moe/y49fh3.pdf"
-                },
-                "Mid Term 2019.pdf": {
-                    "name": "Mid-Term-2019.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/21713c6c01f64a25df08b36e05315a4f1173ccceMid%20Term%202019.pdf",
-                    "url": "https://files.catbox.moe/7pecuo.pdf"
-                },
-                "Minor-2 April2016.pdf": {
-                    "name": "Minor-2-April2016.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e03717cfb5be88447671d357af3c1f2c4a5cd7cfMinor-2%20April2016.pdf",
-                    "url": "https://files.catbox.moe/ctx0fq.pdf"
-                },
-                "Minor2 2016.pdf": {
-                    "name": "Minor2-2016.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6aeb838d187b5142345536a4ecbd17448a303149Minor2%202016.pdf",
-                    "url": "https://files.catbox.moe/stjlky.pdf"
-                },
-                "Experiment 1-8.pdf": {
-                    "name": "Experiment-1-8.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/cc9772835223c75f5660948e07b066db07c53fceExperiment%201-8.pdf",
-                    "url": "https://files.catbox.moe/b9gzo0.pdf"
-                },
-                "Lab Manual .pdf": {
-                    "name": "Lab-Manual-.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/04e49435b5b28045bd271b96d735deeb1dfbb20eLab%20Manual%20.pdf",
-                    "url": "https://files.catbox.moe/5rwkep.pdf"
-                },
-                " (Geeta Sanon)Lab Experiment.pdf": {
-                    "name": "-(Geeta-Sanon)Lab-Experiment.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f24c1391eacd02833e20757775d29d9ea1a4b903%20%28Geeta%20Sanon%29Lab%20Experiment.pdf",
-                    "url": "https://files.catbox.moe/bi3q5i.pdf"
-                },
-                "Preliminary Experiment.pdf": {
-                    "name": "Preliminary-Experiment.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dc8522ed528f7405d02476ac217c8ade3bd6ebfePreliminary%20Experiment.pdf",
-                    "url": "https://files.catbox.moe/n643xt.pdf"
-                },
-                "AK JHA Vol 1.pdf": {
-                    "name": "AK-JHA-Vol-1.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b85bc18b2e7d44f3bfc787eb3f58aca2d70506b3AK%20JHA%20Vol%201.pdf",
-                    "url": "https://files.catbox.moe/fln8ps.pdf"
-                },
-                "CSE-3 optics.pdf": {
-                    "name": "CSE-3-optics.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/653005b4593c8808b1aa1a54e139318dee62fa7funit-1%20optics%2722.pdf",
-                    "url": "https://files.catbox.moe/iy4oft.pdf"
-                },
-                "CSE-1 wave.pdf": {
-                    "name": "CSE-1-wave.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b40273c61b372998abd5d9bec3224c1aa832a618CSE-1%20wave.pdf",
-                    "url": "https://files.catbox.moe/0cx030.pdf"
-                },
-                "CSE-AI 1 EMW.pdf": {
-                    "name": "CSE-AI-1-EMW.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bb0dd065f1ba6077190f830bf7412320e1ffb0d3CSE-AI%201%20EMW.pdf",
-                    "url": "https://files.catbox.moe/skhn0k.pdf"
-                },
-                "Polarisation Notes CS2.pdf": {
-                    "name": "Polarisation-Notes-CS2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba83e9daa4ce5e3aa560af95a720eea239b087ffPolarisation%20Notes%20CS2.pdf",
-                    "url": "https://files.catbox.moe/01c6k7.pdf"
-                },
-                "MAE1 SHM.pdf": {
-                    "name": "MAE1-SHM.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6a4d3874a940b96be27e5a76a51b7cc7f26cbfd0Shm.pdf",
-                    "url": "https://files.catbox.moe/mwemho.pdf"
-                },
-                "Diffraction in single slit and edge.pdf": {
-                    "name": "Diffraction-in-single-slit-and-edge.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/793ad741cc95dd60661915c00daf8fb4db60b64aDiffraction%20in%20single%20slit%20and%20edge.pdf",
-                    "url": "https://files.catbox.moe/xfdyus.pdf"
-                },
-                "Unit 1_Optics.playlist": {
-                    "name": "Unit-1_Optics.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLV2UTYNuWLfE_b-u5anVdvW1Zuu1uhYTL",
-                    "url": "https://files.catbox.moe/n01dgf.txt"
-                },
-                "physics lab file.pdf": {
-                    "name": "physics-lab-file.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/262552489da616adf7f98537296c81f95f8c1a03physics%20lab%20file.pdf",
-                    "url": "https://files.catbox.moe/9l1uxs.pdf"
-                },
-                "POLARIZATION.pdf": {
-                    "name": "POLARIZATION.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/15bbbce47b3a9ff528b8f6e7dd855446cd00b031POLARIZATION.pdf",
-                    "url": "https://files.catbox.moe/weynlk.pdf"
-                },
-                "Unit 2 - Oscillations and Waves 2020.pdf": {
-                    "name": "Unit-2---Oscillations-and-Waves-2020.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0d0baa9f06a77375fabdee0a0fd170a82001f93eUnit%202%20-%20Oscillations%20and%20Waves%202020.pdf",
-                    "url": "https://files.catbox.moe/4qxt3u.pdf"
-                },
-                "Fraunhofer diffraction.pdf": {
-                    "name": "Fraunhofer-diffraction.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/76fff02e6c6b5d6032f737acdaa6db1182a5b966Fraunhofer%20diffraction.pdf",
-                    "url": "https://files.catbox.moe/b97ovm.pdf"
-                },
-                "Interference Handwritten Notes.pdf": {
-                    "name": "Interference-Handwritten-Notes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/49ceaac60315eeb107d103ed497cea700d7ca588Interference%20Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/mopxjn.pdf"
-                },
-                "DIFFRACTION OF LIGHT.pdf": {
-                    "name": "DIFFRACTION-OF-LIGHT.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8715906ce56e47fcb29d3632649b146538a3ccf8DIFFRACTION%20OF%20LIGHT.pdf",
-                    "url": "https://files.catbox.moe/fhd0c8.pdf"
-                },
-                "UNIT 2 SHM.playlist": {
-                    "name": "UNIT-2-SHM.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLC3Bkf_i2k482g6a8hpWdk6PlnP3SJHTO",
-                    "url": "https://files.catbox.moe/pyf0l6.txt"
-                },
-                "TUT Diffraction.pdf": {
-                    "name": "TUT-Diffraction.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e974432a6b871c3e458055c8f2260e2b68e7cb7Tutorial%20Sheet%20Diffraction.pdf",
-                    "url": "https://files.catbox.moe/7egm93.pdf"
-                },
-                "TUT Interference.pdf": {
-                    "name": "TUT-Interference.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7bb64dc655de9b9d2707cbeeb0537a10dcb80d2cTutorial%20Sheet%20Interference.pdf",
-                    "url": "https://files.catbox.moe/l2y8m1.pdf"
-                },
-                "TUT Polarization.pdf": {
-                    "name": "TUT-Polarization.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5d99cefe734c78f3a64b642c17fba0a63b0a3aa3Tutorial%20Sheet%20Polarization.pdf",
-                    "url": "https://files.catbox.moe/09bzxm.pdf"
-                },
-                "interference.playlist": {
-                    "name": "interference.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXBgGd-YAJAHXyFQIM9mpn_",
-                    "url": "https://files.catbox.moe/2i8lm4.txt"
-                },
-                "Central Force, Keplar's Laws.pdf": {
-                    "name": "Central-Force,-Keplar's-Laws.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6e7f124d9be2b806e1fd1f56a5a9b95c01ebbf9dCentral%20Force%2C%20Keplar%27s%20Laws.pdf",
-                    "url": "https://files.catbox.moe/f6fscs.pdf"
-                },
-                "SHM cse3.pdf": {
-                    "name": "SHM-cse3.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1a15b70e4030a0669ebb47403061bfee1e26cc5dSHM%20cse3.pdf",
-                    "url": "https://files.catbox.moe/2laqio.pdf"
-                },
-                "Diff, Poler cse3.pdf": {
-                    "name": "Diff,-Poler-cse3.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3000687b4e0ee44ec72f8ff66d01e81a3646dadcDiff%2C%20Poler%20cse3.pdf",
-                    "url": "https://files.catbox.moe/um5du8.pdf"
-                },
-                "shm(handwritten).pdf": {
-                    "name": "shm(handwritten).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bbfe8786a8cbfd5e3a88100b3f94dd1b6a2b756dshm%28handwritten%29.pdf",
-                    "url": "https://files.catbox.moe/0i1how.pdf"
-                },
-                "Interference tut sheet+ solutions.pdf": {
-                    "name": "Interference-tut-sheet+-solutions.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3fa352e0048bf55c268304c957f728d91618c22Interference%20tut%20sheet%2B%20solutions.pdf",
-                    "url": "https://files.catbox.moe/09xrm2.pdf"
-                },
-                "diffraction tut sheet+sol.pdf": {
-                    "name": "diffraction-tut-sheet+sol.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/664c94321f00997f6d68a2f2ac22edc700a1a635diffraction%20tut%20sheet%2Bsol.pdf",
-                    "url": "https://files.catbox.moe/idlrxc.pdf"
-                },
-                "diffraction tutsheet2+sol.pdf": {
-                    "name": "diffraction-tutsheet2+sol.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f42f5b6e3bfd9f4443c5051c050618780c137698diffraction%20tutsheet2%2Bsol.pdf",
-                    "url": "https://files.catbox.moe/fi0h7c.pdf"
-                },
-                "Optics priyanka.pdf": {
-                    "name": "Optics-priyanka.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69ade1800db211a86151a04deb1c746e7b52be5aOptics%20priyanka.pdf",
-                    "url": "https://files.catbox.moe/juee03.pdf"
-                },
-                "Diffraction +polarisation.pdf": {
-                    "name": "Diffraction-+polarisation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d6cbd3fdc88c1853453f01f476a3fec4473a492Diffraction%20%2Bpolarisation.pdf",
-                    "url": "https://files.catbox.moe/mfkgii.pdf"
-                },
-                "FORMULAS SHM.pdf": {
-                    "name": "FORMULAS-SHM.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/556dff1271be61178eaa964920c1c2862f217153FORMULAS%20SHM.pdf",
-                    "url": "https://files.catbox.moe/5fkygh.pdf"
-                },
-                "mid cse-ece 23.pdf": {
-                    "name": "mid-cse-ece-23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bf82a350f6d984b0da71e5919c0664385f77beb2mid%20cse-ece%2023.pdf",
-                    "url": "https://files.catbox.moe/q0aw57.pdf"
-                },
-                "phy end sem 22.pdf": {
-                    "name": "phy-end-sem-22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/28f57e2c94951ed5bd32dbd8b22e9ab7e059a640phy%20end%20sem%2022.pdf",
-                    "url": "https://files.catbox.moe/3ugo3k.pdf"
-                },
-                "viva ques..pdf": {
-                    "name": "viva-ques..pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54a7351bb277f6cc41c7738fc8fb4261d3ef5c66viva%20ques..pdf",
-                    "url": "https://files.catbox.moe/0xgxh9.pdf"
-                },
-                "UNIT 4.pdf": {
-                    "name": "UNIT-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db3be8444f822df1b924930ba1dbeb4f1a0bf9b9UNIT%204.pdf",
-                    "url": "https://files.catbox.moe/nxaq2v.pdf"
-                },
-                "UNIT 3.pdf": {
-                    "name": "UNIT-3.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/34927e0c89b2eca115c62304cfc9445792106a28UNIT%203.pdf",
-                    "url": "https://files.catbox.moe/olmck4.pdf"
-                },
-                "Quantum Mech.pdf": {
-                    "name": "Quantum-Mech.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b630a75883345de0d687d95512e3dc83f3bec2a9Quantum%20Mech.pdf",
-                    "url": "https://files.catbox.moe/tu6tug.pdf"
-                },
-                "Laser, Fiber.pdf": {
-                    "name": "Laser,-Fiber.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/48b90451944e374f4c1adf189b08b05bf835c3aaLaser%2C%20Fiber.pdf",
-                    "url": "https://files.catbox.moe/zclc86.pdf"
-                },
-                "Quantum Mechanics.pdf": {
-                    "name": "Quantum-Mechanics.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/84cc1a73b0e4adcfba5693edf181d382190eb65fQuantum%20Mechanics.pdf",
-                    "url": "https://files.catbox.moe/4r8p5n.pdf"
-                },
-                "Unit 4_LASER .playlist": {
-                    "name": "Unit-4_LASER-.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPeqJxyK31l4oO0V3T3gzWIK9d6UoBUFS",
-                    "url": "https://files.catbox.moe/2yl9jq.txt"
-                },
-                "RELATIVITY .playlist": {
-                    "name": "RELATIVITY-.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLPeqJxyK31l6Qqn3g7zrTzhOPZ7G696Sx",
-                    "url": "https://files.catbox.moe/qr47y7.txt"
-                },
-                "Unit 3 and 4.pdf": {
-                    "name": "Unit-3-and-4.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9f64df6698feff19b1e7b569c852ca2d804dfd00Unit%203%20and%204.pdf",
-                    "url": "https://files.catbox.moe/zuoylo.pdf"
-                },
-                "Shm derivations.pdf": {
-                    "name": "Shm-derivations.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ace396c84f3ef8a01a8b015e1be812e6de7bccfShm%20derivations.pdf",
-                    "url": "https://files.catbox.moe/wqxiuu.pdf"
-                },
-                "Unit 3_Quantum Mech.playlist": {
-                    "name": "Unit-3_Quantum-Mech.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLq6b-r81cS_xLTjBkHTuA44PX-XBtPFNF",
-                    "url": "https://files.catbox.moe/wvcz89.txt"
-                },
-                "AI Practical File.pdf": {
-                    "name": "AI-Practical-File.pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/40570802a59daf8a7385a78af0a6e6e20c60384bAI%20Practical%20File.pdf",
-                    "url": "https://files.catbox.moe/w04y1n.pdf"
-                },
-                "End-term (March 2023).pdf": {
-                    "name": "End-term-(March-2023).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9deb79e92a5dfd1a94b295375e160cccbe5ee6e6End-term%20%28March%202023%29.pdf",
-                    "url": "https://files.catbox.moe/5rqckl.pdf"
-                },
-                "Electromagnetic Spectrum (Handwritten Notes).pdf": {
-                    "name": "Electromagnetic-Spectrum-(Handwritten-Notes).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df485940bf81dbfa4bd731cd63dcc0174b1354fbElectromagnetic%20Spectrum%20%28Handwritten%20Notes%29.pdf",
-                    "url": "https://files.catbox.moe/a2t95k.pdf"
-                },
-                "Quantum Mechanics (Handwritten Notes).pdf": {
-                    "name": "Quantum-Mechanics-(Handwritten-Notes).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76c2c69aedff7788e71cb92bfb3c52eeda8af5dQuantum%20Mechanics%20%28Handwritten%20Notes%29.pdf",
-                    "url": "https://files.catbox.moe/wdt25q.pdf"
-                },
-                "Lasers and Optical Fiber Communication.pdf": {
-                    "name": "Lasers-and-Optical-Fiber-Communication.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6c9654dc3bbef197e50101f2149b929815412c7cLasers%20and%20Optical%20Fiber%20Communication.pdf",
-                    "url": "https://files.catbox.moe/4ke102.pdf"
-                },
-                "Lasers and Optical Fiber Communication (Handwritten Notes).pdf": {
-                    "name": "Lasers-and-Optical-Fiber-Communication-(Handwritten-Notes).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0afee70248f6e0d46c8f7ed65f154b3f13b68bb1Lasers%20and%20Optical%20Fiber%20Communication%20%28Handwritten%20Notes%29.pdf",
-                    "url": "https://files.catbox.moe/yt9ed5.pdf"
-                },
-                "Optics.pdf": {
-                    "name": "Optics.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8c54517a271136c190bf6f8a420f1c3b47feac87Optics.pdf",
-                    "url": "https://files.catbox.moe/6kegax.pdf"
-                },
-                "Optics (Handwritten Notes).pdf": {
-                    "name": "Optics-(Handwritten-Notes).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5586864370260b138abc82624b71418f3c4aea1cOptics%20%28Handwritten%20Notes%29.pdf",
-                    "url": "https://files.catbox.moe/hnozf8.pdf"
-                },
-                "AI Mid-term (January 2023).pdf": {
-                    "name": "AI-Mid-term-(January-2023).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/66086ff28463947db8885540a3e1803b996e4774AI%20Mid-term%20%28January%202023%29.pdf",
-                    "url": "https://files.catbox.moe/x2kfi9.pdf"
-                },
-                "AI End-term (March 2023).pdf": {
-                    "name": "AI-End-term-(March-2023).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/cfb62f761723c991c33b3a13e221614436af21bfAI%20End-term%20%28March%202023%29.pdf",
-                    "url": "https://files.catbox.moe/gbu4vh.pdf"
-                },
-                "Diffraction.pdf": {
-                    "name": "Diffraction-+polarisation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d6cbd3fdc88c1853453f01f476a3fec4473a492Diffraction%20%2Bpolarisation.pdf",
-                    "url": "https://files.catbox.moe/mfkgii.pdf"
-                },
-                "Newton'sRingsExp..pdf": {
-                    "name": "Newton'sRingsExp..pdf",
-                    "type": "Project",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2bc1b226006d42493f01b171e5c0acc0bfbee5ebNewton%27sRingsExp..pdf",
-                    "url": "https://files.catbox.moe/cthsus.pdf"
-                },
-                "GanotraSirGA1.pdf": {
-                    "name": "GanotraSirGA1.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4b45b5b5d7dc39230f0f1e343bac48c34cf8e5ddGanotraSirGA1.pdf",
-                    "url": "https://files.catbox.moe/zro6uw.pdf"
-                },
-                "AMIT SIR (OPTICS).pdf": {
-                    "name": "AMIT-SIR-(OPTICS).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ffc6483e623b5bb3ce70650b6151a87c1921ec8eAMIT%20SIR%20%28OPTICS%29.pdf",
-                    "url": "https://files.catbox.moe/z91h35.pdf"
-                },
-                "Unit 1_Optics_TechnicalPhy.playlist": {
-                    "name": "Unit-1_Optics_TechnicalPhy.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=5yzLt9w3UqU&list=PL5zwY2E7i60X095MhnHZ31LAjo2rqUhNr",
-                    "url": "https://files.catbox.moe/fw7bsc.txt"
-                },
-                "Unit 2_EMT_TechnicalPhy.playlist": {
-                    "name": "Unit-2_EMT_TechnicalPhy.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=6WjEt8VRntY&list=PL5zwY2E7i60UOvHJEOpJEw-lR2Zdmg2Ik",
-                    "url": "https://files.catbox.moe/n7l4u8.txt"
-                },
-                "MidTerm_Solutions_Jan'23.pdf": {
-                    "name": "MidTerm_Solutions_Jan'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3ab7f4eddf8cb561df38145ef34f17418464f540MidSem_Solutions_Jan%2723.pdf",
-                    "url": "https://files.catbox.moe/2bpum6.pdf"
-                },
-                "Optics(handwritten)-GanotraSir.pdf": {
-                    "name": "Optics(handwritten)-GanotraSir.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b93cac6082b48ba824bb0b77adcaa1900cbd8c5dOptics-GanotraSir.pdf",
-                    "url": "https://files.catbox.moe/q3h7vo.pdf"
-                },
-                "Shm Priyanka mam.pdf": {
-                    "name": "Shm-Priyanka-mam.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2ea13b3767d142f7d6a7a609e988f8c4b54b6357ClassicalMechanics-PriyankaMa%27am.pdf",
-                    "url": "https://files.catbox.moe/jvzg9t.pdf"
-                },
-                "Physics_MidSem_Oct'23.pdf": {
-                    "name": "Physics_MidSem_Oct'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/570b6b97de2d47f171a786b367222579e2c95897Physics_MidSem_Oct%2723.pdf",
-                    "url": "https://files.catbox.moe/cwbstb.pdf"
-                },
-                "GanotraSir (Unit1to4).pdf": {
-                    "name": "GanotraSir-(Unit1to4).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2396d9d6bfd272581dd2d33e30b736b7d0429c84GanotraSirNotesUnit1to4.pdf",
-                    "url": "https://files.catbox.moe/yc07mh.pdf"
-                },
-                "Phy_Endsem_Dec'23.pdf": {
-                    "name": "Phy_Endsem_Dec'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e2a74151a8dcdadec8399b270206f6a6a7721e66Phy_Endsem_Dec%2723.pdf",
-                    "url": "https://files.catbox.moe/8g2ika.pdf"
-                },
-                "UNIT I OPTICS-Sheet1.pdf": {
-                    "name": "UNIT-I-OPTICS-Sheet1.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a982bfc3082adf3e22a22cfbe15b3fbb16bc53d8UNIT%20I%20OPTICS-Sheet1.pdf",
-                    "url": "https://files.catbox.moe/2ifk13.pdf"
-                },
-                "end term 2024.pdf": {
-                    "name": "end-term-2024.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/64e014322c91de4ad641323beb9e6f3bf1f18990end%20term%202024.pdf",
-                    "url": "https://files.catbox.moe/jlg7c7.pdf"
-                }
-            },
-            "Computer-Organization-and-Architecture": {
-                "M. Morris Mano.pdf": {
-                    "name": "M.-Morris-Mano.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4836a049000fe9f5bb28ccdebdf47f56a1658702M.%20Morris%20Mano.pdf",
-                    "url": "https://files.catbox.moe/rbbnzj.pdf"
-                },
-                "unit 3-4.pdf": {
-                    "name": "unit-3-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c37b7a58de81bda93d094447ffb43710dfc337unit%203-4.pdf",
-                    "url": "https://files.catbox.moe/ndq78t.pdf"
-                },
-                "unit 1-2.pdf": {
-                    "name": "unit-1-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4e7fb3274c54d79fae2d04d4ae892be225b221a3unit%201-2.pdf",
-                    "url": "https://files.catbox.moe/50qhb5.pdf"
-                },
-                "COA unit 1 .playlist": {
-                    "name": "COA-unit-1-.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLP8GMSde0NDZJGkd_AzjljUMO3MWOQpfg",
-                    "url": "https://files.catbox.moe/ypfg31.txt"
-                },
-                "coa end sem22.pdf": {
-                    "name": "coa-end-sem22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/43c1d7f708c4369ade9a03f7a7c2593cdbb648ffcoa%20end%20sem22.pdf",
-                    "url": "https://files.catbox.moe/4ar5x7.pdf"
-                },
-                "Experiment 1.docx": {
-                    "name": "Experiment-1.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a05eaf3c969e80a308abecb165bd0b02c8c56f5aExperiment%201.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 2.docx": {
-                    "name": "Experiment-2.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4aefc13ca310dc2d55d2d66f3d8807f73ec3eef4Experiment%202.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 3.docx": {
-                    "name": "Experiment-3.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/58070e71fd291eeb125fde047fd8a7c02e5c967dExperiment%203.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 4.docx": {
-                    "name": "Experiment-4.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e1b7301fffd4e9e1564833b43ce93b1cfe13f13aExperiment%204.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 5.docx": {
-                    "name": "Experiment-5.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e80dfa41964eec62c3d40eaf10647f2913db913cExperiment%205.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 6.docx": {
-                    "name": "Experiment-6.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fb39b3e6d109499c0b0eb9bdd862dbe1b34a0b1dExperiment%206.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 7.docx": {
-                    "name": "Experiment-7.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3dc56d9e284e6a14bc298c962ba8275833859f80Experiment%207.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 8.docx": {
-                    "name": "Experiment-8.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d0bb517698dcecc32ff4077456b89532be8b6704Experiment%208.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 9.docx": {
-                    "name": "Experiment-9.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1155125afabbe1d9fc26ce4a3bf6898bdfa3e160Experiment%209.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 10.docx": {
-                    "name": "Experiment-10.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7eb85168165a3fabcd8949db2f4027373454ff14Experiment%2010.docx",
-                    "url": "URL Error"
-                },
-                "List of Experiments.docx": {
-                    "name": "List-of-Experiments.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb3b6f7f8c36f9fb66ead0e21b003b55f33fd977List%20of%20Experiments.docx",
-                    "url": "URL Error"
-                },
-                "COA mid sem'22.pdf": {
-                    "name": "COA-mid-sem'22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/06963d69366a0e24745f441e9a76e6196e96335aCOA%20mid%20sem%2722.pdf",
-                    "url": "https://files.catbox.moe/vj91m4.pdf"
-                },
-                "COA assignment 1 (with solutions).pdf": {
-                    "name": "COA-assignment-1-(with-solutions).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ceaff8eb49d981302357c619e1355eac79ba8390COA%20assignment%201%20%28with%20solutions%29.pdf",
-                    "url": "https://files.catbox.moe/01ej8p.pdf"
-                },
-                "Assignment 2 with solutions.jpg": {
-                    "name": "Assignment-2-with-solutions.jpg",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dd8e5ffbc79495bd255a911e0fd2d32266243129Assignment%202%20with%20solutions.jpg",
-                    "url": "https://files.catbox.moe/x0llvu.jpg"
-                },
-                "LAB FILE (all exp).docx": {
-                    "name": "LAB-FILE-(all-exp).docx",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c1faad846036cc62b9469279db0e575cd70bf09aLAB%20FILE%20%28all%20exp%29.docx",
-                    "url": "URL Error"
-                },
-                "UNIT 1_Lec-1_PPT.pdf": {
-                    "name": "UNIT-1_Lec-1_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e63a8d88ddb891280759650b9ff92b2a369d603UNIT%201%2C%20Lec-1%2C%20Intro%20PPT.pdf",
-                    "url": "https://files.catbox.moe/ik5t6w.pdf"
-                },
-                "UNIT 1_Lec-2_PPT.pdf": {
-                    "name": "UNIT-1_Lec-2_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/911b3c130b4b91de9865a00a73cd74210bd9d268UNIT%201%2C%20Lec-2%2C%20Logic%20Gates%20PPT.pdf",
-                    "url": "https://files.catbox.moe/6i18qg.pdf"
-                },
-                "UNIT 1_ Lec-3_PPT.pdf": {
-                    "name": "UNIT-1_-Lec-3_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ef34a1c32044878e1a81d544bb6a004f829a4643UNIT%201%2C%20Lec-3%2C%20PPT.pdf",
-                    "url": "https://files.catbox.moe/8vg2kn.pdf"
-                },
-                "UNIT 1_ Lec-4_PPT.pdf": {
-                    "name": "UNIT-1_-Lec-4_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2bc157156849b5d0bd0eda976090ff7cde77ec66UNIT%201%2C%20Lec-4%2C%20PPT.pdf",
-                    "url": "https://files.catbox.moe/ej4ahq.pdf"
-                },
-                "UNIT 1_ Lec-5 _PPT.pdf": {
-                    "name": "UNIT-1_-Lec-5-_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d4e38d001ef3cd29ec06e073395ea1ce467a6219UNIT%201%2C%20Lec-5%20%2C%20PPT.pdf",
-                    "url": "https://files.catbox.moe/or28fs.pdf"
-                },
-                "UNIT 1_Lec-8_PPT.pdf": {
-                    "name": "UNIT-1_Lec-8_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8fdffe00ddccf368f8c50a246b0059ffaa1f27e7UNIT%201_Lec-8_PPT.pdf",
-                    "url": "https://files.catbox.moe/nhkw8m.pdf"
-                },
-                "UNIT 1_Lec-7_PPT.pdf": {
-                    "name": "UNIT-1_Lec-7_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ad6bbdbd04b32ae7db530ee11d72d0f4f878a0fbUNIT%201_Lec-7_PPT.pdf",
-                    "url": "https://files.catbox.moe/wf8x98.pdf"
-                },
-                "UNIT 1_Lec-6_PPT.pdf": {
-                    "name": "UNIT-1_Lec-6_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/916dd21bc41cfde6b6044460c6b82c1fa8b12768UNIT%201_Lec-6_PPT.pdf",
-                    "url": "https://files.catbox.moe/dkbmym.pdf"
-                },
-                "COA Unit-1.playlist": {
-                    "name": "COA-Unit-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=8msCz6Nb6nk&list=PL-JvKqQx2Atfuxo1LR0m9RQramPymoBsj",
-                    "url": "https://files.catbox.moe/bob6v5.txt"
-                },
-                "Complete playlist_Gate Smashers.playlist": {
-                    "name": "Complete-playlist_Gate-Smashers.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=L9X7XXfHYdU&list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
-                    "url": "https://files.catbox.moe/5g8cwe.txt"
-                },
-                "Coa midsem'22 solns (1).pdf": {
-                    "name": "Coa-midsem'22-solns-(1).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e2a35235e27e613ef5256d1a348d83f98d3f019Coa%20midsem%2722%20solns%20%281%29.pdf",
-                    "url": "https://files.catbox.moe/r7ffgw.pdf"
-                },
-                "UNIT 2_Lec-1_PPT.pdf.pdf": {
-                    "name": "UNIT-2_Lec-1_PPT.pdf.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6edd9402030cd08fec2138f5874c22f6175f84e5UNIT%201_Lec-9_PPT.pdf.pdf",
-                    "url": "https://files.catbox.moe/4a2g3l.pdf"
-                },
-                "UNIT 2_Lec-2_PPT.pdf.pdf": {
-                    "name": "UNIT-2_Lec-2_PPT.pdf.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ffabcd1ff8d7fdbfe8aa4bd7467385400415a88UNIT%202_Lec-2_PPT.pdf.pdf",
-                    "url": "https://files.catbox.moe/4qyfll.pdf"
-                },
-                "UNIT 2_Lec-3_PPT.pdf.pdf": {
-                    "name": "UNIT-2_Lec-3_PPT.pdf.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6f4b2b5b36497fc91e0ceb9ca8c19c5f851e10cdUNIT%202_Lec-3_PPT.pdf.pdf",
-                    "url": "https://files.catbox.moe/7dv59b.pdf"
-                },
-                "COA_MidSem_Oct'23.pdf": {
-                    "name": "COA_MidSem_Oct'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f4f38f9fb40c9fa978c3ebbdd118d1d32d8af85cCOA_MidSem_Oct%2723.pdf",
-                    "url": "https://files.catbox.moe/lihe44.pdf"
-                },
-                "COA_Endsem_Dec'23.pdf": {
-                    "name": "COA_Endsem_Dec'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c27257c0a4687f8c8128bc3aedb64d9743c3fbCOA_Endsem_Dec%2723.pdf",
-                    "url": "https://files.catbox.moe/71cx39.pdf"
-                },
-                "COA_Unit 3.playlist": {
-                    "name": "COA_Unit-3.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JsxFEluRokmVwMp3zF7JL7tL&feature=shared",
-                    "url": "https://files.catbox.moe/my8ssr.txt"
-                },
-                "COA_Unit 4.playlist": {
-                    "name": "COA_Unit-4.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JszyaKeoc9qP8Bn45XzqJycj&feature=shared",
-                    "url": "https://files.catbox.moe/li5gu6.txt"
-                },
-                "Unit 1.playlist": {
-                    "name": "Unit-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLC3Bkf_i2k4_J02ktCnl8yJ7sknddcVD8",
-                    "url": "https://files.catbox.moe/gwofvm.txt"
-                },
-                "Unit 2.playlist": {
-                    "name": "Unit-2.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLC3Bkf_i2k49fyj9sXl0ht1kTldozc4js&feature=shared",
-                    "url": "https://files.catbox.moe/zag7do.txt"
-                }
-            },
             "Communication-Skills": {
                 "Meenakshi Raman- Sangeeta Sharma.pdf": {
                     "name": "Meenakshi-Raman--Sangeeta-Sharma.pdf",
@@ -19947,7 +19163,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/pfc95y.txt"
+                    "url": "https://files.catbox.moe/nafrce.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -19971,7 +19187,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/7n5ojk.pdf"
+                    "url": "https://files.catbox.moe/09pegy.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -20063,7 +19279,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/9ffbm6.pdf"
+                    "url": "https://files.catbox.moe/qm8hfr.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -20282,6 +19498,790 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/24ca6bfdc1b9d67b523d9c5a172fceb32d843483OOPJ%20Endsem%20%28May%2724%29.pdf",
                     "url": "https://files.catbox.moe/5sroiy.pdf"
+                }
+            },
+            "Physics---1": {
+                "TUT classical mech.pdf": {
+                    "name": "TUT-classical-mech.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f664de6c0ecdc982dc79c4f0cf67f6cd860823d0%28Classic%20Mechanics%29%20Tutorial%20sheet%201.pdf",
+                    "url": "https://files.catbox.moe/fzu4jl.pdf"
+                },
+                "TUT optics soln.pdf": {
+                    "name": "TUT-optics-soln.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e0a5df7fcbbea3224a129809b4f5f92b2ca037d%28Optics%29%20Tutorial%20Sheet%20Solution.pdf",
+                    "url": "https://files.catbox.moe/fx7d8v.pdf"
+                },
+                "TUT-2 classical mech.pdf": {
+                    "name": "TUT-2-classical-mech.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a0208e92a4aeb454a33003e2e74225411266c0a9%28Oscillatory%29%20Tutorial%20Sheet%201.pdf",
+                    "url": "https://files.catbox.moe/83csem.pdf"
+                },
+                "SHM Solved Examples.pdf": {
+                    "name": "SHM-Solved-Examples.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/35c835d576feb6449128d587af0c21e5736d2594SHM%20Solved%20Examples.pdf",
+                    "url": "https://files.catbox.moe/xxai5r.pdf"
+                },
+                "HK MALIK.pdf": {
+                    "name": "HK-MALIK.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1b2a47bab8c593f4fffef4aed38a45a0c758bf0bHK%20MALIK.pdf",
+                    "url": "https://files.catbox.moe/70r4o1.pdf"
+                },
+                "AK JHA Vol 2.pdf": {
+                    "name": "AK-JHA-Vol-2.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8f7f990608bd0bcd7696f8da0c1350739f7cf141AK%20JHA%20Vol%202.pdf",
+                    "url": "https://files.catbox.moe/bypy9x.pdf"
+                },
+                "Central Force.pdf": {
+                    "name": "Central-Force.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a5e05f9af20647990e45487dc0422c1801492448Central%20Force.pdf",
+                    "url": "https://files.catbox.moe/nbilfy.pdf"
+                },
+                "Central Forces(h/w).pdf": {
+                    "name": "Central-Forces(h-w).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8a8cc2594feb93cc8e8b14eb68aa878b66e9b3ca%28Central%20Forces%29Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/iducsc.pdf"
+                },
+                "Classical Mechanics.pdf": {
+                    "name": "Classical-Mechanics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a6c9b143952ef2748fb3f10580e7ab7291f0a2a2Classical%20Mechanics.pdf",
+                    "url": "https://files.catbox.moe/u4rk96.pdf"
+                },
+                "Lect-1(unit2).pdf": {
+                    "name": "Lect-1(unit2).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/04d0eacfbd2d5d6dc0dfb749d12e2ae6578b48e6%20%28Oscillations%29%20Lecture-1.pdf",
+                    "url": "https://files.catbox.moe/9wkwig.pdf"
+                },
+                "Oscillation.pdf": {
+                    "name": "Oscillation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0e05b9e7811179dbb71f5d52c84c2733679a98b8%28Oscillation%29%20Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/ezhehx.pdf"
+                },
+                "Digital notes-unit2.pdf": {
+                    "name": "Digital-notes-unit2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0083d6617df28ecc81de5c72be1d424db960bfc0Waves%20%26%20Oscillations%20notes.pdf",
+                    "url": "https://files.catbox.moe/rructi.pdf"
+                },
+                "End Term 2013.pdf": {
+                    "name": "End-Term-2013.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/331d316d696dc87937f927cb65b755cd69fc8d2bEnd%20Term%202013.pdf",
+                    "url": "https://files.catbox.moe/if65o3.pdf"
+                },
+                "End Term 2015.pdf": {
+                    "name": "End-Term-2015.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/119e9e344eebfff572b053a06f8aacd99175065dEnd%20Term%202015.pdf",
+                    "url": "https://files.catbox.moe/mgfkwi.pdf"
+                },
+                "End Term(IT_MAE_DMAM) April 2022.pdf": {
+                    "name": "End-Term(IT_MAE_DMAM)-April-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/61aa534285f6a4b2ae06b6723097c7336ee4b518End%20Term%28IT_MAE_DMAM%29%20April%202022.pdf",
+                    "url": "https://files.catbox.moe/1rerjo.pdf"
+                },
+                "End Term (CSE/ECE) August 2022.pdf": {
+                    "name": "End-Term-(CSE-ECE)-August-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f825e9a0986fc197240265bf35c9ec50852770b9End%20Term%20%28CSEECE%29%20August%202022.pdf",
+                    "url": "https://files.catbox.moe/5oj3sw.pdf"
+                },
+                "Minor-2 Nov2014.pdf": {
+                    "name": "Minor-2-Nov2014.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b8fd9c3faeefe121b66ab13d1b9808c7bb7aa54Minor-2%20Nov2014.pdf",
+                    "url": "https://files.catbox.moe/y49fh3.pdf"
+                },
+                "Mid Term 2019.pdf": {
+                    "name": "Mid-Term-2019.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/21713c6c01f64a25df08b36e05315a4f1173ccceMid%20Term%202019.pdf",
+                    "url": "https://files.catbox.moe/7pecuo.pdf"
+                },
+                "Minor-2 April2016.pdf": {
+                    "name": "Minor-2-April2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e03717cfb5be88447671d357af3c1f2c4a5cd7cfMinor-2%20April2016.pdf",
+                    "url": "https://files.catbox.moe/ctx0fq.pdf"
+                },
+                "Minor2 2016.pdf": {
+                    "name": "Minor2-2016.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6aeb838d187b5142345536a4ecbd17448a303149Minor2%202016.pdf",
+                    "url": "https://files.catbox.moe/stjlky.pdf"
+                },
+                "Experiment 1-8.pdf": {
+                    "name": "Experiment-1-8.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/cc9772835223c75f5660948e07b066db07c53fceExperiment%201-8.pdf",
+                    "url": "https://files.catbox.moe/b9gzo0.pdf"
+                },
+                "Lab Manual .pdf": {
+                    "name": "Lab-Manual-.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/04e49435b5b28045bd271b96d735deeb1dfbb20eLab%20Manual%20.pdf",
+                    "url": "https://files.catbox.moe/5rwkep.pdf"
+                },
+                " (Geeta Sanon)Lab Experiment.pdf": {
+                    "name": "-(Geeta-Sanon)Lab-Experiment.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f24c1391eacd02833e20757775d29d9ea1a4b903%20%28Geeta%20Sanon%29Lab%20Experiment.pdf",
+                    "url": "https://files.catbox.moe/bi3q5i.pdf"
+                },
+                "Preliminary Experiment.pdf": {
+                    "name": "Preliminary-Experiment.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dc8522ed528f7405d02476ac217c8ade3bd6ebfePreliminary%20Experiment.pdf",
+                    "url": "https://files.catbox.moe/n643xt.pdf"
+                },
+                "AK JHA Vol 1.pdf": {
+                    "name": "AK-JHA-Vol-1.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b85bc18b2e7d44f3bfc787eb3f58aca2d70506b3AK%20JHA%20Vol%201.pdf",
+                    "url": "https://files.catbox.moe/fln8ps.pdf"
+                },
+                "CSE-3 optics.pdf": {
+                    "name": "CSE-3-optics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/653005b4593c8808b1aa1a54e139318dee62fa7funit-1%20optics%2722.pdf",
+                    "url": "https://files.catbox.moe/iy4oft.pdf"
+                },
+                "CSE-1 wave.pdf": {
+                    "name": "CSE-1-wave.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b40273c61b372998abd5d9bec3224c1aa832a618CSE-1%20wave.pdf",
+                    "url": "https://files.catbox.moe/0cx030.pdf"
+                },
+                "CSE-AI 1 EMW.pdf": {
+                    "name": "CSE-AI-1-EMW.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bb0dd065f1ba6077190f830bf7412320e1ffb0d3CSE-AI%201%20EMW.pdf",
+                    "url": "https://files.catbox.moe/skhn0k.pdf"
+                },
+                "Polarisation Notes CS2.pdf": {
+                    "name": "Polarisation-Notes-CS2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba83e9daa4ce5e3aa560af95a720eea239b087ffPolarisation%20Notes%20CS2.pdf",
+                    "url": "https://files.catbox.moe/01c6k7.pdf"
+                },
+                "MAE1 SHM.pdf": {
+                    "name": "MAE1-SHM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6a4d3874a940b96be27e5a76a51b7cc7f26cbfd0Shm.pdf",
+                    "url": "https://files.catbox.moe/mwemho.pdf"
+                },
+                "Diffraction in single slit and edge.pdf": {
+                    "name": "Diffraction-in-single-slit-and-edge.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/793ad741cc95dd60661915c00daf8fb4db60b64aDiffraction%20in%20single%20slit%20and%20edge.pdf",
+                    "url": "https://files.catbox.moe/xfdyus.pdf"
+                },
+                "Unit 1_Optics.playlist": {
+                    "name": "Unit-1_Optics.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLV2UTYNuWLfE_b-u5anVdvW1Zuu1uhYTL",
+                    "url": "https://files.catbox.moe/n01dgf.txt"
+                },
+                "physics lab file.pdf": {
+                    "name": "physics-lab-file.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/262552489da616adf7f98537296c81f95f8c1a03physics%20lab%20file.pdf",
+                    "url": "https://files.catbox.moe/9l1uxs.pdf"
+                },
+                "POLARIZATION.pdf": {
+                    "name": "POLARIZATION.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/15bbbce47b3a9ff528b8f6e7dd855446cd00b031POLARIZATION.pdf",
+                    "url": "https://files.catbox.moe/weynlk.pdf"
+                },
+                "Unit 2 - Oscillations and Waves 2020.pdf": {
+                    "name": "Unit-2---Oscillations-and-Waves-2020.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0d0baa9f06a77375fabdee0a0fd170a82001f93eUnit%202%20-%20Oscillations%20and%20Waves%202020.pdf",
+                    "url": "https://files.catbox.moe/4qxt3u.pdf"
+                },
+                "Fraunhofer diffraction.pdf": {
+                    "name": "Fraunhofer-diffraction.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/76fff02e6c6b5d6032f737acdaa6db1182a5b966Fraunhofer%20diffraction.pdf",
+                    "url": "https://files.catbox.moe/b97ovm.pdf"
+                },
+                "Interference Handwritten Notes.pdf": {
+                    "name": "Interference-Handwritten-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/49ceaac60315eeb107d103ed497cea700d7ca588Interference%20Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/mopxjn.pdf"
+                },
+                "DIFFRACTION OF LIGHT.pdf": {
+                    "name": "DIFFRACTION-OF-LIGHT.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8715906ce56e47fcb29d3632649b146538a3ccf8DIFFRACTION%20OF%20LIGHT.pdf",
+                    "url": "https://files.catbox.moe/fhd0c8.pdf"
+                },
+                "UNIT 2 SHM.playlist": {
+                    "name": "UNIT-2-SHM.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLC3Bkf_i2k482g6a8hpWdk6PlnP3SJHTO",
+                    "url": "https://files.catbox.moe/pyf0l6.txt"
+                },
+                "TUT Diffraction.pdf": {
+                    "name": "TUT-Diffraction.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e974432a6b871c3e458055c8f2260e2b68e7cb7Tutorial%20Sheet%20Diffraction.pdf",
+                    "url": "https://files.catbox.moe/7egm93.pdf"
+                },
+                "TUT Interference.pdf": {
+                    "name": "TUT-Interference.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7bb64dc655de9b9d2707cbeeb0537a10dcb80d2cTutorial%20Sheet%20Interference.pdf",
+                    "url": "https://files.catbox.moe/l2y8m1.pdf"
+                },
+                "TUT Polarization.pdf": {
+                    "name": "TUT-Polarization.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5d99cefe734c78f3a64b642c17fba0a63b0a3aa3Tutorial%20Sheet%20Polarization.pdf",
+                    "url": "https://files.catbox.moe/09bzxm.pdf"
+                },
+                "interference.playlist": {
+                    "name": "interference.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPCZEcPBXtEXBgGd-YAJAHXyFQIM9mpn_",
+                    "url": "https://files.catbox.moe/2i8lm4.txt"
+                },
+                "Central Force, Keplar's Laws.pdf": {
+                    "name": "Central-Force,-Keplar's-Laws.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6e7f124d9be2b806e1fd1f56a5a9b95c01ebbf9dCentral%20Force%2C%20Keplar%27s%20Laws.pdf",
+                    "url": "https://files.catbox.moe/f6fscs.pdf"
+                },
+                "SHM cse3.pdf": {
+                    "name": "SHM-cse3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1a15b70e4030a0669ebb47403061bfee1e26cc5dSHM%20cse3.pdf",
+                    "url": "https://files.catbox.moe/2laqio.pdf"
+                },
+                "Diff, Poler cse3.pdf": {
+                    "name": "Diff,-Poler-cse3.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3000687b4e0ee44ec72f8ff66d01e81a3646dadcDiff%2C%20Poler%20cse3.pdf",
+                    "url": "https://files.catbox.moe/um5du8.pdf"
+                },
+                "shm(handwritten).pdf": {
+                    "name": "shm(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bbfe8786a8cbfd5e3a88100b3f94dd1b6a2b756dshm%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/0i1how.pdf"
+                },
+                "Interference tut sheet+ solutions.pdf": {
+                    "name": "Interference-tut-sheet+-solutions.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3fa352e0048bf55c268304c957f728d91618c22Interference%20tut%20sheet%2B%20solutions.pdf",
+                    "url": "https://files.catbox.moe/09xrm2.pdf"
+                },
+                "diffraction tut sheet+sol.pdf": {
+                    "name": "diffraction-tut-sheet+sol.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/664c94321f00997f6d68a2f2ac22edc700a1a635diffraction%20tut%20sheet%2Bsol.pdf",
+                    "url": "https://files.catbox.moe/idlrxc.pdf"
+                },
+                "diffraction tutsheet2+sol.pdf": {
+                    "name": "diffraction-tutsheet2+sol.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f42f5b6e3bfd9f4443c5051c050618780c137698diffraction%20tutsheet2%2Bsol.pdf",
+                    "url": "https://files.catbox.moe/fi0h7c.pdf"
+                },
+                "Optics priyanka.pdf": {
+                    "name": "Optics-priyanka.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69ade1800db211a86151a04deb1c746e7b52be5aOptics%20priyanka.pdf",
+                    "url": "https://files.catbox.moe/juee03.pdf"
+                },
+                "Diffraction +polarisation.pdf": {
+                    "name": "Diffraction-+polarisation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d6cbd3fdc88c1853453f01f476a3fec4473a492Diffraction%20%2Bpolarisation.pdf",
+                    "url": "https://files.catbox.moe/mfkgii.pdf"
+                },
+                "FORMULAS SHM.pdf": {
+                    "name": "FORMULAS-SHM.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/556dff1271be61178eaa964920c1c2862f217153FORMULAS%20SHM.pdf",
+                    "url": "https://files.catbox.moe/5fkygh.pdf"
+                },
+                "mid cse-ece 23.pdf": {
+                    "name": "mid-cse-ece-23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bf82a350f6d984b0da71e5919c0664385f77beb2mid%20cse-ece%2023.pdf",
+                    "url": "https://files.catbox.moe/q0aw57.pdf"
+                },
+                "phy end sem 22.pdf": {
+                    "name": "phy-end-sem-22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/28f57e2c94951ed5bd32dbd8b22e9ab7e059a640phy%20end%20sem%2022.pdf",
+                    "url": "https://files.catbox.moe/3ugo3k.pdf"
+                },
+                "viva ques..pdf": {
+                    "name": "viva-ques..pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/54a7351bb277f6cc41c7738fc8fb4261d3ef5c66viva%20ques..pdf",
+                    "url": "https://files.catbox.moe/0xgxh9.pdf"
+                },
+                "UNIT 4.pdf": {
+                    "name": "UNIT-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/db3be8444f822df1b924930ba1dbeb4f1a0bf9b9UNIT%204.pdf",
+                    "url": "https://files.catbox.moe/nxaq2v.pdf"
+                },
+                "UNIT 3.pdf": {
+                    "name": "UNIT-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/34927e0c89b2eca115c62304cfc9445792106a28UNIT%203.pdf",
+                    "url": "https://files.catbox.moe/olmck4.pdf"
+                },
+                "Quantum Mech.pdf": {
+                    "name": "Quantum-Mech.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b630a75883345de0d687d95512e3dc83f3bec2a9Quantum%20Mech.pdf",
+                    "url": "https://files.catbox.moe/tu6tug.pdf"
+                },
+                "Laser, Fiber.pdf": {
+                    "name": "Laser,-Fiber.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/48b90451944e374f4c1adf189b08b05bf835c3aaLaser%2C%20Fiber.pdf",
+                    "url": "https://files.catbox.moe/zclc86.pdf"
+                },
+                "Quantum Mechanics.pdf": {
+                    "name": "Quantum-Mechanics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/84cc1a73b0e4adcfba5693edf181d382190eb65fQuantum%20Mechanics.pdf",
+                    "url": "https://files.catbox.moe/4r8p5n.pdf"
+                },
+                "Unit 4_LASER .playlist": {
+                    "name": "Unit-4_LASER-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPeqJxyK31l4oO0V3T3gzWIK9d6UoBUFS",
+                    "url": "https://files.catbox.moe/2yl9jq.txt"
+                },
+                "RELATIVITY .playlist": {
+                    "name": "RELATIVITY-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLPeqJxyK31l6Qqn3g7zrTzhOPZ7G696Sx",
+                    "url": "https://files.catbox.moe/qr47y7.txt"
+                },
+                "Unit 3 and 4.pdf": {
+                    "name": "Unit-3-and-4.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9f64df6698feff19b1e7b569c852ca2d804dfd00Unit%203%20and%204.pdf",
+                    "url": "https://files.catbox.moe/zuoylo.pdf"
+                },
+                "Shm derivations.pdf": {
+                    "name": "Shm-derivations.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ace396c84f3ef8a01a8b015e1be812e6de7bccfShm%20derivations.pdf",
+                    "url": "https://files.catbox.moe/wqxiuu.pdf"
+                },
+                "Unit 3_Quantum Mech.playlist": {
+                    "name": "Unit-3_Quantum-Mech.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLq6b-r81cS_xLTjBkHTuA44PX-XBtPFNF",
+                    "url": "https://files.catbox.moe/wvcz89.txt"
+                },
+                "AI Practical File.pdf": {
+                    "name": "AI-Practical-File.pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/40570802a59daf8a7385a78af0a6e6e20c60384bAI%20Practical%20File.pdf",
+                    "url": "https://files.catbox.moe/w04y1n.pdf"
+                },
+                "End-term (March 2023).pdf": {
+                    "name": "End-term-(March-2023).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9deb79e92a5dfd1a94b295375e160cccbe5ee6e6End-term%20%28March%202023%29.pdf",
+                    "url": "https://files.catbox.moe/5rqckl.pdf"
+                },
+                "Electromagnetic Spectrum (Handwritten Notes).pdf": {
+                    "name": "Electromagnetic-Spectrum-(Handwritten-Notes).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/df485940bf81dbfa4bd731cd63dcc0174b1354fbElectromagnetic%20Spectrum%20%28Handwritten%20Notes%29.pdf",
+                    "url": "https://files.catbox.moe/a2t95k.pdf"
+                },
+                "Quantum Mechanics (Handwritten Notes).pdf": {
+                    "name": "Quantum-Mechanics-(Handwritten-Notes).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d76c2c69aedff7788e71cb92bfb3c52eeda8af5dQuantum%20Mechanics%20%28Handwritten%20Notes%29.pdf",
+                    "url": "https://files.catbox.moe/wdt25q.pdf"
+                },
+                "Lasers and Optical Fiber Communication.pdf": {
+                    "name": "Lasers-and-Optical-Fiber-Communication.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6c9654dc3bbef197e50101f2149b929815412c7cLasers%20and%20Optical%20Fiber%20Communication.pdf",
+                    "url": "https://files.catbox.moe/4ke102.pdf"
+                },
+                "Lasers and Optical Fiber Communication (Handwritten Notes).pdf": {
+                    "name": "Lasers-and-Optical-Fiber-Communication-(Handwritten-Notes).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0afee70248f6e0d46c8f7ed65f154b3f13b68bb1Lasers%20and%20Optical%20Fiber%20Communication%20%28Handwritten%20Notes%29.pdf",
+                    "url": "https://files.catbox.moe/yt9ed5.pdf"
+                },
+                "Optics.pdf": {
+                    "name": "Optics.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8c54517a271136c190bf6f8a420f1c3b47feac87Optics.pdf",
+                    "url": "https://files.catbox.moe/6kegax.pdf"
+                },
+                "Optics (Handwritten Notes).pdf": {
+                    "name": "Optics-(Handwritten-Notes).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5586864370260b138abc82624b71418f3c4aea1cOptics%20%28Handwritten%20Notes%29.pdf",
+                    "url": "https://files.catbox.moe/hnozf8.pdf"
+                },
+                "AI Mid-term (January 2023).pdf": {
+                    "name": "AI-Mid-term-(January-2023).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/66086ff28463947db8885540a3e1803b996e4774AI%20Mid-term%20%28January%202023%29.pdf",
+                    "url": "https://files.catbox.moe/x2kfi9.pdf"
+                },
+                "AI End-term (March 2023).pdf": {
+                    "name": "AI-End-term-(March-2023).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/cfb62f761723c991c33b3a13e221614436af21bfAI%20End-term%20%28March%202023%29.pdf",
+                    "url": "https://files.catbox.moe/gbu4vh.pdf"
+                },
+                "Diffraction.pdf": {
+                    "name": "Diffraction-+polarisation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9d6cbd3fdc88c1853453f01f476a3fec4473a492Diffraction%20%2Bpolarisation.pdf",
+                    "url": "https://files.catbox.moe/mfkgii.pdf"
+                },
+                "Newton'sRingsExp..pdf": {
+                    "name": "Newton'sRingsExp..pdf",
+                    "type": "Project",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2bc1b226006d42493f01b171e5c0acc0bfbee5ebNewton%27sRingsExp..pdf",
+                    "url": "https://files.catbox.moe/cthsus.pdf"
+                },
+                "GanotraSirGA1.pdf": {
+                    "name": "GanotraSirGA1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4b45b5b5d7dc39230f0f1e343bac48c34cf8e5ddGanotraSirGA1.pdf",
+                    "url": "https://files.catbox.moe/zro6uw.pdf"
+                },
+                "AMIT SIR (OPTICS).pdf": {
+                    "name": "AMIT-SIR-(OPTICS).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ffc6483e623b5bb3ce70650b6151a87c1921ec8eAMIT%20SIR%20%28OPTICS%29.pdf",
+                    "url": "https://files.catbox.moe/z91h35.pdf"
+                },
+                "Unit 1_Optics_TechnicalPhy.playlist": {
+                    "name": "Unit-1_Optics_TechnicalPhy.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=5yzLt9w3UqU&list=PL5zwY2E7i60X095MhnHZ31LAjo2rqUhNr",
+                    "url": "https://files.catbox.moe/fw7bsc.txt"
+                },
+                "Unit 2_EMT_TechnicalPhy.playlist": {
+                    "name": "Unit-2_EMT_TechnicalPhy.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=6WjEt8VRntY&list=PL5zwY2E7i60UOvHJEOpJEw-lR2Zdmg2Ik",
+                    "url": "https://files.catbox.moe/n7l4u8.txt"
+                },
+                "MidTerm_Solutions_Jan'23.pdf": {
+                    "name": "MidTerm_Solutions_Jan'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3ab7f4eddf8cb561df38145ef34f17418464f540MidSem_Solutions_Jan%2723.pdf",
+                    "url": "https://files.catbox.moe/2bpum6.pdf"
+                },
+                "Optics(handwritten)-GanotraSir.pdf": {
+                    "name": "Optics(handwritten)-GanotraSir.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b93cac6082b48ba824bb0b77adcaa1900cbd8c5dOptics-GanotraSir.pdf",
+                    "url": "https://files.catbox.moe/q3h7vo.pdf"
+                },
+                "Shm Priyanka mam.pdf": {
+                    "name": "Shm-Priyanka-mam.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2ea13b3767d142f7d6a7a609e988f8c4b54b6357ClassicalMechanics-PriyankaMa%27am.pdf",
+                    "url": "https://files.catbox.moe/jvzg9t.pdf"
+                },
+                "Physics_MidSem_Oct'23.pdf": {
+                    "name": "Physics_MidSem_Oct'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/570b6b97de2d47f171a786b367222579e2c95897Physics_MidSem_Oct%2723.pdf",
+                    "url": "https://files.catbox.moe/cwbstb.pdf"
+                },
+                "GanotraSir (Unit1to4).pdf": {
+                    "name": "GanotraSir-(Unit1to4).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2396d9d6bfd272581dd2d33e30b736b7d0429c84GanotraSirNotesUnit1to4.pdf",
+                    "url": "https://files.catbox.moe/yc07mh.pdf"
+                },
+                "Phy_Endsem_Dec'23.pdf": {
+                    "name": "Phy_Endsem_Dec'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e2a74151a8dcdadec8399b270206f6a6a7721e66Phy_Endsem_Dec%2723.pdf",
+                    "url": "https://files.catbox.moe/8g2ika.pdf"
+                },
+                "UNIT I OPTICS-Sheet1.pdf": {
+                    "name": "UNIT-I-OPTICS-Sheet1.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a982bfc3082adf3e22a22cfbe15b3fbb16bc53d8UNIT%20I%20OPTICS-Sheet1.pdf",
+                    "url": "https://files.catbox.moe/2ifk13.pdf"
+                },
+                "end term 2024.pdf": {
+                    "name": "end-term-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/64e014322c91de4ad641323beb9e6f3bf1f18990end%20term%202024.pdf",
+                    "url": "https://files.catbox.moe/jlg7c7.pdf"
+                }
+            },
+            "Computer-Organization-and-Architecture": {
+                "M. Morris Mano.pdf": {
+                    "name": "M.-Morris-Mano.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4836a049000fe9f5bb28ccdebdf47f56a1658702M.%20Morris%20Mano.pdf",
+                    "url": "https://files.catbox.moe/rbbnzj.pdf"
+                },
+                "unit 3-4.pdf": {
+                    "name": "unit-3-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c37b7a58de81bda93d094447ffb43710dfc337unit%203-4.pdf",
+                    "url": "https://files.catbox.moe/ndq78t.pdf"
+                },
+                "unit 1-2.pdf": {
+                    "name": "unit-1-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4e7fb3274c54d79fae2d04d4ae892be225b221a3unit%201-2.pdf",
+                    "url": "https://files.catbox.moe/50qhb5.pdf"
+                },
+                "COA unit 1 .playlist": {
+                    "name": "COA-unit-1-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLP8GMSde0NDZJGkd_AzjljUMO3MWOQpfg",
+                    "url": "https://files.catbox.moe/ypfg31.txt"
+                },
+                "coa end sem22.pdf": {
+                    "name": "coa-end-sem22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/43c1d7f708c4369ade9a03f7a7c2593cdbb648ffcoa%20end%20sem22.pdf",
+                    "url": "https://files.catbox.moe/4ar5x7.pdf"
+                },
+                "Experiment 1.docx": {
+                    "name": "Experiment-1.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a05eaf3c969e80a308abecb165bd0b02c8c56f5aExperiment%201.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 2.docx": {
+                    "name": "Experiment-2.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4aefc13ca310dc2d55d2d66f3d8807f73ec3eef4Experiment%202.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 3.docx": {
+                    "name": "Experiment-3.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/58070e71fd291eeb125fde047fd8a7c02e5c967dExperiment%203.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 4.docx": {
+                    "name": "Experiment-4.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e1b7301fffd4e9e1564833b43ce93b1cfe13f13aExperiment%204.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 5.docx": {
+                    "name": "Experiment-5.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e80dfa41964eec62c3d40eaf10647f2913db913cExperiment%205.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 6.docx": {
+                    "name": "Experiment-6.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fb39b3e6d109499c0b0eb9bdd862dbe1b34a0b1dExperiment%206.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 7.docx": {
+                    "name": "Experiment-7.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3dc56d9e284e6a14bc298c962ba8275833859f80Experiment%207.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 8.docx": {
+                    "name": "Experiment-8.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d0bb517698dcecc32ff4077456b89532be8b6704Experiment%208.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 9.docx": {
+                    "name": "Experiment-9.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1155125afabbe1d9fc26ce4a3bf6898bdfa3e160Experiment%209.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 10.docx": {
+                    "name": "Experiment-10.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7eb85168165a3fabcd8949db2f4027373454ff14Experiment%2010.docx",
+                    "url": "URL Error"
+                },
+                "List of Experiments.docx": {
+                    "name": "List-of-Experiments.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb3b6f7f8c36f9fb66ead0e21b003b55f33fd977List%20of%20Experiments.docx",
+                    "url": "URL Error"
+                },
+                "COA mid sem'22.pdf": {
+                    "name": "COA-mid-sem'22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/06963d69366a0e24745f441e9a76e6196e96335aCOA%20mid%20sem%2722.pdf",
+                    "url": "https://files.catbox.moe/vj91m4.pdf"
+                },
+                "COA assignment 1 (with solutions).pdf": {
+                    "name": "COA-assignment-1-(with-solutions).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ceaff8eb49d981302357c619e1355eac79ba8390COA%20assignment%201%20%28with%20solutions%29.pdf",
+                    "url": "https://files.catbox.moe/01ej8p.pdf"
+                },
+                "Assignment 2 with solutions.jpg": {
+                    "name": "Assignment-2-with-solutions.jpg",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dd8e5ffbc79495bd255a911e0fd2d32266243129Assignment%202%20with%20solutions.jpg",
+                    "url": "https://files.catbox.moe/x0llvu.jpg"
+                },
+                "LAB FILE (all exp).docx": {
+                    "name": "LAB-FILE-(all-exp).docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c1faad846036cc62b9469279db0e575cd70bf09aLAB%20FILE%20%28all%20exp%29.docx",
+                    "url": "URL Error"
+                },
+                "UNIT 1_Lec-1_PPT.pdf": {
+                    "name": "UNIT-1_Lec-1_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e63a8d88ddb891280759650b9ff92b2a369d603UNIT%201%2C%20Lec-1%2C%20Intro%20PPT.pdf",
+                    "url": "https://files.catbox.moe/ik5t6w.pdf"
+                },
+                "UNIT 1_Lec-2_PPT.pdf": {
+                    "name": "UNIT-1_Lec-2_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/911b3c130b4b91de9865a00a73cd74210bd9d268UNIT%201%2C%20Lec-2%2C%20Logic%20Gates%20PPT.pdf",
+                    "url": "https://files.catbox.moe/6i18qg.pdf"
+                },
+                "UNIT 1_ Lec-3_PPT.pdf": {
+                    "name": "UNIT-1_-Lec-3_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ef34a1c32044878e1a81d544bb6a004f829a4643UNIT%201%2C%20Lec-3%2C%20PPT.pdf",
+                    "url": "https://files.catbox.moe/8vg2kn.pdf"
+                },
+                "UNIT 1_ Lec-4_PPT.pdf": {
+                    "name": "UNIT-1_-Lec-4_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2bc157156849b5d0bd0eda976090ff7cde77ec66UNIT%201%2C%20Lec-4%2C%20PPT.pdf",
+                    "url": "https://files.catbox.moe/ej4ahq.pdf"
+                },
+                "UNIT 1_ Lec-5 _PPT.pdf": {
+                    "name": "UNIT-1_-Lec-5-_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d4e38d001ef3cd29ec06e073395ea1ce467a6219UNIT%201%2C%20Lec-5%20%2C%20PPT.pdf",
+                    "url": "https://files.catbox.moe/or28fs.pdf"
+                },
+                "UNIT 1_Lec-8_PPT.pdf": {
+                    "name": "UNIT-1_Lec-8_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8fdffe00ddccf368f8c50a246b0059ffaa1f27e7UNIT%201_Lec-8_PPT.pdf",
+                    "url": "https://files.catbox.moe/nhkw8m.pdf"
+                },
+                "UNIT 1_Lec-7_PPT.pdf": {
+                    "name": "UNIT-1_Lec-7_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ad6bbdbd04b32ae7db530ee11d72d0f4f878a0fbUNIT%201_Lec-7_PPT.pdf",
+                    "url": "https://files.catbox.moe/wf8x98.pdf"
+                },
+                "UNIT 1_Lec-6_PPT.pdf": {
+                    "name": "UNIT-1_Lec-6_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/916dd21bc41cfde6b6044460c6b82c1fa8b12768UNIT%201_Lec-6_PPT.pdf",
+                    "url": "https://files.catbox.moe/dkbmym.pdf"
+                },
+                "COA Unit-1.playlist": {
+                    "name": "COA-Unit-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=8msCz6Nb6nk&list=PL-JvKqQx2Atfuxo1LR0m9RQramPymoBsj",
+                    "url": "https://files.catbox.moe/bob6v5.txt"
+                },
+                "Complete playlist_Gate Smashers.playlist": {
+                    "name": "Complete-playlist_Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=L9X7XXfHYdU&list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
+                    "url": "https://files.catbox.moe/5g8cwe.txt"
+                },
+                "Coa midsem'22 solns (1).pdf": {
+                    "name": "Coa-midsem'22-solns-(1).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e2a35235e27e613ef5256d1a348d83f98d3f019Coa%20midsem%2722%20solns%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/r7ffgw.pdf"
+                },
+                "UNIT 2_Lec-1_PPT.pdf.pdf": {
+                    "name": "UNIT-2_Lec-1_PPT.pdf.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6edd9402030cd08fec2138f5874c22f6175f84e5UNIT%201_Lec-9_PPT.pdf.pdf",
+                    "url": "https://files.catbox.moe/4a2g3l.pdf"
+                },
+                "UNIT 2_Lec-2_PPT.pdf.pdf": {
+                    "name": "UNIT-2_Lec-2_PPT.pdf.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ffabcd1ff8d7fdbfe8aa4bd7467385400415a88UNIT%202_Lec-2_PPT.pdf.pdf",
+                    "url": "https://files.catbox.moe/4qyfll.pdf"
+                },
+                "UNIT 2_Lec-3_PPT.pdf.pdf": {
+                    "name": "UNIT-2_Lec-3_PPT.pdf.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6f4b2b5b36497fc91e0ceb9ca8c19c5f851e10cdUNIT%202_Lec-3_PPT.pdf.pdf",
+                    "url": "https://files.catbox.moe/7dv59b.pdf"
+                },
+                "COA_MidSem_Oct'23.pdf": {
+                    "name": "COA_MidSem_Oct'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f4f38f9fb40c9fa978c3ebbdd118d1d32d8af85cCOA_MidSem_Oct%2723.pdf",
+                    "url": "https://files.catbox.moe/lihe44.pdf"
+                },
+                "COA_Endsem_Dec'23.pdf": {
+                    "name": "COA_Endsem_Dec'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c27257c0a4687f8c8128bc3aedb64d9743c3fbCOA_Endsem_Dec%2723.pdf",
+                    "url": "https://files.catbox.moe/71cx39.pdf"
+                },
+                "COA_Unit 3.playlist": {
+                    "name": "COA_Unit-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JsxFEluRokmVwMp3zF7JL7tL&feature=shared",
+                    "url": "https://files.catbox.moe/my8ssr.txt"
+                },
+                "COA_Unit 4.playlist": {
+                    "name": "COA_Unit-4.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JszyaKeoc9qP8Bn45XzqJycj&feature=shared",
+                    "url": "https://files.catbox.moe/li5gu6.txt"
+                },
+                "Unit 1.playlist": {
+                    "name": "Unit-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLC3Bkf_i2k4_J02ktCnl8yJ7sknddcVD8",
+                    "url": "https://files.catbox.moe/gwofvm.txt"
+                },
+                "Unit 2.playlist": {
+                    "name": "Unit-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLC3Bkf_i2k49fyj9sXl0ht1kTldozc4js&feature=shared",
+                    "url": "https://files.catbox.moe/zag7do.txt"
                 }
             },
             "EnVironmental-Science": {
@@ -21705,13 +21705,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/t1ah91.txt"
+                    "url": "https://files.catbox.moe/5ciw3p.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/4g4a9z.txt"
+                    "url": "https://files.catbox.moe/t3teql.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -22876,13 +22876,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/elq0ie.txt"
+                    "url": "https://files.catbox.moe/3nvqtp.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/pre3c3.txt"
+                    "url": "https://files.catbox.moe/np59mi.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -23498,7 +23498,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/jyvckc.txt"
+                    "url": "https://files.catbox.moe/yn33se.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -23510,13 +23510,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/rad8d1.txt"
+                    "url": "https://files.catbox.moe/hgmtgk.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/6afk2b.txt"
+                    "url": "https://files.catbox.moe/5unme3.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -24644,7 +24644,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/evd263.txt"
+                    "url": "https://files.catbox.moe/zk6vvl.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -26636,7 +26636,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/4zcot6.txt"
+                    "url": "https://files.catbox.moe/tnd305.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -26648,13 +26648,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/ivfazo.txt"
+                    "url": "https://files.catbox.moe/rio73p.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/zom2po.txt"
+                    "url": "https://files.catbox.moe/6lnkfh.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -29356,13 +29356,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/j76w2o.txt"
+                    "url": "https://files.catbox.moe/rhn7ca.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/jaxd4m.txt"
+                    "url": "https://files.catbox.moe/31fkhr.txt"
                 }
             },
             "Programming-with-C": {
@@ -29748,7 +29748,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/yazfsr.txt"
+                    "url": "https://files.catbox.moe/sa8d1l.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -30404,13 +30404,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/sw9ig9.txt"
+                    "url": "https://files.catbox.moe/6ag62t.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/3euzwf.txt"
+                    "url": "https://files.catbox.moe/uhayp5.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -33960,13 +33960,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/dmb80t.txt"
+                    "url": "https://files.catbox.moe/mtit50.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/5as8z8.txt"
+                    "url": "https://files.catbox.moe/4pzmvx.txt"
                 }
             },
             "Programming-with-C": {
@@ -34352,7 +34352,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/2emllk.txt"
+                    "url": "https://files.catbox.moe/ogbnx7.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -35008,13 +35008,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/9u4pkz.txt"
+                    "url": "https://files.catbox.moe/xv5y1m.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/52qkbw.txt"
+                    "url": "https://files.catbox.moe/ld7jz2.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
