@@ -1,254 +1,6 @@
 {
     "IGDTUW": {
         "CSE-AI": {
-            "DataBase-Management-System": {
-                "Fundamentals of Database Systems (Ramez Elmasri, Shamkant B. Navathe).pdf": {
-                    "name": "Fundamentals-of-Database-Systems-(Ramez-Elmasri,-Shamkant-B.-Navathe).pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6918ed8f98e9c87b77740f644032ab7158701ac0Fundamentals%20of%20Database%20Systems%20%28Ramez%20Elmasri%2C%20Shamkant%20B.%20Navathe%29.pdf",
-                    "url": "https://files.catbox.moe/p6bw49.pdf"
-                },
-                "DBMS End Term.pdf": {
-                    "name": "DBMS-End-Term.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ac9dac4337482e0aa618b3139da40478d5dfbc1DBMS%20End%20Term.pdf",
-                    "url": "https://files.catbox.moe/epho3w.pdf"
-                },
-                "DBMS Mid Term.pdf": {
-                    "name": "DBMS-Mid-Term.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/35dccff964812378a4038f99a4cf603df82250afDBMS%20Mid%20Term.pdf",
-                    "url": "https://files.catbox.moe/if79il.pdf"
-                },
-                "DBMS Unit 1.pdf": {
-                    "name": "DBMS-Unit-1.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b6b24ed58458c98d24e6c91efe861a133d01fc86DBMS%20Unit%201.pdf",
-                    "url": "https://files.catbox.moe/jxqcqb.pdf"
-                },
-                "DBMS Unit 2.pdf": {
-                    "name": "DBMS-Unit-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/57cac972aceafda6e66ac2e90a0dc7a6df89843bDBMS%20Unit%202.pdf",
-                    "url": "https://files.catbox.moe/25cwld.pdf"
-                },
-                "DBMS Unit 3.pdf": {
-                    "name": "DBMS-Unit-3.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/67e9e6fc463dc92eb7186afdb6631295313f19c5DBMS%20Unit%203.pdf",
-                    "url": "https://files.catbox.moe/ir9vdn.pdf"
-                },
-                "DBMS Unit 4.pdf": {
-                    "name": "DBMS-Unit-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4a106ec50cf1875d015892b07fecea8699aa0c79DBMS%20Unit%204.pdf",
-                    "url": "https://files.catbox.moe/864r9w.pdf"
-                },
-                "Midsem 2022 .pdf": {
-                    "name": "Midsem-2022-.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87bbb7ce52b41aea9d25f847dc4a53ba55496161Midsem%202022%20.pdf",
-                    "url": "https://files.catbox.moe/xw9yq9.pdf"
-                },
-                "Endsem 2022 .pdf": {
-                    "name": "Endsem-2022-.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6034c961e9f4d2b34f87a6c31994d731f58e1805Endsem%202022%20.pdf",
-                    "url": "https://files.catbox.moe/ql2v2h.pdf"
-                },
-                "unit 1.playlist": {
-                    "name": "unit-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLZsibbKUQV_Eo6Km-90mh4nBLGGZ89fUP&si=tSCKd3RGmpPtuDXp",
-                    "url": "https://files.catbox.moe/e9pngu.txt"
-                },
-                "SQL.pdf": {
-                    "name": "SQL.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/353dc8c5db31ed18bd3f72269d9a5d79cb08a877SQL.pdf",
-                    "url": "https://files.catbox.moe/1v6lwx.pdf"
-                },
-                "lecture-I (1).pdf": {
-                    "name": "lecture-I-(1).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7465c66546ade88ee306b56218490e6a6784d3d8lecture-I%20%281%29.pdf",
-                    "url": "https://files.catbox.moe/qj4jdx.pdf"
-                },
-                "Lecture-2_a_b.pdf": {
-                    "name": "Lecture-2_a_b.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d5bae2fd644c7a471086a3c4827ca92a748d02aLecture-2_a_b.pdf",
-                    "url": "https://files.catbox.moe/tuij0s.pdf"
-                },
-                "lecture_5.pdf": {
-                    "name": "lecture_5.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fc4b5fb80168e3527939c1c3c517371278c11a2clecture_5.pdf",
-                    "url": "https://files.catbox.moe/a418u6.pdf"
-                },
-                "lecture-3.pdf": {
-                    "name": "lecture-3.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69e28e32722a9a7cb7d0eb4e418066deae2c0e2flecture-3.pdf",
-                    "url": "https://files.catbox.moe/7rgob2.pdf"
-                },
-                "Uit 1 & Unit 2.pdf": {
-                    "name": "Uit-1-&-Unit-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d79ac748b98560b4ae4f28517218436b2b0dc64aUit%201%20%26%20Unit%202.pdf",
-                    "url": "https://files.catbox.moe/rld3d4.pdf"
-                },
-                "unit 3 .playlist": {
-                    "name": "unit-3-.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLZsibbKUQV_Hllz5YBM1r9qNdnCeh8H3O&si=BmGaax4vugw1s4q8",
-                    "url": "https://files.catbox.moe/ssol3t.txt"
-                },
-                "functional_dependencies.pdf": {
-                    "name": "functional_dependencies.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/49f942fe190685453211f825ab3b00f06ec4bd2ffunctional_dependencies.pdf",
-                    "url": "https://files.catbox.moe/jmgxpy.pdf"
-                },
-                "unit_3_normalalisation.pdf": {
-                    "name": "unit_3_normalalisation.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b9e3cb68b84966d948d04338cb0c0d3ff5a753d0unit_3_normalalisation.pdf",
-                    "url": "https://files.catbox.moe/6qrius.pdf"
-                },
-                "UNIT 4.playlist": {
-                    "name": "UNIT-4.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLZsibbKUQV_HwFUDUQWSQsyLyr-zJHAUN&si=--gzWXEgTcF8gpFJ",
-                    "url": "https://files.catbox.moe/2zje63.txt"
-                },
-                "dbms_endsem_23.pdf": {
-                    "name": "dbms_endsem_23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a96e4855e0be96a89d1b1ebe4b0cace13c9d507ddbms_endsem_23.pdf",
-                    "url": "https://files.catbox.moe/nw16xg.pdf"
-                },
-                "mid sem 24.pdf": {
-                    "name": "mid-sem-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6795d38d1b824ed75fba30099cecc8322f39ab38mid%20sem%2024.pdf",
-                    "url": "https://files.catbox.moe/jjxhlx.pdf"
-                },
-                "DBMS Endsem (May '24)  .pdf": {
-                    "name": "DBMS-Endsem-(May-'24)--.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ed211ae484ac337d479183478ab8b9a502b8007eDBMS%20Endsem%20%28May%20%2724%29%20%20.pdf",
-                    "url": "https://files.catbox.moe/eg3565.pdf"
-                },
-                "2024 Midsem Sep.pdf": {
-                    "name": "2024-Midsem-Sep.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/027729ebeb2cf0e1095253c8cbcb1a7b5b45cba02024%20Midsem%20Sep.pdf",
-                    "url": "https://files.catbox.moe/a6imke.pdf"
-                },
-                "SE notes.pdf": {
-                    "name": "SE-notes.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9f859e450876e073cef89f0b496cc41b3961212eSE%20notes.pdf",
-                    "url": "https://files.catbox.moe/qai6nv.pdf"
-                },
-                "itw midsem.pdf": {
-                    "name": "itw-midsem.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
-                    "url": "https://files.catbox.moe/1p9xmq.pdf"
-                },
-                "CHAPTER 1 final.DOC": {
-                    "name": "CHAPTER-1-final.DOC",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
-                    "url": "Bad file type! DOC isn't allowed!"
-                },
-                "Chapter 2 Data Models Final nandini.doc": {
-                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
-                    "url": "Bad file type! doc isn't allowed!"
-                },
-                "Chapter 3(ER Modeling) Final nandini.doc": {
-                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
-                    "url": "Bad file type! doc isn't allowed!"
-                },
-                "CHAPTER 4 RDBMS Final nandini.doc": {
-                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
-                    "url": "Bad file type! doc isn't allowed!"
-                },
-                "Chapter 6 SQL.DOC": {
-                    "name": "Chapter-6-SQL.DOC",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
-                    "url": "Bad file type! DOC isn't allowed!"
-                },
-                "DBMS oct 2024.pdf": {
-                    "name": "DBMS-oct-2024.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
-                    "url": "https://files.catbox.moe/31j6yd.pdf"
-                },
-                "Me3midsemCe101.pdf": {
-                    "name": "Me3midsemCe101.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/2f9c1527ae44d6ab957a87e0e13fbbc41b45a338Me3midsemCe101.pdf",
-                    "url": "https://files.catbox.moe/ighpmy.pdf"
-                },
-                "fluid unit3 short notes.pdf": {
-                    "name": "fluid-unit3-short-notes.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
-                    "url": "https://files.catbox.moe/iv4x4g.pdf"
-                },
-                "Endsem 24.pdf": {
-                    "name": "Endsem-24.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
-                    "url": "https://files.catbox.moe/gu32y1.pdf"
-                },
-                "Midsem 24.pdf": {
-                    "name": "Midsem-24.pdf",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
-                    "url": "https://files.catbox.moe/798t2a.pdf"
-                },
-                "practicedbms (2).zip": {
-                    "name": "practicedbms-(2).zip",
-                    "type": "Assignment",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/598f6124b14b5fbf0baf64529889ecb745f2f6a9practicedbms%20%282%29.zip",
-                    "url": "https://files.catbox.moe/84mfm8.zip"
-                },
-                "Dbms unit-1.pdf": {
-                    "name": "Dbms-unit-1.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4c2a3822d59eca660c147a1cfa3ba707a5686a48Dbms%20unit-1.pdf",
-                    "url": "https://files.catbox.moe/x0vz83.pdf"
-                },
-                "Dbms imp topics -1,2.pdf": {
-                    "name": "Dbms-imp-topics--1,2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/2cc3e39717e2fa172a5bebb69a24895fa302fb84Dbms%20imp%20topics%20-1%2C2.pdf",
-                    "url": "https://files.catbox.moe/egkv16.pdf"
-                },
-                "Dbms Endsem'24.pdf": {
-                    "name": "Dbms-Endsem'24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae1114416b7ba78ae78c1f32813f7fb7f2fabb7fDbms%20Endsem%2724.pdf",
-                    "url": "https://files.catbox.moe/o48hbi.pdf"
-                },
-                "dbms  end term 2024 .pdf": {
-                    "name": "dbms--end-term-2024-.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/20a36e9b249f616a38bcd8252a95ab727327d21edbms%20%20end%20term%202024%20.pdf",
-                    "url": "https://files.catbox.moe/ozs2f2.pdf"
-                }
-            },
             "test": {
                 "CS mid term paper 2024.jpg": {
                     "name": "CS-mid-term-paper-2024.jpg",
@@ -1856,7 +1608,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/vg7omc.pdf"
+                    "url": "https://files.catbox.moe/7orxda.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -1865,224 +1617,12 @@
                     "url": "https://files.catbox.moe/al5blp.pdf"
                 }
             },
-            "Object-Oriented-Programming-using-Java": {
-                "Y. Daniel Liang.pdf": {
-                    "name": "Y.-Daniel-Liang.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d7bb16f3f0b771793d2ced78523ad9db3fee205Y.%20Daniel%20Liang.pdf",
-                    "url": "https://files.catbox.moe/cgd34g.pdf"
-                },
-                "Simon Kendal.pdf": {
-                    "name": "Simon-Kendal.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/abd7922ce9b8a09dcc45290916685804aa67a78fSimon%20Kendal.pdf",
-                    "url": "https://files.catbox.moe/yeetoj.pdf"
-                },
-                "Herbert Schildt.pdf": {
-                    "name": "Herbert-Schildt.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/de0710deb653bdec1229ce29da06908902e2eb04Herbert%20Schildt.pdf",
-                    "url": "https://files.catbox.moe/k7v5q8.pdf"
-                },
-                "Timothy Budd.PDF": {
-                    "name": "Timothy-Budd.PDF",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bf3d313dcb42fddc34f2464be25ed4bf461f9862Timothy%20Budd.PDF",
-                    "url": "https://files.catbox.moe/zhpy9v.PDF"
-                },
-                "Cay S. Horstmann.pdf": {
-                    "name": "Cay-S.-Horstmann.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/267f8528a9c2ee6853d8edf07da06004fefca1a9Cay%20S.%20Horstmann.pdf",
-                    "url": "https://files.catbox.moe/0f21if.pdf"
-                },
-                "Inheritance.pdf": {
-                    "name": "Inheritance.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2089f6907868a5cb4122f2fecad4f180c0e6b201Inheritance.pdf",
-                    "url": "https://files.catbox.moe/j8vt9e.pdf"
-                },
-                "Basic Components of Java in OOPs.pdf": {
-                    "name": "Basic-Components-of-Java-in-OOPs.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ca36079b8dc5b9e77f7397b9bbcb9a6b759b8bf3Basic%20Components%20of%20Java%20in%20OOPs.pdf",
-                    "url": "https://files.catbox.moe/rw16ys.pdf"
-                },
-                "Introduction of Java in OOPs.pdf": {
-                    "name": "Introduction-of-Java-in-OOPs.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e75dcc28a183b31a64b91c48b8babd3deb87a864Introduction%20of%20Java%20in%20OOPs.pdf",
-                    "url": "https://files.catbox.moe/fjobbx.pdf"
-                },
-                "Java Bytecode.pdf": {
-                    "name": "Java-Bytecode.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64b121fa3aa69e68fe16e50c26cd9bfc39e2de84Java%20Bytecode.pdf",
-                    "url": "https://files.catbox.moe/68h1x8.pdf"
-                },
-                "Operators.pdf": {
-                    "name": "Operators.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6fa52c8fee767fcd59eff09d466143a9cc34af58Operators.pdf",
-                    "url": "https://files.catbox.moe/93ow5o.pdf"
-                },
-                "Classes and Objects.pdf": {
-                    "name": "Classes-and-Objects.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e9e24a2eeaee8264d998c47ed78c85404fcc1c7dClasses%20and%20Objects.pdf",
-                    "url": "https://files.catbox.moe/yh6rd9.pdf"
-                },
-                "Multithreading and Parallel Programming.pdf": {
-                    "name": "Multithreading-and-Parallel-Programming.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7d44c4ce4413b05bac9df8f345f8ae78c64be8e5Multithreading%20and%20Parallel%20Programming.pdf",
-                    "url": "https://files.catbox.moe/hef8vh.pdf"
-                },
-                "Object Oriented Programming using JAVA.pdf": {
-                    "name": "Object-Oriented-Programming-using-JAVA.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/74872e3833313270567a9af565c3b4ab2fd17d05Object%20Oriented%20Programming%20using%20JAVA.pdf",
-                    "url": "https://files.catbox.moe/lwl90q.pdf"
-                },
-                "Balaguruswamy.pdf": {
-                    "name": "Balaguruswamy.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2c7bcb98c919a1e912cc4d35cd7e21c129d31453Balaguruswamy.pdf",
-                    "url": "https://files.catbox.moe/w03x0l.pdf"
-                },
-                "Classes and Inheritance Questions.pdf": {
-                    "name": "Classes-and-Inheritance-Questions.pdf",
-                    "type": "Practice_Problems",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bbd960042cbf3db5e42e1274322dca82f5ed908bClasses%20and%20Inheritance%20Questions.pdf",
-                    "url": "https://files.catbox.moe/my5637.pdf"
-                },
-                "Series Question.pdf": {
-                    "name": "Series-Question.pdf",
-                    "type": "Practice_Problems",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/60b47195474033dea2b9c17dc8731db0fea6fd56Series%20Question.pdf",
-                    "url": "https://files.catbox.moe/x8j8wq.pdf"
-                },
-                "Pattern Questions.pdf": {
-                    "name": "Pattern-Questions.pdf",
-                    "type": "Practice_Problems",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d037bb0a9955270a9f21ae1f5ac6988d9500ccb5Pattern%20Questions.pdf",
-                    "url": "https://files.catbox.moe/4x1y1h.pdf"
-                },
-                "Practical Questions.pdf": {
-                    "name": "Practical-Questions.pdf",
-                    "type": "Practice_Problems",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7665ce7a5e5ce78f20935028bb747a025b59413ePractical%20Questions.pdf",
-                    "url": "https://files.catbox.moe/oag40a.pdf"
-                },
-                "Theory Questions.pdf": {
-                    "name": "Theory-Questions.pdf",
-                    "type": "Practice_Problems",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fbb860751e42938e38fbcc5530aa10d68eda7e82Theory%20Questions.pdf",
-                    "url": "https://files.catbox.moe/6rlvwf.pdf"
-                },
-                "End-Term (August 2022).pdf": {
-                    "name": "End-Term-(August-2022).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b302f83b4ca604733b218208a1477a3426b98677End-Term%20%28August%202022%29.pdf",
-                    "url": "https://files.catbox.moe/0sbu4v.pdf"
-                },
-                "Mid-Term (June 2022).pdf": {
-                    "name": "Mid-Term-(June-2022).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5a40f02c35b8141d6a6b99a4e0184b590918f99Mid-Term%20%28June%202022%29.pdf",
-                    "url": "https://files.catbox.moe/d91lf2.pdf"
-                },
-                "UNIT 4 Handwritten Notes.pdf": {
-                    "name": "UNIT-4-Handwritten-Notes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1636af6a8fcec3efeea2c90fb24245dd62ec04c7UNIT%204%20Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/4f62af.pdf"
-                },
-                "UNIT 3 Handwritten Notes.pdf": {
-                    "name": "UNIT-3-Handwritten-Notes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5981b41a8f5c1871afb970217f3f7466aada05aUNIT%203%20Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/byi2is.pdf"
-                },
-                "UNIT 2 Handwritten Notes.pdf": {
-                    "name": "UNIT-2-Handwritten-Notes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/03f8413f90a8310ce1ac44dbfab46ac9ed6b8885UNIT%202%20Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/xdbnqv.pdf"
-                },
-                "UNIT 1 Handwritten Notes.pdf": {
-                    "name": "UNIT-1-Handwritten-Notes.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9b4e8111ae9bbf797cfcd131fc26e5bbffc2bafcUNIT%201%20Handwritten%20Notes.pdf",
-                    "url": "https://files.catbox.moe/lcbtvh.pdf"
-                },
-                "OOPJ Basics.pdf": {
-                    "name": "OOPJ-Basics.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/09d65ce0cebccfcf099ad28ee952a65f9e93e04dOOPJ%20Basics.pdf",
-                    "url": "https://files.catbox.moe/58o742.pdf"
-                },
-                "Control Statements and Loops.pdf": {
-                    "name": "Control-Statements-and-Loops.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/79680154888004dd074cf28c738eb23a7411ddbfControl%20Statements%20and%20Loops.pdf",
-                    "url": "https://files.catbox.moe/l2pqjf.pdf"
-                },
-                "Arrays.pdf": {
-                    "name": "Arrays.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a619b25fcae594b8136792ceaac01911aac9b02cArrays.pdf",
-                    "url": "https://files.catbox.moe/ljvr37.pdf"
-                },
-                "LAB 1 Questions.pdf": {
-                    "name": "LAB-1-Questions.pdf",
-                    "type": "Laboratory",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8dbd25c2a6ef4c64a64ea8f00fc4abca91e2f656LAB%201%20Questions.pdf",
-                    "url": "https://files.catbox.moe/k7xe2o.pdf"
-                },
-                "Basic Concepts of OOP.pdf": {
-                    "name": "Basic-Concepts-of-OOP.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d15323c4039c912691446407c0343f839b6b9d49Basic%20Concepts%20of%20OOP.pdf",
-                    "url": "https://files.catbox.moe/ihvr4m.pdf"
-                },
-                "Mid-Term (May 2023).pdf": {
-                    "name": "Mid-Term-(May-2023).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b0acf72d96c3f9ac84ea0c144649b99a62c94fdMid-Term%20%28May%202023%29.pdf",
-                    "url": "https://files.catbox.moe/hwea6p.pdf"
-                },
-                "LAB 2 Questions.pdf": {
-                    "name": "LAB-2-Questions.pdf",
-                    "type": "Laboratory",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/883722f685e24ad081333e9255c276c43280dd81LAB%202%20Questions.pdf",
-                    "url": "https://files.catbox.moe/bz8su3.pdf"
-                },
-                "Endsem'22.pdf": {
-                    "name": "Endsem'22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d2bfd07bad2ad12a76176d4c26dad4849566c366Endsem%2722.pdf",
-                    "url": "https://files.catbox.moe/nvvpyd.pdf"
-                },
-                "MidSem'24.pdf": {
-                    "name": "MidSem'24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4e24f6a0b16bc814091099e717b2f1a6fe0c54d6MidSem%2724.pdf",
-                    "url": "https://files.catbox.moe/e74wx6.pdf"
-                },
-                "OOPJ Endsem (May'24).pdf": {
-                    "name": "OOPJ-Endsem-(May'24).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/24ca6bfdc1b9d67b523d9c5a172fceb32d843483OOPJ%20Endsem%20%28May%2724%29.pdf",
-                    "url": "https://files.catbox.moe/5sroiy.pdf"
-                }
-            },
             "IT-Workshop": {
                 "Cheat Sheet R.pdf": {
                     "name": "Cheat-Sheet-R.pdf",
                     "type": "Note",
                     "original_url": "https://fresources-1.sgp1.digitaloceanspaces.com/IGDTUW/446d10b0eff9b379f20f721f0f2077e4e9a725a3Cheat%20Sheet%20R.pdf",
-                    "url": "https://files.catbox.moe/8q0tsy.pdf"
+                    "url": "https://files.catbox.moe/6173mq.pdf"
                 },
                 "Assignment 7.pdf": {
                     "name": "Assignment-7.pdf",
@@ -3975,248 +3515,6 @@
                     "url": "https://files.catbox.moe/spbxxm.pdf"
                 }
             },
-            "Computer-Organization-and-Architecture": {
-                "M. Morris Mano.pdf": {
-                    "name": "M.-Morris-Mano.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4836a049000fe9f5bb28ccdebdf47f56a1658702M.%20Morris%20Mano.pdf",
-                    "url": "https://files.catbox.moe/rbbnzj.pdf"
-                },
-                "unit 3-4.pdf": {
-                    "name": "unit-3-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c37b7a58de81bda93d094447ffb43710dfc337unit%203-4.pdf",
-                    "url": "https://files.catbox.moe/ndq78t.pdf"
-                },
-                "unit 1-2.pdf": {
-                    "name": "unit-1-2.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4e7fb3274c54d79fae2d04d4ae892be225b221a3unit%201-2.pdf",
-                    "url": "https://files.catbox.moe/50qhb5.pdf"
-                },
-                "COA unit 1 .playlist": {
-                    "name": "COA-unit-1-.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLP8GMSde0NDZJGkd_AzjljUMO3MWOQpfg",
-                    "url": "https://files.catbox.moe/ypfg31.txt"
-                },
-                "coa end sem22.pdf": {
-                    "name": "coa-end-sem22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/43c1d7f708c4369ade9a03f7a7c2593cdbb648ffcoa%20end%20sem22.pdf",
-                    "url": "https://files.catbox.moe/4ar5x7.pdf"
-                },
-                "Experiment 1.docx": {
-                    "name": "Experiment-1.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a05eaf3c969e80a308abecb165bd0b02c8c56f5aExperiment%201.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 2.docx": {
-                    "name": "Experiment-2.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4aefc13ca310dc2d55d2d66f3d8807f73ec3eef4Experiment%202.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 3.docx": {
-                    "name": "Experiment-3.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/58070e71fd291eeb125fde047fd8a7c02e5c967dExperiment%203.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 4.docx": {
-                    "name": "Experiment-4.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e1b7301fffd4e9e1564833b43ce93b1cfe13f13aExperiment%204.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 5.docx": {
-                    "name": "Experiment-5.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e80dfa41964eec62c3d40eaf10647f2913db913cExperiment%205.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 6.docx": {
-                    "name": "Experiment-6.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fb39b3e6d109499c0b0eb9bdd862dbe1b34a0b1dExperiment%206.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 7.docx": {
-                    "name": "Experiment-7.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3dc56d9e284e6a14bc298c962ba8275833859f80Experiment%207.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 8.docx": {
-                    "name": "Experiment-8.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d0bb517698dcecc32ff4077456b89532be8b6704Experiment%208.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 9.docx": {
-                    "name": "Experiment-9.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1155125afabbe1d9fc26ce4a3bf6898bdfa3e160Experiment%209.docx",
-                    "url": "URL Error"
-                },
-                "Experiment 10.docx": {
-                    "name": "Experiment-10.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7eb85168165a3fabcd8949db2f4027373454ff14Experiment%2010.docx",
-                    "url": "URL Error"
-                },
-                "List of Experiments.docx": {
-                    "name": "List-of-Experiments.docx",
-                    "type": "Project",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb3b6f7f8c36f9fb66ead0e21b003b55f33fd977List%20of%20Experiments.docx",
-                    "url": "URL Error"
-                },
-                "COA mid sem'22.pdf": {
-                    "name": "COA-mid-sem'22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/06963d69366a0e24745f441e9a76e6196e96335aCOA%20mid%20sem%2722.pdf",
-                    "url": "https://files.catbox.moe/vj91m4.pdf"
-                },
-                "COA assignment 1 (with solutions).pdf": {
-                    "name": "COA-assignment-1-(with-solutions).pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ceaff8eb49d981302357c619e1355eac79ba8390COA%20assignment%201%20%28with%20solutions%29.pdf",
-                    "url": "https://files.catbox.moe/01ej8p.pdf"
-                },
-                "Assignment 2 with solutions.jpg": {
-                    "name": "Assignment-2-with-solutions.jpg",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dd8e5ffbc79495bd255a911e0fd2d32266243129Assignment%202%20with%20solutions.jpg",
-                    "url": "https://files.catbox.moe/x0llvu.jpg"
-                },
-                "LAB FILE (all exp).docx": {
-                    "name": "LAB-FILE-(all-exp).docx",
-                    "type": "Note",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c1faad846036cc62b9469279db0e575cd70bf09aLAB%20FILE%20%28all%20exp%29.docx",
-                    "url": "URL Error"
-                },
-                "UNIT 1_Lec-1_PPT.pdf": {
-                    "name": "UNIT-1_Lec-1_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e63a8d88ddb891280759650b9ff92b2a369d603UNIT%201%2C%20Lec-1%2C%20Intro%20PPT.pdf",
-                    "url": "https://files.catbox.moe/ik5t6w.pdf"
-                },
-                "UNIT 1_Lec-2_PPT.pdf": {
-                    "name": "UNIT-1_Lec-2_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/911b3c130b4b91de9865a00a73cd74210bd9d268UNIT%201%2C%20Lec-2%2C%20Logic%20Gates%20PPT.pdf",
-                    "url": "https://files.catbox.moe/6i18qg.pdf"
-                },
-                "UNIT 1_ Lec-3_PPT.pdf": {
-                    "name": "UNIT-1_-Lec-3_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ef34a1c32044878e1a81d544bb6a004f829a4643UNIT%201%2C%20Lec-3%2C%20PPT.pdf",
-                    "url": "https://files.catbox.moe/8vg2kn.pdf"
-                },
-                "UNIT 1_ Lec-4_PPT.pdf": {
-                    "name": "UNIT-1_-Lec-4_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2bc157156849b5d0bd0eda976090ff7cde77ec66UNIT%201%2C%20Lec-4%2C%20PPT.pdf",
-                    "url": "https://files.catbox.moe/ej4ahq.pdf"
-                },
-                "UNIT 1_ Lec-5 _PPT.pdf": {
-                    "name": "UNIT-1_-Lec-5-_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d4e38d001ef3cd29ec06e073395ea1ce467a6219UNIT%201%2C%20Lec-5%20%2C%20PPT.pdf",
-                    "url": "https://files.catbox.moe/or28fs.pdf"
-                },
-                "UNIT 1_Lec-8_PPT.pdf": {
-                    "name": "UNIT-1_Lec-8_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8fdffe00ddccf368f8c50a246b0059ffaa1f27e7UNIT%201_Lec-8_PPT.pdf",
-                    "url": "https://files.catbox.moe/nhkw8m.pdf"
-                },
-                "UNIT 1_Lec-7_PPT.pdf": {
-                    "name": "UNIT-1_Lec-7_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ad6bbdbd04b32ae7db530ee11d72d0f4f878a0fbUNIT%201_Lec-7_PPT.pdf",
-                    "url": "https://files.catbox.moe/wf8x98.pdf"
-                },
-                "UNIT 1_Lec-6_PPT.pdf": {
-                    "name": "UNIT-1_Lec-6_PPT.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/916dd21bc41cfde6b6044460c6b82c1fa8b12768UNIT%201_Lec-6_PPT.pdf",
-                    "url": "https://files.catbox.moe/dkbmym.pdf"
-                },
-                "COA Unit-1.playlist": {
-                    "name": "COA-Unit-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=8msCz6Nb6nk&list=PL-JvKqQx2Atfuxo1LR0m9RQramPymoBsj",
-                    "url": "https://files.catbox.moe/bob6v5.txt"
-                },
-                "Complete playlist_Gate Smashers.playlist": {
-                    "name": "Complete-playlist_Gate-Smashers.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=L9X7XXfHYdU&list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
-                    "url": "https://files.catbox.moe/5g8cwe.txt"
-                },
-                "Coa midsem'22 solns (1).pdf": {
-                    "name": "Coa-midsem'22-solns-(1).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e2a35235e27e613ef5256d1a348d83f98d3f019Coa%20midsem%2722%20solns%20%281%29.pdf",
-                    "url": "https://files.catbox.moe/r7ffgw.pdf"
-                },
-                "UNIT 2_Lec-1_PPT.pdf.pdf": {
-                    "name": "UNIT-2_Lec-1_PPT.pdf.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6edd9402030cd08fec2138f5874c22f6175f84e5UNIT%201_Lec-9_PPT.pdf.pdf",
-                    "url": "https://files.catbox.moe/4a2g3l.pdf"
-                },
-                "UNIT 2_Lec-2_PPT.pdf.pdf": {
-                    "name": "UNIT-2_Lec-2_PPT.pdf.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ffabcd1ff8d7fdbfe8aa4bd7467385400415a88UNIT%202_Lec-2_PPT.pdf.pdf",
-                    "url": "https://files.catbox.moe/4qyfll.pdf"
-                },
-                "UNIT 2_Lec-3_PPT.pdf.pdf": {
-                    "name": "UNIT-2_Lec-3_PPT.pdf.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6f4b2b5b36497fc91e0ceb9ca8c19c5f851e10cdUNIT%202_Lec-3_PPT.pdf.pdf",
-                    "url": "https://files.catbox.moe/7dv59b.pdf"
-                },
-                "COA_MidSem_Oct'23.pdf": {
-                    "name": "COA_MidSem_Oct'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f4f38f9fb40c9fa978c3ebbdd118d1d32d8af85cCOA_MidSem_Oct%2723.pdf",
-                    "url": "https://files.catbox.moe/lihe44.pdf"
-                },
-                "COA_Endsem_Dec'23.pdf": {
-                    "name": "COA_Endsem_Dec'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c27257c0a4687f8c8128bc3aedb64d9743c3fbCOA_Endsem_Dec%2723.pdf",
-                    "url": "https://files.catbox.moe/71cx39.pdf"
-                },
-                "COA_Unit 3.playlist": {
-                    "name": "COA_Unit-3.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JsxFEluRokmVwMp3zF7JL7tL&feature=shared",
-                    "url": "https://files.catbox.moe/my8ssr.txt"
-                },
-                "COA_Unit 4.playlist": {
-                    "name": "COA_Unit-4.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JszyaKeoc9qP8Bn45XzqJycj&feature=shared",
-                    "url": "https://files.catbox.moe/li5gu6.txt"
-                },
-                "Unit 1.playlist": {
-                    "name": "Unit-1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/playlist?list=PLC3Bkf_i2k4_J02ktCnl8yJ7sknddcVD8",
-                    "url": "https://files.catbox.moe/gwofvm.txt"
-                },
-                "Unit 2.playlist": {
-                    "name": "Unit-2.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLC3Bkf_i2k49fyj9sXl0ht1kTldozc4js&feature=shared",
-                    "url": "https://files.catbox.moe/zag7do.txt"
-                }
-            },
             "Probability-and-Statistics": {
                 "Probability and Statistics.pdf": {
                     "name": "Probability-and-Statistics.pdf",
@@ -4839,128 +4137,6 @@
                     "url": "https://files.catbox.moe/jlg7c7.pdf"
                 }
             },
-            "Intellligent-System": {
-                "unit 1-4.pdf": {
-                    "name": "unit-1-4.pdf",
-                    "type": "Note",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fdbdc0a180f646382a9b40ac6564fb2f5589f8c0unit%201-4.pdf",
-                    "url": "https://files.catbox.moe/vjt6y9.pdf"
-                },
-                "End Term.pdf": {
-                    "name": "End-Term.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba1525073b110afd0b64aefc955ea0c875d2cc4dEnd%20Term.pdf",
-                    "url": "https://files.catbox.moe/tbrx4n.pdf"
-                },
-                "Russell & Norvig.pdf": {
-                    "name": "Russell-&-Norvig.pdf",
-                    "type": "Book",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/eca6698a6c08325edbb7f8b857de0eb393dc1788Russell%20%26%20Norvig.pdf",
-                    "url": "https://files.catbox.moe/i8h3ym.pdf"
-                },
-                "is end sem22.pdf": {
-                    "name": "is-end-sem22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ff7d275b4992b0e00d3d68d87de5bcb7ccbdb0dis%20end%20sem22.pdf",
-                    "url": "https://files.catbox.moe/18xyzm.pdf"
-                },
-                "Computer Vision.pptx": {
-                    "name": "Computer-Vision.pptx",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb8364effc02c94c0f29d6dbb2c8d18370fda1c5Computer%20Vision.pptx",
-                    "url": "https://files.catbox.moe/avxcar.pptx"
-                },
-                "Intelligent Agents.pdf": {
-                    "name": "Intelligent-Agents.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/eab14ddbf6e01144d60b38867614a2242f12a764Intelligent%20Agents.pdf",
-                    "url": "https://files.catbox.moe/qtsmm9.pdf"
-                },
-                "Intelligent Systems.pptx": {
-                    "name": "Intelligent-Systems.pptx",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b93c7d87af4eeaf6ff461d90b365ef0eb380650cIntelligent%20Systems.pptx",
-                    "url": "https://files.catbox.moe/gjzu13.pptx"
-                },
-                "Internet of Things(IoT).pptx": {
-                    "name": "Internet-of-Things(IoT).pptx",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/660edcca48215fd2158a7f7d06faa66913f93df4Internet%20of%20Things%28IoT%29.pptx",
-                    "url": "https://files.catbox.moe/iik62z.pptx"
-                },
-                "Introduction to Machine Learning.pptx": {
-                    "name": "Introduction-to-Machine-Learning.pptx",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/176260d47c5018f8cfd216afba19ffd18a311011Introduction%20to%20Machine%20Learning.pptx",
-                    "url": "https://files.catbox.moe/f5b67o.pptx"
-                },
-                "Introduction to ML.ppt": {
-                    "name": "Introduction-to-ML.ppt",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ce213a4d74d08ce992cfc91a3c970abb58037b4eIntroduction%20to%20ML.ppt",
-                    "url": "https://files.catbox.moe/el7uy8.ppt"
-                },
-                "Knowledge Representation.pdf": {
-                    "name": "Knowledge-Representation.pdf",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ec921aa1d59dcd4b49379cd0c3fa1aa242b1f621Knowledge%20Representation.pdf",
-                    "url": "https://files.catbox.moe/x6udmh.pdf"
-                },
-                "Natural Language Processing(NLP).pptx": {
-                    "name": "Natural-Language-Processing(NLP).pptx",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/202a0bdee68e6f64f81297050993bb664d880f50Natural%20Language%20Processing%28NLP%29.pptx",
-                    "url": "https://files.catbox.moe/qtvz5s.pptx"
-                },
-                "Speech Processing.pptx": {
-                    "name": "Speech-Processing.pptx",
-                    "type": "Lecture_Slides",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/41524bbe442505ea5c52bd8ef62f587f2253eea7Speech%20Processing.pptx",
-                    "url": "https://files.catbox.moe/hv67hq.pptx"
-                },
-                "intelligent Systems .playlist": {
-                    "name": "intelligent-Systems-.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLtCTr3lBQyHwNk4KWHJFBnUntkIfDQu9t",
-                    "url": "https://files.catbox.moe/mq4si0.txt"
-                },
-                "Introduction to Machine Learning.playlist": {
-                    "name": "Introduction-to-Machine-Learning.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLtCTr3lBQyHzinPLZIa4rqscCAXNrLu9k",
-                    "url": "https://files.catbox.moe/ueju95.txt"
-                },
-                "IS mid sem'22.pdf": {
-                    "name": "IS-mid-sem'22.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/73deaa195eb6b98dfc1a72b9fe1d1dd94e7e6905IS%20mid%20sem%2722.pdf",
-                    "url": "https://files.catbox.moe/3s9tjl.pdf"
-                },
-                "IS Unit1.playlist": {
-                    "name": "IS-Unit1.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://www.youtube.com/watch?v=L6ItcRfN4Hc",
-                    "url": "https://files.catbox.moe/lag99j.txt"
-                },
-                "IS_MidSem_Oct'23.pdf": {
-                    "name": "IS_MidSem_Oct'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/880c6eae2869666e7ba100446ca4f8e3b6a01edbIS_MidSem_Oct%2723.pdf",
-                    "url": "https://files.catbox.moe/yd286i.pdf"
-                },
-                "IS_Endsem_Dec'23.pdf": {
-                    "name": "IS_Endsem_Dec'23.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c4f5766d825f6c207ee38d86fec42e3549db851aIS_Endsem_Dec%2723.pdf",
-                    "url": "https://files.catbox.moe/vmmakd.pdf"
-                },
-                "IS_Playlist.playlist": {
-                    "name": "IS_Playlist.playlist",
-                    "type": "Playlist",
-                    "original_url": "https://youtube.com/playlist?list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&feature=shared",
-                    "url": "https://files.catbox.moe/jxc2vy.txt"
-                }
-            },
             "Mathematics---1": {
                 "End Term 2015.pdf": {
                     "name": "End-Term-2015.pdf",
@@ -5524,13 +4700,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/t3519m.txt"
+                    "url": "https://files.catbox.moe/y052wb.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/aozjo4.txt"
+                    "url": "https://files.catbox.moe/gly5ot.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -5586,7 +4762,834 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/347d3b1ca574921c44182aa26a80f835786c7e32Mid%20Sem%202024.pdf",
                     "url": "https://files.catbox.moe/kekpc3.pdf"
                 }
-            }
+            },
+            "Computer-Organization-and-Architecture": {
+                "M. Morris Mano.pdf": {
+                    "name": "M.-Morris-Mano.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4836a049000fe9f5bb28ccdebdf47f56a1658702M.%20Morris%20Mano.pdf",
+                    "url": "https://files.catbox.moe/rbbnzj.pdf"
+                },
+                "unit 3-4.pdf": {
+                    "name": "unit-3-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c37b7a58de81bda93d094447ffb43710dfc337unit%203-4.pdf",
+                    "url": "https://files.catbox.moe/ndq78t.pdf"
+                },
+                "unit 1-2.pdf": {
+                    "name": "unit-1-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4e7fb3274c54d79fae2d04d4ae892be225b221a3unit%201-2.pdf",
+                    "url": "https://files.catbox.moe/50qhb5.pdf"
+                },
+                "COA unit 1 .playlist": {
+                    "name": "COA-unit-1-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLP8GMSde0NDZJGkd_AzjljUMO3MWOQpfg",
+                    "url": "https://files.catbox.moe/ypfg31.txt"
+                },
+                "coa end sem22.pdf": {
+                    "name": "coa-end-sem22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/43c1d7f708c4369ade9a03f7a7c2593cdbb648ffcoa%20end%20sem22.pdf",
+                    "url": "https://files.catbox.moe/4ar5x7.pdf"
+                },
+                "Experiment 1.docx": {
+                    "name": "Experiment-1.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a05eaf3c969e80a308abecb165bd0b02c8c56f5aExperiment%201.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 2.docx": {
+                    "name": "Experiment-2.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4aefc13ca310dc2d55d2d66f3d8807f73ec3eef4Experiment%202.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 3.docx": {
+                    "name": "Experiment-3.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/58070e71fd291eeb125fde047fd8a7c02e5c967dExperiment%203.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 4.docx": {
+                    "name": "Experiment-4.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e1b7301fffd4e9e1564833b43ce93b1cfe13f13aExperiment%204.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 5.docx": {
+                    "name": "Experiment-5.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e80dfa41964eec62c3d40eaf10647f2913db913cExperiment%205.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 6.docx": {
+                    "name": "Experiment-6.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/fb39b3e6d109499c0b0eb9bdd862dbe1b34a0b1dExperiment%206.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 7.docx": {
+                    "name": "Experiment-7.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/3dc56d9e284e6a14bc298c962ba8275833859f80Experiment%207.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 8.docx": {
+                    "name": "Experiment-8.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d0bb517698dcecc32ff4077456b89532be8b6704Experiment%208.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 9.docx": {
+                    "name": "Experiment-9.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1155125afabbe1d9fc26ce4a3bf6898bdfa3e160Experiment%209.docx",
+                    "url": "URL Error"
+                },
+                "Experiment 10.docx": {
+                    "name": "Experiment-10.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7eb85168165a3fabcd8949db2f4027373454ff14Experiment%2010.docx",
+                    "url": "URL Error"
+                },
+                "List of Experiments.docx": {
+                    "name": "List-of-Experiments.docx",
+                    "type": "Project",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/bb3b6f7f8c36f9fb66ead0e21b003b55f33fd977List%20of%20Experiments.docx",
+                    "url": "URL Error"
+                },
+                "COA mid sem'22.pdf": {
+                    "name": "COA-mid-sem'22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/06963d69366a0e24745f441e9a76e6196e96335aCOA%20mid%20sem%2722.pdf",
+                    "url": "https://files.catbox.moe/vj91m4.pdf"
+                },
+                "COA assignment 1 (with solutions).pdf": {
+                    "name": "COA-assignment-1-(with-solutions).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ceaff8eb49d981302357c619e1355eac79ba8390COA%20assignment%201%20%28with%20solutions%29.pdf",
+                    "url": "https://files.catbox.moe/01ej8p.pdf"
+                },
+                "Assignment 2 with solutions.jpg": {
+                    "name": "Assignment-2-with-solutions.jpg",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/dd8e5ffbc79495bd255a911e0fd2d32266243129Assignment%202%20with%20solutions.jpg",
+                    "url": "https://files.catbox.moe/x0llvu.jpg"
+                },
+                "LAB FILE (all exp).docx": {
+                    "name": "LAB-FILE-(all-exp).docx",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c1faad846036cc62b9469279db0e575cd70bf09aLAB%20FILE%20%28all%20exp%29.docx",
+                    "url": "URL Error"
+                },
+                "UNIT 1_Lec-1_PPT.pdf": {
+                    "name": "UNIT-1_Lec-1_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8e63a8d88ddb891280759650b9ff92b2a369d603UNIT%201%2C%20Lec-1%2C%20Intro%20PPT.pdf",
+                    "url": "https://files.catbox.moe/ik5t6w.pdf"
+                },
+                "UNIT 1_Lec-2_PPT.pdf": {
+                    "name": "UNIT-1_Lec-2_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/911b3c130b4b91de9865a00a73cd74210bd9d268UNIT%201%2C%20Lec-2%2C%20Logic%20Gates%20PPT.pdf",
+                    "url": "https://files.catbox.moe/6i18qg.pdf"
+                },
+                "UNIT 1_ Lec-3_PPT.pdf": {
+                    "name": "UNIT-1_-Lec-3_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ef34a1c32044878e1a81d544bb6a004f829a4643UNIT%201%2C%20Lec-3%2C%20PPT.pdf",
+                    "url": "https://files.catbox.moe/8vg2kn.pdf"
+                },
+                "UNIT 1_ Lec-4_PPT.pdf": {
+                    "name": "UNIT-1_-Lec-4_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2bc157156849b5d0bd0eda976090ff7cde77ec66UNIT%201%2C%20Lec-4%2C%20PPT.pdf",
+                    "url": "https://files.catbox.moe/ej4ahq.pdf"
+                },
+                "UNIT 1_ Lec-5 _PPT.pdf": {
+                    "name": "UNIT-1_-Lec-5-_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d4e38d001ef3cd29ec06e073395ea1ce467a6219UNIT%201%2C%20Lec-5%20%2C%20PPT.pdf",
+                    "url": "https://files.catbox.moe/or28fs.pdf"
+                },
+                "UNIT 1_Lec-8_PPT.pdf": {
+                    "name": "UNIT-1_Lec-8_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8fdffe00ddccf368f8c50a246b0059ffaa1f27e7UNIT%201_Lec-8_PPT.pdf",
+                    "url": "https://files.catbox.moe/nhkw8m.pdf"
+                },
+                "UNIT 1_Lec-7_PPT.pdf": {
+                    "name": "UNIT-1_Lec-7_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ad6bbdbd04b32ae7db530ee11d72d0f4f878a0fbUNIT%201_Lec-7_PPT.pdf",
+                    "url": "https://files.catbox.moe/wf8x98.pdf"
+                },
+                "UNIT 1_Lec-6_PPT.pdf": {
+                    "name": "UNIT-1_Lec-6_PPT.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/916dd21bc41cfde6b6044460c6b82c1fa8b12768UNIT%201_Lec-6_PPT.pdf",
+                    "url": "https://files.catbox.moe/dkbmym.pdf"
+                },
+                "COA Unit-1.playlist": {
+                    "name": "COA-Unit-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=8msCz6Nb6nk&list=PL-JvKqQx2Atfuxo1LR0m9RQramPymoBsj",
+                    "url": "https://files.catbox.moe/bob6v5.txt"
+                },
+                "Complete playlist_Gate Smashers.playlist": {
+                    "name": "Complete-playlist_Gate-Smashers.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=L9X7XXfHYdU&list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
+                    "url": "https://files.catbox.moe/5g8cwe.txt"
+                },
+                "Coa midsem'22 solns (1).pdf": {
+                    "name": "Coa-midsem'22-solns-(1).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1e2a35235e27e613ef5256d1a348d83f98d3f019Coa%20midsem%2722%20solns%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/r7ffgw.pdf"
+                },
+                "UNIT 2_Lec-1_PPT.pdf.pdf": {
+                    "name": "UNIT-2_Lec-1_PPT.pdf.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6edd9402030cd08fec2138f5874c22f6175f84e5UNIT%201_Lec-9_PPT.pdf.pdf",
+                    "url": "https://files.catbox.moe/4a2g3l.pdf"
+                },
+                "UNIT 2_Lec-2_PPT.pdf.pdf": {
+                    "name": "UNIT-2_Lec-2_PPT.pdf.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ffabcd1ff8d7fdbfe8aa4bd7467385400415a88UNIT%202_Lec-2_PPT.pdf.pdf",
+                    "url": "https://files.catbox.moe/4qyfll.pdf"
+                },
+                "UNIT 2_Lec-3_PPT.pdf.pdf": {
+                    "name": "UNIT-2_Lec-3_PPT.pdf.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6f4b2b5b36497fc91e0ceb9ca8c19c5f851e10cdUNIT%202_Lec-3_PPT.pdf.pdf",
+                    "url": "https://files.catbox.moe/7dv59b.pdf"
+                },
+                "COA_MidSem_Oct'23.pdf": {
+                    "name": "COA_MidSem_Oct'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/f4f38f9fb40c9fa978c3ebbdd118d1d32d8af85cCOA_MidSem_Oct%2723.pdf",
+                    "url": "https://files.catbox.moe/lihe44.pdf"
+                },
+                "COA_Endsem_Dec'23.pdf": {
+                    "name": "COA_Endsem_Dec'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d3c27257c0a4687f8c8128bc3aedb64d9743c3fbCOA_Endsem_Dec%2723.pdf",
+                    "url": "https://files.catbox.moe/71cx39.pdf"
+                },
+                "COA_Unit 3.playlist": {
+                    "name": "COA_Unit-3.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JsxFEluRokmVwMp3zF7JL7tL&feature=shared",
+                    "url": "https://files.catbox.moe/my8ssr.txt"
+                },
+                "COA_Unit 4.playlist": {
+                    "name": "COA_Unit-4.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL3R9-um41JszyaKeoc9qP8Bn45XzqJycj&feature=shared",
+                    "url": "https://files.catbox.moe/li5gu6.txt"
+                },
+                "Unit 1.playlist": {
+                    "name": "Unit-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLC3Bkf_i2k4_J02ktCnl8yJ7sknddcVD8",
+                    "url": "https://files.catbox.moe/gwofvm.txt"
+                },
+                "Unit 2.playlist": {
+                    "name": "Unit-2.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLC3Bkf_i2k49fyj9sXl0ht1kTldozc4js&feature=shared",
+                    "url": "https://files.catbox.moe/zag7do.txt"
+                }
+            },
+            "Intellligent-System": {
+                "unit 1-4.pdf": {
+                    "name": "unit-1-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fdbdc0a180f646382a9b40ac6564fb2f5589f8c0unit%201-4.pdf",
+                    "url": "https://files.catbox.moe/vjt6y9.pdf"
+                },
+                "End Term.pdf": {
+                    "name": "End-Term.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ba1525073b110afd0b64aefc955ea0c875d2cc4dEnd%20Term.pdf",
+                    "url": "https://files.catbox.moe/tbrx4n.pdf"
+                },
+                "Russell & Norvig.pdf": {
+                    "name": "Russell-&-Norvig.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/eca6698a6c08325edbb7f8b857de0eb393dc1788Russell%20%26%20Norvig.pdf",
+                    "url": "https://files.catbox.moe/i8h3ym.pdf"
+                },
+                "is end sem22.pdf": {
+                    "name": "is-end-sem22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ff7d275b4992b0e00d3d68d87de5bcb7ccbdb0dis%20end%20sem22.pdf",
+                    "url": "https://files.catbox.moe/18xyzm.pdf"
+                },
+                "Computer Vision.pptx": {
+                    "name": "Computer-Vision.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fb8364effc02c94c0f29d6dbb2c8d18370fda1c5Computer%20Vision.pptx",
+                    "url": "https://files.catbox.moe/avxcar.pptx"
+                },
+                "Intelligent Agents.pdf": {
+                    "name": "Intelligent-Agents.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/eab14ddbf6e01144d60b38867614a2242f12a764Intelligent%20Agents.pdf",
+                    "url": "https://files.catbox.moe/qtsmm9.pdf"
+                },
+                "Intelligent Systems.pptx": {
+                    "name": "Intelligent-Systems.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b93c7d87af4eeaf6ff461d90b365ef0eb380650cIntelligent%20Systems.pptx",
+                    "url": "https://files.catbox.moe/gjzu13.pptx"
+                },
+                "Internet of Things(IoT).pptx": {
+                    "name": "Internet-of-Things(IoT).pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/660edcca48215fd2158a7f7d06faa66913f93df4Internet%20of%20Things%28IoT%29.pptx",
+                    "url": "https://files.catbox.moe/iik62z.pptx"
+                },
+                "Introduction to Machine Learning.pptx": {
+                    "name": "Introduction-to-Machine-Learning.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/176260d47c5018f8cfd216afba19ffd18a311011Introduction%20to%20Machine%20Learning.pptx",
+                    "url": "https://files.catbox.moe/f5b67o.pptx"
+                },
+                "Introduction to ML.ppt": {
+                    "name": "Introduction-to-ML.ppt",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ce213a4d74d08ce992cfc91a3c970abb58037b4eIntroduction%20to%20ML.ppt",
+                    "url": "https://files.catbox.moe/el7uy8.ppt"
+                },
+                "Knowledge Representation.pdf": {
+                    "name": "Knowledge-Representation.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ec921aa1d59dcd4b49379cd0c3fa1aa242b1f621Knowledge%20Representation.pdf",
+                    "url": "https://files.catbox.moe/x6udmh.pdf"
+                },
+                "Natural Language Processing(NLP).pptx": {
+                    "name": "Natural-Language-Processing(NLP).pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/202a0bdee68e6f64f81297050993bb664d880f50Natural%20Language%20Processing%28NLP%29.pptx",
+                    "url": "https://files.catbox.moe/qtvz5s.pptx"
+                },
+                "Speech Processing.pptx": {
+                    "name": "Speech-Processing.pptx",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/41524bbe442505ea5c52bd8ef62f587f2253eea7Speech%20Processing.pptx",
+                    "url": "https://files.catbox.moe/hv67hq.pptx"
+                },
+                "intelligent Systems .playlist": {
+                    "name": "intelligent-Systems-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLtCTr3lBQyHwNk4KWHJFBnUntkIfDQu9t",
+                    "url": "https://files.catbox.moe/mq4si0.txt"
+                },
+                "Introduction to Machine Learning.playlist": {
+                    "name": "Introduction-to-Machine-Learning.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLtCTr3lBQyHzinPLZIa4rqscCAXNrLu9k",
+                    "url": "https://files.catbox.moe/ueju95.txt"
+                },
+                "IS mid sem'22.pdf": {
+                    "name": "IS-mid-sem'22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/73deaa195eb6b98dfc1a72b9fe1d1dd94e7e6905IS%20mid%20sem%2722.pdf",
+                    "url": "https://files.catbox.moe/3s9tjl.pdf"
+                },
+                "IS Unit1.playlist": {
+                    "name": "IS-Unit1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=L6ItcRfN4Hc",
+                    "url": "https://files.catbox.moe/lag99j.txt"
+                },
+                "IS_MidSem_Oct'23.pdf": {
+                    "name": "IS_MidSem_Oct'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/880c6eae2869666e7ba100446ca4f8e3b6a01edbIS_MidSem_Oct%2723.pdf",
+                    "url": "https://files.catbox.moe/yd286i.pdf"
+                },
+                "IS_Endsem_Dec'23.pdf": {
+                    "name": "IS_Endsem_Dec'23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/c4f5766d825f6c207ee38d86fec42e3549db851aIS_Endsem_Dec%2723.pdf",
+                    "url": "https://files.catbox.moe/vmmakd.pdf"
+                },
+                "IS_Playlist.playlist": {
+                    "name": "IS_Playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&feature=shared",
+                    "url": "https://files.catbox.moe/jxc2vy.txt"
+                }
+            },
+            "SSPD": {},
+            "DataBase-Management-System": {
+                "Fundamentals of Database Systems (Ramez Elmasri, Shamkant B. Navathe).pdf": {
+                    "name": "Fundamentals-of-Database-Systems-(Ramez-Elmasri,-Shamkant-B.-Navathe).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6918ed8f98e9c87b77740f644032ab7158701ac0Fundamentals%20of%20Database%20Systems%20%28Ramez%20Elmasri%2C%20Shamkant%20B.%20Navathe%29.pdf",
+                    "url": "https://files.catbox.moe/p6bw49.pdf"
+                },
+                "DBMS End Term.pdf": {
+                    "name": "DBMS-End-Term.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4ac9dac4337482e0aa618b3139da40478d5dfbc1DBMS%20End%20Term.pdf",
+                    "url": "https://files.catbox.moe/epho3w.pdf"
+                },
+                "DBMS Mid Term.pdf": {
+                    "name": "DBMS-Mid-Term.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/35dccff964812378a4038f99a4cf603df82250afDBMS%20Mid%20Term.pdf",
+                    "url": "https://files.catbox.moe/if79il.pdf"
+                },
+                "DBMS Unit 1.pdf": {
+                    "name": "DBMS-Unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b6b24ed58458c98d24e6c91efe861a133d01fc86DBMS%20Unit%201.pdf",
+                    "url": "https://files.catbox.moe/jxqcqb.pdf"
+                },
+                "DBMS Unit 2.pdf": {
+                    "name": "DBMS-Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/57cac972aceafda6e66ac2e90a0dc7a6df89843bDBMS%20Unit%202.pdf",
+                    "url": "https://files.catbox.moe/25cwld.pdf"
+                },
+                "DBMS Unit 3.pdf": {
+                    "name": "DBMS-Unit-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/67e9e6fc463dc92eb7186afdb6631295313f19c5DBMS%20Unit%203.pdf",
+                    "url": "https://files.catbox.moe/ir9vdn.pdf"
+                },
+                "DBMS Unit 4.pdf": {
+                    "name": "DBMS-Unit-4.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/4a106ec50cf1875d015892b07fecea8699aa0c79DBMS%20Unit%204.pdf",
+                    "url": "https://files.catbox.moe/864r9w.pdf"
+                },
+                "Midsem 2022 .pdf": {
+                    "name": "Midsem-2022-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/87bbb7ce52b41aea9d25f847dc4a53ba55496161Midsem%202022%20.pdf",
+                    "url": "https://files.catbox.moe/xw9yq9.pdf"
+                },
+                "Endsem 2022 .pdf": {
+                    "name": "Endsem-2022-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6034c961e9f4d2b34f87a6c31994d731f58e1805Endsem%202022%20.pdf",
+                    "url": "https://files.catbox.moe/ql2v2h.pdf"
+                },
+                "unit 1.playlist": {
+                    "name": "unit-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLZsibbKUQV_Eo6Km-90mh4nBLGGZ89fUP&si=tSCKd3RGmpPtuDXp",
+                    "url": "https://files.catbox.moe/e9pngu.txt"
+                },
+                "SQL.pdf": {
+                    "name": "SQL.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/353dc8c5db31ed18bd3f72269d9a5d79cb08a877SQL.pdf",
+                    "url": "https://files.catbox.moe/1v6lwx.pdf"
+                },
+                "lecture-I (1).pdf": {
+                    "name": "lecture-I-(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7465c66546ade88ee306b56218490e6a6784d3d8lecture-I%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/qj4jdx.pdf"
+                },
+                "Lecture-2_a_b.pdf": {
+                    "name": "Lecture-2_a_b.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d5bae2fd644c7a471086a3c4827ca92a748d02aLecture-2_a_b.pdf",
+                    "url": "https://files.catbox.moe/tuij0s.pdf"
+                },
+                "lecture_5.pdf": {
+                    "name": "lecture_5.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fc4b5fb80168e3527939c1c3c517371278c11a2clecture_5.pdf",
+                    "url": "https://files.catbox.moe/a418u6.pdf"
+                },
+                "lecture-3.pdf": {
+                    "name": "lecture-3.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69e28e32722a9a7cb7d0eb4e418066deae2c0e2flecture-3.pdf",
+                    "url": "https://files.catbox.moe/7rgob2.pdf"
+                },
+                "Uit 1 & Unit 2.pdf": {
+                    "name": "Uit-1-&-Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d79ac748b98560b4ae4f28517218436b2b0dc64aUit%201%20%26%20Unit%202.pdf",
+                    "url": "https://files.catbox.moe/rld3d4.pdf"
+                },
+                "unit 3 .playlist": {
+                    "name": "unit-3-.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLZsibbKUQV_Hllz5YBM1r9qNdnCeh8H3O&si=BmGaax4vugw1s4q8",
+                    "url": "https://files.catbox.moe/ssol3t.txt"
+                },
+                "functional_dependencies.pdf": {
+                    "name": "functional_dependencies.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/49f942fe190685453211f825ab3b00f06ec4bd2ffunctional_dependencies.pdf",
+                    "url": "https://files.catbox.moe/jmgxpy.pdf"
+                },
+                "unit_3_normalalisation.pdf": {
+                    "name": "unit_3_normalalisation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b9e3cb68b84966d948d04338cb0c0d3ff5a753d0unit_3_normalalisation.pdf",
+                    "url": "https://files.catbox.moe/6qrius.pdf"
+                },
+                "UNIT 4.playlist": {
+                    "name": "UNIT-4.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLZsibbKUQV_HwFUDUQWSQsyLyr-zJHAUN&si=--gzWXEgTcF8gpFJ",
+                    "url": "https://files.catbox.moe/2zje63.txt"
+                },
+                "dbms_endsem_23.pdf": {
+                    "name": "dbms_endsem_23.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a96e4855e0be96a89d1b1ebe4b0cace13c9d507ddbms_endsem_23.pdf",
+                    "url": "https://files.catbox.moe/nw16xg.pdf"
+                },
+                "mid sem 24.pdf": {
+                    "name": "mid-sem-24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/6795d38d1b824ed75fba30099cecc8322f39ab38mid%20sem%2024.pdf",
+                    "url": "https://files.catbox.moe/jjxhlx.pdf"
+                },
+                "DBMS Endsem (May '24)  .pdf": {
+                    "name": "DBMS-Endsem-(May-'24)--.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ed211ae484ac337d479183478ab8b9a502b8007eDBMS%20Endsem%20%28May%20%2724%29%20%20.pdf",
+                    "url": "https://files.catbox.moe/eg3565.pdf"
+                },
+                "2024 Midsem Sep.pdf": {
+                    "name": "2024-Midsem-Sep.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/027729ebeb2cf0e1095253c8cbcb1a7b5b45cba02024%20Midsem%20Sep.pdf",
+                    "url": "https://files.catbox.moe/a6imke.pdf"
+                },
+                "SE notes.pdf": {
+                    "name": "SE-notes.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9f859e450876e073cef89f0b496cc41b3961212eSE%20notes.pdf",
+                    "url": "https://files.catbox.moe/qai6nv.pdf"
+                },
+                "itw midsem.pdf": {
+                    "name": "itw-midsem.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4d2948f4d4754135b19e2240fd2448a624ae4815itw%20midsem.pdf",
+                    "url": "https://files.catbox.moe/1p9xmq.pdf"
+                },
+                "CHAPTER 1 final.DOC": {
+                    "name": "CHAPTER-1-final.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/db1a05138fe7186d7a60a3f8f199377df5b8c821CHAPTER%201%20final.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "Chapter 2 Data Models Final nandini.doc": {
+                    "name": "Chapter-2-Data-Models-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/7a6723fb9b612362edc9623822b8a778d3396e0fChapter%202%20Data%20Models%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 3(ER Modeling) Final nandini.doc": {
+                    "name": "Chapter-3(ER-Modeling)-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/1b18697ed7149323ebd33016b4f7cc3604ecc73eChapter%203%28ER%20Modeling%29%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "CHAPTER 4 RDBMS Final nandini.doc": {
+                    "name": "CHAPTER-4-RDBMS-Final-nandini.doc",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/04bac39fae29d95a014d2cfd3253636788405207CHAPTER%204%20RDBMS%20Final%20nandini.doc",
+                    "url": "Bad file type! doc isn't allowed!"
+                },
+                "Chapter 6 SQL.DOC": {
+                    "name": "Chapter-6-SQL.DOC",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/c508aa175280b90dad1b2b98e683be9410a8134bChapter%206%20SQL.DOC",
+                    "url": "Bad file type! DOC isn't allowed!"
+                },
+                "DBMS oct 2024.pdf": {
+                    "name": "DBMS-oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/e77e37612bb5f56ca6838cfc6d29d8a0eedbc17fDBMS%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/31j6yd.pdf"
+                },
+                "Me3midsemCe101.pdf": {
+                    "name": "Me3midsemCe101.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/2f9c1527ae44d6ab957a87e0e13fbbc41b45a338Me3midsemCe101.pdf",
+                    "url": "https://files.catbox.moe/ighpmy.pdf"
+                },
+                "fluid unit3 short notes.pdf": {
+                    "name": "fluid-unit3-short-notes.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/a8b6dc656129bcf643aea3450f861e110ae0a2ebfluid%20unit3%20short%20notes.pdf",
+                    "url": "https://files.catbox.moe/iv4x4g.pdf"
+                },
+                "Endsem 24.pdf": {
+                    "name": "Endsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/aa2178b36a0f38ca8f2c5f572b40871cf9d419b5Endsem%2024.pdf",
+                    "url": "https://files.catbox.moe/gu32y1.pdf"
+                },
+                "Midsem 24.pdf": {
+                    "name": "Midsem-24.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/26824d7ed086a93a16f8975582d60f736f1c7a22Midsem%2024.pdf",
+                    "url": "https://files.catbox.moe/798t2a.pdf"
+                },
+                "practicedbms (2).zip": {
+                    "name": "practicedbms-(2).zip",
+                    "type": "Assignment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/598f6124b14b5fbf0baf64529889ecb745f2f6a9practicedbms%20%282%29.zip",
+                    "url": "https://files.catbox.moe/84mfm8.zip"
+                },
+                "Dbms unit-1.pdf": {
+                    "name": "Dbms-unit-1.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4c2a3822d59eca660c147a1cfa3ba707a5686a48Dbms%20unit-1.pdf",
+                    "url": "https://files.catbox.moe/x0vz83.pdf"
+                },
+                "Dbms imp topics -1,2.pdf": {
+                    "name": "Dbms-imp-topics--1,2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/2cc3e39717e2fa172a5bebb69a24895fa302fb84Dbms%20imp%20topics%20-1%2C2.pdf",
+                    "url": "https://files.catbox.moe/egkv16.pdf"
+                },
+                "Dbms Endsem'24.pdf": {
+                    "name": "Dbms-Endsem'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ae1114416b7ba78ae78c1f32813f7fb7f2fabb7fDbms%20Endsem%2724.pdf",
+                    "url": "https://files.catbox.moe/o48hbi.pdf"
+                },
+                "dbms  end term 2024 .pdf": {
+                    "name": "dbms--end-term-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/20a36e9b249f616a38bcd8252a95ab727327d21edbms%20%20end%20term%202024%20.pdf",
+                    "url": "https://files.catbox.moe/ozs2f2.pdf"
+                }
+            },
+            "Object-Oriented-Programming-using-Java": {
+                "Y. Daniel Liang.pdf": {
+                    "name": "Y.-Daniel-Liang.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8d7bb16f3f0b771793d2ced78523ad9db3fee205Y.%20Daniel%20Liang.pdf",
+                    "url": "https://files.catbox.moe/cgd34g.pdf"
+                },
+                "Simon Kendal.pdf": {
+                    "name": "Simon-Kendal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/abd7922ce9b8a09dcc45290916685804aa67a78fSimon%20Kendal.pdf",
+                    "url": "https://files.catbox.moe/yeetoj.pdf"
+                },
+                "Herbert Schildt.pdf": {
+                    "name": "Herbert-Schildt.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/de0710deb653bdec1229ce29da06908902e2eb04Herbert%20Schildt.pdf",
+                    "url": "https://files.catbox.moe/k7v5q8.pdf"
+                },
+                "Timothy Budd.PDF": {
+                    "name": "Timothy-Budd.PDF",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bf3d313dcb42fddc34f2464be25ed4bf461f9862Timothy%20Budd.PDF",
+                    "url": "https://files.catbox.moe/zhpy9v.PDF"
+                },
+                "Cay S. Horstmann.pdf": {
+                    "name": "Cay-S.-Horstmann.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/267f8528a9c2ee6853d8edf07da06004fefca1a9Cay%20S.%20Horstmann.pdf",
+                    "url": "https://files.catbox.moe/0f21if.pdf"
+                },
+                "Inheritance.pdf": {
+                    "name": "Inheritance.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2089f6907868a5cb4122f2fecad4f180c0e6b201Inheritance.pdf",
+                    "url": "https://files.catbox.moe/j8vt9e.pdf"
+                },
+                "Basic Components of Java in OOPs.pdf": {
+                    "name": "Basic-Components-of-Java-in-OOPs.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/ca36079b8dc5b9e77f7397b9bbcb9a6b759b8bf3Basic%20Components%20of%20Java%20in%20OOPs.pdf",
+                    "url": "https://files.catbox.moe/rw16ys.pdf"
+                },
+                "Introduction of Java in OOPs.pdf": {
+                    "name": "Introduction-of-Java-in-OOPs.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e75dcc28a183b31a64b91c48b8babd3deb87a864Introduction%20of%20Java%20in%20OOPs.pdf",
+                    "url": "https://files.catbox.moe/fjobbx.pdf"
+                },
+                "Java Bytecode.pdf": {
+                    "name": "Java-Bytecode.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/64b121fa3aa69e68fe16e50c26cd9bfc39e2de84Java%20Bytecode.pdf",
+                    "url": "https://files.catbox.moe/68h1x8.pdf"
+                },
+                "Operators.pdf": {
+                    "name": "Operators.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6fa52c8fee767fcd59eff09d466143a9cc34af58Operators.pdf",
+                    "url": "https://files.catbox.moe/93ow5o.pdf"
+                },
+                "Classes and Objects.pdf": {
+                    "name": "Classes-and-Objects.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e9e24a2eeaee8264d998c47ed78c85404fcc1c7dClasses%20and%20Objects.pdf",
+                    "url": "https://files.catbox.moe/yh6rd9.pdf"
+                },
+                "Multithreading and Parallel Programming.pdf": {
+                    "name": "Multithreading-and-Parallel-Programming.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7d44c4ce4413b05bac9df8f345f8ae78c64be8e5Multithreading%20and%20Parallel%20Programming.pdf",
+                    "url": "https://files.catbox.moe/hef8vh.pdf"
+                },
+                "Object Oriented Programming using JAVA.pdf": {
+                    "name": "Object-Oriented-Programming-using-JAVA.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/74872e3833313270567a9af565c3b4ab2fd17d05Object%20Oriented%20Programming%20using%20JAVA.pdf",
+                    "url": "https://files.catbox.moe/lwl90q.pdf"
+                },
+                "Balaguruswamy.pdf": {
+                    "name": "Balaguruswamy.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2c7bcb98c919a1e912cc4d35cd7e21c129d31453Balaguruswamy.pdf",
+                    "url": "https://files.catbox.moe/w03x0l.pdf"
+                },
+                "Classes and Inheritance Questions.pdf": {
+                    "name": "Classes-and-Inheritance-Questions.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bbd960042cbf3db5e42e1274322dca82f5ed908bClasses%20and%20Inheritance%20Questions.pdf",
+                    "url": "https://files.catbox.moe/my5637.pdf"
+                },
+                "Series Question.pdf": {
+                    "name": "Series-Question.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/60b47195474033dea2b9c17dc8731db0fea6fd56Series%20Question.pdf",
+                    "url": "https://files.catbox.moe/x8j8wq.pdf"
+                },
+                "Pattern Questions.pdf": {
+                    "name": "Pattern-Questions.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d037bb0a9955270a9f21ae1f5ac6988d9500ccb5Pattern%20Questions.pdf",
+                    "url": "https://files.catbox.moe/4x1y1h.pdf"
+                },
+                "Practical Questions.pdf": {
+                    "name": "Practical-Questions.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/7665ce7a5e5ce78f20935028bb747a025b59413ePractical%20Questions.pdf",
+                    "url": "https://files.catbox.moe/oag40a.pdf"
+                },
+                "Theory Questions.pdf": {
+                    "name": "Theory-Questions.pdf",
+                    "type": "Practice_Problems",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/fbb860751e42938e38fbcc5530aa10d68eda7e82Theory%20Questions.pdf",
+                    "url": "https://files.catbox.moe/6rlvwf.pdf"
+                },
+                "End-Term (August 2022).pdf": {
+                    "name": "End-Term-(August-2022).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/b302f83b4ca604733b218208a1477a3426b98677End-Term%20%28August%202022%29.pdf",
+                    "url": "https://files.catbox.moe/0sbu4v.pdf"
+                },
+                "Mid-Term (June 2022).pdf": {
+                    "name": "Mid-Term-(June-2022).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/e5a40f02c35b8141d6a6b99a4e0184b590918f99Mid-Term%20%28June%202022%29.pdf",
+                    "url": "https://files.catbox.moe/d91lf2.pdf"
+                },
+                "UNIT 4 Handwritten Notes.pdf": {
+                    "name": "UNIT-4-Handwritten-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1636af6a8fcec3efeea2c90fb24245dd62ec04c7UNIT%204%20Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/4f62af.pdf"
+                },
+                "UNIT 3 Handwritten Notes.pdf": {
+                    "name": "UNIT-3-Handwritten-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d5981b41a8f5c1871afb970217f3f7466aada05aUNIT%203%20Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/byi2is.pdf"
+                },
+                "UNIT 2 Handwritten Notes.pdf": {
+                    "name": "UNIT-2-Handwritten-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/03f8413f90a8310ce1ac44dbfab46ac9ed6b8885UNIT%202%20Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/xdbnqv.pdf"
+                },
+                "UNIT 1 Handwritten Notes.pdf": {
+                    "name": "UNIT-1-Handwritten-Notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/9b4e8111ae9bbf797cfcd131fc26e5bbffc2bafcUNIT%201%20Handwritten%20Notes.pdf",
+                    "url": "https://files.catbox.moe/lcbtvh.pdf"
+                },
+                "OOPJ Basics.pdf": {
+                    "name": "OOPJ-Basics.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/09d65ce0cebccfcf099ad28ee952a65f9e93e04dOOPJ%20Basics.pdf",
+                    "url": "https://files.catbox.moe/58o742.pdf"
+                },
+                "Control Statements and Loops.pdf": {
+                    "name": "Control-Statements-and-Loops.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/79680154888004dd074cf28c738eb23a7411ddbfControl%20Statements%20and%20Loops.pdf",
+                    "url": "https://files.catbox.moe/l2pqjf.pdf"
+                },
+                "Arrays.pdf": {
+                    "name": "Arrays.pdf",
+                    "type": "Lecture_Slides",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/a619b25fcae594b8136792ceaac01911aac9b02cArrays.pdf",
+                    "url": "https://files.catbox.moe/ljvr37.pdf"
+                },
+                "LAB 1 Questions.pdf": {
+                    "name": "LAB-1-Questions.pdf",
+                    "type": "Laboratory",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/8dbd25c2a6ef4c64a64ea8f00fc4abca91e2f656LAB%201%20Questions.pdf",
+                    "url": "https://files.catbox.moe/k7xe2o.pdf"
+                },
+                "Basic Concepts of OOP.pdf": {
+                    "name": "Basic-Concepts-of-OOP.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/d15323c4039c912691446407c0343f839b6b9d49Basic%20Concepts%20of%20OOP.pdf",
+                    "url": "https://files.catbox.moe/ihvr4m.pdf"
+                },
+                "Mid-Term (May 2023).pdf": {
+                    "name": "Mid-Term-(May-2023).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/5b0acf72d96c3f9ac84ea0c144649b99a62c94fdMid-Term%20%28May%202023%29.pdf",
+                    "url": "https://files.catbox.moe/hwea6p.pdf"
+                },
+                "LAB 2 Questions.pdf": {
+                    "name": "LAB-2-Questions.pdf",
+                    "type": "Laboratory",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/883722f685e24ad081333e9255c276c43280dd81LAB%202%20Questions.pdf",
+                    "url": "https://files.catbox.moe/bz8su3.pdf"
+                },
+                "Endsem'22.pdf": {
+                    "name": "Endsem'22.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/d2bfd07bad2ad12a76176d4c26dad4849566c366Endsem%2722.pdf",
+                    "url": "https://files.catbox.moe/nvvpyd.pdf"
+                },
+                "MidSem'24.pdf": {
+                    "name": "MidSem'24.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/4e24f6a0b16bc814091099e717b2f1a6fe0c54d6MidSem%2724.pdf",
+                    "url": "https://files.catbox.moe/e74wx6.pdf"
+                },
+                "OOPJ Endsem (May'24).pdf": {
+                    "name": "OOPJ-Endsem-(May'24).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/24ca6bfdc1b9d67b523d9c5a172fceb32d843483OOPJ%20Endsem%20%28May%2724%29.pdf",
+                    "url": "https://files.catbox.moe/5sroiy.pdf"
+                }
+            },
+            "Web-Application-Dev": {},
+            "Cyber-Security": {}
         },
         "CSE": {
             "DataBase-Management-System": {
@@ -8552,7 +8555,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/1ctyc5.txt"
+                    "url": "https://files.catbox.moe/hnl9pq.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -9208,13 +9211,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/irbvup.txt"
+                    "url": "https://files.catbox.moe/d32r93.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/xsm0cy.txt"
+                    "url": "https://files.catbox.moe/fgv39h.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -11460,13 +11463,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/pynkqh.txt"
+                    "url": "https://files.catbox.moe/7nhcok.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/vihhtn.txt"
+                    "url": "https://files.catbox.moe/6tec3i.txt"
                 }
             },
             "introduction-to-Data-Science": {
@@ -11552,7 +11555,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/s5szr1.pdf"
+                    "url": "https://files.catbox.moe/5mj5si.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -12055,7 +12058,87 @@
                     "url": "https://files.catbox.moe/qanv5f.pdf"
                 }
             },
-            "Mobile-Application-Development": {}
+            "Mobile-Application-Development": {},
+            "Network-Analysis-and-Synthesis": {
+                "NAS.pdf": {
+                    "name": "NAS.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/6a69e8e1dda828516ea7b1f0777d539f636dfab6NAS.pdf",
+                    "url": "https://files.catbox.moe/7v5yth.pdf"
+                },
+                "End term 2021 Set (A).pdf": {
+                    "name": "End-term-2021-Set-(A).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/69ef2e4998062d4657922fe52551032233507e45End%20term%202021%20Set%20%28A%29.pdf",
+                    "url": "https://files.catbox.moe/mcgpex.pdf"
+                },
+                "End term 2017.pdf": {
+                    "name": "End-term-2017.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/3ae4166c6cfdaae37294e08fd709bf6d7b7cf699End%20term%202017.pdf",
+                    "url": "https://files.catbox.moe/gosd3q.pdf"
+                },
+                "End sem 2018.pdf": {
+                    "name": "End-sem-2018.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/2258f307009c0b7b3c4a933270760265c16a8bdcEnd%20sem%202018.pdf",
+                    "url": "https://files.catbox.moe/75u2zg.pdf"
+                },
+                "End term 2021 Set (B).pdf": {
+                    "name": "End-term-2021-Set-(B).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/72718ed1aa09f3ba927c34ff5cb07c3a93234057End%20term%202021%20Set%20%28B%29.pdf",
+                    "url": "https://files.catbox.moe/ygpwl1.pdf"
+                },
+                "End term 2022.pdf": {
+                    "name": "End-term-2022.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/77505c73228c374943b4f5b9e7de2843eec61a7eEnd%20term%202022.pdf",
+                    "url": "https://files.catbox.moe/i4fhko.pdf"
+                },
+                "Ravish R Singh.pdf": {
+                    "name": "Ravish-R-Singh.pdf",
+                    "type": "Assignment",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/0b11a0465b7054fb2838d10cd53b6851030b3d5fRavish%20R%20Singh.pdf",
+                    "url": "https://files.catbox.moe/qwiccl.pdf"
+                },
+                "Mid term 2023.pdf": {
+                    "name": "Mid-term-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/1faafa1671f14689e66a6de7a2fff60f56b79dbbMid%20term%202023.pdf",
+                    "url": "https://files.catbox.moe/mse9rj.pdf"
+                },
+                "END SEM 2023.pdf": {
+                    "name": "END-SEM-2023.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/IGDTUW/bb58752c68a13ed30bb27eb5cd9bc38124fbb119END%20SEM%202023.pdf",
+                    "url": "https://files.catbox.moe/kiiebx.pdf"
+                },
+                "NAS PDF.pdf": {
+                    "name": "NAS-PDF.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/ec5218017236b9d2fe7d3b7753e5713f787bff03NAS%20PDF.pdf",
+                    "url": "https://files.catbox.moe/z04mht.pdf"
+                },
+                "NAS Unit 2.pdf": {
+                    "name": "NAS-Unit-2.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/922c63c19d63c88b9a58b3b815736d99cf92c0ccNAS%20Unit%202.pdf",
+                    "url": "https://files.catbox.moe/w8plmq.pdf"
+                },
+                "NAS  oct 2024.pdf": {
+                    "name": "NAS--oct-2024.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/f0b16aa1a8bd8ced4fae72e216fcfd11cb63f0a8NAS%20%20oct%202024.pdf",
+                    "url": "https://files.catbox.moe/90mcya.pdf"
+                },
+                "Nas end term 2024 .pdf": {
+                    "name": "Nas-end-term-2024-.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/143c2e417ba7d982907278b629629836bc43e07dNas%20end%20term%202024%20.pdf",
+                    "url": "https://files.catbox.moe/z3vacx.pdf"
+                }
+            }
         },
         "IT": {
             "DataBase-Management-System": {},
@@ -14308,13 +14391,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/wlcwtz.txt"
+                    "url": "https://files.catbox.moe/jztk75.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/e94awz.txt"
+                    "url": "https://files.catbox.moe/3r1j3j.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -16382,7 +16465,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/75cicl.pdf"
+                    "url": "https://files.catbox.moe/jt2evk.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -16586,13 +16669,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/hfyup5.txt"
+                    "url": "https://files.catbox.moe/vwadad.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/8igw64.txt"
+                    "url": "https://files.catbox.moe/24cpl6.txt"
                 }
             },
             "Applied-Physics---2": {
@@ -17636,7 +17719,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/ky7el3.txt"
+                    "url": "https://files.catbox.moe/r29mfv.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -19512,7 +19595,7 @@
                     "name": "introduction-to-data-structure.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/5_5oE5lgrhw?feature=shared",
-                    "url": "https://files.catbox.moe/vn00ny.txt"
+                    "url": "https://files.catbox.moe/a7gc9w.txt"
                 },
                 "Mid Sem (2022).pdf": {
                     "name": "Mid-Sem-(2022).pdf",
@@ -19536,7 +19619,7 @@
                     "name": "data-structure_mid-sem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/8cce2596e6c0dfe6b69c1a516dc2c15dd2ad7fbcdata%20structure_mid%20sem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/gs1ujl.pdf"
+                    "url": "https://files.catbox.moe/7ntlg1.pdf"
                 },
                 "FDS Endsem (May '24).pdf": {
                     "name": "FDS-Endsem-(May-'24).pdf",
@@ -19628,7 +19711,7 @@
                     "name": "IDS_MidSem_March'24.pdf",
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/IGDTUW/75e494f761ac7612cdd6c2893b24e3b4847e884cIDS_MidSem_March%2724.pdf",
-                    "url": "https://files.catbox.moe/ng98o0.pdf"
+                    "url": "https://files.catbox.moe/fm7nqm.pdf"
                 },
                 "IDS Endsem (May '24).pdf": {
                     "name": "IDS-Endsem-(May-'24).pdf",
@@ -22054,13 +22137,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/jsgj12.txt"
+                    "url": "https://files.catbox.moe/q4no3x.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/1psk6f.txt"
+                    "url": "https://files.catbox.moe/ihl0aa.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -23225,13 +23308,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/3vvlm3.txt"
+                    "url": "https://files.catbox.moe/nyrv6p.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/n33lvl.txt"
+                    "url": "https://files.catbox.moe/ss64ut.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -23847,7 +23930,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/j8f3pi.txt"
+                    "url": "https://files.catbox.moe/1mztac.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -23859,13 +23942,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/20ta9z.txt"
+                    "url": "https://files.catbox.moe/9bbcq6.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/xrn83s.txt"
+                    "url": "https://files.catbox.moe/78kton.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -24993,7 +25076,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/3m99n5.txt"
+                    "url": "https://files.catbox.moe/l7nu35.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -26985,7 +27068,7 @@
                     "name": "feedback-amplifier-concept-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/F-wUTfOT8ZQ?si=vL-imNb2-fKNzM6j",
-                    "url": "https://files.catbox.moe/eze9fi.txt"
+                    "url": "https://files.catbox.moe/aw2d8a.txt"
                 },
                 "assignment -3_compressed AE.pdf": {
                     "name": "assignment--3_compressed-AE.pdf",
@@ -26997,13 +27080,13 @@
                     "name": "special-type-of-semiconductor--device-SRC.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/JZ2PcZSsLG8?si=SmKLoC0AtZT2QoRz",
-                    "url": "https://files.catbox.moe/6sfywu.txt"
+                    "url": "https://files.catbox.moe/infn2m.txt"
                 },
                 "src complete playlist .playlist": {
                     "name": "src-complete-playlist-.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mTo-46GbUIs?si=tDMJkhriSC2n_frr",
-                    "url": "https://files.catbox.moe/v53b0t.txt"
+                    "url": "https://files.catbox.moe/cd93nq.txt"
                 },
                 "ae end sem (2) 2023 .jpg": {
                     "name": "ae-end-sem-(2)-2023-.jpg",
@@ -29705,13 +29788,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/0dey7l.txt"
+                    "url": "https://files.catbox.moe/kr0lz3.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/ua5xeu.txt"
+                    "url": "https://files.catbox.moe/vqoyku.txt"
                 }
             },
             "Programming-with-C": {
@@ -30097,7 +30180,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/668hj2.txt"
+                    "url": "https://files.catbox.moe/fiy9sj.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -30753,13 +30836,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/gjk85v.txt"
+                    "url": "https://files.catbox.moe/s33p7a.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/52rb8t.txt"
+                    "url": "https://files.catbox.moe/urzj4u.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
@@ -34309,13 +34392,13 @@
                     "name": "Basic-ED-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/v2L0zUrX6ow",
-                    "url": "https://files.catbox.moe/yr1cyq.txt"
+                    "url": "https://files.catbox.moe/s8qus7.txt"
                 },
                 "Basic construction L-1.playlist": {
                     "name": "Basic-construction-L-1.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/1m9DmZEa4Jw",
-                    "url": "https://files.catbox.moe/uok9bp.txt"
+                    "url": "https://files.catbox.moe/0sare9.txt"
                 }
             },
             "Programming-with-C": {
@@ -34701,7 +34784,7 @@
                     "name": "programming-in-c-complete-notes.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1Gd_fAuVANHcGfSOnKdp4vuDIaW499ayk?usp=sharing",
-                    "url": "https://files.catbox.moe/0ww5pz.txt"
+                    "url": "https://files.catbox.moe/96wwib.txt"
                 },
                 "E Balagurusamy: Programming in ANSI C.pdf": {
                     "name": "E-Balagurusamy--Programming-in-ANSI-C.pdf",
@@ -35357,13 +35440,13 @@
                     "name": "Unit-4(Vector-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/GLs0nXZBUYk?feature=shared",
-                    "url": "https://files.catbox.moe/ffyaz5.txt"
+                    "url": "https://files.catbox.moe/j5m5oy.txt"
                 },
                 "Unit 3(Differential Calculus)_GP Sir.playlist": {
                     "name": "Unit-3(Differential-Calculus)_GP-Sir.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/mco9p6EzR50?feature=shared",
-                    "url": "https://files.catbox.moe/py5wx4.txt"
+                    "url": "https://files.catbox.moe/9p8q8b.txt"
                 },
                 "Unit 3(Succesive Diff)_GP Sir.playlist": {
                     "name": "Unit-3(Succesive-Diff)_GP-Sir.playlist",
