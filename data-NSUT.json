@@ -1148,7 +1148,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/vphgrb.txt"
+                    "url": "https://files.catbox.moe/170pe1.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -2285,6 +2285,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
                     "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
                 }
             },
             "Database-Management-System": {
@@ -2558,7 +2582,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/ujtt98.txt"
+                    "url": "https://files.catbox.moe/ciagtg.txt"
                 }
             },
             "Web-Technology": {},
@@ -2588,6 +2612,48 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b7618449b8294dae0e4f311c88ff1b8e20cd32aaOperating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf",
                     "url": "https://files.catbox.moe/rf4z5d.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD",
+                    "url": "https://files.catbox.moe/efbw5q.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2",
+                    "url": "https://files.catbox.moe/x6nowo.txt"
+                },
+                "UNIT 1+2(Handwritten).pdf": {
+                    "name": "UNIT-1+2(Handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1ca36fa50ee9cc292d868a5c0c918c086d00df23UNIT%201%2B2%28Handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/zs8jmy.pdf"
+                },
+                "Combined Handwritten.pdf": {
+                    "name": "Combined-Handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8351b62ea5ed61fe1774147b875f86768fe64e5aCombined%20Handwritten.pdf",
+                    "url": "https://files.catbox.moe/s58j2z.pdf"
+                },
+                "Midsem 2022 theory solutions.pdf": {
+                    "name": "Midsem-2022-theory-solutions.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/64f72e678968ac7f29a82059378df8660028bdb6Midsem%202022%20theory%20solutions.pdf",
+                    "url": "https://files.catbox.moe/v4i3st.pdf"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7a6d5cee6d2a8593ef8363d74142a56f48fb8a67Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p5t4zw.jpg"
+                },
+                "Combined PYQ.pdf": {
+                    "name": "Combined-PYQ.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cefb4aaf10e7751dd248d48e45de327f60b02139Combined%20PYQ.pdf",
+                    "url": "https://files.catbox.moe/cpnhin.pdf"
                 }
             }
         },
@@ -3739,7 +3805,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/lway92.txt"
+                    "url": "https://files.catbox.moe/g32084.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -4877,6 +4943,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
                     "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
                 }
             },
             "Web-Technology": {},
@@ -5001,7 +5091,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/5ebbby.txt"
+                    "url": "https://files.catbox.moe/bct6po.txt"
                 }
             }
         },
@@ -6153,7 +6243,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/xecyvu.txt"
+                    "url": "https://files.catbox.moe/kpydxe.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -7303,6 +7393,48 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b7618449b8294dae0e4f311c88ff1b8e20cd32aaOperating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf",
                     "url": "https://files.catbox.moe/rf4z5d.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD",
+                    "url": "https://files.catbox.moe/efbw5q.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2",
+                    "url": "https://files.catbox.moe/x6nowo.txt"
+                },
+                "UNIT 1+2(Handwritten).pdf": {
+                    "name": "UNIT-1+2(Handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1ca36fa50ee9cc292d868a5c0c918c086d00df23UNIT%201%2B2%28Handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/zs8jmy.pdf"
+                },
+                "Combined Handwritten.pdf": {
+                    "name": "Combined-Handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8351b62ea5ed61fe1774147b875f86768fe64e5aCombined%20Handwritten.pdf",
+                    "url": "https://files.catbox.moe/s58j2z.pdf"
+                },
+                "Midsem 2022 theory solutions.pdf": {
+                    "name": "Midsem-2022-theory-solutions.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/64f72e678968ac7f29a82059378df8660028bdb6Midsem%202022%20theory%20solutions.pdf",
+                    "url": "https://files.catbox.moe/v4i3st.pdf"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7a6d5cee6d2a8593ef8363d74142a56f48fb8a67Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p5t4zw.jpg"
+                },
+                "Combined PYQ.pdf": {
+                    "name": "Combined-PYQ.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cefb4aaf10e7751dd248d48e45de327f60b02139Combined%20PYQ.pdf",
+                    "url": "https://files.catbox.moe/cpnhin.pdf"
                 }
             },
             "Design-and-Analysis-of-Algorithms": {
@@ -7311,6 +7443,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
                     "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
                 }
             },
             "Computer-Architecture-&-Organization": {
@@ -7434,7 +7590,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/uvcxwo.txt"
+                    "url": "https://files.catbox.moe/insb5g.txt"
                 }
             },
             "Microprocessor-Architecture": {
@@ -7531,6 +7687,36 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6b6f72f8f859ea3ba1d828d5c2226087d7d6785aRoger%20S..pdf",
                     "url": "https://files.catbox.moe/58coyh.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
+                    "url": "https://files.catbox.moe/lms8jd.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
+                    "url": "https://files.catbox.moe/qesn5r.txt"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/234365f75d78bf962619e1dfd6316c58c1c1bb24Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p8avur.jpg"
+                },
+                "OLD PYQs.pdf": {
+                    "name": "OLD-PYQs.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/df5f6675212c459395b4013a3a9a0340677325a8OLD%20PYQs.pdf",
+                    "url": "https://files.catbox.moe/yd1rqj.pdf"
+                },
+                "Sangeeta Sabharwal.pdf": {
+                    "name": "Sangeeta-Sabharwal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8fe4306b8e72d23d9d5bd3eac5b75231c5c95c35Sangeeta%20Sabharwal.pdf",
+                    "url": "https://files.catbox.moe/imrp8a.pdf"
                 }
             },
             "Optimization-Techniques-": {},
@@ -9792,7 +9978,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/1ip94x.txt"
+                    "url": "https://files.catbox.moe/0dtf4d.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -10412,7 +10598,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/9p019w.txt"
+                    "url": "https://files.catbox.moe/8k9wnw.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -11768,7 +11954,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/4to95c.txt"
+                    "url": "https://files.catbox.moe/w1kjpx.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -12917,6 +13103,48 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b7618449b8294dae0e4f311c88ff1b8e20cd32aaOperating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf",
                     "url": "https://files.catbox.moe/rf4z5d.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD",
+                    "url": "https://files.catbox.moe/efbw5q.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2",
+                    "url": "https://files.catbox.moe/x6nowo.txt"
+                },
+                "UNIT 1+2(Handwritten).pdf": {
+                    "name": "UNIT-1+2(Handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1ca36fa50ee9cc292d868a5c0c918c086d00df23UNIT%201%2B2%28Handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/zs8jmy.pdf"
+                },
+                "Combined Handwritten.pdf": {
+                    "name": "Combined-Handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8351b62ea5ed61fe1774147b875f86768fe64e5aCombined%20Handwritten.pdf",
+                    "url": "https://files.catbox.moe/s58j2z.pdf"
+                },
+                "Midsem 2022 theory solutions.pdf": {
+                    "name": "Midsem-2022-theory-solutions.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/64f72e678968ac7f29a82059378df8660028bdb6Midsem%202022%20theory%20solutions.pdf",
+                    "url": "https://files.catbox.moe/v4i3st.pdf"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7a6d5cee6d2a8593ef8363d74142a56f48fb8a67Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p5t4zw.jpg"
+                },
+                "Combined PYQ.pdf": {
+                    "name": "Combined-PYQ.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cefb4aaf10e7751dd248d48e45de327f60b02139Combined%20PYQ.pdf",
+                    "url": "https://files.catbox.moe/cpnhin.pdf"
                 }
             },
             "Probability-and-Stochastic-Processes": {
@@ -12970,6 +13198,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
                     "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
                 }
             },
             "Database-Management-System": {
@@ -14556,7 +14808,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/kp2udm.txt"
+                    "url": "https://files.catbox.moe/uj6mlk.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -17754,7 +18006,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/c5aq0f.txt"
+                    "url": "https://files.catbox.moe/y4sdrx.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -20263,7 +20515,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/2rkfr4.txt"
+                    "url": "https://files.catbox.moe/jjyx7g.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -23954,7 +24206,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/n6d0uy.txt"
+                    "url": "https://files.catbox.moe/h0ecb2.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -26486,7 +26738,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/28tzs0.txt"
+                    "url": "https://files.catbox.moe/z3w6mj.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -29174,7 +29426,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/kynt1h.txt"
+                    "url": "https://files.catbox.moe/po5p34.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -31103,6 +31355,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6bbbf4003c2aa276dd628b418a4e8381779d70e4sem%204%20end%20sems%202023-pages-5.pdf",
                     "url": "https://files.catbox.moe/je8igo.pdf"
+                },
+                "UNIT-1+2 (ARYAN NEOGI).pdf": {
+                    "name": "UNIT-1+2-(ARYAN-NEOGI).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1a7e7f6b6eac2040e265f808e1b62ed8a32f0d1aUNIT-1%2B2%20%28ARYAN%20NEOGI%29.pdf",
+                    "url": "https://files.catbox.moe/hkwmjd.pdf"
                 }
             }
         },
@@ -32931,7 +33189,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/67dq1t.txt"
+                    "url": "https://files.catbox.moe/buozbl.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -34415,7 +34673,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/41v58p.txt"
+                    "url": "https://files.catbox.moe/jkzayu.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -36509,6 +36767,12 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6bbbf4003c2aa276dd628b418a4e8381779d70e4sem%204%20end%20sems%202023-pages-5.pdf",
                     "url": "https://files.catbox.moe/je8igo.pdf"
+                },
+                "UNIT-1+2 (ARYAN NEOGI).pdf": {
+                    "name": "UNIT-1+2-(ARYAN-NEOGI).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1a7e7f6b6eac2040e265f808e1b62ed8a32f0d1aUNIT-1%2B2%20%28ARYAN%20NEOGI%29.pdf",
+                    "url": "https://files.catbox.moe/hkwmjd.pdf"
                 }
             },
             "Fluid-Mechanics-and-machines-": {
@@ -39895,7 +40159,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/zhuw3u.txt"
+                    "url": "https://files.catbox.moe/zdpshl.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -42206,7 +42470,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/xy7s84.txt"
+                    "url": "https://files.catbox.moe/cdpts4.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -43046,7 +43310,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/skaha1.txt"
+                    "url": "https://files.catbox.moe/s6r5he.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -43114,7 +43378,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/l2o3p0.txt"
+                    "url": "https://files.catbox.moe/szsgem.txt"
                 }
             },
             "Database-Management-System": {
@@ -43776,6 +44040,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
                     "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
                 }
             },
             "Optimization-Techniques-": {}
@@ -44928,7 +45216,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/yprtoc.txt"
+                    "url": "https://files.catbox.moe/e8e5zf.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -46130,7 +46418,7 @@
                     "name": "complete-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1Kv-6CcUgWOri7IqhhebfcdLtCQocbVq3",
-                    "url": "https://files.catbox.moe/f3rgfb.txt"
+                    "url": "https://files.catbox.moe/t9yrni.txt"
                 }
             },
             "Computer-System-Organization": {
@@ -46186,7 +46474,7 @@
                     "name": "complete-cso-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1B7nDZeEfP_x_8nkFCuzKihPnaWA9GasS",
-                    "url": "https://files.catbox.moe/g0tg0n.txt"
+                    "url": "https://files.catbox.moe/p34qqf.txt"
                 },
                 "cso playlist all units .playlist": {
                     "name": "cso-playlist-all-units-.playlist",
@@ -46242,7 +46530,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/9io9ch.txt"
+                    "url": "https://files.catbox.moe/7ci0b0.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -46392,7 +46680,287 @@
             "ADC": {},
             "SE": {},
             "DAA": {},
-            "CN": {}
+            "CN": {},
+            "Analog-and-Digital-Communications": {
+                "Basic of SIgnals and Systems(U1).pdf": {
+                    "name": "Basic-of-SIgnals-and-Systems(U1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bcac155c388c3ef805d8fafe2bf29e8559747af9Basic%20of%20SIgnals%20and%20Systems%28U1%29.pdf",
+                    "url": "https://files.catbox.moe/ntkhc5.pdf"
+                },
+                "Fourier Transform(U1).pdf": {
+                    "name": "Fourier-Transform(U1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/4384484e3f6bd1a9f91e437c94bcea624e5643c4Fourier%20Transform%28U1%29.pdf",
+                    "url": "https://files.catbox.moe/tkyzbz.pdf"
+                },
+                "UNIT-1,2,3 (short notes).pdf": {
+                    "name": "UNIT-1,2,3-(short-notes).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/811d50653cbfe269b582b2975ae2956e4c011d7aUNIT-1%2C2%2C3%20%28short%20notes%29.pdf",
+                    "url": "https://files.catbox.moe/q30mnc.pdf"
+                },
+                "ADC notes Chirag.pdf": {
+                    "name": "ADC-notes-Chirag.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6223476aaad599462893f5f28c0f6c4fd41c8d09ADC%20notes%20Chirag.pdf",
+                    "url": "https://files.catbox.moe/50jm0w.pdf"
+                },
+                "Costas Receiver (1).pdf": {
+                    "name": "Costas-Receiver-(1).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/02d13aad7277dd943d5717af1d73b98d1680dfdeCostas%20Receiver%20%281%29.pdf",
+                    "url": "https://files.catbox.moe/pfjesr.pdf"
+                },
+                "DSB FC and DSBSC Generation.pdf": {
+                    "name": "DSB-FC-and-DSBSC-Generation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3eb639bdb06e2749f30d7ec38bf214775fad3105DSB%20FC%20and%20DSBSC%20Generation.pdf",
+                    "url": "https://files.catbox.moe/70gbm2.pdf"
+                },
+                "Frequency Modulation.pdf": {
+                    "name": "Frequency-Modulation.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/550710d8f8862c4ee04a2c91b4ccb70725289adeFrequency%20Modulation.pdf",
+                    "url": "https://files.catbox.moe/8244eg.pdf"
+                },
+                "PLL Notes.pdf": {
+                    "name": "PLL-.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/38acac89056c3f2861f812d8acce5bc9fc1ebff1PLL%20.pdf",
+                    "url": "https://files.catbox.moe/oshrpi.pdf"
+                },
+                "2022 MidSem.jpg": {
+                    "name": "2022-MidSem.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/a4e160df12ab8fd20ab91248fbac24be49ae9ae22022%20MidSem.jpg",
+                    "url": "https://files.catbox.moe/8a1a28.jpg"
+                },
+                "MATLAB Intro.pdf": {
+                    "name": "MATLAB-Intro.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8722e6a4a3b66d7c4c14d79e3f16fed0f710c6acMATLAB%20Intro.pdf",
+                    "url": "https://files.catbox.moe/ebbqp7.pdf"
+                },
+                "Matlab introductory lab.pdf": {
+                    "name": "Matlab-introductory-lab.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/e359af99998b79edd1b81b67ea82d472c768d949Matlab%20introductory%20lab.pdf",
+                    "url": "https://files.catbox.moe/8ihrlf.pdf"
+                }
+            },
+            "Operating-Systems": {
+                "Mid sem 2024": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7c7c43dad3ff3688900ac82e873874b8ae22f618DOC-20240923-WA0010..pdf",
+                    "url": "https://files.catbox.moe/29zdt8"
+                },
+                "OPERATING SYSTEM CONCEPTS (by Abraham).pdf": {
+                    "name": "OPERATING-SYSTEM-CONCEPTS-(by-Abraham).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b7618449b8294dae0e4f311c88ff1b8e20cd32aaOperating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf",
+                    "url": "https://files.catbox.moe/rf4z5d.pdf"
+                },
+                "Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin.pdf": {
+                    "name": "OPERATING-SYSTEM-CONCEPTS-(by-Abraham).pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b7618449b8294dae0e4f311c88ff1b8e20cd32aaOperating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf",
+                    "url": "https://files.catbox.moe/rf4z5d.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD",
+                    "url": "https://files.catbox.moe/efbw5q.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2",
+                    "url": "https://files.catbox.moe/x6nowo.txt"
+                },
+                "UNIT 1+2(Handwritten).pdf": {
+                    "name": "UNIT-1+2(Handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1ca36fa50ee9cc292d868a5c0c918c086d00df23UNIT%201%2B2%28Handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/zs8jmy.pdf"
+                },
+                "Combined Handwritten.pdf": {
+                    "name": "Combined-Handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8351b62ea5ed61fe1774147b875f86768fe64e5aCombined%20Handwritten.pdf",
+                    "url": "https://files.catbox.moe/s58j2z.pdf"
+                },
+                "Midsem 2022 theory solutions.pdf": {
+                    "name": "Midsem-2022-theory-solutions.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/64f72e678968ac7f29a82059378df8660028bdb6Midsem%202022%20theory%20solutions.pdf",
+                    "url": "https://files.catbox.moe/v4i3st.pdf"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7a6d5cee6d2a8593ef8363d74142a56f48fb8a67Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p5t4zw.jpg"
+                },
+                "Combined PYQ.pdf": {
+                    "name": "Combined-PYQ.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cefb4aaf10e7751dd248d48e45de327f60b02139Combined%20PYQ.pdf",
+                    "url": "https://files.catbox.moe/cpnhin.pdf"
+                }
+            },
+            "Computer-Network": {
+                "Andrew S. Tanenbaum - Computer Networks.pdf": {
+                    "name": "Andrew-S.-Tanenbaum---Computer-Networks.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c6e2ce2733a860c8b96d58649015cf76bb275f90Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf",
+                    "url": "https://files.catbox.moe/kicl9y.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
+                    "url": "https://files.catbox.moe/p6w38k.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+                    "url": "https://files.catbox.moe/qqwzbd.txt"
+                },
+                "UNIT-1 handwritten.pdf": {
+                    "name": "UNIT-1-handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1fdd3f43f51b9d77b7d14e4afce175be36eaad7dUNIT-1%20handwritten.pdf",
+                    "url": "https://files.catbox.moe/rii18y.pdf"
+                },
+                "UNIT-2 (handwritten).pdf": {
+                    "name": "UNIT-2-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7d13c6412ba590ed126b8d14777c24f2e52fb71cUNIT-2%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/lqsilh.pdf"
+                },
+                "All in one Handwritten.pdf": {
+                    "name": "All-in-one-Handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/da25fddcf3d68becf7efca844cdc2f7668c56c77All%20in%20one%20Handwritten.pdf",
+                    "url": "https://files.catbox.moe/kv3q14.pdf"
+                },
+                "Midsem 2023.jpg": {
+                    "name": "Midsem-2023.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/bee89d5f660eb5eae820cde19cf5d51d0d7f8549Midsem%202023.jpg",
+                    "url": "https://files.catbox.moe/8b7t6f.jpg"
+                },
+                "2022 Midsem.jpg": {
+                    "name": "2022-Midsem.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/52f1115bef31527984cc79a36ccd4f0e55cb223d2022%20Midsem.jpg",
+                    "url": "https://files.catbox.moe/xz9ztp.jpg"
+                },
+                "BEHROUZ A. FOROUZAN.pdf": {
+                    "name": "BEHROUZ-A.-FOROUZAN.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/79594fd4ca9e6dda2287857508088d6476022983BEHROUZ%20A.%20FOROUZAN.pdf",
+                    "url": "https://files.catbox.moe/hai7ju.pdf"
+                },
+                "Practicals List.pdf": {
+                    "name": "Practicals-List.pdf",
+                    "type": "Experiment",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/3e56a2f8cce45ce87d86ece7daef3cff3932582fPracticals%20List.pdf",
+                    "url": "https://files.catbox.moe/qug9p1.pdf"
+                }
+            },
+            "Software-Engineering": {
+                "All in one (topper's handwritten).pdf": {
+                    "name": "All-in-one-(topper's-handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8389ffc5e75fc7210a1ee6308eee477943500578All%20in%20one%20%28topper%27s%20handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/lsr5o7.pdf"
+                },
+                "Concise notes.pdf": {
+                    "name": "Concise-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2fba656d1823346761a37202afe4244eb3d4a72dConcise%20notes.pdf",
+                    "url": "https://files.catbox.moe/nmhl1m.pdf"
+                },
+                "Unit-1.playlist": {
+                    "name": "Unit-1.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PL4FVwXMhNDI8kpbBCu7LtP2aK2w7qg3wQ&si=yKpUNbvQn5_hhyBb",
+                    "url": "https://files.catbox.moe/q6uc7d.txt"
+                },
+                "Roger S..pdf": {
+                    "name": "Roger-S..pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/6b6f72f8f859ea3ba1d828d5c2226087d7d6785aRoger%20S..pdf",
+                    "url": "https://files.catbox.moe/58coyh.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
+                    "url": "https://files.catbox.moe/lms8jd.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
+                    "url": "https://files.catbox.moe/qesn5r.txt"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/234365f75d78bf962619e1dfd6316c58c1c1bb24Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p8avur.jpg"
+                },
+                "OLD PYQs.pdf": {
+                    "name": "OLD-PYQs.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/df5f6675212c459395b4013a3a9a0340677325a8OLD%20PYQs.pdf",
+                    "url": "https://files.catbox.moe/yd1rqj.pdf"
+                },
+                "Sangeeta Sabharwal.pdf": {
+                    "name": "Sangeeta-Sabharwal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8fe4306b8e72d23d9d5bd3eac5b75231c5c95c35Sangeeta%20Sabharwal.pdf",
+                    "url": "https://files.catbox.moe/imrp8a.pdf"
+                }
+            },
+            "Design-and-Analysis-of-Algorithms": {
+                "MIDSEM 2024.pdf": {
+                    "name": "Mid-sem-2024",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
+                    "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
+                }
+            }
         },
         "ITNS": {
             "Fundamentals-of-Electrical-Engineering": {
@@ -47542,7 +48110,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/03i02j.txt"
+                    "url": "https://files.catbox.moe/t2kb7f.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -48883,6 +49451,48 @@
                     "type": "Book",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/b7618449b8294dae0e4f311c88ff1b8e20cd32aaOperating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf",
                     "url": "https://files.catbox.moe/rf4z5d.pdf"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD",
+                    "url": "https://files.catbox.moe/efbw5q.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2",
+                    "url": "https://files.catbox.moe/x6nowo.txt"
+                },
+                "UNIT 1+2(Handwritten).pdf": {
+                    "name": "UNIT-1+2(Handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/1ca36fa50ee9cc292d868a5c0c918c086d00df23UNIT%201%2B2%28Handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/zs8jmy.pdf"
+                },
+                "Combined Handwritten.pdf": {
+                    "name": "Combined-Handwritten.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/8351b62ea5ed61fe1774147b875f86768fe64e5aCombined%20Handwritten.pdf",
+                    "url": "https://files.catbox.moe/s58j2z.pdf"
+                },
+                "Midsem 2022 theory solutions.pdf": {
+                    "name": "Midsem-2022-theory-solutions.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/64f72e678968ac7f29a82059378df8660028bdb6Midsem%202022%20theory%20solutions.pdf",
+                    "url": "https://files.catbox.moe/v4i3st.pdf"
+                },
+                "Midsem 2022.jpg": {
+                    "name": "Midsem-2022.jpg",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7a6d5cee6d2a8593ef8363d74142a56f48fb8a67Midsem%202022.jpg",
+                    "url": "https://files.catbox.moe/p5t4zw.jpg"
+                },
+                "Combined PYQ.pdf": {
+                    "name": "Combined-PYQ.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/cefb4aaf10e7751dd248d48e45de327f60b02139Combined%20PYQ.pdf",
+                    "url": "https://files.catbox.moe/cpnhin.pdf"
                 }
             },
             "Probability-and-Stochastic-Processes": {
@@ -48935,6 +49545,30 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/10a5e769d9bdb378029ea11b95d4193a78b83e3dDOC-20240923-WA0011..pdf",
                     "url": "https://files.catbox.moe/a60g1w"
+                },
+                "combined playlist.playlist": {
+                    "name": "combined-playlist.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/3svbta.txt"
+                },
+                "short videos.playlist": {
+                    "name": "short-videos.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                    "url": "https://files.catbox.moe/45gxy2.txt"
+                },
+                "Lecture Notes on Design and Analysis of Algorithms (Dr. L. V. N. Prasad).pdf": {
+                    "name": "Lecture-Notes-on-Design-and-Analysis-of-Algorithms-(Dr.-L.-V.-N.-Prasad).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/39c7af27c9bd21a1e16573b01bb929f7e299d7d3Lecture%20Notes%20on%20Design%20and%20Analysis%20of%20Algorithms%20%28Dr.%20L.%20V.%20N.%20Prasad%29.pdf",
+                    "url": "https://files.catbox.moe/qfpfmd.pdf"
+                },
+                "UNIT-1 (handwritten).pdf": {
+                    "name": "UNIT-1-(handwritten).pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/09e499f89dcda39762de26bfda7aa1756068cb7eUNIT-1%20%28handwritten%29.pdf",
+                    "url": "https://files.catbox.moe/4om8ws.pdf"
                 }
             },
             "Computer-System-Organization": {
