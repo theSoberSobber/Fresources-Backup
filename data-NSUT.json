@@ -1148,7 +1148,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/6qbwde.txt"
+                    "url": "https://files.catbox.moe/o10bra.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -2678,7 +2678,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/in1r9j.txt"
+                    "url": "https://files.catbox.moe/ekgjqe.txt"
                 }
             },
             "Web-Technology": {},
@@ -3901,7 +3901,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/61yib7.txt"
+                    "url": "https://files.catbox.moe/sg8hc9.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -5283,7 +5283,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/ziz1j2.txt"
+                    "url": "https://files.catbox.moe/7y4q2q.txt"
                 }
             }
         },
@@ -6435,7 +6435,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/f0rxwh.txt"
+                    "url": "https://files.catbox.moe/du0e2x.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -7878,7 +7878,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/cle2ws.txt"
+                    "url": "https://files.catbox.moe/nm0pbc.txt"
                 }
             },
             "Microprocessor-Architecture": {
@@ -10416,7 +10416,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/qaztxh.txt"
+                    "url": "https://files.catbox.moe/az27d3.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -11048,7 +11048,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/2pbpug.txt"
+                    "url": "https://files.catbox.moe/dzfls6.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -12602,7 +12602,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/vfai2o.txt"
+                    "url": "https://files.catbox.moe/st430z.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -15631,7 +15631,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/561j5z.txt"
+                    "url": "https://files.catbox.moe/to1c2x.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -16663,7 +16663,14 @@
             "Engineering-Analysis-&-Design": {},
             "Sensors-and-Transducers": {},
             "Control-System---1": {},
-            "Microprocessor-Based-System-Designs": {},
+            "Microprocessor-Based-System-Designs": {
+                "bharat achraya 8085 and 8086 notes.pdf": {
+                    "name": "bharat-achraya-8085-and-8086-notes.pdf",
+                    "type": "Note",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ba104d1193f9e62fe838117149961f9b95dbe4d9bharat%20achraya%208085%20and%208086%20notes.pdf",
+                    "url": "https://files.catbox.moe/bxaeku.pdf"
+                }
+            },
             "Data-Structure-&-Algorithms": {
                 "DS HANDWRITEN NOTES.pdf": {
                     "name": "DS-HANDWRITEN-NOTES.pdf",
@@ -19009,7 +19016,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/rdplsu.txt"
+                    "url": "https://files.catbox.moe/pvjsld.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -21620,7 +21627,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/0rarlz.txt"
+                    "url": "https://files.catbox.moe/eybgc1.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -25756,7 +25763,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/lbibu9.txt"
+                    "url": "https://files.catbox.moe/f92hzx.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -28360,7 +28367,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/t9u8nj.txt"
+                    "url": "https://files.catbox.moe/lgxjur.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -31120,7 +31127,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/egvcmh.txt"
+                    "url": "https://files.catbox.moe/rlmj7i.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -35033,7 +35040,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/cdvajm.txt"
+                    "url": "https://files.catbox.moe/9r17q2.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -36523,7 +36530,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/k8z1fr.txt"
+                    "url": "https://files.catbox.moe/7lhx0o.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -42159,7 +42166,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/5xs3oo.txt"
+                    "url": "https://files.catbox.moe/oczz3g.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -44542,7 +44549,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/w9ah9t.txt"
+                    "url": "https://files.catbox.moe/lyyp53.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -45478,7 +45485,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/3hkd54.txt"
+                    "url": "https://files.catbox.moe/4nusme.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -45546,7 +45553,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/ejfkiv.txt"
+                    "url": "https://files.catbox.moe/1nn2e8.txt"
                 }
             },
             "Database-Management-System": {
@@ -47384,7 +47391,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/xh7yt3.txt"
+                    "url": "https://files.catbox.moe/3owa36.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -48682,7 +48689,7 @@
                     "name": "complete-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1Kv-6CcUgWOri7IqhhebfcdLtCQocbVq3",
-                    "url": "https://files.catbox.moe/9dr6oe.txt"
+                    "url": "https://files.catbox.moe/wa2lym.txt"
                 }
             },
             "Computer-System-Organization": {
@@ -48738,7 +48745,7 @@
                     "name": "complete-cso-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1B7nDZeEfP_x_8nkFCuzKihPnaWA9GasS",
-                    "url": "https://files.catbox.moe/j21nty.txt"
+                    "url": "https://files.catbox.moe/u5egqn.txt"
                 },
                 "cso playlist all units .playlist": {
                     "name": "cso-playlist-all-units-.playlist",
@@ -48794,7 +48801,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/p9zyhc.txt"
+                    "url": "https://files.catbox.moe/e917fi.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -50374,7 +50381,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/lbd3t7.txt"
+                    "url": "https://files.catbox.moe/6u3rjz.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
