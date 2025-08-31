@@ -848,17 +848,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Computer-Programming": {
@@ -1178,7 +1190,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/r268e3.txt"
+                    "url": "https://files.catbox.moe/n8gb64.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -1422,12 +1434,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -1451,6 +1457,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -2362,12 +2374,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -2379,12 +2385,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -2403,6 +2403,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Design-and-Analysis-of-Algorithms": {
@@ -2708,7 +2720,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/b182w1.txt"
+                    "url": "https://files.catbox.moe/viwuz4.txt"
                 }
             },
             "Web-Technology": {},
@@ -3631,17 +3643,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Computer-Programming": {
@@ -3961,7 +3985,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/c9y505.txt"
+                    "url": "https://files.catbox.moe/qljsrr.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -4585,12 +4609,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -4614,6 +4632,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Digital-Logic-Design": {
@@ -5145,12 +5169,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -5162,12 +5180,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -5186,6 +5198,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Database-Management-System": {},
@@ -5343,7 +5367,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/0jog8y.txt"
+                    "url": "https://files.catbox.moe/ghwf4r.txt"
                 }
             }
         },
@@ -5685,17 +5709,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Quantum-Physics": {
@@ -6525,7 +6561,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/fwq5bc.txt"
+                    "url": "https://files.catbox.moe/p7w7t0.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -6769,12 +6805,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -6798,6 +6828,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -7709,12 +7745,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -7726,12 +7756,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -7750,6 +7774,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Database-Management-System": {},
@@ -7968,7 +8004,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/4959jw.txt"
+                    "url": "https://files.catbox.moe/kjz2ug.txt"
                 }
             },
             "Microprocessor-Architecture": {
@@ -8332,18 +8368,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -8367,6 +8391,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -8882,17 +8918,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -9118,12 +9166,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -9147,6 +9189,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -10560,7 +10608,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/yxg0iw.txt"
+                    "url": "https://files.catbox.moe/6zvsxz.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -10810,12 +10858,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -10827,12 +10869,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -10851,6 +10887,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -11192,7 +11240,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/nnjjvs.txt"
+                    "url": "https://files.catbox.moe/7kt2ae.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -12446,17 +12494,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Computer-Programming": {
@@ -12776,7 +12836,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/nkz6ly.txt"
+                    "url": "https://files.catbox.moe/1ngjcm.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -13020,12 +13080,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -13049,6 +13103,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -13960,12 +14020,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -13977,12 +14031,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -14001,6 +14049,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Operating-Systems": {
@@ -14969,17 +15029,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -15205,12 +15277,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -15234,6 +15300,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Electrical-Circuit-Analysis": {
@@ -15829,7 +15901,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/nklofu.txt"
+                    "url": "https://files.catbox.moe/d48f87.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -16467,12 +16539,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -16484,12 +16550,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -16508,6 +16568,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Data-Structure": {
@@ -17681,12 +17753,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -17710,6 +17776,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "EG-&-CAD": {
@@ -17911,18 +17983,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -17946,6 +18006,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -18461,17 +18533,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Data-Structure-&-Algorithms": {
@@ -19505,7 +19589,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/n1tgyp.txt"
+                    "url": "https://files.catbox.moe/a1l029.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -20341,12 +20425,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -20358,12 +20436,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -20382,6 +20454,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Probability-Theory-and-Random-Process": {
@@ -21222,17 +21306,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -21610,18 +21706,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -21645,6 +21729,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Oscillations,-Waves-and-Optics": {
@@ -22170,7 +22266,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/t93tai.txt"
+                    "url": "https://files.catbox.moe/ruenjp.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -23508,12 +23604,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -23537,6 +23627,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Chemistry": {
@@ -23768,12 +23864,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -23785,12 +23875,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -23809,6 +23893,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Signals-and-Systems": {
@@ -25094,17 +25190,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -25330,12 +25438,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -25359,6 +25461,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Basic-Mechanical-Engineering": {
@@ -25912,12 +26020,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -25929,12 +26031,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -25953,6 +26049,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Electromagnetic-Theory": {
@@ -26330,7 +26438,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/xpdpq9.txt"
+                    "url": "https://files.catbox.moe/qmg222.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -28130,17 +28238,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Quantum-Physics": {
@@ -28970,7 +29090,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/stzncn.txt"
+                    "url": "https://files.catbox.moe/jwm2yi.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -29214,12 +29334,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -29243,6 +29357,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -30448,12 +30568,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -30465,12 +30579,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -30489,6 +30597,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             }
         },
@@ -31062,12 +31182,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -31091,6 +31205,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---1": {
@@ -31430,17 +31550,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Computer-Programming": {
@@ -31760,7 +31892,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/ggdzcp.txt"
+                    "url": "https://files.catbox.moe/2d9irp.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -32806,12 +32938,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -32823,12 +32949,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -32847,6 +32967,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Manufacturing-Processes-1": {
@@ -33371,6 +33503,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7999340bcf350806578ee224959eecf4272459aeEND%20SEM%202024.pdf",
                     "url": "https://files.catbox.moe/sckedn.pdf"
+                },
+                "Intro and First Law of Thermo-D.playlist": {
+                    "name": "Intro-and-First-Law-of-Thermo-D.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLjt13UAsHeP9V15tpGUfXD_Un0hox8hTz",
+                    "url": "https://files.catbox.moe/e4vo4u.txt"
+                },
+                "Second Law of Thermo-Dynamics.playlist": {
+                    "name": "Second-Law-of-Thermo-Dynamics.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLjt13UAsHeP8lkIwSVdQe22nEs-7FXUxu&fea ture=shared",
+                    "url": "https://files.catbox.moe/73t33y.txt"
+                },
+                "IC Engines.playlist": {
+                    "name": "IC-Engines.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLKU12imRUiIbCk_igKZqPXkdmYX815N-w&f eature=shared",
+                    "url": "https://files.catbox.moe/mq5k48.txt"
                 }
             },
             "Fluid-Mechanics-and-machines-": {
@@ -33788,13 +33938,19 @@
                     "name": "All-units.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/rYWJdZ5qg6M?si=5jcPDu301YqRZX8n",
-                    "url": "https://files.catbox.moe/2e19rr.txt"
+                    "url": "https://files.catbox.moe/cpfayo.txt"
                 },
                 "Unit-2.playlist": {
                     "name": "Unit-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://www.youtube.com/watch?v=4Y1_y9DI_Hw&list=PLZaGkBteQK3HQFSWDM7-yRQWTd86DeDIY&pp=0gcJCWUEOCosWNin",
                     "url": "https://files.catbox.moe/7boh1k.txt"
+                },
+                "1.2 Robotics_by_rk_mittal.pdf": {
+                    "name": "1.2-Robotics_by_rk_mittal.pdf",
+                    "type": "Book",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/4d42f47e740a4a44a22eab4426b1c03e40742d0d1.2%20Robotics_by_rk_mittal.pdf",
+                    "url": "https://files.catbox.moe/egz7x0.pdf"
                 }
             },
             "Mechanical-Design-": {
@@ -34214,18 +34370,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -34249,6 +34393,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Maths---1": {
@@ -34588,17 +34744,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -34824,12 +34992,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -34853,6 +35015,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -35759,7 +35927,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/qoo4pv.txt"
+                    "url": "https://files.catbox.moe/91ew6p.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -36011,12 +36179,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -36028,12 +36190,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -36052,6 +36208,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Cell-Biology": {},
@@ -36633,12 +36801,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -36662,6 +36824,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Basic-Analog-&-Digital-Electronics": {
@@ -37249,7 +37417,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/265g0b.txt"
+                    "url": "https://files.catbox.moe/du8sbu.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -37432,6 +37600,24 @@
                     "type": "Paper",
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/7999340bcf350806578ee224959eecf4272459aeEND%20SEM%202024.pdf",
                     "url": "https://files.catbox.moe/sckedn.pdf"
+                },
+                "Intro and First Law of Thermo-D.playlist": {
+                    "name": "Intro-and-First-Law-of-Thermo-D.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://www.youtube.com/playlist?list=PLjt13UAsHeP9V15tpGUfXD_Un0hox8hTz",
+                    "url": "https://files.catbox.moe/e4vo4u.txt"
+                },
+                "Second Law of Thermo-Dynamics.playlist": {
+                    "name": "Second-Law-of-Thermo-Dynamics.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLjt13UAsHeP8lkIwSVdQe22nEs-7FXUxu&fea ture=shared",
+                    "url": "https://files.catbox.moe/73t33y.txt"
+                },
+                "IC Engines.playlist": {
+                    "name": "IC-Engines.playlist",
+                    "type": "Playlist",
+                    "original_url": "https://youtube.com/playlist?list=PLKU12imRUiIbCk_igKZqPXkdmYX815N-w&f eature=shared",
+                    "url": "https://files.catbox.moe/mq5k48.txt"
                 }
             },
             "Maths---2": {
@@ -38185,12 +38371,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -38202,12 +38382,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -38226,6 +38400,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -39102,17 +39288,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Manufacturing-Processes---2-": {
@@ -39940,18 +40138,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -39975,6 +40161,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Maths---1": {
@@ -40314,17 +40512,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Basic-Analog-&-Digital-Electronics": {
@@ -41103,12 +41313,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -41132,6 +41336,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Chemistry": {
@@ -41363,12 +41573,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -41380,12 +41584,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -41404,6 +41602,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Numerical-Method-and-Computation-": {
@@ -41882,18 +42092,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -41917,6 +42115,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Maths---1": {
@@ -42256,17 +42466,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -42492,12 +42714,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -42521,6 +42737,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -43017,7 +43239,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/yusyzo.txt"
+                    "url": "https://files.catbox.moe/vzhzd0.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -43952,12 +44174,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -43969,12 +44185,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -43993,6 +44203,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Building-material-and-construction-": {
@@ -44530,17 +44752,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -44766,12 +45000,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -44795,6 +45023,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
@@ -45430,7 +45664,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/h3ohfx.txt"
+                    "url": "https://files.catbox.moe/zpg3i6.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -46210,12 +46444,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -46227,12 +46455,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -46251,6 +46473,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Probability-&-Statistics": {
@@ -46366,7 +46600,7 @@
                     "name": "Prob-Stats-ALMOST-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1zA7CM6hp_wVKmsxYJASxLkFk2XbkcF9K",
-                    "url": "https://files.catbox.moe/ofy9rv.txt"
+                    "url": "https://files.catbox.moe/zi0ydk.txt"
                 }
             },
             "Applied-Linear-Algebra": {
@@ -46434,7 +46668,7 @@
                     "name": "ALA-FULL-NOTES.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/folders/1HSR559TnOJkj9YsxQJYYFeIDpZG7Gy_v",
-                    "url": "https://files.catbox.moe/73nze1.txt"
+                    "url": "https://files.catbox.moe/j7cve1.txt"
                 }
             },
             "Database-Management-System": {
@@ -47462,17 +47696,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Electronics-&-Communication-": {
@@ -48302,7 +48548,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/t5k6gc.txt"
+                    "url": "https://files.catbox.moe/jboh7j.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -48552,12 +48798,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -48569,12 +48809,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -48593,6 +48827,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Data-Structure": {
@@ -49118,12 +49364,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -49147,6 +49387,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Maths---2": {
@@ -49600,7 +49846,7 @@
                     "name": "complete-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1Kv-6CcUgWOri7IqhhebfcdLtCQocbVq3",
-                    "url": "https://files.catbox.moe/kxi37m.txt"
+                    "url": "https://files.catbox.moe/lecglj.txt"
                 }
             },
             "Computer-System-Organization": {
@@ -49656,7 +49902,7 @@
                     "name": "complete-cso-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1B7nDZeEfP_x_8nkFCuzKihPnaWA9GasS",
-                    "url": "https://files.catbox.moe/al2jg3.txt"
+                    "url": "https://files.catbox.moe/j8sp2m.txt"
                 },
                 "cso playlist all units .playlist": {
                     "name": "cso-playlist-all-units-.playlist",
@@ -49712,7 +49958,7 @@
                     "name": "complete-opt-drive-link.playlist",
                     "type": "Playlist",
                     "original_url": "https://drive.google.com/drive/u/0/folders/1hh0yJVuZouR6PCvDITxk2fcRyv7WxI81",
-                    "url": "https://files.catbox.moe/a05jzm.txt"
+                    "url": "https://files.catbox.moe/31uw1n.txt"
                 },
                 "opt playlist all units .playlist": {
                     "name": "opt-playlist-all-units-.playlist",
@@ -50998,17 +51244,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "Computer-Programming": {
@@ -51328,7 +51586,7 @@
                     "name": "UNIT-2.playlist",
                     "type": "Playlist",
                     "original_url": "https://youtu.be/Rq_3gA2h1RA?si=3F6rLoPW5zMrdwJF",
-                    "url": "https://files.catbox.moe/984nyb.txt"
+                    "url": "https://files.catbox.moe/szl0h3.txt"
                 },
                 "MIDSEM 2024 (Sept).pdf": {
                     "name": "MIDSEM-2024-(Sept).pdf",
@@ -51578,12 +51836,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -51595,12 +51847,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -51619,6 +51865,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Data-Structure": {
@@ -52524,12 +52782,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -52553,6 +52805,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "Database-Management-System": {
@@ -53256,17 +53514,29 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/679aa2bea1285b40978a5caafd81a59419d3f001PART-03.pdf",
                     "url": "https://files.catbox.moe/y0qbkh.pdf"
                 },
-                "MIDSEM 2024": {
-                    "name": "MIDSEM-2024",
+                "CT-1  2025 (AUG) .jpg": {
+                    "name": "CT-1--2025-(AUG)-.jpg",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1ceb23f7efb00d7eaa8ae24bb3fc59766da48005Sept%202024.pdf",
-                    "url": "https://files.catbox.moe/d42ifn"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f8573d41ec60a40d4fbc6fb37a7ac0446679a869CT-1%28CIOT%29.jpg",
+                    "url": "https://files.catbox.moe/7c328n.jpg"
                 },
-                "ENDSEM 2024": {
-                    "name": "ENDSEM-2024",
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
                     "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6fe68814d2095fd123a5c8966d5f27b23c2b44912024%20Nov.pdf",
-                    "url": "https://files.catbox.moe/sfrphu"
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a1407f787c08541b505c0bc3f0fc1278e91c75dbMIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/wpdr63.pdf"
+                },
+                "ENDSEM 2024(NOV) -1.pdf": {
+                    "name": "ENDSEM-2024(NOV)--1.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ad4cfa8f3383fb22d9cc0fff3566d300c7b15b23ENDSEM%202024%28NOV%29%20-1.pdf",
+                    "url": "https://files.catbox.moe/u692a1.pdf"
+                },
+                "ENDSEM 2024(NOV) -2.pdf": {
+                    "name": "ENDSEM-2024(NOV)--2.pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ea6c09750c2c60dc1b270a91e0b1868f8bcb3d04ENDSEM%202024%28NOV%29%20-2.pdf",
+                    "url": "https://files.catbox.moe/jkwd0d.pdf"
                 }
             },
             "English": {
@@ -53492,12 +53762,6 @@
                     "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/c9b3704fa0d997bf2435d0de23de476ea2b2b886MIDSEM%202024%20%28Sept%29.pdf",
                     "url": "https://files.catbox.moe/3rt1nh.pdf"
                 },
-                "ENDSEM 2024 (Nov).pdf": {
-                    "name": "ENDSEM-2024-(Nov).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/abbfc2e1454e8deca7bd15a3cf938ef0a92a2bf9ENDSEM%202024%20%28Nov%29.pdf",
-                    "url": "https://files.catbox.moe/twyas8.pdf"
-                },
                 "Determiners and Articles.pdf": {
                     "name": "Determiners-and-Articles.pdf",
                     "type": "Note",
@@ -53521,6 +53785,12 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/44f8f9fa43c25e3ab2c4ba90b8f7a855446f2611One%20Word%20Substitution%201.pdf",
                     "url": "https://files.catbox.moe/gjo52i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d8a6f7a080e6b56f0ed08b363af1c66796294b03ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/spgpcm.pdf"
                 }
             },
             "EG-&-CAD": {
@@ -53722,18 +53992,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dbb129a4e0c8c508fbbd57c9cfae47ccba40d48dUNIT-3%28PROJECTION%20OF%20SOLID%29.pdf",
                     "url": "https://files.catbox.moe/0ix10j.pdf"
                 },
-                "ENDSEM 2024 (Dec).pdf": {
-                    "name": "EGCAD-ENDSEM-2024-(dec)",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/2284c9319de64cb17daf79ec2ed836d4628d6504EGCAD%20ENDSEM2024%28dec%29%20sem1No%20Name.pdf",
-                    "url": "https://files.catbox.moe/va07vc"
-                },
-                "MIDSEM 2024 (Sept).jpg": {
-                    "name": "MIDSEM-2024-(Sept).jpg",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/d83ad697c758431a5a67e79af6a0c5c925ce41faMIDSEM%202024%20%28SEPT%29.jpg",
-                    "url": "https://files.catbox.moe/xno9jt.jpg"
-                },
                 "unit3 (veda sir).pdf": {
                     "name": "unit3-(veda-sir).pdf",
                     "type": "Note",
@@ -53757,6 +54015,18 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c44ae0eb032680399b96eeaf1585c56aa6bc255cunit1%20%28veda%20sir%29.pdf",
                     "url": "https://files.catbox.moe/zkaeq6.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1c995f403f4bd4fab4fed0d073db91e0dbedd213MIDSEM%202024%28SEPT%29.pdf",
+                    "url": "https://files.catbox.moe/j7us1o.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ed8204990c8fb06acd65186f2730400e3b20cf20ENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/1hx1jq.pdf"
                 }
             },
             "Chemistry": {
@@ -53988,12 +54258,6 @@
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90e652512d4db1972665bd4463192e0eb5e4f009UNIT-3%28SHORT%20NOTES%29.pdf",
                     "url": "https://files.catbox.moe/exf9l0.pdf"
                 },
-                "MIDSEM 2024 (Sept).pdf": {
-                    "name": "Midsem-Sep-24.pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/169e34fc6a699e70593fb771ed7cc4132e2961e3Midsem%20Sep%2024.pdf",
-                    "url": "https://files.catbox.moe/1jwrxq.pdf"
-                },
                 "Question Bank 1.pdf": {
                     "name": "Question-Bank-1.pdf",
                     "type": "Note",
@@ -54005,12 +54269,6 @@
                     "type": "Note",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/973d95d893742ca3dcf2e1a75ed569a18166ade3Question%20Bank%202.pdf",
                     "url": "https://files.catbox.moe/kggasg.pdf"
-                },
-                " ENDSEM 2024 (Dec).pdf": {
-                    "name": "-END-SEM-2024(DEC).pdf",
-                    "type": "Paper",
-                    "original_url": "https://fresources-1.blr1.digitaloceanspaces.com/NSUT/0a724f5dcc9260eed4a88a3b755505fd9491d23eCHEM-%20END%20SEM.pdf",
-                    "url": "https://files.catbox.moe/lcoy3j.pdf"
                 },
                 "ENDSEM 2023 (Dec).pdf": {
                     "name": "ENDSEM-2023-(Dec).pdf",
@@ -54029,6 +54287,18 @@
                     "type": "Paper",
                     "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c971cf567fa356fb7c2f3115842a733847327ca3Endsem%202025%28May%29.pdf",
                     "url": "https://files.catbox.moe/gu2k56.pdf"
+                },
+                "MIDSEM 2024(SEPT).pdf": {
+                    "name": "MIDSEM-2024(SEPT).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/c60b6daf41d9e453e9ce3d4a3ac28133cecfabc3CHEMISTRY%20MID%20SEM%20%28SEM%201%20%29SEP%202024.pdf",
+                    "url": "https://files.catbox.moe/94k56i.pdf"
+                },
+                "ENDSEM 2024(NOV).pdf": {
+                    "name": "ENDSEM-2024(NOV).pdf",
+                    "type": "Paper",
+                    "original_url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/fd0d316683da1bee848aadc133f9148fb3d6c42fENDSEM%202024%28NOV%29.pdf",
+                    "url": "https://files.catbox.moe/6eifma.pdf"
                 }
             },
             "Fundamentals-of-Electrical-Engineering": {
